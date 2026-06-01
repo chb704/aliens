@@ -1,0 +1,17 @@
+# macOS finder/system junk
+.DS_Store
+**/.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+
+# Files exceeding GitHub's 100 MB hard limit (kept on disk, excluded from git).
+# Re-add via Git LFS if these need to be version controlled.
+Department of War/Release_01/38_143685_box7_Incident_Summaries_173-233.pdf
+Department of War/Release_01/65_HS1-834228961_62-HQ-83894_Section_8.pdf
