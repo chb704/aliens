@@ -1,0 +1,149 @@
+---
+title: "meteorological-r-d-18-jul47"
+collection: "majestic-12"
+release: null
+source_pdf: "majestic-12/meteorological-r-d-18-jul47.pdf"
+ocr_pdf: "majestic-12/ocr/searchable-pdf/meteorological-r-d-18-jul47.pdf"
+source_sha256: "0fb6163d2fe75d8c5f9e08a7a2a07ed0fe783ea77634b23222881a5fd3cf6dc4"
+ocr_sha256: "d78342cf569708392cca7c91ad70f0dba7baf15e6bb88f0709c4e2a09fef5d2c"
+pages: 4
+ocr_engine: "ocrmypdf + tesseract"
+tool_versions: "ocrmypdf 17.5.0 / tesseract 5.5.2"
+ocr_options: "-l eng --mode skip --rotate-pages --deskew --optimize 1"
+text_extractor: "pdftotext -layout"
+needs_review: false
+---
+
+# meteorological-r-d-18-jul47
+
+## Page 1
+
+tm)                                                         1317
+           Ketecrelosieal Nesearch and Develerment
+           Respansibigitiss in the Air Ferees
+
+  cataot A ra ea
+             tetarate A se 1 et from
+                      a
+  Sr Kater ial Command, Fright er    ue Dorr
+                                   sytany       thio, imedians armen’
+  was teleen te activate A new
+  weteerelejioal research end
+
+## Page 2
+
+                      ——~   EL   BACK    TK   ICT ACCT PTEN
+
+            sar le
+   it                  for rap & Deve,
+   in the               dated
+
+  eer
+  y
+
+  “hall:
+
+sera
+
+   lL Indl. = cy APDRE-@A
+   itr +2647, same sabdje
+
+       oa te aC/nsy
+
+## Page 3
+
+                                                                       18   Jui    1947
+
+          Meteorological Research and Development
+          Responsibilities of the Air Force
+
+          Commanding General
+          Army Air Forces
+          Washington 25   D.   C.
+          Attention:   Deputy Chief of Air Staff for Research
+                       And Development            (for Major General
+                       Curtis       R.   LeMay)
+
+    1.     With reference to the 26 March 1947 letter from the Deputy
+Chief of Air Staff, on the above subject, to the Commanding General,
+Air Material Command, Wright Field, Dayton, this, immediate action
+was taken to activate a new Laboratory having the responsibilities of
+meteorological research and development,, and upper air research,
+Within the Electronic Subdivision of the Engineering Division.
+
+    2.       In view of the close relationship and interdependence of
+research in meteorology and research in electromagnetic and com-
+pressional wave propagation, action is being taken to reorganize
+the present Applied Propagation Laboratory of Watson Laboratories
+into the Atmospheric Laboratory,           and expand its    functions      to    in-
+clude reséarch and development in meteorology and related geo-
+physical fields.  This action is defensible not only because of the
+close relationship of the research involved, but also because it
+furnishes a going organization to attack the new responsibilities
+which were delegated to AMC without the transfer of a going or-
+ganization to carry them out.            At this point it is considered
+appropriate to point out that the Air Materiel Command is ina
+position where, for all practical purposes, a meteorological re-
+search and development organization is being organized from the
+ground up, that it will be some time, possibly as much as a year,
+before a really active part can be played in this work.  Consider-
+ing the importance and extent of the field of research outlined
+in the letter referred to above, the twenty civilian position
+vacancies transferred for this work can at best be considered as
+only a nucleus of the eventual organization that will be needed
+in this field.  The immediate problem, however, will be to find
+qualified personnel to fill the seventeen remaining of the twenty
+vacancies transferred, this in itself being no simple problem in
+view of   the worldwide scarcity of         highly qualified    research per-
+
+## Page 4
+
+ltr to UAAF,      DC/AS for Res & Dev.,        “Meteorological Res     & Dev
+Responsibilities
+in the Air Forces”,        dated
+
+sonnel      in meteorology,       and the present keen competition for those
+personnel.
+
+       3.       This command previously asked for 150 top-flight physicists
+in connection with Upper Air Research,              This request was disapproved
+and is mentioned at this time because the requirement still exists
+not only in connection with Upper Air Research to meet overall AMC
+requirements pertaining to Guided Missiles and aeronautic research
+and development, but in connection with responsibilities assigned the
+Air Materiel Command under paragraph 2 a of the referenced letter.
+
+    4.    At the present time the Electronic Subdivision has com-
+mitted approximately $1,600,000 during fiscal year 1947 (including
+Budget Project 680 funds mentioned under paragraph 2 of the referenced
+letter) on Atmospheric Research.  Approximately $500,000 additional
+has been committed on compressional and electromagnetic wave research
+which is closely allied to the atmospheric              field.
+
+       5.       The amount of funds estimated as required to examine these
+responsibilities during the fiscal year 1948 is $1,900,000.  Although
+the justification of Project 680 — meteorological and climatological
+Research and Development,            is not listed in the 3 February 1947 revised
+Issue of the Engineering Division Research and Development Program,
+Fiscal Year 1948,         it is listed in the “Justification of Estimates,
+F.¥.    1948,    for Air Corps,      Army   (about May —47 — 1-20-47)       page   194
+of the report, identification number 7-5768, AF.  It is planned that
+this amount of funds will be defended by the Assistant Chief of Air
+Staff —4 and made available for accomplishing the research and develop-
+ment in meteorology and related geophysical              fields.
+
+    6.    With further reference to funds requested for the F.Y¥. 1949
+Project 680-11, Atmospheric Research and applied scientific research
+of the upper atmosphere, a total sum of $6,000,000 has been specified
+on page 260 of the Engineering Division “Justification of Estimates,
+Fiscal Year 1949 Research and Development Program”, dated 20 May 1947.
+The amount of funds asked will be required to accomplish the work
+included in the responsibilities assigned to the Air Materiel Command,
+Ang it is recommended that adequate support be given to obtain the
+amounts      need for the Fiscal       Years   1948 and 1949.
+
+1   Include.     — cy AFDRE-2A
+Ltr    3-26-47,    same   subj.                         N.   F.   TWINING
+                                                        Lieutenant General,         U.S.A.
+                                                        Commanding
+€C to AC/???

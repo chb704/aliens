@@ -1,0 +1,1040 @@
+---
+title: "mj12-fifthannualreport"
+collection: "majestic-12"
+release: null
+source_pdf: "majestic-12/mj12-fifthannualreport.pdf"
+ocr_pdf: "majestic-12/ocr/searchable-pdf/mj12-fifthannualreport.pdf"
+source_sha256: "0f524909c94018d544b2763101e9e54d7b8fef6c964a0a30a9a6359456f86e9f"
+ocr_sha256: "561e999e64bd3fabc209079fb4245639ec374eb1e3b6b360049bc8002a8324a2"
+pages: 15
+ocr_engine: "ocrmypdf + tesseract"
+tool_versions: "ocrmypdf 17.5.0 / tesseract 5.5.2"
+ocr_options: "-l eng --mode skip --rotate-pages --deskew --optimize 1"
+text_extractor: "pdftotext -layout"
+needs_review: false
+---
+
+# mj12-fifthannualreport
+
+## Page 1
+
+    III, CONCLUSIONS
+
+                 1,     Current studies of other-world visitation are in three
+    phases
+                        a,    Tachnology exploitation
+
+                        ».    Interplanetary travel -
+
+                        Se»   Gultural cemmunication
+
+                 2.     On 19 September 197, the IAC, JIOA, and the JIC, reviewed
+    a Top Sacret intelligence report titled REPORT TO THE PRESTDENT, "197 » PARTS
+-   Ja¥, MAJIC EYES ONLY, DIG 0001909);            the report mentions:     "lm cempliance
+    with your directive ... of 3         July 19:7, the attached "REPORT ON FLYING
+    SAUCERS" is raspectfully submitted,        In consonance with your instructions,
+    advisors from State, Treasury, "ar and Navy Departments assisted mo on a~
+    two month exploratory missien concerning the reality of obher-world visitation,
+    The principle investigators and storage areas were visited.            Successful efforts
+    wera made to reach scientista      of all levels as measured by their work in
+    classified defense prokects,       Conferences wers held with national sequrity
+    officials and leaders of private      iniustry.        Approximately 1,200 memoranda and
+    intelligences reports were considered, The ropert presents this situation
+    against a global background my estimates, current and projected, in both the
+    U.Se,   and allied cauntrias, and recommendations deemed to be sound courses of
+    action for formulating plans and policies in light of recent developments.
+
+                 3,    All efforts hava been made to identify the country or private
+    concern wich ceuld have the technical and finacial resources necessary te
+    produce such a long-range      flight, So far, no
+                                                    country on this earth has the
+    means and the security of its resourccs to produce suche
+
+                 hh,   A consensus reached by members of the panel, that until
+    positive proof that the Russians did not attempt a series of recennaisaance
+    Sights | over our nos’ secure dnstallgtions—the sightings and recovered
+
+                ‘. The occupants of these planform vehicles are, in most
+    respects, human orhuman-like, Autopsias, so far indicate, that these beings
+    share the same biological 1needsashumans,
+                                           aD
+                                            we
+
+                                         a
+                                       + sai sneneieedla
+
+## Page 2
+
+                     IV,     DIscussiong
+
+                             A.        Mature of the Investigation.
+
+                              An analysis has been made of the first one-hundred iatelligeace
+                     reports ia the ATIC Imterrogatiom Reports amd the ULATT EXPLOITATION.
+                     MAJESTIC SERIES 1-25, prepared by the Military Tmtelligesca Sectioe of
+                     GHC/TPU,) ia erder te establish what materigl of flyiag saucer iatelligeace
+                     valu®    coaceradag the ULATT
+                                                 is availab
+                                                         im these
+                                                              le reports,
+
+                                       1.    The ATIC Iaterrogatiow Reports: mmbere@ 1 to 93 (the Last
+                             dated Decomier, 1950), present significant information om a bread
+                             variety of aubjectas aad areag where wituessoa wors deotaimcd subsequeat
+                             to the post-19)7 iscideat. The us-published documeats eompLitate records
+                             of imterrogation derived from the accumulated reports on isterviews of
+                             selected witmesses from NewMexico amd militarypersouncl involved im
+                             removal of evidence.                              .
+
+                                       24    In this(digest,)   primary atteation has besa paid to information          7
+                             of ble-medical imtelligeuce latereast, particularly ia the BW programs,                     ~
+                             Dio-medical imtelligencs is oaly one of the substaative fields: covercd
+     oO                      by these Imterrogatiom Reports,
+
+                                 3. For the most part, the sources laterrogated wore mot traiacd
+                             observers, and their atories indicate they have beem subject to the
+                             familiar pitfalls commoa to all cys witeessea. It must be emphasized
+                             that, because the          iedermogators used were aot always spacialists is
+                             this phenomena of celestial scieaces, there is mich lack of detail.
+
+|      ee   ee   Se
+                  Se a       ee   oe
+                                       ln.   Because of the ueinue satura
+                                                                        af the mateayjial
+                                                                                  onder study, mo ou. fk
+em iz affect.       Most.or the                                                    fultl-layere@-security   structure has” be
+arch and developmeat Labs for                                                      results have beer given to private res:
+                  —                                                                further study       —_
+                                                                                         oo                 ~
+umd om Ps        : development far                                                          MAJESTIC. SS&P oh currestly foc
+       ==                  —                            .                          cota Wait CT activitiss.|
+{lista has yielded valuable                                                           6. Utilization of Paperclip speoii
+ws of Plight dymamics, biological                                                  results im mew weapoms research im are:
+imtelTigence gathering techniqués,                                                 and chemical ageuts, mind comtrol, amd
+
+                                                                                                                  =j-
+
+## Page 3
+
+                                             Se
+                                              oe el
+                                      eeel
+
+      B,     Pamwel's Contribution ta MAJESTIC
+
+              le   The contributioa of the President's Special Pamel to the
+      MAJESTIC TWELVE PROJECT has supplemeated information om the ULATT
+      Program which eeuld not bo ebtained imamyother way, Altheugh ely
+      a small part ef the I yeast{ 973 eons    im techaical aad ble-medical
+      Pield has. preduced at least            5,973 ltems fer—the files ef Military
+      Intelligence, OHC/TPU,           Of      these items, (1,761, have beam published (up te
+     December,
+            1950) im-the
+                       ULATI EXPLOITATICOW-MAJESTIC SERIES,                      The coverage
+     “ef the Wew Mexice imcideats,             frem the over-all intellizeace point of
+      viex, has been very          geod,     (After the Panel's review was initiated,
+      aHe /IPU publishad ta Maron 1951, two summary "HAJESTIC SERIES," MWe. 98
+      aud We, 99, of the seriés titled “New Medical Faeilities fer Bielegical
+     Warfare; Wew Genetic and Pharmaceutical Develepmeat: Pregrans."                 These
+      summary reperts have appareatly made ef mich ef the AEC file material
+      siuce 6,01  items ara mow reported as published "Hadical ItemsTM i= the
+      nInterregation RepertsTM — see MAJESTIC SERIES, Wo. 98, page 1.)
+             2.    Fer the clarification of published reports or fer slaboration
+      ef the infermatien ef fragmentary mature, resert may be had ta tho ABC .
+      files of unpublished data as well as te the pessibility of reiaterre-_
+        then
+     gati    g
+            sou rces,
+      CG.    Review ef the Military issassmenmb
+
+             With current deployment obligations, treep cemmitments, and few
+air creups with stand-by fighters with radar capability, the Joint Chicfs
+are unable at the preseat time, to effect wo cemplete and all-cacempassing
+defense plan that weuld guarantee the pretectiom and well-fumctioning eof
+the matiemal political erder,              Persemncl, material, amd logistical
+requirementsfer such
+                 a defonse would deplete curreat
+                                              reseurces.                         If such
+a crisis should eccurr—-im gevermenat failure te defend and assure the
+public's trust, it is. the beliaf ef the Jeiat Chiefs, that the fellowing
+weuld imsue! iaseeurity and mistrust: smpleyment of subversive ageats;
+infiltration; luciters at ef diserder amd chaes to disrupt mormal ccememy
+amd undermine pepular suppert of gevermmcat and its leaders; scisure ef
+authority without refereace to the will of the people,
+
+      D.      Technele
+             At present, the ability te receastrict tha techaology that may
+beeons      ahead ef us,   the   boost te     eur currest efferts weuld   be   incalculable,
+Areas such ag aircraft and missile design would bencfit
+                                                      e
+                                                      enly after a working
+understanding has been achieved,             Weapons sciences will fellow.
+
+## Page 4
+
+     EK.   Nuclear Weopeus Development
+
+           Mimiturization of-atemic bemb compomeats is the geal ef the AEC
+and the AFSWE., Studies at MIT imdicate that such a technelegy is within
+reach befere the decade is-out, The apparent use ef micre-circuitry found
+on the recevered planform indicates that miniturizatien, low-pewer trams-
+missiea, Light cemducter/seasitive cempements are required fer interplanetary
+space travel, Atemic engines and muclear prepulsiom techmelogies could
+be advanced based upem current use ef hydregen amd electre-magaetic
+research and weapons cempenents development im U.S, amd U.K,
+
+     F,    Bielegical Warfare Pregrans
+
+         EW pregrams ia U.S. and U.N., are im field test stages. Discevery
+ef mow virus and bacteria agents se lethal, that seruns derived by genstic
+reséireh, cam launch medical science inte unheard ef fields ef bielegy.       The
+                    2
+
+               a a
+
+ofa retre-virus set tetally undorsteed, but, give
+                                                premise ef the ultimate
+BW weapem, The danger lies im tho spread ef airberne and Dleodborac outbreaks
+ef diseases ia large populations, with mae madical cures available,
+
+     G,    Genetic and Pharmaceutical Development Prererams
+
+        Curreat research in U.3. and U.E., cam be accellerated whee studies:
+are complete, Usderstandimg the humam makeup threugh ERE
+                                                       reserach will bring
+a varied wealth ef infermation in hew cells replicate themselves and may help
+Gn developing
+           new drugs
+                 and markets, Healthcare industries
+                                                 are considered the
+best source ef BAD fer DeD precrams.
+
+     H,     New Materials Development
+
+            Cenclusiems reached by the Lir Materiel] Cemmand im 19/\5, upon
+tha clese axamination of the material structure ef the Ceremz and Oscurs
+Peak, MM. sites, compelled the Air Perce te launch a mew machinability
+research pregram, Samples tested and evaluated by the AMC, suggested that
+future materials weuld have te incerperate new alleys and composites, if
+spaoo cxipleratien amd hypersemic dynamics are te be achieved,     Es a result,
+mew machiming     techniques are underway fer high-temperature alleys and
+titaniun,                                                            .
+
+                                    Se
+
+## Page 5
+
+                              ———
+
+       I,   Planned Future Rocket Development Pregrams
+
+        There have beom a number ef falled high-altitude reeket Laumches
+/@ study radiatiem effects on living organisms,  The Lir Ferce's Prejeot
+ BLOSSOM, cenducted at Hellomam AFB, is but eme oxample, Y-2 recket
+“Taunction at the White Sands Preving Greund, W.M,, have becm knecked down
+ by undetermined Jamming, The source ef the jamming is believed   te come
+ frem UFO sightings om or mear the range.         Guidance systems are believed
+ te be rulncrable amd this presents a clear and presemt danger,          Such
+ keeper flights carrying nuclear weapens are tee herrific te cemtomplate,
+ Shielding ef systema amd circuits are underway.
+
+       J,   Nuclear Prepulsiem Dewslepment Pregrams
+
+         The AEC and WEPA are curremtly comducting research fer advanced
+ techmolegies im atomic engines and radical _prapulsiesstudies, Systems
+ studies at Les Alamos, M.M,, Oak Midge, Temm., and at Lamroly, Va., are
+ attempting to duplicate thewater drive and plastic
+                                               cere elements found
+ on the engine being kept at HAFB,     Imtergration
+                                             ef hydregem base feuls
+ and   electre-hydredymamic technelory, may   epem up    fer us   development of
+ super-aeredyucs with mach 5 capabilities,
+
+       K.   Iwtelligence Qathering and Analysis.
+
+        Based om what is kmown of the technelogy amd intelligence of the
+visiters, it is fairly certain that there will be ether
+                                                        sightings and
+encounters
+       ef a spectacular nature,          As te purpese and modus operandi,
+ wo are not certain, but it is clear, that if these visiters had cenquest
+ in mind, it would
+                mot be difficult
+                              fer them, givem their ability te
+ penetration eur airspace at will, and their ability te jam radie, tolse-
+ Phene, tekvision,   amd teletype transmissiems, let alens power grids.
+‘Se far, reports and sightings are blatant amddeliberate, thus allowing
+ our intelligence agencies te gather geeddata,
+                                             As te the analyses ef
+ such reperts, ealy acentimeus
+                            wave ef sightings
+                                        amd caceunters world |
+ wide, weuld previde eneugk data fer a clear understasding
+                                                         of intent,
+
+       L.   Fereign Pelicy and Watienal Seaurity
+
+         To date, only Great Britaim, Camada, and the Sevict Union, are
+ comtaoted and appraised in the eventimvasiom  is cmimemt.  It is the
+ current pelicy ef the Admimistraties that ne ether fereign countries
+ will be censulted er advised,     The national security status ef the
+
+ MAJESTIC operation exceeds that ef the H-benb development,
+                                              =
+
+                                      ~b=
+
+                                an
+
+## Page 6
+
+                   MH.    Demestic and Constitutional Issues
+
+                          In dealing with clear vielatiens
+                                                     of civie law amd guarantees as
+                defined under the Censtituties, it has beem discussed among members of
+                MAJESTIC TWELVE, that such pretection of individual rights are eut-welrhed
+                by the mature ef the threat, Only « declaration ef war er a national —
+                emergency, would give the geverament the pewer te cmact martiallaw and
+                recemd individual rights.
+
+                   HB.    Secial, Religious
+                                         and Scientific Reaction
+
+                          It has been the         downfall ef creat matlems   and cultures whee o ace
+                reality is mot readily accepted by the masgs.              The seclal erder was severely
+                ravaged by the last world war, with great damages te the religious degaa of
+                "earth without end,” thus making a covernmeat disclesure irresponsible and
+                inherently damgereus,             The sciantific cemmnity would predictably questien
+                such a reaction as a world suffering from a Buck Regers delerium and attack
+                anyone ef their ewn ranks for believing such famatay,                  Sciamee itaclf, may
+                underge a traumatic transfermatien, with belief structures in shambles,
+                putting the institutions under scrutiny by the laymas, thus ereding any
+                credibility,          Seience would be left with an image of oredulity,
+                                                                              TS.
+
+                   0.     Gold War Deve lopment
+
+                          This   is   eme   ef   the most dangerous phesemenon of      the   twenticth
+                century.     Te misidentify
+                                          a flight of space abjects far actual Russian
+                hombers,    or te dismiss        Russian bombers   as phantoms,   is   the mest idiatia
+                approach te take, Even though governments may distrust each other, it is the
+                responsibility and oreed of            the military and intelligence prefessienal te
+                provent wanton death and deatructie
+               Main
+                  seme form
+                      tain  ef dir                      communication w       h        2 ene           te
+                taking false assumptions
+                                      af his respense if falty data                          wrengly indicates
+               such,      Even using the "Flying Saucer” ruse te create fear and cenfusien
+                ameng your enemies leaders,            could result im accidental war,         Even our sarly
+                analysis
+                       of the recovered planforms in 197, led te the wreng assumption
+                that     the Russians were preparing
+                                                   a sneak attack en the centinent,
+
+                   FP,    Goverment Policy ef Centre] and Denial
+
+                          One of the most difficult aspects of controlling the perception im
+                the publie'smind ef government attempts of denial and ignerance—-is actual.
+               control ef the press, Until a clear intent is established with diplomatic
+                 elatiens firmly in hand, it is the recemmendation ef the President's Special
+                Panel with cancurrence frem MAJESTIC TWELVE, that a policy of strict denial
+                of the events surfacing from Reswoll, N.M., and any other Incident ef such
+                caliber, be enforced, A inter-active program ef centrelled releases te the
+&
+ ’
+
+ ls.
+                media, im such fashion te discredit any civilian investigation,
+                                                                             be instituted
+ Ae
+       Y
+                in accordance with the previsiof ns
+                                                 the 19,7 National Security sot                    areca
+
+t="
+ Se
+       :
+                                                             =|~
+           _
+
+## Page 7
+
+              Z.    The Panel's review of the ARC and APSWP investigation ef Site L-l
+                    amd the dir Ferce Site   LT, has led   the Panel te cenclude   that
+                    the objects under study, are the result ef 2 high altitude sjese
+                    tiem ef « escape cylinder from a fatal mid-air cellisien ef
+                                                                                two
+                    uaidentified circular planferm aircraft
+                                                         ef iaterplaactary naturo.
+             Zo     Of particular interest te the Panel was Site L-2, lecated at
+                    Lat. 33-10-31, Long. 106-28-29, as this site yielded the mest
+                    material
+                         fer analysis,
+
+             Je     Site L-2 may bo closely associated with Site L-l, due te the
+                    similarity of material recevered and that the impact at Site L-1
+                    and debris pattern suggests that the oraft hit
+                                                                   the ground at a
+                    sharp angle and centimued te remain airborne until coming te rest
+                    at Site L-2,
+
+             4k.    Tho craft found at Site L-2, is either the remains ef a reckat-
+                    plans, or, a pewered-glider, What remained ef the power plant
+                    was examined and determined te be of a magnetic drive prepulsien
+                    ‘pewered by a fusien reac
+                                            ef ter
+                                               serts.
+             5. Lack of wiring, fuel systems, cables, motors, hydraulies, iatakes,
+ms           "exhaust, and surface centrels, strongly suggests that tho craft
+fe       7    _     Was designed te   travel eutside ef eur atmosphere,
+
+     |       6.) The secend craft that inpacted at Site L-j, previded very Little
+         =“ ewidence that it tee was similar in design, a5 the impact was
+                    vertical im nature amd at very high speed. It is believed that
+                    the debris discevered:em 2 July 197, by-@ lecal rancher was the
+we                  result ef a mid-air cellisiem with an X-plane fren HAFE; anether
+im                  unidentified objects er pessibly cellided with beth, Radar film
+                    and tewor logs de aot cxplaim the merging ef three radar targets
+                    prier te cellision and subsequent crashes.
+
+              7,    There were-<_five receverd bodies, twe ef which were found im a
+                    severely damaged escape cylinder, and the remaining three were
+                   _ found seme distance away frem the cylinder,
+                                                             All five appoared te
+                    have suffered     from sudden docenp
+                                                       and ro
+                                                           hoat ssi
+                                                                sufficen
+                                                                      ation
+                    (recevery and autopsies ef the eccupants are
+                                                                 cevered in detail
+                    in a seperate study GMAT SUIT within Prejacts 612 and 62       ULATD
+                    EIPLOITATION-MAJZSTIC SERIES k, p. 40-102),
+                                                             a5 a result e
+                    damage sustained frem unkowm causes.
+                                                       .
+
+                                                   =i
+
+     ASS
+      SR ye             ee   a ae
+
+## Page 8
+
+                                                                                                                                      ANWXI & (Cont'd)
+
+                                                                                    Tho Fane] was cencerned ever the contamination af several SED
+                                                                                    persennc] upen coming in contact with debris near the pe
+                                                                                    plant. One techniciam was evercemed and cellasped when he
+                                                                                    ‘ettonpted the remeval ef a bedy,Amothar medical technician
+                                                                                    went inte a cena four hours    after placing a bedy in a rubber
+                                                                                    wedy-bag, 111 feur were rushed te Les Alames fer ebservation.
+                                                                                    KY] Your later died of seisures ami prefuse bleeding, 211 feur
+                                                                                    wore wearing pretective suits whem they eame im comtuet with
+                                                                                _   bedyfloids from tho eccupants, —
+
+                                                                          b         Lutepsies on the feur dead SED technicians are met ceaclusive. It
+                                                                                    ia beliewed that the feur may have suffered frem seme fern of
+                                                                                    texim er a highly cemtagious doscase. Tissue samples are currently
+                                                                                    boing kopt at Fort Detrick, Md.
+
+                                                                              Io.    The Panel was alse cencerned with the detection wir-berne releasa
+                                                                                     ef radiation ever the state efMew Mexice. AFTAC detachecat fren
+                                                                                     McClellan AFB has cenductsd several ‘airberse meniter flights ever
+                                                                                     Site Lz, Radiation readings indicate ao high meutren ceunt was
+                                                                                     recerded asthe) plane flew ever the site, Neutren ceunt ireppee
+ee
+                      .
+
+                                                                                     eff as tho plane flew a considerable distance frem the site,
+                                                                                                                                                A
+                                                                                     repert bas boom filed with the AUS. ~
+             ry
+
+         ~
+                                                                                                                    al           7
+                -_n                                                                                                          L
+
+                oa:
+                                                                              i.     Detection of a high altitude explosiem was_recorded by @ Preject
+                                                                                     MOGUL censtant level balleem om ) July 197.) Radar frem White
+                      7
+
+         a=
+
+                                                                                     Sands Preving Greund and HIF alse aetected = surge.
+                                                    =
+
+         i             a
+          .
+
+                  od
+
+                                                                                     Parachute recevery team frem FAFD were dispatched te Site L-2.
+          :
+
+                  eae                                                         12.
+                                                                                     Upen arrival, the team, realising tha mature ef the crash,
+                                                                                     radiesad imstructiens and marked crash site fer thea investigaters
+          ee)
+                  oe
+
+                                                                                     that arrived later.
+ee
+
+          a       ee
+
+                                                                         (33D Tu the opinion ef the senior AEC medical efficer, ourrent medical
+        te ak
+                  ors
+        &
+
+                                                                                                         are wholly inadequate in dealing with «
+                                                                                     equipment and supplies
+        ws
+                  =,      ~                        -
+
+                                                                                     large scale eutbreak ef the aliemvirus,
+                                                                 1
+
+        ei
+
+                                         fe
+
+       +. — ie
+                          a
+                              rage                                   a
+                                                   Te bl
+a                         ig
+                                         Ta
+
+                                                                                     Facilitios at Les Alames and Maye clinies were considered as
+                                                   qa
+
+                              ‘SsNa a
+                                                             =
+
+                          & | a
+                  =,
+
+~
+                                         enc
+                                                   -
+                                                      a                              lacking im tha curremt climates
+
+                                                                                    ( On 26 September 197, the first mecting ef the isc- 1 was held
+                          Fa  Sy                      "
+: Be
+                                                   5
+
+                              ome
+
+                                                  ed _— olae -                       “te-discuss the New Waxice- incidents and hew te)tuplement the
+                          4
+
+                                        wb eee
+       enw
+
+                          el
+                                                   uw                                policy established by MJ~12 sur,”“5
+                       ”      Se
+
+                                 gt] ie
+           7”
+
+                       A
+                                                                 =                                                -§-
+                             eee
+
+                                            aoe
+
+                            '*
+
+                          dak)
+
+       ae       m
+                            |
+                                   E
+                                        =
+
+                                            --
+
+       =                           ST   1
+
+                           So
+                                   .f
+
+                Led
+
+       ee
+                                   ,
+                                        ©
+                  he
+
+                  a
+
+oO
+
+       TM
+
+## Page 9
+
+                                                      aE tne
+
+                                                                                        A
+
+ (1. | Upon the creationof the MAJESTIC TWELEVE OROUP by special
+ SE — executive erder dated 2) September 1947, and givem powers ef
+                 autherity vy PDO/I-1, dated 26 September 1917, the Pancl was
+                 empewered te convene and comduct a review ef al] available
+                 evidence and data cellected by gevermment and military
+                 iutelligemos agencies,
+
+      2.         Because ef the unique nature ef the 1947/8 crisis, the Panel
+                 recemended ta MAJCOM—-] that the           authority
+                                                                    of the Secretary ef
+                 Defense be inveked in order te mp lem xt XSCID Ke. Wi.
+
+ /              | 2 meeting wow held anf December 17> between CLA and LIC
+           .:
+
+     ‘ew   .
+
+ \s="            eencerning the IAB, Dr, Vannewar Bush, Chairman
+                                                           ef the Fanol,
+                 requested the     te convey the centemts of a letter fre Dr, |
+                 Bush te Seoretary Ferrestal, thus breaking the deadleck ever
+                 issues cemcerning autherity and policy making dealing with tho
+                 Mew Mexice incideats
+                                   and subsequentexpleltatiem ef the finds, ee
+                 ————    =
+
+      lea
+                 te thea Jenuary 1918-4 tthird
+        Om 13 January 1948,
+                                                party greup frem eutside ef tho
+                                         he MSC, with imput from the Panel recommended
+                 Gevernment he         sabablished fer the purpose of conducting = impartial
+                 amd objective’               y of the activities and personnel of the Cli,
+
+      Se         As a result of the DCI's lack ef timely intelligence estimates and
+                 poer coordination of intelligence activities fer MAJESTIC                  the MSC
+                 Survey Oreup issued its findings. At-the suggestion ef the Pamel
+                 Chairman,     tee IAC met en_14 June 196, ‘at which the cenclusiens ef
+                 the Survey Oreup were reviewod,
+
+      G&         Om 1s Pebruary 19h9,- the IAC met for the purpose ef proposing some
+                 changeste a “GTA draft proposal en HAJCOMactivities.
+      Te General Jeseph McNerney, with the assistance of Carlisle Mumelsine
+         and Robert        Blum, prepare NSC 5O/l. On 7 July 19L9,- theKSC adopted
+                 the recenmendatiens ef WSC 50/1 which directed the DCI te enlist
+                 the activities       ef the IAC in MAJESTIC     intelligence activities.
+
+      8,         MAJCOH~1 meets with the Prosideat im May
+                                                          1950.
+
+      9,         Admiral Hillenkeetter leaves positien as DCI on 7 Octeber 1950.
+
+      10.             MAJCOM-1 with assistance ef the Panel persuades the President to
+                      establish the   Psychological Strategy Beard on ly April 1951.
+
+                                                     qe   ticle,
+                                                 aiden
+
+2ES                      TH
+                          ASR SARE
+                               Y                           gl   eres            :       —             Sa   OE   ea
+                  .                      cl     ee                     -            5
+
+                                                                                                                 :
+
+## Page 10
+
+                                            = ao
+                                                                     ANAKL B (Cont'd)
+
+              Panel member and MAJCOM—, meet with MAJCOM-1 on 10 Octeber 1950)
+              along with members of IAC. Tha Chisf ef Olebal Survey Group
+              desired estimates requested by the Fentagon concerning possible
+              defense project for MAJESTIC LOGISTIC|
+                                                   SSP=1.
+
+             On
+              (6 December 1950, MRJCOK- alerts MAJCOM-1 ef » breach ia DEW
+              Oresniand of@ UFO en w seuth-westernly course. HQ IPU alerted
+              and dispatched « scientific team te El Indie-—Guerrere on the
+             Texas-Maxico border, MAJCOH-, orders a recevory team
+                                                                  frem Preject
+             STORK and MOON DUST te crash site, Teams transpert debris fren
+             crash site te ADC HAD and te AEG laboratories—atSandia,
+             Maxvirce
+                                                                  New
+                      “tf
+
+     135     MAJCOM-1 enlists the Pancl'’s aviatiencensultants fer the purpese
+             of advising the {Princeten Consultants,”
+
+     Us.
+       Om 28 December 1950, MAJCOM=1 is provided with the "Black Boek*
+             summaries propared by the Watch Committee, Begining avory Friday
+             the President is briefed on world situation and on MAJESTIC via
+             the CIA weekly Current Intelligence Rericw.
+
+     Ie      at the request ef Panel member Cardinal Franc
+                                                           is Spellman met
+             with thea Fresident te disouss the centainment within the
+             Catholia Church and its hierchy of religieus speculatien if
+             masa sightings eccur. Such containment was successful during
+             the 1917 sightings when Carding) Spellman met with the
+             Secretary ef War en 29 June, Tho President has been briofed
+      Z ra   on vetonse Flan IP, which was written in part by the Panel
+             member»
+
+     16.     Tm suppert ef the MAJESTIC program for developing atomic
+             engines, Pane] members and their associatien with tha ik,
+             the Armed Forces and the Natienal Advisory Cemmittes fer
+             Aerenautics, have consulted MAJESTIC for the development of
+             miclear fissien reacter for powered flight studies,©
+
+     iT.     Atemic engines for alroraft muilt here om sarth fares mary
+             difficulties because of size and weight ef the reactor and
+             radiatien shielding, Such a nuclear power plant weuld give
+             an aircraft unlimited range,
+               — ——     EE
+
+     18.     Panel mambers contributed te the writing of ULATT EXPLOITATIGCN-
+             MAJESTIC       SERIES 5   titles Hysersenic Small—Disturbance Theory
+             which gives consideration to a three-dimensional body fixed ia
+             a steady, uniferm, hypersonic stream. Thea theory assumes that
+             shock waves can be approximated by abrupt discentinuities and
+             the planform bedy being thin, so that the slope of the local
+             surface in the stream direction is umifermally small.
+
+FY
+
+nr      i                   .
+
+## Page 11
+
+                                                             ae
+                                                         :                          REMIX B (Cont'd)
+
+               I7.   MAJCOM-l;, = member of the Fanel was instrumental im supporting tha
+                      the creation of the Air Force's Scientific Advisory Beard which
+                     MAJCOM-5 endorsed,
+
+               20.   MAJCOM-5 recemmended te the Air Force Chief of Staff, that the
+                     Top Secret ropert Where We Stand, be                 the basis fer ULATT develep-
+                     ment. MAJCOM-5 urged the COS ta enact the ideas of another report
+                     Science, the Key to Air Supremacy, Major General Curtiss LeMay
+                     Stall Directer ofResearch and Borelopnent secended MAJCOM-5
+                                                                              'q
+                     Views
+                         »
+
+               21,   The Panel Chairman argued for funding fer air defense prejests
+                     that would be useful im cembating tha new menace instead ef
+                     developing ballistic missiles, which have preved te be useless,
+
+               22. Qa June
+                         15 197,
+                               Dr, Theedore vem Karman chaired the first
+                     mecting of the SAS and discussed hew the Air Forces coulé
+                     propare fer & possible air attack im Light ef the mumereus UFO
+                     sightings ever tha U5,
+
+               23. Ons May 1948,MAJCOM-L, arranged fer the prenulgatien ef Air
+                     FerceRorulatio
+                                 20-30,
+                                    n which restered the pewers ef the SAS
+                     az agreed upen by Karman and LeMay in 1916.
+
+               2h-   MAJCOH-Y had a prepared speach read at a meeting of scientific
+                     advisers en 7 April I9L9, highlighting mew Air Feree 24D
+                     organisation and strictures aon UFO researeh fer ULATT,
+                                                                             Karman
+                     enlisted tha aid ef a Panel member te persuade MAJCON-li to
+                     endorse              a seperate establishment free   frea AMC and Pewtagen
+                     centrel,               —
+
+               25,   On 2 January 1950 «i plan was presented te the Air Staff Couscil
+                     ferseperaFLD
+                              te fer ULATT,
+
+               26.          On 23 Jamary 1950, Research and Develepment Command and the
+                     Aip-             Staff Deputy Chief ef Starr fer Reasearch and Deve lepment
+                     was created,
+
+               Te Th May 1951, Panel menber MAJCOM—-ly emdorsed Karman's oreation
+                     of LOAND and his presentation at the Fentagom of a lecture
+                     called "Mebilisatien ef Scieatific Effert ia
+                                                                  Western Europe
+a
+
+                                                                                               an
+                     Countries,"                                                         .
+
+                                                               -?-
+
+a
+
+a
+
+ee
+
+                                                                                                         ha
+     ie   et          re    a   aes             1   ae
+
+## Page 12
+
+                                ad
+                                                                    C
+                                                                AMEET
+                                                                aes
+
+1.   Military cemmanders are taught = basic premise that the ideal
+     defense as characterised by Karl ven Clausewitr,--is a "shield
+     af blews," When an enemy attack begina the defender yields the
+      initiative, using his      pared positions and knowledge ef the
+      battls creund te slew Lts momentum and te strike the eneny
+     with repeated, unexpected blown. Such # defense cam werk,
+     only when the enemy is, datected, his stremgth known, his
+     weaponry identified, amd, his tactics and mevemmnts are re-
+     reals
+
+fe    In the annuls of warfare mss disappearances of seldiers and
+      their equipment are rare but are on recerd. Im the eighteenth
+      century during the Spanish War ef Succassion, 4,000 soldisrs
+     were reported te have disappeared, together with their
+     weapons and equiament (herses included), Im 1885, abeut 600
+     Preach celonial seldiers disappeared near Saigen, French
+     Indo-China, without a trace ef them mor their equipment, On
+     Augus® 21 1915, members ef tim: New Zealand Army Corps' First
+      Ficld Company signed swerm statemats that they saw the One-
+     Fourth Norfelke Regiment disappoar in « unusually thick brews
+     cloud wich seemed te move and rese upward and vanished, There
+     were ne traces ef the regiment sor their equipment, Me oxpla-
+     natien cam be found in the histerical recerds of the Imperial
+     War Museum archives, In 1939, ever 2,900 Chimess Watienalists
+      treops were reported missing from thelr camp, just south ef
+     Nanking, Again, men, equipment, guns, were missing though
+     camp fires and mess tents ware undisturbed, During the Pacific
+     campaign, there have beem instances where whele plateons and
+     larger units seemed te have disappeared witheut any sign of
+     combat er a struggle, Men, equipment, weapena-—vanish witheut
+     a trace,     In all instances the disappearances: eccurred in
+     trepical climate and in the heat of battle er near combat
+     genes,
+
+ds   Missing aircraft, pilots and crews, are ef special concern
+     te the military when no explanatiens fit the usual reasons
+     outside of combat, One such inoidant is the disappearance ef a
+     flight of five U,S, Navy TBM.3 Avenger torpede bombers frem
+     BAS Fort Lauderdal’    on 5Decembex 1945. While no explanatien aa
+     to why navigation instruments on alll    five aireraft could have
+     failed at the same time, and efferts te resevue the Lh crewmen
+     were umasuccessful, it is believed that Flight 19 enseuntered a
+     phenomenen of celestial nature. The last knowm radie tranomissien
+
+     from the instructer pilot was heard by a ham operator, “Don't come
+     after mt.» « they lesk like they are frem outer space. . « I'm
+     at 2,300 feet. Den't ceme after ms," *fter ene of the most intensive
+     air-ses rescuc operatiens in U.S, naval histery, the Naval Beard of
+     inquiry said,=we were not able te mke even a geed guess as te what
+     happened.”
+
+                                     =Lj<
+
+## Page 13
+
+[ SEE
+
+                                           -                        AMWEX C   (Cont'd)
+
+        hh.    Om 7 January 19,8, » ANG F-51 pilot was lest near Geman AFD,
+               Kentucky, After being directed te lead his flight of feur F-5ls
+               by tha tewer, Captain Thomas Mantell pursund = large metallic
+               ebject alone after two pilots returned te Godman AFB, and finally
+               his wingman was ordered te return te the field, It is beliawad
+               that Mantel was fellowing a large, structured abject not in the
+               flight path of a classified Navy SXTHOOK balleon, Mantel] radiead
+               Godman tewer that he was at 77,000 feet and still climbing. At
+              on¢ point Mantell said that the object had paced his aireraft for
+               several mimites, then would speed ups His last transmission to
+               the tower was, "It appears te be a metallic object , . » and it
+               is ef jyemendous size . « « It appears to be & metallic object
+               or pessibly the reflaction of sun from a metallie sijast," When
+               Godman personnel arrived at the crash scenes, Mantell's F-51
+               was   feund in many pieces, not large sections   as one would find
+               frem a free stick descrap The wreckage contained unusual damaga
+               as if Mantell's plane was repeatedly hit by shetgum blasts,
+               Somes ef the metal had pitted surfaces and uweusual scoring. 411
+               rubber material had disintegrated im w» soft pewdery substance,
+               There was no indication ef gunfire damage eg feul burn. The
+               crash site and debris exibited an unusually high amount of
+               Tadiaties?f undetermined nature, The site was cleared of dbris
+               and cevered, Mantell's plane was subsequently sent te Wrigcht-
+               Patterson AFB, Ohie for examinatien. 4 autepsy was cenducted on
+               the body and interned in storage for future study. It is believed
+               by the Air Feres investigaters that Mantell's plane hed been
+               destreyed by a2 ienisatien phenom man, possibly fren the prepulsien
+               wash of the ebject's exhaust,
+
+               Frem 19,9 ta late 1950, there have been several crashes ef 3-36
+              “bombers on reutine artic patrol that bear all the earmarks of the
+               Mantell incident, None ef the crews were feund, The atemic bombs:
+               were net recoverwd, thus creating a serieus problem fer the Air
+               Ferce when nuclear weapons are lost ever friendly countries.
+
+        Oe     The death of twe Air Forca counterintelligence efficers im the
+               erash of their B=25 aireraft enreute te Hamilten AFB, Califernia,
+               after interviewing twe auxiliary 0} men whe reported six UFOs ever
+               Maury Island, Washington, in June 197, CIC       agent Crisman had
+               spoken te Kenneth Arneld,   whe on 26 June 1947, had reported a
+               flight of UFOs”over Mt, Rainier,’‘Washingten, and filed his report
+               after he had spoken te Captain Davidsen and Lisutenant Brews,
+               The material given to Davidsen and    Brown was ‘palieved to come
+               frem Maury
+                        Island and may be celes        1 fragments containing
+               metal frem @ nuclear reacter from &UFO, Fragments were turned
+               ever to CIA agent Shaw, and Cripman was ordered te the Alaskan
+               ADC for assignment in Project |Ivt,
+
+                                      nn
+
+## Page 14
+
+                               eS
+                                                       AMTEL C. (Cont'd)
+
+Te   Aerial interference with military alreraft has demenstrated the
+      ability te ebserve our air operatiens im war and peacetime
+     conditions, During ths war over 900 near=-aiss incidents were
+      reported by allied pilets and crews in all theater ef operations.
+      One of the most dramatic ne      ss encounters eccurred on_1h
+     _Octeber 1943, Sth AF Mission 115 over Schwienfurt, Germany, B-17
+      crews reported many format,    of silverly discs flying down inate
+     the B-17 fermations. Several times during the bombing missien, large
+     objects were seen following the discs descent into tha formatiens,
+     Unlike previous reports, no engine failures or airframe damage was
+     reported. After the surrender of Nasi Germany, GAF fighter pilets
+     were interregated by AF intelligence concerning Missien 115, OAF
+     did not have any aircraft above our bombers at that time,
+
+     Om L dugust 1914, a C-7 piloted by Captaim Jack E, Puckett,
+     Assintant Chief ef Flying Safety fer TAC, experienced a near-miss
+     of w eylindrical-shaped aircraft about 100 meters im length, The
+     incident eccurred at an altitude of 4,000 feet, northeast of
+     Tampa, Florida. Just 1,000 yards en a cellisien course, the UFO
+     flipped ever sideways, crossing the flight path of Puckett's
+     C7, Three other crew members ebserved the UFO and described it
+     as being over twice the length of a B-29 and cylindrical in
+     shape with luminated windows, Observers en the C-l\7 reported «
+     stream ef fire trailing the esbject. The erew and Puckett watched
+     the UFO for ever three minutes, TAC radar stations had tracked
+     a large target approaching the C-7 and them performed a right-
+     angle course change while flying at spends ef excess. ef 600 mph.
+
+9.   On 1 October 19,8, a ANG F-SL pilot engaged a blinking luninmus
+     UFO in a dogfighte-style encounter over Farge, North Daketa.
+
+      Om 2k, April. 299, engineers and technicians frem the White
+      Sands Freving Greund observed a elliptically-shaped
+                                                      object
+      moving in a eastward course at very high altitude, The ob-
+      ject was discevered while tracking a Skyhook balloon threugh
+      a theodolite, The object appeared whitish  in celor and pale
+      yellow at the tail end. The ebject was estimated te be tywo-
+      and-a-half times as long as it was wide. It was difficult to
+      geo any structure of the ebject as it was moving at a very
+      high speed, The object was observed through a theodolite fer
+      approrimately ene minute before disappearing in # steep
+      olimb, The ebject was estimated to be traveling at an
+       altitude of over 60 miles,
+
+## Page 15
+
+         &                                           a
+                                                     ;                             ANNEL C    (Cont'd)
+
+             11.   Frem 19 te carly1951, our atomic bemb and
+                                                             ceapenent plants
+                   have Been thetarget
+                                     of UFO reconnaissance. Of late, our NEPA
+                   projects are of special attention te the visiters, During
+                   seme ef the flights, radiatien level
+                                                       s have risen sharpely,
+                   then drepping suddenly to normal. In some instances plute
+                                                                             niun
+                   preduction has been halted dus te centa
+                                                           mination ef plant
+                   personne] during these sightings ef lew-level flights:
+
+             12. (Om 25 October 1950) the Superintendest of Security, Oak Ridge,
+                   filed a security report for I-10, He stated that a round
+                                                                            ebject,
+                   about ten feet in diameter, burmished ye
+                                                               llo
+                                                                in color
+                                                                     w, hung lew
+                   ever the Control Zena, The ebject would move slightly frem one
+                   side te     tle   other and emit       a low hum sound.
+
+             13. /On 2h Octeber 1950, the Assistant Chief of Security, NEPA
+    iy             Division, Oak Ridge, observed a similar ebject near the
+    af             restricted area (Restricted Fying Zone), The ebject emitted
+                   a varying color of light frem red to green, to blue te
+|:                 erangs, This sighting was confirmed by a Air Force efficer
+et                 also of NEPA Divisien,       Oak Ridge, Radar from Knoxville
+    @              Airport     tracked   several slow       moving   targets flying    ever   the
+ .                 Southeast seeter of the "Restricted Zone”. Fighters
+                                                                       were
+{ii                vectered to the radar targets but the pilot repor
+                                                                       ted
+                                                                        no
+‘Re                Visual contact.
+                                 —
+|
+{            lk,   Naval aircraft with nuclear weapons delivery capability have
+     i,            reperted a sudden drop       in       nentren counters,      Aircraft   carrier
+    of             sterage of nuclear weapons have alse reperted unusual neutren
+                   counts. During recent NATO naval maneuvers, the USSFranklin
+                   D, Roosevelt has been trailed by numereus UFOs for leng perieds
+                   on-and-off since 1950, §)
+
+                   CON
+                    LYS IONS
+                           C :
+
+                   The future of American citisens and the world for that matter are
+                   jeopardized today by developments as_per
+                                                              tentious asthose leading
+                    te World War II, Givén the grow
+                                                    ing challenge from the Soviet
+                   Union and her satellites and the intrusien of extraterrestria
+                                                                                 ls,
+                   the United States is compelled, therefore, te
+                                                                 initiate realistic
+                   dines of actien toprotect United States strategic interests.
+                                      Oo
+
+                   RECOMMENDATIONS
+                                 ¢
+
+                   It ds recemmended?
+                   That the United States Government provid
+                                                            e as carly as practicable
+                   moral,     advisory, and   material       sv port te   the    MAJESTIC~12 Projeot.
+                   ‘in order to contribute te the early establishment of pea
+                                                                           ince
+                                                                              tho
+                   world in censonance with the enunciated principles
+                                                                      ef the United
+                   Nations,and to protect United States strategic interests against
+                   ferces which now thre    them
+                                              at . en
+
+                                                           alin

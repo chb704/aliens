@@ -13,8 +13,8 @@ Icon?
 
 # Files exceeding GitHub's 100 MB hard limit (kept on disk, excluded from git).
 # Re-add via Git LFS if these need to be version controlled.
-department-of-war/release-01/38-143685-box7-incident-summaries-173-233.pdf
-department-of-war/release-01/65-hs1-834228961-62-hq-83894-section-8.pdf
+department-of-war/originals/release-01/38-143685-box7-incident-summaries-173-233.pdf
+department-of-war/originals/release-01/65-hs1-834228961-62-hq-83894-section-8.pdf
 
 # Local secrets / config (OpenAI API key for inbox routing).
 .env.local
@@ -33,6 +33,7 @@ __pycache__/
 inbox/*.pdf
 
 # Generated OCR artifacts. Track the research + audit layers (markdown, text,
-# manifests, QC reports); do not track the generated searchable PDFs or per-file logs.
-**/ocr/**/searchable-pdf/
-**/ocr/**/logs/
+# manifests, QC reports); never the regenerable binaries (searchable PDFs, per-file
+# logs), at any layout depth.
+**/searchable-pdf/
+**/logs/
