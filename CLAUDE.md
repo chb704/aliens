@@ -39,6 +39,8 @@ inbox/                  intake dropbox for new PDFs (gitignored)
 docs/
   planning/             Project plans (ufo-document-ocr-plan.md,
                         repository-reorganization-plan.md)
+  reports/              Dated analysis reports (e.g.
+                        2026-06-01-uap-archive-executive-summary.md)
 ```
 
 **Naming convention:** all files and folders are **kebab-case** (lowercase, hyphen-separated). Exceptions: `README.md` and `CLAUDE.md` keep their conventional names. Keep new additions kebab-case.
