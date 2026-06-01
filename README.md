@@ -62,6 +62,7 @@ Analysis reports live in [`docs/reports/`](docs/reports/):
 
 - **[Executive summary](docs/reports/2026-06-01-uap-archive-executive-summary.md)** — overview of the converted corpus and key findings.
 - **[EBE / EME entity reference](docs/reports/2026-06-01-ebe-eme-entity-reference.md)** — the document categories for non-human entities, their differences, and the field reports.
+- **[Notable anecdotes](docs/reports/2026-06-01-notable-anecdotes.md)** — a curated set of the most striking individual moments in the corpus.
 
 ## Notes
 
