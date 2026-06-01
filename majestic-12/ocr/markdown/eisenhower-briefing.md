@@ -1,0 +1,425 @@
+---
+title: "eisenhower-briefing"
+collection: "majestic-12"
+release: null
+source_pdf: "majestic-12/eisenhower-briefing.pdf"
+ocr_pdf: "majestic-12/ocr/searchable-pdf/eisenhower-briefing.pdf"
+source_sha256: "c8375ce649fab73173a03eeeb9caf02b1b00a8acff978592f51f4d2aae2b7234"
+ocr_sha256: "1995c17f922e80008e5b90b39ab02dc57e0ebe0f63b44150b28c845e2ffc5804"
+pages: 8
+ocr_engine: "ocrmypdf + tesseract"
+tool_versions: "ocrmypdf 17.5.0 / tesseract 5.5.2"
+ocr_options: "-l eng --mode skip --rotate-pages --deskew --optimize 1"
+text_extractor: "pdftotext -layout"
+needs_review: false
+---
+
+# eisenhower-briefing
+
+## Page 1
+
+                         TOP SECRET / MASIC
+                         NATIONALISECURE?cY GhMDiakrtc i
+&                                  eee SRTEELT EE TE
+                                   « TOP SECRET *
+                                   PweTT COCO OE.
+
+          EYES ONLY                                                 COPY ONE OF ONE.
+
+                    BRIEFING DOCUMENT: OFERATION MAJESTIC 12
+
+    PREPARED POR PRESIDENT-ELECT DWIGHT D. EISENHOWER: (EYES ONLY)
+
+                                 18 NOVEMBER, 1952
+
+         WARNING:      This is a TOP SECRET = EYES ONLY document containine
+
+         compartmentalized        information essential        to   the   national   security
+
+         of   the   United   States.     EYES    ONLY ACCESS   to   the materfal     herein
+
+         is strictly     limited    to   those    possessing Majestic-12       clearance
+
+         level,      Reproduction in any form or the taking of written or
+
+~        mechanically        transcribed   notes    ia   strictly   forbidden.
+
+                                   Iee
+                                     cee ee errr
+                                            e|
+
+                             TOPSSEGRET./ MAJIC                                so examen (2)
+         EYES ONLY                     FYFS        ONI Y                                        Ter
+
+## Page 2
+
+            TOP SECRET / MAJIC                                    vue
+                EYER. QNLY
+                        *
+                    ‘* TOP SECRETeee
+                     eaeaseaeee  ae
+
+EYES ONLY                                          COPY ONE OF ONE.
+
+SUBJECT: OPERATION MAJESTIC-le PRELIMINARY BRIEFING FOR
+   PRESIDENT-ELECT EISENHOWER.
+DOCUMENT PREPARED 18 NOVEMBER, 1952.
+                            H. HILLENKOETTER (MJ-1)
+BRIEFING OFFICER: ADM. ROSCOE
+                             prepared
+NOTE: This document has been as       as a preliminary priefing
+only. It should be regarded     introductory to a full operations
+briefing intended to follow.
+
+                       # © ©
+                      “n  s  #
+
+                          a TOP SECRET Research and
+OPERATION MAJESTIC-12 isresp                         Development/
+Intelligence operation       onsible directly and only to the
+President of the United States. Operation s of the ODN ce are
+                                                  c-12) Group
+carried out under control of the Majestic-12 (Majitive
+which was established by special classified execu      order of
+President Truman on 24 September, 1947, upon recommendation by
+Dr. Vannevar Bush and Secretary James Forre stal. (See Attachment
+“at.) Members of the Majestic-l2 Group  were designated as followe:
+
+                    Adm. Roscoe H. Hillenkoetter
+                1   Dr. Vannevar Bush
+                    Secy. James V. Porrestal*
+                    Gen. Nathan F,. Twining
+                    Gen. Hoyt S. Vandenberg
+                    Dr. Detlev Bronk
+                    Dr. Jerome Hunsaker
+                    Mr. Sidney W. Souers
+                    Mr. Gordon Gray
+                    Dr. Donald Menzel
+                    Gen. Robert M. Montague
+                    Dr. Lloyd V. Berkner
+
+The death of Secretary Forrestal on 22 May, 1949, created
+a vacancy which remained unfilled until Ol August, 1950, upon
+which date Gen. Walter B. Smith was designated as permanent
+replacement.
+
+                     See   PPE
+
+            TOP SECRET AM AJIC
+                     * TOP SECRET, *
+
+      iL            EYES      ONLY                 T52-EXEMPT =         .
+
+## Page 3
+
+                                                                       503
+                            ARF
+
+              TOP SECRET / MAJIC ©
+                  ENES..QNLY
+                     * TOP SECRET *
+                     CoE SERE ERE
+
+                                                         ON] OF ONE
+                                                     OPY ONE
+                                                    COPY        ONE.
+ EYES
+ —
+      _ONLY
+         hy
+
+                          ilian pilot flying over the Casc   ade
+ On 24 June, 1947, 4 civof                          nine flyin
+                              Washington observedat a high rateg
+ Mountaing in the Statetravelin         form atio n
+ digse-shaped aircraft this was gnotin the first known sighting
+ of aveed. Although                                 spread attention
+ of such objects, it wae the first to gain wide            s of
+ in the public media. Hundreds of reports of sighting
+                                   of these came from    highly
+ similar objectea followed. Many sour ces. These reports res-
+ eredible military  and civi lian
+ ulted in independent efforts by   several different elements e
+                                the nature and purpose of thes
+ of the military to ascertainnatio
+objects in the interests of         nal defense. A number of
+ witnesses were interviewed and ther  e were geveral unsucceasful
+ attempts to utilize aircraft in   efforte to pursue reported
+ disos in flight. Public reaction bordered on near hysteria
+                                                   ae
+         |
+ at times.                   ;
+
+‘In apite of these efforta, Little of substance waa learne d
+ ahout the objecta until a local rancher report ed that one
+ had crashed in a remote region of New Mexico locate d approx-
+ {mately seventy-five miles northwest of Roswell Army Air
+ Base (now Walker Field).         .
+
+ On O07 July, 1947, a secret operation was begun to assure
+ recovery of the wreckage of this object for acientific atudy .
+During the course of this operation, aerial reconnaissance
+_ discovered that four small human-like beings had apparently
+/@jected from the craft at some point before it exploded,
+ These had fallen to earth about two miles east of the wreckage
+ site.   All four were dead and badly decomposed due to action
+ by predatora and exposure to the elements during the approx-
+  imately one week time period which had elapsed before their
+  diacovery. A special scientific team took charge of removing
+‘these bodies for study. (See Attachment "C".) The wreckage
+ of the craft was also removed to several different locations.
+ (See Attachment "B".) Civilian and military witnesses in
+ the area were debriefed, and news reporters were given the
+ effective cover story that the object had been a misguided
+ weather reeearch balloon.
+
+                     SPREE ESE
+
+                     * TOP SECRET        *
+
+es am TOP SECRET / MAJIC
+                     BRE SBR EBER EERE
+
+                                                     T52-EXEMPT   (E)
+
+                   EYES ONLY                                            0038
+
+## Page 4
+
+                                   An“
+
+             TOP SECRET
+                    / MAJIC                                                  oo
+                       EYES ONLY
+                       ee     ee
+
+                       * TCP SECRET *
+                       CHoee thee        eae
+
+EYES ONLY                                                   COPY ONE OF ONE.
+
+                                                   ing and
+                         rt organized by Gen. Twiniden
+A covert analytical effodire
+Dr. Bush acting on the       ct ordera of the Pres     t, res-
+                                   (19 September,
+ulted in a preliminary concensust rang            1947 ) that
+the disc was most likely a shor        e reconnaissan ce craf  t.
+                               the most part  on the  craf t's
+This conclusion was based for
+                            of any {identifiable provisioning.
+size and the appar ent lack
+(See Attachment "D".) A similar analy  sis of the four dead
+occupants was arranged by Dr.  Bron k. [It was the tentative
+conclusion of this group (30 November, 1947)e, that      althourh
+these creatures are huma  n-like in appe   aranc    the  biological
+and evolutionary processea  respo  nsibl e  for their   devel opment
+has apparently been quite  diffe rent  from   those  obser ved   or
+                                                         sugge
+nostulated in homo-sapiens. Dr. Bronk's team has or "EREs",     sted
+the term "Extra-terrestrial Biological Entities",
+he adopted as the standard term of reference for theae
+creatures until such time as a more definitive designation
+can be agreed upon.                               .
+
+Since it is virtually certain that these craft do not origin-
+ate in any country on earth, considerable speculation has
+centered around what their point of origin might be and how
+they get here. Mars was and remaina a possibility, although
+some scientists, most notably Dr. Menzel, consider it more
+likely that we are dealing with beings from another solar
+system entirely.
+
+Numerous examples of what appear to be a form of writing
+were found in the wreckage. Efforts to decipher these have
+remained largely unsuccessful.  (See Attachment "B".)
+Equally unsuccessful have been efforts to determine the
+method of propulsion or the nature or method of transmission
+of the power source involved.              Research along these lines
+has been complicated by the complete absence of identifiable
+wings, propellers, jets, or other conventional methods of
+propulsion and puidance, as well as a total lack of metallic
+wiring, vacuum tubes, or similar recornizable electronic
+eomponents.   {See Attachment "F",) It is assumed that the
+propulsion unit was completely destroyed by the explosion
+which caused   the   crash.
+
+                       |
+
+                       *   TOP SECRET *
+                       HERS        ERRER REESE
+
+EYES ONLY TOP        SECRET               /      MAJIC      TS2=EXEMPT (E)
+
+                     FYES ONLY                                               004
+
+## Page 5
+
+                                      Ad
+
+              TOP SECRET / MAJIC                            |                     005
+                          EYES ONLY
+                           * TOP SECRET *
+                           He RRR
+
+EYES ONLY                                                       COPY ONE OF QNE,.
+
+A need for ag much additional informati on 48 possible about
+these craft, their performance cha ract eristics and their
+purpose Jed to the undertaking known as  U.S. Air force Project
+SIGN in December, 1947. In order to  preser  ve security, liagon
+between SIGN and Majestic-l2    was limited to two individuals
+within the Intellirenc e  Division of Air Materiel Command whose
+role was to pasa along   certain  types of information through
+channels. SIGN  evolv ed  into  Proje ct GRUDGE in December, 1945.
+The operation is currently being conducted under the     code name
+BLUE BOOK, with liason maintained through     the Air Force officer
+who is head of the project.
+
+On 06 December, 1950, a second object, probably of similar
+                                             the Fl Tndio -
+origin, impacted the earth at high speed in after
+Guerrero area of the Texas ~ Mexican boder        following
+a long trajectory through the atmosphere.              By the time a
+search team arrived, what remained of the object had been almoat
+totally incinerated.  Such material as could be recovered was
+transported to the A.E.C. facility at Sandia, New Mexico, for
+SULuady «
+
+Implicationa for the National Security are of continuing in-
+portance in that the motives and ultimate intentions of these
+visitors remain completely unknown,   In addition, a sipnificant
+upsurge in the surveillance activity of these craft beginning
+in May and continuing through the autumn of this year has caused
+considerable concern that new developments.may be imminent.
+Tt is for thease reasons, #8 well aa the obvious international
+and technolorical considerationa and             the ultimate need to
+avoid a public panic at all costs, that the Majestic-le Group
+remaing of the unanimous opinion that imposition of the
+strictest security precautiona should continue without inter-
+ruption     into   the   new   administration.   At   the   game   time,   con-
+tinvency plan MJ-1949-04P/78 (Top Secret - Eyes Only) should
+he held in continued readiness should the need to make a
+public announcement present itself.              (See Attachment "G".)
+
+                              eee eee
+                           coer  ce   2 |
+
+AYES CNLY                         :        .
+
+## Page 6
+
+                               At
+
+                  TOP SECRET / MAJIC.                                       106
+
+>                        RRR EEGAK ER EH
+                         * TOP SECRET *
+                         ee   ee
+
+                                                        COPY ONE OF ONE.
+     BYES ONLY
+                                                                         ———
+
+                  ENUMERATION OF ATTACHMENTS:
+
+                                                Classified Executive
+             ®ATTACHMENT tat. .....e-Specerial#09
+                                      ord        2447. (TS/EO)
+                                                              ft
+
+             *ATTACHMENT "B"..0eee+eOperati on Majestic-l2 Status
+                                        rt #1, Part A. 3Q'NOV ‘47.
+                                      Repo
+                                      (TS-MAJIC,’E0 )              Ot
+
+                                              n Majeatic-1? Status
+             *ATTACHMENT nom, ......-Operatio#1,
+                                    _. Report    Part B. 50 NOV "AT.
+                                       (TS-MAJIC/EO)
+
+®            #ATTACHMENT "D",.....2.-Operat ion Majestic-12 Preliminary
+     a                                Analytical Report. 19 SEP ‘47.
+         |                            (TS-MAJIC/E0)
+             “ATTACHMENT "E"........Operation Majestic-12 Blue Team
+                                      Report #5. 30 JUN ‘52.
+                                      (TS-MAJIC/EO)
+
+             *ATTACHMENT "P",,...00+eOperation Majestic-le Status
+                                      Report #2.    31 JAN ‘46.
+                                      (TS-MAJIC/EO)
+
+             “ATTACHMENT "G"........Operation Majestic-l2 Contingency
+                                      Plan MJ=-1949-04P/78:        31 JAN ‘49.
+                                      (TS-MAJIC/EO)
+             “ATTACHMENT "H",.......Operation Majestic-l2, Maps and
+                                      Photographs Folio (Extractions).
+                                      (TS-MAJIC/EO)
+
+ot   -                        aueuuuane
+                 TOP Seemed
+                        fei A JIC
+     EYES ONLY
+                       EYES ONLY                         T52-EX (E)
+                                                               EMPT
+
+## Page 7
+
+                                                         |
+                        B-%
+                                                         GO8
+                TOP SECRET
+                EYES ONLY
+                THE WHITE HOUSE
+
+                                   September 24, 1947.
+
+MEMORANDUM FOR THE SECRETARY OF DEFENSE
+
+Dear Secretary Forrestal:
+
+     Ac per our recent conversation on this matter,
+you are hereby authorized to proceed with all due
+speed and caution upon your undertaking. Hereafter
+this matter shall be referred to only as Operation
+Majestic Twelve.
+
+     lt continues to be my feeling that any future
+considerations relative to the ultimate disposition
+of this matter should rest solely with the Office
+of the President following appropriate discussions
+with yourself, Dr. Bush and the Director of Central
+Intelligence.
+
+                TOP SECRET
+                 EYE UNLY.                                         ae
+                                                         2.   --
+
+## Page 8
+
+                TOP SECRET
+                THE WHITE HOUSE
+                       WASHINGTON
+
+                                    September 2h, 19L7.
+
+MEMORANDUM FOR THE SECRETARY OF DEFENSE
+
+Dear Secretary Forrestal:
+
+     As per our recent conversation on this matter,
+you are hereby authorized to proceed with all due
+speed and caution upon your undertaking. Hereafter
+this matter shall be referred to only as Operation
+Majestic Twelve.
+
+     It continues to be my feeling that any future
+considerations relative to the ultimate disposition
+of this matter should rest solely with the Office
+of the President following appropriate discussions
+with yourself, Dr. Bush and the Director of Central
+Intelligence.
+
+                 TOP SECRET
+                   =
+                        ne   ee

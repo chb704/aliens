@@ -4,8 +4,6 @@
 
 Convert the Department of War and Majestic-12 UFO document PDFs into searchable, auditable Markdown while preserving the original PDFs untouched.
 
-Interpretation note: "ORC" is treated as "OCR" here, based on the prior request.
-
 ## Naming Convention
 
 All files and folders in this repo use **kebab-case** (lowercase, hyphen-separated). The paths below reflect that. Note that data-schema identifiers — YAML front-matter keys, manifest CSV column names, and shell variables (`source_pdf`, `ocr_pdf`, `text_file`, …) — intentionally stay snake_case, since those are field/variable names, not file paths.
@@ -80,6 +78,9 @@ Install:
 
 ```bash
 brew install ocrmypdf
+# unpaper is required only if we enable --clean (see below); it is a
+# separate dependency that ocrmypdf shells out to.
+brew install unpaper
 ```
 
 Baseline command per file:
@@ -90,11 +91,22 @@ ocrmypdf \
   --mode skip \
   --rotate-pages \
   --deskew \
-  --clean \
   --optimize 1 \
   "$source_pdf" \
   "$ocr_pdf"
 ```
+
+**`--clean` is deliberately NOT in the baseline.** `--clean` runs the page image through `unpaper`, which can erase faint type, stamps, marginalia, and handwriting — exactly the content this corpus must preserve. The pilot (below) tests whether it helps on a per-collection basis; only enable it (via a config flag) for document classes where the pilot proves it improves OCR without destroying visible content. Never use `--clean-final`, which alters the visible page image more aggressively.
+
+OCR tuning for degraded scans: mid-century typewritten carbons, faint photocopies, and stamps often OCR poorly at default settings. When the pilot or QC shows low text density, escalate per-file rather than globally:
+
+- `--image-dpi 300` when `pdfinfo` reports a low/absent DPI (improves rasterization of scanned pages).
+- `--oem 1` (LSTM engine) and a `--tesseract-pagesegmode`/`--psm` appropriate to the layout (e.g. `--psm 4` for single-column reports, `--psm 6` for dense blocks).
+- Re-run with `--redo-ocr` instead of `--mode skip` if existing embedded text is itself garbage.
+
+Per-file timeout: pass `--tesseract-timeout` and wrap each invocation in an overall wall-clock timeout (config: `max_seconds`, default 1200s). A single pathological page should fail that file into QC, not stall the whole run.
+
+Encrypted / corrupt sources: government releases occasionally ship password-protected or malformed PDFs. Probe each file with `pdfinfo` first; if it reports encryption or fails to parse, flag the file in QC with an explicit `encrypted` / `unreadable` reason and skip OCR rather than letting `ocrmypdf` abort the batch.
 
 Then extract complete text from the OCR PDF:
 
@@ -119,6 +131,8 @@ source_sha256: "..."
 ocr_sha256: "..."
 pages: 12
 ocr_engine: "ocrmypdf + tesseract"
+tool_versions: "ocrmypdf 16.x / tesseract 5.x"
+ocr_options: "-l eng --mode skip --rotate-pages --deskew --optimize 1"
 text_extractor: "pdftotext -layout"
 needs_review: false
 ---
@@ -157,21 +171,23 @@ Generate one `manifest.csv` per release or collection with:
 - `text_chars`
 - `chars_per_page`
 - `empty_pages`
+- `tool_versions`
+- `ocr_options`
 - `needs_review`
 - `error`
 
-This makes the run idempotent. If the source SHA256 and tool versions have not changed, skip the file.
+This makes the run idempotent. A file is skipped only when its `source_sha256`, the recorded `tool_versions` (e.g. `ocrmypdf 16.x / tesseract 5.x`), and the `ocr_options` actually used all still match. Capturing `tool_versions` and `ocr_options` in the manifest is what makes that check evaluable — without them, a tool upgrade or a flag change would be silently ignored and stale output kept.
 
 ## Quality Control
 
 Flag files for review when:
 
-- OCR command fails or times out.
+- OCR command fails or hits its `--tesseract-timeout` or `max_seconds` wall-clock limit.
 - Extracted text is empty.
-- Average text density is suspiciously low, for example under 80 characters per page.
+- Average text density is suspiciously low, for example under 80 characters per page (candidate for the OCR-tuning escalation above).
 - More than 20 percent of pages are empty.
 - Output contains obvious binary garbage or repeated replacement characters.
-- `pdfinfo` cannot read the source PDF.
+- `pdfinfo` cannot read the source PDF, or reports the source as encrypted (flag `unreadable` / `encrypted` and skip OCR).
 
 Produce:
 
@@ -207,24 +223,26 @@ Review:
 
 - OCR readability
 - Page splitting
-- Whether `--clean` harms stamps, handwriting, images, or faint type
 - Whether rotated pages are handled correctly
+- Whether the OCR-tuning options (`--image-dpi`, `--oem`, `--psm`) measurably raise text density on the noisy/image-heavy samples
+- Whether enabling `--clean` on a copy *helps or harms* stamps, handwriting, images, and faint type — run each noisy sample both ways and compare
 - Whether Markdown is useful in Obsidian search
 
-If `--clean` damages visible content, rerun without it. Do not use `--clean-final` in the baseline because it can alter the visible page image more aggressively.
+Decision rule on `--clean`: keep it OFF in the baseline. Only turn it on for a document class if the pilot shows it improves OCR there with no loss of visible content. `--clean-final` stays off everywhere — it alters the visible page image more aggressively.
 
 ## Implementation Plan
 
 1. Add `scripts/ocr_ufo_documents.py`.
-2. Add a small config section at the top of the script for source and output directories.
+2. Add a small config section at the top of the script for source and output directories, the OCR option set, `max_seconds`, and an optional per-collection `--clean` toggle (default off).
 3. Walk `department-of-war/release-01`, `department-of-war/release-02`, and root-level PDFs in `majestic-12`.
-4. Compute source SHA256 and page counts.
-5. Skip completed files when manifest data still matches.
-6. Run OCRmyPDF into `searchable-pdf`.
-7. Extract complete text with `pdftotext -layout`.
-8. Convert text to Markdown with page boundaries and front matter.
-9. Write per-file logs.
-10. Write manifest and QC report.
+4. Probe each PDF with `pdfinfo`; flag encrypted/unreadable files into QC and skip OCR.
+5. Compute source SHA256, page counts, and capture resolved tool versions and OCR options.
+6. Skip completed files only when `source_sha256`, `tool_versions`, and `ocr_options` all still match.
+7. Run OCRmyPDF into `searchable-pdf` under the configured timeout.
+8. Extract complete text with `pdftotext -layout`.
+9. Convert text to Markdown with page boundaries and front matter.
+10. Write per-file logs.
+11. Write manifest and QC report.
 
 The script should support:
 

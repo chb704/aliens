@@ -1,0 +1,3 @@
+source_pdf,source_sha256,collection,release,markdown_file,pages,chars_per_page,needs_review,routing_model,error
+inbox/4chan Whistleblower.pdf,714e3ed07cf58a519fa399c75ba299977206a289aecd715b28045496b023f221,narratives,,narratives/4chan-whistleblower.md,133,3659.1,true,gpt-5.4-mini,
+inbox/EBOscientistA Reddit Post 7-5-23.pdf,9100897d28651e81ce6749ebcca0c958d66154e17c7e8e92c5a450f58e7cadea,narratives,,narratives/eboscientista-reddit-post-7-5-23.md,10,4338.4,false,gpt-5.4-mini,

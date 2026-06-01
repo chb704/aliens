@@ -1,0 +1,1343 @@
+---
+title: "som101-part2"
+collection: "majestic-12"
+release: null
+source_pdf: "majestic-12/som101-part2.pdf"
+ocr_pdf: "majestic-12/ocr/searchable-pdf/som101-part2.pdf"
+source_sha256: "e7253a1a159ea9ba57db3369acc66ad60fce01dd555c9a3888f5dd0cd49ee883"
+ocr_sha256: "8ca782895d89fcabdd409370859556aa3ebc2e6a25b141cf5d23d79a9716cef9"
+pages: 12
+ocr_engine: "ocrmypdf + tesseract"
+tool_versions: "ocrmypdf 17.5.0 / tesseract 5.5.2"
+ocr_options: "-l eng --mode skip --rotate-pages --deskew --optimize 1"
+text_extractor: "pdftotext -layout"
+needs_review: false
+---
+
+# som101-part2
+
+## Page 1
+
+                        TOP            SECRET                     MAJIC                EYES          ONLY
+                                           eeectrical    discharges        Uf    the    crak    is
+              peers      lo     be
+                                                                                                     functioning      te:
+                                      shandoned.    it    may     be   approached       only   hy    pecially    trained     —
+                     2 RED TEAM personnel Waring
+                                                 Pritective                             tlething. Any dewior that
+                              oe functioning should also be lofi
+                                                                 ts MdJ-—1i2 RED TRAM                            ai
+                              craft   and   parts   of   crafts    too   large    to   he   Vaneporte
+              aneport
+                                                                                                        d   by   covered
+                               will   be   disassembled,        if this ean be          accomplished easily and
+                         if they mist he trane parted whole, or
+                                                                  on open fathed (re
+                          rered in such a ma                                         ilers, they
+                                              nner as tg camoufl
+                                                                 age their shape.
+                     © rtraferrestrial Rto
+                                           logicn! Entitins
+                                                            EBEs must be rem
+                                                                                  oved 1 & top
+                       facility 38 quickly as
+                                              possible, Great care
+                                                                     should be taken to pre
+                     ossible contamination                                                  -
+                                            by alien biological age
+                                                                    nts. Dead EBFs should
+      P       packed in ise at the
+                                   earliest oppartunity
+                                                        ts Préserve tissues
+                                                                                                            Should live
+                     or encountered, they shou
+                                               ld he taken ints custody
+                                                                        and                             remowed ta a
+          p    security facility by amb
+                                        ulance.                   Every effort should be
+      be
+                                                                                                     taken to ensure
+                 EBE's        survi         Personnel involv
+                                                            ement with EB
+                                                                         Es alive or dead
+                                                                                          must
+              kept    to an absolute minimum. { See Chapter
+                                                          5 for more detailed informa-
+
+  6.           Cleansing the Area
+
+      Once all material has
+                            been removed from the
+                                                  secu                                      red site, the immediate
+                 vil be thoroughly inspected to make sure
+                                                                                   that all traces of Extrater-
+  Biria!              Technology have been remo
+                                                ved.                      In the case of 2 crash, the
+                                                                                                      sur.
+      Inding area will he thoroughly
+                                     Some over several times to ensu
+                                                                     re thai
+  ‘hing has been overlooked                              The search area involved may vary accor
+                                                                                                                      ding
+      socal conditions, at the discretion
+                                          of the                          officer in charge.          When the offi-
+          in charge is satisfied that no further
+                                                                       evidence of the event remains at the
+              it may be evacuated.
+
+              Special or Unusual Conditions
+
+The possibility exists that extraterrestrial
+                                            eraft may land or crash in heav-
+      populated areas, where security cannot be
+                                                 maintained or where large
+
+potngency Plan M.J-1949-04P
+                            / 78 ( TOP SECRET - EYES
+                                                     O                                                      N
+                                                                                                            } shou
+                                                                                                              LY   ld _
+held in read
+           should the
+                  in  need to
+                         es   make
+                                s  a                                             public disclosure heeome nee.
+iat   ry
+
+                                                                                                                        ia
+
+## Page 2
+
+                     eh     ale
+                                                                         ort                                 Feutiosiad          parte JeOYNdO                                                             Surpuad                                   rojo4
+                                                                                                                                                                                                                                                     ty uorzojos!                                                                             $9) pafuI$DIUntDOM aq
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  1
+                                                                                                  GLA|                                     duy a ta p Jo uorod JO F2oLAop TYSNOY] OF ag DAISUI]JO JO a4Isu2]ap “(uodpan
+                                                                         r
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  EYES ONLY
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      REPRODUCTION IN ANY FORM IS FORAIDDEN BY FEDERAL 1 4AM
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  oT |‘suodes.a
+     EYES ONLY
+
+                                     Ig “rs                    tay       -
+                            17 Se                             sup                         | WN VES                                                     pue quyu                                                         sydevfo gd                   ‘suey                ‘sde                               ‘SFusproses                                  Stuon2219                      “IEW!                             pal
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  OF |“TIPSY
+                                                                                                                                                                                                                                                                                                                     “Sone                           s1ueSio                            iadsns                  sage
+                                                                                                                                                                                                                                                                                                                                                                                                                                                              “ALTE
+                                     fram         GET         od                                   Ox-yaa                      pur                       Suiplial                          31Ue8ro                                      Jo ‘suusTURSI0                       JO suOMod                                           sLUSTURGIO                                        UEWUNY-LOU                              Pastaseq
+                                                                         a
+                                                                                                    oleae                                                                        “WHeay                                        Jo ajgevesral               pood                        ur quarnd e                                            susiuedio                                                                                                  Surarp-uoN                     ¢
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+                                                                                                                                                                                                                                                                                                                                                                                                  wewmy-uoU               Julary
+                     lista                   OVNAG                             |
+                                                                     ietitinetiiedad
+
+                                                                                                                                                                                                                                                     ‘ma                             ‘sapqusatur                     aruegi0                  ‘sium                oojag                                       pewosad
+                                                                                                                                                                                                                                                                                                                                                                                                                                       Sus“‘shotstacud                   Smary          8
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+                                                                            ee ee
+                                                                                  ee
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 TOP SECRET / MAJIC
+
+TOP SECRET / MAJIC
+
+                     Ted                    SP)         ong
+                                                                                                                                                                                                                                                                                                                                                                                                                                                pue saiddng               | ‘susie     |
+                                                                                                            |                           “SISHADEIEYD                                                 CEUIpPIORIXe                                            JO [ENSNUA                        FIGIyXs                     Ii                              pur AFopouySa
+                                     PS is cary                      ; a
+                                                                         Wen
+                                                                         |                                                PUP S01919s                         IWALIND                         OF WAOUY                                  JOU S[ELIOIEUI                            JO sIUaUIA[S                                    jo posodiwos                                             syuauaery                                  | paynuapriy)                                       f)
+                                      io PS                   |cay                                                                                          “ne                  ‘onsejd                       “Lunisouteu                                     “unuTnye                            vot              ‘ABOPOUYOO                                        pus asualas
+                                                                                        N-[Ofal             aun
+                                                                                                            |                  or mmouy                         se pazrusosar                                                  Apisvo                seuaew                       10 sivawale
+                                                                                                                                                                                                                                                                                 ‘sjaued           pUE                            Jo pasoduios
+                                                                                                                                                                                                                                                                                                                                  SaotAap                         jONUOS                  sjsurFery            porDossE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                              pouneapt                 §
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+                                      is PS                   |oy
+                                                                     i
+                                                                                       Ost         dd | PUE ‘fary “Sutin                                            uorsindoud                                      ayqissod                         age oi,                        sIWSE]                                   Jo s UNyDRU                                       puR Saag                                                             “quepdiowog            | ‘snap        ft
+                                      ig rS                   | tay                                                                                                                                                                                                                                                                              ‘maydwoo                                       Aysous
+                                                                     PN EO
+                                                                                                            | Ng pagewep                                og 0) sirad e                                               yom                    auigoeu                        so TLA P                       MUONIA/a                                         Jo pEOTUEYSOU                                             Auny |                                    pedeweg                   ¢
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+                                     PS      igrary                  |                                                                                                                                                                                                                                                                                                     “EuOu                              UT                      |
+                                                                                                                                                                                                                                                                                                                                                                                                                Auy
+                                                                                                            |
+                                                                                                                                                                                                                                                                                                                                                 JO PetuEYyo u
+                                                                                         doe]
+                                      IS PS                   euy        |
+                                                                                                            (P|UP PaSetiepun                    aq oy uead e you                                                                           oumseu     uo TNASP SMUCUIIA
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  iJ--12 48544
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                             “SIAM                         PEA]        |Z
+                      ote
+                              Nail
+                                     te
+                                      Mea
+                                            ST
+                                                          |
+
+                                                                                       Try
+                                                                                                                 AN TLE                   ED pure Waisapy JELS aLOOIN                                                                             nh Re IIE -1L S                                                                             20 “uontada                                                     SOE]
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                a|
+
+## Page 3
+
+                                            TOP         SECRET                                |       MAJIC                     Eyps ONLY
+
+                                                                 raiser   SRO               Ep        » Af A         To   BYERS    ONLY
+                                                            ST Ae         permemrmennnierer
+                                                                                                      ss              ee
+                                                                     EST Rar entre
+                                                                                                      Tita corey
+                                                                                                               i
+
+                                                                                   rey,
+
+T/ MAg
+                                                                                       Pde
+                                                                                        e  be |
+=                                                                                  1   ay
+
+=
+                                                                                   i
+
+=
+
+ONLY                                                                                                     ai
+
+                                                                             ee
+
+SECRET—~MAgIQ)
+                                                                             ee
+
+                                                                             ees
+
+5    fOmpartm en is                                                                                                                                    oe
+
+                                                                             ee:
+
+e national]        S@cup
+INLY         ACCESS @                                                                                                                           eee
+                                                                                                                                                       tees
+
+limited te Derg,                                                                                                                                 + eee
+
+    EARANCE     Ugg
+    horized persons
+                                   a)
+
+b fy by fe
+                                        MASS On ee
+                                                   tay FS
+                                                            ae   E
+
+           de ral     las i
+                        a
+                        .
+
+    this documeng
+
+    persons
+                   regup
+                                                                      To Fad gy
+                                                                                            on reed   the     Bid   Ply   ie
+                                                                       | Esra rae”            ra] orn
+                                                                                                    a Be
+        won                                                                                                                               Taw   Agr
+         I
+
+         hy ft d   notem                              TOP        SRORET                 ;    MAGE Ic:               pe TRS     OMNMLyY
+
+                                                                                                                                                SOM 01-2
+                                                                     Figure of, fee Mm
+                                                                                       e f MF
+
+                                Packaging and
+                                                       Packing Data
+                     : ire       Domestic Shipm
+                                                      ent.           Individual items are tagged and
+                              isture-vaporp                                                                                               wrapped in a
+                                              roof harrier
+                                                               and heat sealed. They are
+                            gated fiberboa                                                then placed in a eor-
+                                           rd box.           The voids with
+                                                                            in t he box are pac
+                                                                                                ked tho                                               roughly
+
+                                  “tat
+                                     ht
+
+                                                                                                                                                              13
+                                        P   SECR ET                       / MAJIC                                         BYERS
+                                        Gop iay iy
+                                                                                                                                         ONLY
+                                                                 ANY ROA
+                                                                       AD ES PORKIDD
+                                                                                    EN pry PRUERA
+                                                                                                  L LAW.
+
+## Page 4
+
+                                                                                                                                                                                             st ES                       ONLY
+
+                                                                                                                                                                                                                 bee         Fie              rhe ates
+                                                                                                                                         Aa                   Aya                            *       EVI                ay     La.       peasant    ee    |
+                                                                                     ai           "                       i
+                                                                                                  pe ‘             marked
+                                                                                                                        :
+                                                                                                                                               TE
+                                                                                                                                             “MASH                                 \CCESS ONLY”                                  and }ix        fresh:
+                                                                                                                                                                                                                                                  te ee|
+                                                                 a
+                                                                 t               }             i he         rem    |          Lie        fare     De
+                                                                                                                                                                  met          Pepeee
+                                                                                                                                                                                  err
+                                                                                                                                                                                      r
+                                                                                                                                                                                      aet
+                                                                                                                                                                                          FEE. ee rT                           Aer aterl at
+                                                                             t                 Fie
+                                                                                                                                    7                         r                4
+                                                                                                                                              LOST                      abo        id        placed              within              a    larger    ene
+
+                                                                                                                                              Fier                tre    Cingire                          1k    aes      ped   ‘ue nla       DUT    fread
+
+                                                                                                                  Lo            LO Le euber                        poe         bemrine
+                                                                                                                                                 Ft
+                                                                                                                                                                                                           the      folic wT                 Hilary
+                                                                                               MppINng                        code           number, and                            the                   warning.                   “MAJIC-—15
+
+                                                             i       d       +            =,                       cr
+                                                           MELTS.                                                  i berre           are packaged as
+                                                                                                                                                     described above exce
+                                                                                                                                                                          pt that
+                                                           ani           &           hurried ay                               wicicator               are           included                         within              the         inner     curry.
+                                              verboard hed                                                        prt         6th        |            F             ao
+
+     "§ ONLY
+                                                                                                          xt,                 the        box     is               wrapped                        in       a     moisture.‘vaporproof
+                                               rd heat                       taled. ‘I he fi, packased ibea ry                                                                                             Pa       hae                      let     arith     walertiron
+                                                                                                      i
+
+                                                                                                                                c
+                                                                                                                                =a                                                                                                                                                    ¢
+    2 an enany WERE NMN                                                                                                                                   _
+                                                                                                                                                                    A
+                                                                                                                                                                                        de werd
+                                                                                                                                                                                        FE            |
+                                                                                                                                                                                                               MAJIC
+                                                                                                                                                                                                               he OTF
+                                                                                                                                                                                                                                     1?      ACCES0
+                                                                                                                                                                                                                                         o
+
+                                                                                                      43ypieain,                                                   aa
+                                                                                                                                                                                                                                                                Ont   iw
+                                                                                                                                                                                                                                                                      Mk
+                                                                                                                                                                                                                                                                                  ;
+                                                                                                                                                                                                                                                                              :
+
+                                                                                                                                                                                                                                a                   50         ONLY”       on all
+
+He      This second eartcan 1a                                                       oe fe1 i ian,                 fete eae         Wy
+                                                                                                                                    MICA Jf
+                                                                                                                                          IC                                        h-wat
+                                                                                                                                                                                       "  érproof
+                                                                                                                                                                                                     Ane              proof ned WOOGEN BDIPpIng OT)
+                                                                                                                                                                                                                               tape          and
+sides
+                                                                                                                                                                                                                                                    th
+
+ atnae andheis placed within a
+                                                                                                                                                                                                                                                     he       wooden       shinpir
+
+                 lining is Sealed          yn be
+                                           ania wait:Se
+                                                           Tt                                               tf Pree EA ene
+                                                                                                                                                                                             SPPINg . eontalne
+                                                                                                                                                                                                               r                               js   reinforced         fiirther
+                                                                                                                                                                         pee            i
+                                                                                                                                                                                   P’-soout                         6    inches from each end.
+f   container                                                                                                                                                                                                                                                          Shirppinge
+                is   screwed   ahyt.   :
+                                                   i                         id                       afd          Poy adad          §       a es c u                          mihi                   urfa
+                                                                                                                                                                                                         ace of the wooden “hipping
+fy nailing two ‘/-inch metal                                                                                                                                                                                                        container
+                                                                                                                                                                                                 a        ESE    Pade Koiapririge ined print king PT mriire dita
+information is then stenciled
+                                                                                                                                                                                                  -
+                                                                                                                                                                                             crikic,           Phepes  ;
+                                                                                                                                                                                                                                             AG
+                                                                                                                                                                                                                                              fared] E,
+                                                                                                                                                                                                                                                        PaiackFo acririe
+                                                                                                  "1
+                                                                                                                                                                                               Aly.            Lata for-
+                                                                                                                                                                                                                      the
+                                                                                                                                                                                                                                                                 pi rage PU
+                                                                                                                                                                                                                                                                          Li
+
+                                                                                                                                                                                    WAVE biti ties
+led abeye Applios to pag orpanic                       |
+                                                                                                                                                                                                                                         crete miiedoani
+, and shipping af organic matter
+ni TE af this marrueal,
+
+                                              ee
+                                           Pent
+
+## Page 5
+
+                                  TOP              SECR
+                                                                ET     /     MAJIC
+                                                                                                      BYES
+                                                                                                                         ONLy
+
+                                                                     CHAPTER
+                                                                           4
+                                                   RECEIVING AN
+                                                                                       D HANDLING
+
+                                  Section |.           HANDLING UPON
+                                                                                           RECEIPT OF MATE
+                                                                                                                               RIAL
+                   B
+                        vi
+                              n
+                               ese
+                                        ti
+                                             n
+                                              is
+                                                   U
+                                                     n
+                                                      p
+                                                            a
+                                                             c
+                                                                 k
+                                                                   in
+                                                                    ang
+                                                                       d,
+                                                                             C
+                                                                              h
+                                                                                      e
+                                                                                          ck
+                                                                                             in
+                                                                                                  g
+
+                                  The   Grcrabing,        unpacking,       ard theoking proc
+                                                                                             edure fine SO
+                   Ai      —tt ACCESS ONLY"                                          ntalnere Hapke
+                                                                                                    d
+                                               will be carried ait
+                                                                   by Personnel with
+                   pe. Containers mar                                                  Mikey tlanr-
+                                      ked in thin man
+                                                      ner will be Placed
+                                                                         In storage In 4 FAP
+                   ~iuniileuch tine                                                           oer  ty
+                                    as                 aubhoriged rec
+                                                                      nnel are availibl
+                                                                                        e Aig thoes pro
+                                                                                                       ce                             pas,
+
+                        ve very careful whe
+                                            n unerating and Unp
+                                                                acking the material
+               fusting tools into the inte                                                                                                   Avoid
+                                           rior of the shipping                                        container,
+              fe    packaging ma                                                                                           Do not damage
+                                teriala any                          more than              is wbtolutely
+                                                                                                                      noceunary
+               p apocimens: theae ma                                                                                                 te   remove
+                                     teriala may                             be required for future
+                                                                                                                         packaging.          Stow
+               interior                 packaging           materiale       within             the    Bhipping container,
+              jerating and                   unpacking
+                                                                                                                                             When
+                                                                the specimens
+                                                                              ,             follow     the procedure
+              rough (10) below:                                                                                      giver                   in   (4)
+
+                        it)
+                                                                                                        :
+                                    Unpack           the specimens in
+                                                                                 a top security area
+                                                                                                     to prevent AtCeRE
+                                   of unauthorized personnel,
+                                                                                                                  |
+                        (2)        Cut           the metal wirea
+                                                                 with a suitable cut
+                                                                                     ting tool, or twist
+                                                                                                         them
+                                   with pliers until the atrapa erya
+                                                                                               tallige and break,
+                        (i)        Remove serewa from the
+                                                          top of the shipping con
+                                                                                  tainer with a
+                                   acrew          driver,                         :
+                       (4)
+                                                                                                                                :
+                                   Cut the tape and
+                                                    seala of the ease
+ul ies                                                                liner ao that                                        the waterproof
+                                   paper will be damage
+                                                        d                  as little as possible,
+    A oa     (5)                   Lift out the packaged
+                                                         specim                       ens from the wooden
+>     eee
+                                                                                                                           case,
+                       (6)        Out        the    tape    whieh     seal       the       top    flaps
+“i                                                                                                           of   the   outer       cartons:
+                                  careful not to dam                                                                                              he
+                                                     age the cart                          ons.
+    ae                 (7)        Cut the barrier along the
+                                                            lop heat sealed aeam and
+    - PY                                                                             carefully
+                                  remove the inner car
+                                                                     ton,
+     Bi             (8)           Remove            thé   sealed     manila           envelope         from       the    top   of    the     inner
+                                  Carton,
+
+                    (#)           Open the inner carton and remove the fiberboard ingerta,
+                                                                                                                                             doasi:
+                                  cunt, and humidity indicator,
+                   (10)           Lift out the heat sealed packaging containing
+                                                                                the specimens:
+                                  arrange them in an orderly manner for
+                                                                                                            inspection,
+                   (11) Place all packaging material in the shipp
+                                                                  ing container for use in
+                        future repacking,
+            di, Thoroughly check all items against
+                                                   the shipping documenta, Carefully
+
+              12 Aa
+
+                                                                                                                                                  1s
+                   TOP SECRET / MAJIC                                                                 BYES ONLY
+                   REPRE                     PLN DN        AN    Bei
+                                                                   p Bee bee          ye
+
+## Page 6
+
+                             \
+
+                                                  he
+                                                            AS
+                                                                 S
+                                                                       et      F
+                                                                                              E
+                                                                                                  R
+                                                                                                         aa
+                                                                                                                   y
+                                                                                                                       a.
+
+                                                                A. Stee.
+                                                                       a
+                                                                                                                                       :
+                                                                                                                                   wan”
+
+                                                                a ac
+
+                                                                                                                       Dero
+
+                                                                                                              ete   eel      pe
+
+                                  Sane        F
+                                                                owas        ‘aie
+
+3
+                                                                                                              MMe TP asi
+
+                                                                                                          a dae ¥            oe
+
+                                                            k
+
+                                                                                                              Genie oes
+                                                                                                          ee
+
+                                                                                   "7     a              We         a ee yg
+                                                                                                              ar
+
+                                                                                   eter       a
+                                                                                                         fea ee
+                                                                                                                        pe
+
+                                                                                   dee
+                    2
+
+                                                                                   Sov
+
+                              #
+
+                                                                                                                       A          ye
+
+                        ey         eke                          ee
+
+       “M possible dam
+                       aie during =UD
+                                     PINE Gr                                                      handing.
+      LL   wna
+                                                                                                                       Sort the
+                    ag Oh
+                                  TUMher               in       prwparation                       for   transfer             to    the
+             Of Cifvartroent
+                                              Laboratary                      ar department per
+    ’ Far (Pansport                                                                            siatitied
+                    iog      items        ta the designate
+                                                          d areas.                                            This will he
+      unas        aia   pastas hte       by
+                                                  COVEO transport escorted
+                                                                           dy sary.
+
+                                                                                                                                    16
+             vET ) MAJIC                                          EYES                             ONLY
+             VY   ANY     Fory                    +b   ue
+
+## Page 7
+
+                      a.    This se
+                                    ction
+                                              deals
+                                                    with e
+                      h! Entitie                           ncou
+                                 s   (EBEs)                             nters
+                                                                                 With Ji
+                  PNAC BBS                         Such en                               yj
+                                                           count
+                                     —O1 and w                                    ‘under
+                                              ill be dealt                                    ¢
+                  on deta
+                          ils        the resp              W               ith by this gp
+                                              ou    sibilitie
+                  act                                         s   fi
+
+                 ~.     General}
+
+JIQ]            Any en
+                       coun          ter with
+                sidere
+                                                entities
+                       d to be                 known
+                                                        to he O
+                                4 Matt
+                                        er of N                 f extrate
+                ECRET                           ational                   rrestria
+                      . Unde                             Security
+                              r no circ                            and th
+                                        umstan                            erefore
+                                                ce iS th                           classifi
+                                                         e genera                           ed TOP
+                                                                  ]     I
+
+nk         J.    F NCou
+                              nters
+
+la         Encoun
+                  te         rs with
+                                     EBRe m
+                                            ay be            Classifie
+                                                                          d accord
+                                                                                   ing to o
+          1      Encou
+                                                                                            ne         of the fo
+                            nters                                                                               llowing
+                                     tnitlate
+                                               d by E
+          peult of o                                 RRy
+                           vertures                                    Possib
+                                    by
+                              the eNtiti                                        le con
+                                                                                       ta
+          bied that C                   es themse
+                                                                ct ma
+                                                                       y take
+                      NCounterg w                 lyes. In
+                                                           th
+                                                                               Place
+                                                                                      as a
+                                  ill take Pla                e se instances
+          Pure
+                                               ce at Milita                   it ig antici
+                                                            ry installati
+                  locati
+                            ons   Sele                                                     -
+                                         ed   by   mutu                    ons or oth
+                                                           al   Haree
+                                                                         ment
+                                                                                    Such
+                                                                                        er
+      Ray from                                                                                meeti
+                                                                                                   ngs
+               Public Scr                                                                                 would
+                                                                                                                   have
+                          utiny.                       Although
+      rere als
+                  o exists                                      jt is not
+                                  the PO                                  considere
+     ior ndtiee                         SRIDIlit
+                                                    y thar                                        d very p
+                                                                                                           robable
+                            In this ease                     EBEs m
+                                                                           ay land                                     ,
+                                              the OPNAG                                IN pub
+      " Pre
+           ss                                                     Team wil] fo                lic p    laces W
+                                                                                                               ithou
+                                                                                      rmulate Cove
+                      and p
+                            repa     re bri                                                                            t
+     if     Lncounte
+                             rs G8 the
+                                           efing
+                                                   s   for th
+                                                              e Pre
+                                                                    siden
+                                                                                                        r stories for
+                                       res
+                                   is of dow
+                                                                          t       and th
+                                                                                         e Chie
+     dents g                                   ned ‘uf                          of Sta          fs
+               r craft d                                    Contact
+                                                                                       ff.
+                         owned b                                        With surv
+   ath little                      y natura                                          ivors of
+              op 0 WH                         l events
+                        rniny Jn                         or milita
+    t he limit                     these CH                        ry action
+               ed to mil                     Se8, it iy                           HMAY oecu
+                         i tary Pers                    iMportan                             r
+  l the arog                         on ne) tg Pre               t  ¢ h a t  the initia
+               will be de                          acrve SOC                            l cox.
+                           tained and                        UriLy Civ
+                                                                            ilian Witn
+                                        debriefed                                       esses
+                                                    by Mu                           ‘AZ
+ ' ictly limited                                                                            Contact w
+                                                                                                          ith ERE,
+                            LO Action Nee
+                                              n "Ory LO ONsu
+                                                                       re the Availa
+                                                                                          bility of the
+                                                                                                          EREs for
+     i?    4Agan
+
+                                                                                                               1?
+
+## Page 8
+
+                                                           TOP SE
+                                                                  CRET                                   / Ma
+                                                  j isolation and
+                                                                                Custody
+                                                   on,    EBEs will he de
+                                                                                   tain ed by
+                                                                                              W           ‘i
+                                                                                                          hatever Mea
+                                                                                                                     ns» ire ne
+                                                   secure locatio
+                                                                          n as soon as
+                                                                                                 Possible,
+                                                                                                                                            cessary and removed
+                                                  Fcoming In co                       Precautions
+                                                               ntact with EB                      will be taken
+                                                  ontamin
+                                                                             Es to mi imi                       by person.
+                                                          ation by
+                                                                   unknow                                i
+                                                is or breathing            n or                         ganism
+                                                                                                                 s,
+                                                                           apparatus of som                            If the en
+                                                                                                                                 tities
+                                                                                            e
+                                                                                                                                              are wea
+                                                   damage to                                                    kind, care Should                     ring          space
+                                                             these de                                                                       he ®ercised to
+                                                  well-being
+                                                                                        vices.      While all
+                                                                                                              efforts sh
+                                                                                                                                                                          re-
+                                                                    of the EB                                                       ould be tak
+                                                                              Es,              they mus                                        en             t¢
+                                               huthorized Personne
+RET / MAg
+                                                                                                        t he isola
+                                                                                                                  ted from
+                                                                   l,                   While it is not cle                                    any
+                                               cht he require
+                                                                    d by non-hum                           ar                      E:)       isions or amenities
+                                                                                                 an entities, th
+                                                  The officer in                                                        ey should be
+                                                                          charge of the                                                       Provided if po
+                                                                                                        Operation will                                      ssi.
+
+SONLY ©
+                                               ho guidelines                                                               m
+                                                                    now exist to
+                                                                                  this area. cover
+                                                 Injured or
+                                                               wounded en
+                                                                             tities will be
+                                             igned to
+                                                       the OPN                               treated by
+                                                                 AC Team                                medical pers
+                                                                           . If the te
+                                                                                       am medical                      onne]
+                                             tely available, First Ajd                             Personnel ar
+                                                                         will be administ                       e not imme.
+                                              he initial si                               ered by Medica
+                                                            te Since lit                                 l Corps person
+                                            f be confined
+                                                                        tle js know
+                                                                                     n ab                                ne]
+                                                                                                                     out EBE hiol
+                                                                to the stop
+                                                                           ping of blee                                           og         ical functions
+                                            fof broken                                                     ding, band                                              , aid
+                                                             limbs.                                                  aging of w
+                                                                               No medicatio                                     ou
+
+mu an ie ds
+                 rt 'n Ong                                                                                                                         nds and sp
+                                            L effects of terr                                           ns of any ki                                         lint.
+
+                     i:
+                                                                                                                        nd are to be
+                                                                    estrial] medica
+
+                                            “8 will he moved by closed ambulance
+                                                                                                                                              administered
+                                                                                               tions on non-hu                                                          ag
+                                            possible to                                                                   man biologica
+                                                        predict.                                                                                   l systems are
+
+a\ct rP| ; > Derg In dealing                                 or other suitable conveyance to a
+                                                                               As soon as
+                                                                                          the              injuries are
+                                                                                                                              considered
+                                                                                                                                                   stabilized, th
+
+        pal "er Seemaramount imwpoith any living Extraterrestria| Biological En
+                                                                                                                                                                          e
+
+                                    rtance. All other considerationg are seco tity, security is
+                                                     7 consid
+                                                               ered acce
+                                                                              ndary, Although
+                                                                               4in the physica
+                                                                         pt able
+                                                                                                           ] we ll-being
+                                                                                                                               of ANY © nity, th
+                                                                                                                                                         e lose of
+                                                                                               jf conditio ne
+                                         ihe   way CO
+                                                      Mprom
+                                                                                                                      or delays          to preserve
+                                                                       ises the
+                                                                                     security of                                                         that life
+                                            Gnice th                                                       the opera
+                                                     e OP       NAC ‘T                                               ti   ons,
+                                                                                e Ain    has ¢ aken cu
+                                cS       hsportation                                                            stody of the
+                                                            to desipnate                                          s, their care an  F BE
+                  4 M@BEESonnel,                                                  d facilities
+                                                                                               becomes th                          d
+                                                         Every cooperation                               e responsib
+         ,
+                                                                                         will be extended            ility of OPN
+                                                                                                                                  AC
+                                                                                                                       to the team in ca
+                     re “
+                                       Fduties’
+             ,
+                                                         OPNAC
+                                                                    Team pe
+                                                                            rsonne                  ]    Will
+                                                                                                                                        rrying out
+                 »
+                                paee                                                                             he   given
+         ¥                                                                                                                        TOP
+                                      e’®
+                                             rega
+                                                                                                                                           PRIORIT
+                 *    G Mathority
+                                                    rdless
+                                                                                                                                                         Y at
+                                                              of    their
+                                                                                                                                                                    all
+                                                   to interfere with
+                                                                                 appa
+                                                                                             rent
+                                                                                                        rank
+                                                                                                                or
+
+                                                                     the OPNAC Te
+                                                                                                                      status
+                                                                                                                              ,      No
+                                                                                                                                            pers
+
+                                                                                                                 am in the perfo
+                                                                                                                                                   on
+                                                                                                                                                         has
+                                                                                                                                                                   the
+                                                  *pecial
+                                                             directio                                                           rman
+                                                                     n of the                                                                           ce
+                                                                                             Presiden                                                        of    jts
+                                                                                                            t of the
+                     ng                                                                                              United
+                                                                                                                                         States,
+                                “a
+
+                                                            Section if.
+                                                                                     NON-LIVIN
+                                                                                                            G ORGAN
+                                                                                                                              ISMS
+
+                                        Scope.
+
+                                                retrieva
+                                                         l      for       Shere ifie
+                                     Pais                                                     Sttidy       of   caday er
+                                             wy]    hie    Carrie                                                         a       and othe t
+                      1
+                                                                   d   (it      hy      Si    lical Personnel                                biological}
+                                                  Hee We “ of                                                          | familiar with
+                      ee.aa                                            SACUTILY
+                                                                                        consider                                       this ty               ne of
+                                     done by no                                                          4AUOns, such
+                                                n Medica]                                                             collect (On             May need
+                      ee i ee
+                      bon
+                                                                                                 This Section wi                        to
+                                     rieval OT es YT Mer                                                         l| pray ile
+                                                 .       y          Hy   idl                                                 fUidanece fo
+                                                                                erhov a! af cada                                          r
+                      a
+
+                                                                                                vers and Te
+                                                                                                                               miins in th
+                      .eroe                                                                                                                e         held
+
+                                                                                                                                                                   18
+
+                                                                                                    rd
+
+## Page 9
+
+                                    :
+                     ine le
+                                                                            ic remains will vary depen
+                                                                                                      ding
+                            ngth
+                                   of tim
+                                            e the
+            hd        may                         rema
+                              he                           ins ha
+                                   accele                         ve     been
+                                         ratad                                Ving
+                                                    by   both                          in the
+                                                                 loca!   Weath
+                                                                                 eT con
+                                                                                        ditio
+                                                                   Lnens Will                ns
+a                                                        Preserv                     be Temoved
+                            A Photo
+                                        graphie                  e the
+                                                                         TeMmai                     from
+                                                   Pecord                       ns   in a<
+           pndved                                         w                                Poo
+                           from the                          ill be m                           d a Co
+FE         &          Personnel N
+                                        site                             ade O
+                                                                                 f all rem
+                                                                                          ains befo
+                                                                                                       nditio   n as
+
+                                        Volved in th                                               re they a
+                                                                                                                 re
+                aa
+
+               oo:   ULIONS
+                              to Mun
+                                                         is ty
+                                     imiz      a
+               ul’F
+               fil
+                      ed
+               ad
+               1     iy
+
+     ri’   toa        Sere
+                               facility.
+
+## Page 10
+
+                                            VATIOC UVES Omey ”
+                                 Full
+
+                                                                                                    he
+
+                                                                                                                  i;
+                                                                                                                      -"
+
+                                                                                                                           -
+
+                                                                                                                           i
+
+                                                                                                                       1
+
+                eo
+
+                                                                     PE hy
+                                                                                   ira a
+                                                                     al   oe! ee                   ee,
+                                                                                        ee   Om
+
+                                                                                                    “Wy
+
+                                                                                              or          *
+
+                                                   5
+                                                                                                   ee
+                                                                                             ao    h          i
+                     =   6   9     2
+                                        0
+                                            ee +
+                                                    ae
+                                                   Ap
+                                                         li a
+                                        i
+                                            ae
+
+                                                           =          7 “Ls tk               oe                            p
+                                                               ay
+                                                                             rina
+                                                                                             oS    ae
+                                                                                 uals                                          .
+
+                                                                                                                  ‘
+
+                                                               TUE   Aerts cat eens
+                                                                                                          |
+                                                                             Mak aria
+
+            Figure 4 Extroter
+                              restrie! cro                     st.
+
+iP SECRET / MAJIC EYES
+ee DUCTION IN ANY FORM 1S FORB
+                                                                             ONLY                                                  :
+                                                       IDDEN BY PEDERAL LAW.
+
+## Page 11
+
+                                                                                                                     Tome they
+                                                                                                                                        |     OOF G
+                                                                                                                                                                       uare
+                                                                        F cnt             sgh toe ae
+                                                                                                                            ines
+                                                                                                     '    Pofik
+                                                                                                               h,
+
+                                                                                                     ‘et
+                                                                                                                A   deteet
+                                                                                                                               ine     sch
+                                                                                                                                                  ist
+
+\NLY                                   ©
+                                                                                           ‘g
+                                                                                                    e
+                                                                                                         l
+                                                                                                                ale
+                                                                                                                   e,
+                                                                                                                                ‘riet
+                                                                                                                                        ioen
+                                                                                                                                                  iate
+                                                                                                                                                      dy
+                                                                                                                                                             ,    he
+                                                                                                                                                                       rypd
+                                                                                                                                                                                       's
+                                                                                                                                                                                             de
+                                       a
+                                                                                                                                 belied
+                                                                                                                                                                                                  ;
+
+                                                                                          eral,
+                                                                                                                                      |
+                                                                                                      toonet
+                                                                                                             s              Which
+                                                                                                                                        shoagt
+                                                                                          ra                                                           a   bw
+                                                                                                     l     Teltabi
+ECREY                                                                                                                       le Mam
+                                                                                                                                   e        erg,
+                MAdIn                                                            nba
+                                                                                                    of   a      they
+                                                                                                                                                       TP
+                                                                                                                                                                      twee        ny         Hina
+                                                                                                                             his tid                                                                       a?    3
+                                                                              ‘ate                                                     seas       ih
+ COM                                                                                       10       this
+          PAR                                                                                                whe
+                   , ho                                                                                                 e
+                        n         g
+                                                                                                                            Sa
+                                                                                                                              s ie
+                                                                                                                                   tye                                                                                     ? erepeaen
+                                                                                                                                                            ant
+                                                                                                                                                                             tg                  the Pe
+patio                                                                                                                                                                                                   t ate co
+               n
+                                  *,
+
+                    Sou,                                                                                                                                                                                         na                      ich
+                                                                                                                                                                                  mF        ren
+NLY       Ac
+                                                                                                                                                                                                           te    regewe
+                                                                                                                                                                                                                             s   w
+               CES§2                                                                                                                                                       Popa                       a it Vol vih
+                                                                                                                                                                                                                                     tach
+
+                                                                                                                                                                                                                   y        Wapaey ad
+milled
+               te    Pen
+                                                             Rules o
+                                                                     f Thum
+ARANC
+                E        ya                          '
+                                                                  y      UPO
+                                                                                 R
+oriee                                                                                Caines
+                                                                                                    bay
+      d        PCr s                                                                                         ied    hae D
+                         ag                         vies                                                                     idge
+                                                                  of    thumb
+                                                                                                                                  d     Mdiv
+                                                                                                                                             iccia
+                                                                                     ,”    gpdes                                                   ll                 y   but
+                                                                                                           ach
+e ly
+                                                                                                                                                                                            (here
+                                                   wmin                                                                 of the
+         fodera
+                                                        tid                                                                                                                                                are
+                                                                  ifs   Jetern                                                 Ferd                                                                              &    tim
+                                                                                                                                                   trays h                                                                b
+               l
+                                                                                                                                                                                                                                 er
+                             hh
+                                                                                     ninin
+                                                                                          gy th
+                                                                                                e
+                                                                                                                                                           tdin            ues.
+                                                                                                                                                                                                                                         af
+                                                                                                                HOce                                                                             which
+                                                                                                                                                                                                                ab Ah
+                                                                                                                     m
+                                                            Lat
+                                                                             a
+                                                                                                                              aty fo
+                                                                                                                                     r      falt                                                                                 portiye
+                                                                                 of A                                                                  er. ap
+                                                                                      d                  rage
+                                                                                                                                                                  ,   UV Pa
+                                                                                                                                                                                        l
+                                                                                                                    Whey                                                                     teat
+                                                                                                                                                                                                       iggy
+                                                         rida,         the                                                                Murat
+                                                                             Proba                                                                         in af
+‘hh is   doey m
+                                                                                           bilitie
+                                                                                                         s are
+                                                                                                               Beat
+                                                                                                                                                                             *tight
+                                                                                                                                                                                   in                  g   be    bewia
+                      ej                        uo OF Can                                                                         Chat                                                                                     thugs,
+                                                          thon, how                                                                           te   be      pn
+                                                                                                                                                                                                                                      hid
+                                                                    ever, shou                                                                                         Worth
+                                                                                                                                                                            y
+                                                                               ld                                            a large nu                                                           of Fillg
+                                                                                                                                                                                                          w          eun
+rso
+         On
+                                               on
+                                                                 af                                                                                mber Of in                                                                    Ap
+           s
+                    peg
+                                                                        Unusu
+                                                                                     al    Might                                                                                  dividual ob                                            q
+                                                                                                         ing       of   4                                                                                        servers cu
+                         1                                                                                                   few     sewon
+‘MJ—                                                                                                                                       ds              durati
+           12                                                                                                                                                     o          n,
+                     @                         &         Number
+                                                                                                                                                                                            it    ahould
+                                                                                                                                                                                                                     fot
+                                                                             af Perso                                                                                                                                      be     dia
+                                                                                                ns Repo
+KHON       In       g ny
+                                               nurle
+                                                            ind
+                                                               ivid
+                                                                                                                    rting the
+                                                                                                                                       Olmhti ny
+                                                                                                                                                                 Short duration
+                                                                   yala
+                                                                                          are
+
+                                                                                                                                                                                                                *tehtings
+                                                                                                    eddo
+                                                                                                             ry,
+
+                                                                                                                                   by
+                                                                                                                    wort
+                                           depend                                                                              hy
+                                                                                                                                     of
+
+scribed                                            ent obse                               d keri                                            Fee
+                                                                                                  -igey
+                                                             rvation
+                    no
+                                                                                                         Twa
+                         i
+                                                                     s Carry                                  ine
+                                                                                                                  tlie
+                                           tidus ob                           the Wei
+                         .                                                                                             ee COM
+                                                    servatio                          ght of
+                                                                                                                               pete
+                                                                                                                                    nt
+                                                             ns   As Ar M                        10 or m
+                                                                           uimnple,                       are MH
+                                                                                     eu                            MULANeG
+                                            ine lig                                      onle al                              S ine;
+                                                     ht-in th                                            ot ape
+                                                              e     ©                                                ray obac
+                                           ‘ople obse                    ths, how                                               rve A
+                                                      rving the                   ev er, has
+                                                                same High                        lees wei
+                                                                           t from di                      ght than
+                                           subion                                    fferent lo                         two relia
+                                                  Fy ts in                                          cations                       ble
+                                                                             dicated                                                                                                        in the la
+                                                                                                ,                                                                                                    tter ease
+                                           y        Distaneg from                                                                                                                                                                    i
+                                                            Lovation Of
+                                       Phich mogi th                     Saghtings te
+                                                     e preliminar                      Neurest Pie
+                                                                  y CTHOTION st                      l (nag    Reports
+                                          their                                 ated abeye sh
+                                                         24 in the                           ould all be H
+                                         hcerned,                    H U ed jate Operatin                   Ve st iated
+                                                      ! ports                             g YiCulily of
+                                                                 involving                              the squadron
+                                        igh    t be judged as being         groat                                                           er
+                                   NCOs CO
+                                                                                                         jn, ersely Proportiodistances,                                                follow-up                     heceasity
+                                          nCerned                                                                                                      nal       to the
+                                                                                 Fup eX                                                                                                     square of
+                                                                                        ample
+                                                                                              BA
+                                                                                                                                                                                                      the                    dig.
+                                                                                                                            Occurrenc
+                                                                                                                                                  e 150 mile
+                                                                                                                                                             s a Way m
+                                                                                                                                                                       ight                                           he con.
+                              W123 4azan
+
+                                                   Mab SECRET / MA                                                                                                                                                           21
+
+                                                                                           iN       ANY      FORME
+                                                                                                                                     JIC B YES ONLY
+                                                                                                                             Io FORB
+                                                                                                                                     ID            DEN           jy       FEDER
+                                                                                                                                                                                                 AL Law
+
+## Page 12
+
+                                                                                                                                                                                                                                oe
+
+                                                                                                                                                                                                                                ee
+                                                                                                                       APPFNDIEZ i
+                                                                                                                                                                                                                                a
+
+                                                                                                          HEFEHENCES
+
+                                                                                                                                                                                                                                Te
+
+                                                                                                                                    i     a    ie            al    e            all      .
+                                                                                                                                                ;             ceeding                        Geesigie          ts
+
+                                                                                                          r                    E     m    #,    ;   SOP a    hie   a.4          - CDE         ees        Mn     :
+
+a
+                                                                                                                               ASUS DLCs Gd Shee Coerasins
+
+) Nf a Y                                                                           gyi F                          i                 hm ant OTE aie af Mabe at arts Row          Za,
+
+                                                                                                                                                                                                                        ees
+
+                          -          rig               ‘                                                                                                                                                                ee
+
+                                                 #     fF                         yf  rd
+                                                                                  Pee Ue erry
+
+                               aoe               ce
+                                                 iva
+                                                                         ee                          |
+                                                                     gh                 2        Tried off                     Tracing Mangala
+    rs
+                ses                                                                                                                                                                                                     tegen
+                                           iFify
+                                                            fea             Gicatttl]
+                                                                                        4
+                                                                                                 }       tetas
+                                                                                                                        aft        lechsiead
+                                                                                                                                                      Manuals
+                                                                                                                                                                       .   "T     wee   Kal
+                                                                                                                                                                                                    Hels                Te
+
+                          }                 tg        ti                                                  ‘wna,                     Teeniicsl               Bytledies
+                                                                                                                                                                                                                        are)
+
+                                                                                                                                                                                        Supply      Fu       lerip
+       Pe
+            t    k4           Darenc                                                                          f       sshele
+                                                                                                                                                                                                         ,          :   te
+                                                                                                          Abe ons                              Orders,         aid         Usdificrtion              Wark
+
+                                                                                                          Cedars
+                                                                         Sith    Beh            index of Administrative Publications
+       ah        ere ees                                         ;               rrr. Hy                 r
+@ hy        fe po
+            oe        a
+                                     ME geen
+                                     fee   Ly
+                                                                                                index of lables A Grysnisation and Reguigtnet
+                                                                                                          Hod izetion:                    Tables,           Table           nf           Ct pari ation,
+
+                                                                                                          Tables of Rquipmient, Type Tohies of Distr;
+            AGOW Hane 4                         feiy
+                                                                                                          bution, #64 Tables of Allow snes
+                                   PU)                 eee) Equipe Melerences
+
+                              i%     ferr ry)
+
+                      Ol Gs                 |.        Photographic Ref
+                                                                       erences
+
+                                                      TY 11.                    AH4A            Photographie Print Proceeeing Unit
+                                                                                                         Al | TH
+                                                           f lietOh                         Processing Equipment PH      466
+                                                            i inf]                            Elemente of Rignal Photayrayiis
+                                                            ee
+                                                                     |          eaGd          Darkroom PI                                 992
+
+                                                             FOP BECRET |                                                          MAJIC EYES ONLY
+                                                            "ee et                 ier ae       Pay               POP
+                                                                                                                    M I              POR RIOR                 BY   FROER AL                   LAw
+
+                                                                                                                           ea        ee

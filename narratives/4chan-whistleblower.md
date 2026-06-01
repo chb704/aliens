@@ -1,0 +1,8729 @@
+---
+title: "4chan UFO Knowledge Whistleblower Thread"
+collection: "narratives"
+release: null
+source_pdf: "inbox/4chan Whistleblower.pdf"
+ocr_pdf: "narratives/ocr/searchable-pdf/4chan-whistleblower.pdf"
+source_sha256: "714e3ed07cf58a519fa399c75ba299977206a289aecd715b28045496b023f221"
+ocr_sha256: "bbd981d87f153ed5c7f17bdce9928fbe0732bc14bf172bdac722a5f039fc196c"
+pages: 133
+ocr_engine: "ocrmypdf + tesseract"
+tool_versions: "ocrmypdf 17.5.0 / tesseract 5.5.2"
+ocr_options: "-l eng --mode skip --rotate-pages --deskew --optimize 1"
+text_extractor: "pdftotext -layout"
+source_origin: "inbox"
+routing_model: "gpt-5.4-mini"
+document_type: "forum post"
+date: "2023-04-25"
+summary: "The document is a 4chan /x/ thread in which an anonymous poster claims intimate knowledge of current U.S. UFO information. The poster describes UFOs as unmanned drones produced by a mobile construction facility in the ocean, says the U.S. believes it has been active for at least a century, and answers follow-up questions about origins, communication, and propulsion."
+people: []
+organizations: ["4chan", "U.S. government", "DoD"]
+tags: ["UFOs", "whistleblower", "4chan", "ocean", "AI", "gravity manipulation"]
+needs_review: true
+---
+
+# 4chan UFO Knowledge Whistleblower Thread
+
+## Page 1
+
+18/12/2025, 21:55                                            /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+       This website uses cookies for some features and usage tracking.                   Show purposes           Reject Cookies
+
+          Accept Cookies
+
+       Archives: [ adv / f / hr / o / pol / s4s / sp / tg / trv / tv / x ]
+
+        /x/ - Paranormal                        4chan       Index           Gallery     Random        Stats
+
+                                                           Search or insert post number
+
+                                                                                UFO Knowledge Anonymous Tue [401 / 86 / 140]
+                                                                                25 Apr 2023 00:52:23 No.34629564
+                                                                                  View   Reply    Original   Report
+                                                                                Quoted By: >>34629623 >>34629651
+                                                                                >>34629685 >>34629712 >>34629726
+                                                                                >>34631483 >>34631658 >>34632197
+                                                                                >>34632645 >>34632798 >>34632886
+                                                                                >>34632894 >>34632936 >>34632958
+                   1MiB, 1400x787, ap21154653162696_wide-                       >>34633270 >>34633274 >>34633886
+                 702cdd60ca865169cd9de0796c9c44331ae7062f-
+                                                                                >>34634422 >>34634512 >>34634593
+                               s1400-c100.jpg
+       View Same      OCR      Google    iqdb   SauceNAO       Trace           >>34634871 >>34634976 >>34635880
+                                                                                >>34637741 >>34638159 >>34638935
+                                                                                >>34639756 >>34641130 >>34641770
+                                                                                >>34642551 >>34645736 >>34646123
+                                                                                >>34646960 >>34647915 >>34647922
+                                                                                >>34649307 >>34649892 >>34650979
+                                                                                >>34651260 >>34651460 >>34651579
+                                                                                >>34651875 >>34652903
+                                                                                >>34653681,35 >>34653681,36
+                                                                                >>34653681,63
+
+          I have intimate knowledge of what the US currently knows about UFOs minus the last two years.
+
+          - UFOs are primarily unmanned drones
+          - UFOs are built to spec each time they are deployed
+          - UFOs are created by a mobile construction facility that hides in the ocean
+          - Construction facility destroys anything that comes close to it and will disappear for days when approached
+          aggressively
+          - US believes the facility has been active on earth for at least 100 years or much longer
+
+          Fire away on questions I'll answer what I can you won't be disappointed.
+
+         Anonymous Tue 25 Apr 2023 01:00:11 No.34629623                                  Report
+         Quoted By: >>34630513
+
+             >>34629564
+             What is the main body of government that is collecting information on UFOs? The DoD if so which branch is
+             the most active in collection of information?
+
+         Anonymous Tue 25 Apr 2023 01:03:25 No.34629651                                  Report
+         Quoted By: >>34630513
+
+             >>34629564
+             what about biological entities? Are all ufos come from the same source? I think there's probably more
+             factions/groups of them.
+
+         Anonymous Tue 25 Apr 2023 01:09:18 No.34629685                                  Report
+         Quoted By: >>34630513
+https://archive.4plebs.org/x/thread/34629564/                                                                                     1/76
+
+## Page 2
+
+18/12/2025, 21:55                                               /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+             >>34629564
+             Does this have any relation to oumuamua?
+             Is there a working theory on the origins, if so care to elaborate?
+             Has any form of intelligible communication been established?
+
+         Anonymous Tue 25 Apr 2023 01:15:22 No.34629712                                   Report
+         Quoted By: >>34629743 >>34630513
+
+             >>34629564
+             do they know who or what is creating these craft? any potential that they are made by a higher branch of the
+             U.S government? What allows them to fly so fast, what technology?
+
+         Anonymous Tue 25 Apr 2023 01:17:53 No.34629726                                   Report
+         Quoted By: >>34630513
+
+             >>34629564
+             they are piloted by an undersea intelligence, aren't they?
+
+           View Same    OCR      Google    iqdb   SauceNAO     Trace    secrets of antigravity.jpg, 41KiB, 333x499
+
+                              Anonymous Tue 25 Apr 2023 01:21:37 No.34629743                                  Report
+                              Quoted By: >>34630513
+
+                              >>34629712
+                              not OP but you might dig this. Explains all that in more detail than you'd
+                              ever want
+
+           View Same    Google    iqdb    SauceNAO     Trace    mars-globe-valles-marineris-enha (...).jpg, 667KiB, 2000x2000
+
+                                          Anonymous Tue 25 Apr 2023 03:24:34 No.34630513                               Report
+                                          Quoted By: >>34630656 >>34630795 >>34631412 >>34632681 >>34633910 >>34639967 >>34643141
+                                          >>34648920
+
+                                          >>34629623
+                                          It doesn't officially exist and I won't use the internal name on here either.
+
+                                   >>34629651
+             The US seems to believe so yes. There have been encounters but my information is limited since my
+             specialty lies elsewhere.
+
+             >>34629685
+             >oumuamua
+             No.
+             >Is there a working theory on the origins, if so care to elaborate?
+             Quite a bit but we think the construction facility has been around since at least 4000 BC. See
+             sightings/paintings from the early eras of history.
+             >Has any form of intelligible communication been established?
+             Yes, it also depends on your viewpoint. They mostly want very little to do with us until we start to talk about
+             war and nuclear options. It's one of the reasons why you see them so often at critical events.
+
+             >>34629712
+             >do they know who or what is creating these craft?
+             Yes, as mentioned earlier the mobile construction unit is responsible for their deployment and construction
+             >any potential that they are made by a higher branch of the U.S government?
+             Absolutely not.
+             > What allows them to fly so fast, what technology?
+             Gravity manipulation and the materials they are constructed from.
+
+             >>34629726
+             We think the construction unit is driven by AI. The response time to threats is almost instant and usually very
+https://archive.4plebs.org/x/thread/34629564/                                                                                       2/76
+
+## Page 3
+
+18/12/2025, 21:55                                        /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             calculated and well thought out.
+
+             >>34629743
+             You all should pay attention to this.
+
+             The majority of UFOs as I mentioned previously are built to spec and purpose. This is why they are always
+             different sizes. The contents and equipment usually mimic the intended purpose too.
+
+         Anonymous Tue 25 Apr 2023 03:48:59 No.34630656                          Report
+         Quoted By: >>34632449
+
+             >>34630513
+             >construction unit
+             Is it related to that one under rock in that one scandinavian country? the one that deploys within tectonic
+             spaces?
+
+         Anonymous Tue 25 Apr 2023 04:07:18 No.34630761                          Report
+         Quoted By: >>34632449
+
+             ">any potential that they are made by a higher branch of the U.S government?
+             Absolutely not."
+
+             Bullshit, governments have (and have had for a while) advanced antigravity crafts
+
+         Anonymous Tue 25 Apr 2023 04:12:30 No.34630795                          Report
+         Quoted By: >>34632449
+
+             >>34630513
+             Do the UAPs return back to the manufacturing unit? What are the purposes of the UAPs? Surveillance of
+             humans?
+
+         Justincase !!vP7U/ay15HJ Tue 25 Apr 2023 05:50:22 No.34631412                             Report
+         Quoted By: >>34632449 >>34641822
+
+             >>34630513
+             I can approach that facility without being attacked. Am I of any value to the US IC, and how would I reach out
+             to them for this? I won't provide details on why, but I am not the only one capable of approaching it, I know of
+             2 others.
+
+             I'm willing to do so, if they want me to.
+
+         Anonymous Tue 25 Apr 2023 06:02:48 No.34631483                          Report
+         Quoted By: >>34634817
+
+             >>34629564
+             What's buried under the mesa on Skinwalker Ranch? Is that show even legitimate? It seems like some of the
+             most legitimate research on anything paranormal that I've ever seen in my life and I'm very curious about what
+             they seem to be finding.
+
+             There were 2 rare elements found fused together that were under the mesa and I'm very curious what's going
+             on there.
+
+         Anonymous Tue 25 Apr 2023 06:28:22 No.34631628                          Report
+         Quoted By: >>34632449
+
+             Aaaaaaand OP is a lying faggot if he's not back in 30 minutes.
+
+             Captcha: KYSOP
+
+         Anonymous Tue 25 Apr 2023 06:32:09 No.34631658                          Report
+         Quoted By: >>34632462
+https://archive.4plebs.org/x/thread/34629564/                                                                                   3/76
+
+## Page 4
+
+18/12/2025, 21:55                                              /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+             >>34629564
+             https://www.youtube.com/watch?v=FlGqIf2kZZQ
+
+         Anonymous Tue 25 Apr 2023 07:37:33 No.34632197                                Report
+         Quoted By: >>34632462
+
+             >>34629564
+             GET FUCKING BACK HERE
+
+           View Same    Google    iqdb    SauceNAO    Trace    Hubble-Pillars-of-Creation.jpg, 3MiB, 1500x1565
+
+                                         Anonymous Tue 25 Apr 2023 08:16:16 No.34632449                           Report
+                                         Quoted By: >>34632621 >>34632861 >>34633108
+
+                                         >>34630656
+                                         >Is it related to that one under rock in that one scandinavian country? the one that
+                                         deploys within tectonic spaces?
+                                         No, this one almost never leaves the Bermuda Triangle.
+
+             >>34630761
+             >Bullshit, governments have (and have had for a while) advanced antigravity crafts
+             You asked if the particular UFOs we study are the result of a foreign government not if other governments
+             have shittier versions. Speed alone tells us what we are looking at.
+
+             >>34630795
+             >Do the UAPs return back to the manufacturing unit?
+             Yes, some come in and leave the planet but very rarely. Usually, the same number that comes in goes out
+             unless special circumstances arise. It feels more like a carrier but with construction capability.
+             >What are the purposes of the UAPs? Surveillance of humans?
+             The US believes they are not here to harm us. They only seem interested in us once they realize we are
+             destroying things around us including each other.
+             One of the officials in charge said something that stuck with me. "They act like keepers of a zoo uninterested
+             in the daily life of wildlife until there's a problem".
+
+             >>34631412
+             >I can approach that facility without being attacked.
+             Lol, the last unit we saw approach the facility didn't even have time to communicate they were being attacked
+             before it was over.
+
+             >>34631412
+             >What's buried under the mesa on Skinwalker Ranch? Is that show even legitimate? It seems like some of the
+             most legitimate research on anything paranormal that I've ever seen in my life and I'm very curious about what
+             they seem to be finding.
+             No idea that the project (if any) is likely kept separate.
+             >There were 2 rare elements found fused together that were under the mesa and I'm very curious what's
+             going on there.
+             No idea about that either. The crafts we recover are built with numerous elements. Some aren't even
+             obtainable here.
+
+             >>34631628
+             >Aaaaaaand OP is a lying faggot if he's not back in 30 minutes.
+             My nap was good at least.
+
+           View Same    OCR      Google    iqdb   SauceNAO    Trace    150709140146-nasa-astronaut.jpg, 470KiB, 2000x1503
+
+                                          Anonymous Tue 25 Apr 2023 08:18:51 No.34632462                             Report
+
+                                          Continued
+
+                                          >>34631658
+                                          >https://www.youtube.com/watch?v=FlGqIf2kZZQ
+https://archive.4plebs.org/x/thread/34629564/                                                                                   4/76
+
+## Page 5
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             There is such a thing as looking at something too closely. You're looking at internals at best, they are also
+             turned the wrong way.
+
+             >>34632197
+             >GET FUCKING BACK HERE
+             Keep firing away I will get to them when I see them.
+
+           View Same    Google   iqdb   SauceNAO   Trace    1609633027006.jpg, 10KiB, 266x247
+
+                                        Anonymous Tue 25 Apr 2023 08:33:13 No.34632529                           Report
+                                        Quoted By: >>34632774
+
+                                        are they frens
+
+         Anonymous Tue 25 Apr 2023 08:42:17 No.34632580                            Report
+         Quoted By: >>34632774
+
+             Do you know if the entities behind the UFOs are native to the Earth? like an older civilisation, breakaway
+             civilisation, or a civilisation of humans that escaped a previous cycle of cataclysm due to their advanced tech?
+
+             also I think that other guy who was talking about approaching the area without being attacked is a Remote
+             Viewer.
+
+         Anonymous Tue 25 Apr 2023 08:50:53 No.34632621                            Report
+         Quoted By: >>34632774
+
+             >>34632449
+             Have you tried sending in a raft of hippies? The AI may not recognize them as a threat, jk...
+
+             Any relation to Antarctica? How about the destination of the space orbs, is Jupiter a potential destination? I
+             believe they are keeping a massive Orb inside of the Gas Giant, though I have no evidence but many dreams
+             of it.
+
+         Anonymous Tue 25 Apr 2023 08:51:29 No.34632626                            Report
+         Quoted By: >>34632808
+
+             What units have been lost approaching this construction machine? Why have they not sent a Seawolf to
+             investigate...The jimmy carter with its nano tech...
+
+             How have they come to the conclusion the UAP being released are ET? If they don't know what the UAP are
+             to begin withm, or if there is nothing inside them, its a pretty big jump to go right to ET...
+
+         Anonymous Tue 25 Apr 2023 08:55:10 No.34632645                            Report
+         Quoted By: >>34632808
+
+             >>34629564
+             Why do you not know anything about the last 2 years? Just curious
+
+             Also >Lol, the last unit we saw approach the facility didn't even have time to communicate they were being
+             attacked before it was over.
+
+             Any details on what happened?
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                   5/76
+
+## Page 6
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+         Anonymous Tue 25 Apr 2023 09:02:17 No.34632681                            Report
+         Quoted By: >>34632808
+
+             >>34630513
+             >The contents and equipment usually mimic the intended purpose too
+             like the equipment share a pattern specific to its purpose?
+
+         Anonymous Tue 25 Apr 2023 09:08:23 No.34632716                            Report
+
+             Bump
+
+           View Same    Google   iqdb   SauceNAO   Trace    images.jpg, 10KiB, 275x183
+
+                                        Anonymous Tue 25 Apr 2023 09:19:18 No.34632774                           Report
+                                        Quoted By: >>34632809 >>34632875 >>34632915 >>34634036
+
+                                    >>34632529
+                                    >are they frens
+                                    They cut their losses when crashes are recovered, Same with personnel. Zoo keepers
+             aren't friends with the animals.
+
+             >>34632580
+             >Do you know if the entities behind the UFOs are native to the Earth? like an older civilisation, breakaway
+             civilisation, or a civilisation of humans that escaped a previous cycle of cataclysm due to their advanced tech?
+             Limited expertise since my role is more craft/analysis. US believes they are foreign to our world, a previous
+             cataclysm could make sense. They also show up in times of strife such as natural events.
+             >also I think that other guy who was talking about approaching the area without being attacked is a Remote
+             Viewer.
+             I lurked on other boards but haven't really been to this one since I was comfortable with the answers I had. I
+             wasn't aware that was a thing on here.
+             There were rumors among my coworkers that they had psionic abilities but honestly, it rarely comes up in a
+             conversation. Give it a shot?
+
+             >>34632621
+             >Have you tried sending in a raft of hippies? The AI may not recognize them as a threat, jk...
+             Based on previous disappearances and acts of hostility we believe the construction facility (carrier) has
+             learned what is and isn't hostile. Usually, it will just move away or stay deep under the water. It doesn't fire on
+             civilian boats for example. Exceptions apply we have seen one or two go missing usually after sharp turns etc.
+
+             >Any relation to Antarctica?
+             My section monitored just this craft and any interactions it attempted. A previous coworker did mention
+             something in passing of Antarctica at one point but I ignored it if I'm being honest. Talking about other projects
+             is considered career suicide.
+             >How about the destination of the space orbs, is Jupiter a potential destination? I believe they are keeping a
+             massive Orb inside of the Gas Giant, though I have no evidence but many dreams of it.
+             No idea, if it is a project I haven't seen it. No orbs out of the construction facility just UFOs.
+
+         DJT Tue 25 Apr 2023 09:22:12 No.34632788                       Report
+         Quoted By: >>34632826 >>34632971
+
+             are you talking about the one shaped like a pear or a burger?
+
+         Anonymous Tue 25 Apr 2023 09:23:13 No.34632798                            Report
+
+             >>34629564
+             What some sorta captain nemo steampunk ufo bs?
+
+           View Same    Google   iqdb   SauceNAO   Trace    images (1).jpg, 13KiB, 299x168
+
+         Anonymous Tue 25 Apr 2023 09:24:04 No.34632808                            Report
+         Quoted By: >>34632838 >>34632874 >>34632884 >>34639747
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                      6/76
+
+## Page 7
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+                                     >>34632626
+                                     >What units have been lost approaching this construction machine? Why have they not
+                                     sent a Seawolf to investigate...The jimmy carter with its nano tech...
+                                     Everything you can think of really. At one point nuclear missiles were being toyed with
+             again and we deployed fighters and a sub with serious intent. Everything except the sub was lost.
+             >How have they come to the conclusion the UAP being released are ET? If they don't know what the UAP are
+             to begin withm, or if there is nothing inside them, its a pretty big jump to go right to ET...
+             They crash sometimes, parts fail and gravity engines near the surface of the planet can be like crossing an
+             intersection. We recover these and sometimes find passengers. We mostly see drones now, back in the
+             earlier days we saw a lot more piloted craft.
+
+             >>34632645
+             >Why do you not know anything about the last 2 years? Just curious
+             Moved on from the project because of new management that didn't trust older proven methods.
+
+             >Also >Lol, the last unit we saw approach the facility didn't even have time to communicate they were being
+             attacked before it was over. Any details on what happened?
+             Normal approach details, pilot responsive and actively talking. The feed cuts out pilot still talking suddenly
+             nothing. Poor guy likely had no idea it was likely a suicide mission. Based on what we've seen the
+             construction facility has far superior weapons than the UFOs do. This weapon destroys the matter it hits
+             entirely.
+             It also shits on anything electronic in the vicinity.
+
+             >>34632681
+             >The contents and equipment usually mimic the intended purpose too like the equipment share a pattern
+             specific to its purpose?
+             Yes, usually when we find a thinner model for example it would have no pilot and a lot of sensory hardware.
+             My favorite is finding one that is fitted for research, if we are lucky we find things we have never seen before.
+             Before I left we were looking at what we thought was a lab of some kind for genetics.
+
+           View Same    Google   iqdb   SauceNAO   Trace    1610768926779.jpg, 68KiB, 966x923
+
+                                        Anonymous Tue 25 Apr 2023 09:24:16 No.34632809                           Report
+                                        Quoted By: >>34632887
+
+                                        >>34632774
+                                        >Zoo keepers aren't friends with the animals
+
+         Anonymous Tue 25 Apr 2023 09:25:32 No.34632814                              Report
+         Quoted By: >>34632819 >>34632847
+
+             OP is mostly right, but either changing some facts to avoid detection, or is intentionally misinformed by his
+             superiors to detect leaks like this and will soon be caught.
+
+             The "other" side of the story is this:
+
+             - There are multiple construction sites. Some of them on mountains, some in deserts.
+             - They've been here not for 6000 years lol. Just about 300 hundred years.
+             - They're man-made. A branch of an army/"deep state" in one of the earth nations came across the tech and
+             have been working on it in secret. Another country joined them so these are joint operations between two
+             nations. Well their deep states.
+             - Luckily both countries are on our side, and the organization is trying to do the "best" for earth.
+             - None of this is true, and I'm LARPing
+
+           View Same    Google   iqdb   SauceNAO   Trace    1608601261824.jpg, 230KiB, 1096x900
+
+         Anonymous Tue 25 Apr 2023 09:26:23 No.34632819                            Report
+         Quoted By: >>34632847
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                    7/76
+
+## Page 8
+
+18/12/2025, 21:55                                         /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+                                       >>34632814
+                                       >- None of this is true, and I'm LARPing
+                                       Jerk. I really thought things were gonna turn out good for a second.
+
+         Donald J Trump Tue 25 Apr 2023 09:27:11 No.34632826                            Report
+
+             >>34632788
+
+             Disregard its the burger ones isn't it
+
+         Donald J Trump Tue 25 Apr 2023 09:28:21 No.34632838                            Report
+
+             >>34632808
+
+             Is this the burger shaped ones or the pear shaped ones
+
+         Anonymous Tue 25 Apr 2023 09:30:37 No.34632847                             Report
+
+             >>34632819
+             (Plausible deniability?)
+             >>34632814
+             - regarding drones/pilots. last piloted craft afaik has been used maybe 20-30 years ago. all of them are kinda
+             like UAVs now. human beings pilot them remotely
+
+         Anonymous Tue 25 Apr 2023 09:33:05 No.34632861                           Report
+         Quoted By: >>34632916 >>34632971
+
+             >>34632449
+             I've had 2 orange orbs approach me to within 100 ft one night. Glowing translucent, but rather
+             dim like the setting sun seen through smog. They were flying In 45 degree formation like this. °• about 50mph.
+             As soon as I blinked my flashlight at them, they accelerated to several thousand knots and disappeared over
+             the horizon. Searched youtube and found several videos of the same objects, mostly near San Diego.
+             Is the underwater base near Catalina Island creating these?
+
+         Anonymous Tue 25 Apr 2023 09:33:17 No.34632862                           Report
+         Quoted By: >>34632971 >>34637806 >>34643008
+
+             Are "aliens" human or humanoid?
+
+         Anonymous Tue 25 Apr 2023 09:34:45 No.34632869                           Report
+         Quoted By: >>34632971
+
+             then, do you know anything about abductions, forced breeding programs, etc. ???
+
+             also, real true disclosure any time soon?
+
+         Anonymous Tue 25 Apr 2023 09:35:10 No.34632874                           Report
+         Quoted By: >>34633066
+
+             >>34632808
+             >the contents...
+             So I'd assume this was a sort of AI design that seems to be advanced yet already prepared for the git go
+
+         Anonymous Tue 25 Apr 2023 09:35:11 No.34632875                           Report
+         Quoted By: >>34633066
+
+             >>34632774
+
+             Do you think there are fewer piloted crafts because the population of the facility (if any) is declining? Any
+https://archive.4plebs.org/x/thread/34629564/                                                                                 8/76
+
+## Page 9
+
+18/12/2025, 21:55                                      /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             bodies recovered show any ranges of aging we can recognize? I wonder if most of the inhabitants are either
+             old or dead at this point. Though younger bodies would disprove that I suppose.
+
+         Anonymous Tue 25 Apr 2023 09:36:32 No.34632884                        Report
+         Quoted By: >>34633066
+
+             >>34632808
+             What do the passengers look like? Are they biological and or android?
+
+         Anonymous Tue 25 Apr 2023 09:36:39 No.34632885                        Report
+         Quoted By: >>34633066
+
+             do you know anything about people such as Steven Greer, Lue Elizondo or whatever, etc. ?? are these
+             people in the know , or larpers, or controlled misinfo, etc. ???
+
+         Anonymous Tue 25 Apr 2023 09:37:00 No.34632886                        Report
+         Quoted By: >>34633164
+
+             >>34629564
+             Out of everything ever found regarding UFOs in general what is your personal favorite?
+
+         Anonymous Tue 25 Apr 2023 09:37:11 No.34632887                        Report
+         Quoted By: >>34633164
+
+             >>34632809
+             Makes me wonder whether a meaningful distinction between scientific study and amusement still exists for
+             them, if it ever did.
+
+         Anonymous Tue 25 Apr 2023 09:38:31 No.34632894                        Report
+         Quoted By: >>34633164
+
+             >>34629564
+             How long until we can hang with aliens?
+
+         Anonymous Tue 25 Apr 2023 09:41:35 No.34632915                        Report
+         Quoted By: >>34633164
+
+             >>34632774
+             >rumors among my coworkers that they had psionic abilities but honestly,
+             This is a strangely recurrent theme. At a minimum the have psychotronic devices of some sort.
+
+         Anonymous Tue 25 Apr 2023 09:41:41 No.34632916                        Report
+         Quoted By: >>34633164
+
+             >>34632861
+             Not really translucent, but maybe the outer 'shell ' was. They definitely had an inner core that wasn't see-
+             through.
+
+         Anonymous Tue 25 Apr 2023 09:44:42 No.34632936                        Report
+         Quoted By: >>34632989 >>34633353
+
+             >>34629564
+             >- UFOs are primarily unmanned drones
+             Some are, some aren't and the US has evidence of this. It's suggested that the ones with "beings" in it may be
+             some sort of projection/illusion
+             >- UFOs are built to spec each time they are deployed
+             What specs are we talking about here? It is pretty interesting that, to our knowledge, they haven't advanced in
+             hundreds of years of reporting
+             >- UFOs are created by a mobile construction facility that hides in the ocean
+             This is where your intimate knowledge fails. They are made outside our planet; it has already been
+             announced that the isotopes recovered couldn't have been manufactured on Earth
+             >- Construction facility destroys anything that comes close to it and will disappear for days when approached
+https://archive.4plebs.org/x/thread/34629564/                                                                                  9/76
+
+## Page 10
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             aggressively
+             I have no input on this
+             >- US believes the facility has been active on earth for at least 100 years or much longer
+             You're intimate knowledge is failing again; we know these things have been around for thousands of years
+             and didn't recently settle. We actually believe they've been here longer than humanity.
+
+             I want you to disappoint me tonight, so answer these please:
+             > What signatures do we filter for when searching for these?
+             > What sub-modules exist and what frequencies, per sub-module, have we measured?
+             > Why can only one sub-module be activated at a time?
+             > What do the visible light frequencies given off by these indicate?
+             > Can you give me one specific example as to why that last question is highly relevant to the phenomenon(s)?
+
+             > Bonus Question
+             > Why are these considered spacetime machines and what are the limitations, that we know, to their
+             propulsion?
+
+         Anonymous Tue 25 Apr 2023 09:47:33 No.34632958                            Report
+         Quoted By: >>34633353
+
+             >>34629564
+             Are there more than one construction facility? You mentioned one in the Bermuda triangle. However there are
+             a lot of USOs off of the West Coast of the Americas as well. Any insight.
+
+           View Same    Google   iqdb   SauceNAO   Trace    LZUsfgcXH7WMeVvuHYsoSA.png, 1MiB, 951x531
+
+                                        Anonymous Tue 25 Apr 2023 09:49:45 No.34632971                       Report
+                                        Quoted By: >>34633074
+
+                                        >>34632788
+                                        >are you talking about the one shaped like a pear or a burger?
+             Be more specific?
+             >Disregard its the burger ones isn't it
+             Size, shape and speed are usually the factors we use to determine what the purpose of the UFO is. We get it
+             wrong sometimes. They can be quite large and both pear and burger shapes are known "builds".
+             >Is this the burger shaped ones or the pear shaped ones
+             Both.
+
+             >>34632861
+             >I've had 2 orange orbs approach me to within 100 ft one night. Glowing translucent, but rather dim like the
+             setting sun seen through smog. They were flying In 45 degree formation like this. °• about 50mph.
+             Research/science vessels sometimes have mobile light-producing "cameras" used for multiple purposes from
+             scouting to keeping threats contained or at bay. These are shaped like hammers and when operated are
+             extremely bright.
+             Red lights are a sign of hostility or caution to deploy weapons. Orange lights are usually for spotting minerals
+             or living things.
+             >As soon as I blinked my flashlight at them, they accelerated to several thousand knots and disappeared over
+             the horizon. Searched youtube and found several videos of the same objects, mostly near San Diego.
+             I'm not surprised, the range on those is quite large. The UFO was likely somewhere above you quite high up.
+             >Is the underwater base near Catalina Island creating these?
+             No, this one has only left the Atlantic Ocean twice. Both times were before I arrived.
+
+             >>34632862
+             >Are "aliens" human or humanoid?
+             Humanoid, very humanoid.
+
+             >>34632869
+             >then, do you know anything about abductions, forced breeding programs, etc. ???
+             Bodies are removed before we are allowed to perform work. We definitely see some passing by hence
+             changes in "Older proven methods" by new management.
+https://archive.4plebs.org/x/thread/34629564/                                                                                   10/76
+
+## Page 11
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             >also, real true disclosure any time soon?
+             The Air Force is extremely frustrated with the lack of progress on their end. We felt similar but are unable to
+             share details with them.
+
+         Anonymous Tue 25 Apr 2023 09:52:04 No.34632989                            Report
+         Quoted By: >>34633063
+
+             >>34632936
+             >It's suggested that the ones with "beings" in it may be some sort of projection/illusion
+             Jacques Vallee is somewhat close then, or as close any anybody is? Still a nebulous phenomenon that is
+             impossible to be precise about, and plays tricks; how do you study something that doesn't want to be studied.
+
+         Anonymous Tue 25 Apr 2023 09:53:45 No.34632998                            Report
+
+             Cattle mutilations. AI's hard no.
+
+         Anonymous Tue 25 Apr 2023 10:02:55 No.34633063                            Report
+         Quoted By: >>34633157 >>34635636
+
+             >>34632989
+             >Jacques Vallee is somewhat close then
+             I believe he was the closest so far to what's really going on. No one really knows and anyone claiming to is full
+             of shit. We know quite a bit of about it all but the shit is about five steps ahead of us; I believe there isn't a
+             situation in which we aren't bamboozled by them. From what I understand, we biologically operate on a point-
+             by-point time basis and it's operating on a range of time.
+             >Still a nebulous phenomenon that is impossible to be precise about, and plays tricks; how do you study
+             something that doesn't want to be studied.
+             You absolutely nailed it with this comment. The moment we think we start to grasp what's going on, it'll either
+             throw a curveball with it's nature/intensions or seems to instigate global conflict. We're playing checkers while
+             it's an hyperdimensional Magnus Carlsen
+
+           View Same    Google   iqdb   SauceNAO   Trace    download.jpg, 12KiB, 300x168
+
+                                        Anonymous Tue 25 Apr 2023 10:03:08 No.34633066                           Report
+                                        Quoted By: >>34633623
+
+                                   >>34632874
+                                   >So I'd assume this was a sort of AI design that seems to be advanced yet already
+             prepared for the git go
+             Can you rephrase this? Basically when designed to let's say be a miner you will usually see hardware
+             dedicated to resource collection on the vessel.
+             If the vessel is something scientific you may encounter things like tools and as previously mentioned
+             something akin to a lab. We thought of it more as a "I need to go hiking" so the construction facility builds you
+             a car (UFO) and packs it full of hiking supplies and even adjusts the shape to fit what was packed.
+
+             >>34632875
+             >Do you think there are fewer piloted crafts because the population of the facility (if any) is declining?
+             No, the common consensus is that they are just being careful. I've heard recovery of living pilots usually
+             doesn't go well for either of us.
+             We suspect they piloted a lot of initial craft due to early complications (we also saw more crashes).
+             >Any bodies recovered show any ranges of aging we can recognize? I wonder if most of the inhabitants are
+             either old or dead at this point. Though younger bodies would disprove that I suppose.
+             No idea about age, not my specialty, and asking about it would have been a net negative ESPECIALLY now.
+             Previous higher-ups were getting better about being open with information since discovery happened quicker.
+
+             >>34632884
+             >What do the passengers look like? Are they biological and or android?
+             Bio
+
+             >>34632885
+             >do you know anything about people such as Steven Greer, Lue Elizondo or whatever, etc. ?? are these
+https://archive.4plebs.org/x/thread/34629564/                                                                                     11/76
+
+## Page 12
+
+18/12/2025, 21:55                                              /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             people in the know , or larpers, or controlled misinfo, etc. ???
+             No idea, one name sticks out you didn't mention. Mentioning Bob Lazar by name would likely have you taken
+             out back and put down like a dog. Do the math on why.
+
+         Donald J Trump Tue 25 Apr 2023 10:04:12 No.34633074                                  Report
+         Quoted By: >>34633353
+
+             >>34632971
+
+             im talking about the MCU's are you talking about the one in the pacific or the arctic?
+
+             is the MCU you are talking about a burger shape or a pear shape need to know
+
+         Anonymous Tue 25 Apr 2023 10:09:43 No.34633100                                 Report
+         Quoted By: >>34633353
+
+             OP talk about hybridization of the human race. Protip: you're a shill or UI. If you only knew how bad things
+             are.
+
+           View Same    OCR      Google    iqdb   SauceNAO    Trace    c4r3x1971baa1.jpg, 180KiB, 1242x1773
+
+                                 Anonymous Tue 25 Apr 2023 10:10:39 No.34633108                             Report
+
+                                 >>34632449
+                                 >"They act like keepers of a zoo uninterested in the daily life of wildlife until
+                                 there's a problem".
+
+                                 So AI created us? Why would they care if we aren't its creation.
+
+         Anonymous Tue 25 Apr 2023 10:18:30 No.34633157                                 Report
+         Quoted By: >>34633411
+
+             >>34633063
+             >it'll either throw a curveball with it's nature/intensions
+             Precisely. Another massive problem is determining which aspects of "encounters" is physically real. There's
+             too many reputable cases where physical evidence is present (a good baseline for most people) but the
+             details, and occupants drastically change. None of the information presented by them seems to be of any real
+             value, even "tracking" them through whatever produces their emission seems suspect (albeit reliable on the
+             surface).
+             >instigate global conflict
+             That's a hell of a claim, any particular incident? I assume you're referring to the various nuclear site
+             incursions.
+
+           View Same    Google     iqdb   SauceNAO    Trace    pulsar-hd-wallpaper-wallpaper-th (...).jpg, 22KiB, 505x310
+
+                                          Anonymous Tue 25 Apr 2023 10:19:38 No.34633164                             Report
+                                          Quoted By: >>34633232 >>34633295 >>34641609
+
+                                  >>34632886
+                                  >Out of everything ever found regarding UFOs in general what is your personal favorite?
+             "New" engine was deployed with a very large model that I had never seen before. We usually see three to five
+             gravity producing "engines" This one had seven. Favorite object or find? Probably the "lab" since we never
+             fully understood how it worked before it was destroyed.
+
+             >>34632887
+             >Makes me wonder whether a meaningful distinction between scientific study and amusement still exists for
+             them, if it ever did.
+             This was before my time but they talked about a "bus" UFO that had more occupants than hardware. Most of
+             the intended purpose appeared to be for physical viewing. I wondered if they ever just wanted to look at the
+             animals.
+
+             >>34632894
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                 12/76
+
+## Page 13
+
+18/12/2025, 21:55                                      /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             >How long until we can hang with aliens?
+             Have any retarded cousins that destroy everything they touch? When do you want to see them again?
+
+             >>34632915
+             >This is a strangely recurrent theme. At a minimum the have psychotronic devices of some sort.
+             This reminded me of something in my first year. UFO crashes they remove the bodies well before my team
+             arrives. We start to look and the craft is unpowered at first, a few minutes later the craft powers on and starts
+             to close up. We radio out and get a response from the unit removing one of the occupants (alien) that they are
+             working on it.
+             Ship powers off and the other team asks if we are good to go. No mention of how access was possible, I
+             suspect the pilot may have interfaced with the ship by remote or psionic ability.
+
+             >>34632916
+             >Not really translucent, but maybe the outer 'shell ' was. They definitely had an inner core that wasn't see-
+             through.
+             Lots of tools they use produce light. If this is still about the "orb" the shell you may have seen was just the light
+             around the device I called the "hammer".
+
+         Anonymous Tue 25 Apr 2023 10:29:35 No.34633232                        Report
+         Quoted By: >>34633353
+
+             >>34633164
+             >I suspect the pilot may have interfaced with the ship by remote or psionic ability
+             I read somewhere some UFO navigation systems require an ET whose own personal wavelength has been
+             specifically attuned to the "neural network" of the craft
+
+         Anonymous Tue 25 Apr 2023 10:36:31 No.34633263                        Report
+         Quoted By: >>34633353
+
+             Can you tell us what they look like physically? Usual grey type or big ears?
+
+             Anything about their culture? Name etc.
+
+         Anonymous Tue 25 Apr 2023 10:37:35 No.34633270                        Report
+
+             >>34629564
+             Any reason CE5 works so well?
+
+         Anonymous Tue 25 Apr 2023 10:37:50 No.34633271                          Report
+
+             Pipiopi.
+
+         Anonymous Tue 25 Apr 2023 10:38:26 No.34633274                        Report
+         Quoted By: >>34633314
+
+             >>34629564
+             Hey op, if you really are in such a high ranking position, do everything in your power to put the White race in a
+             better position.
+             and get as many alien species as possible on the side of the White race.
+             the aliens know there will be nothing of value left on the planet if the White race does worse than fading to
+             extinction.
+             what's worse than extinction? mongrelization.
+             I wont respond to this thread. I'm just trying to help my people from a fate worse than hell.
+             it's what's honorable. it's what's right.
+
+         Anonymous Tue 25 Apr 2023 10:42:27 No.34633295                        Report
+         Quoted By: >>34633305 >>34633557
+
+             >>34633164
+             Why did the ufos fuck up all those people in Brazil? Was it by accident of them not knowing we’d be damaged
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                        13/76
+
+## Page 14
+
+18/12/2025, 21:55                                           /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             by their equipment or do they not care? Do you believe we are under their control in some way? Or where
+             sometime in history?
+
+         Anonymous Tue 25 Apr 2023 10:43:50 No.34633305                             Report
+
+             >>34633295
+             Were* not where
+
+         Anonymous Tue 25 Apr 2023 10:44:29 No.34633314                             Report
+
+             >>34633274
+             youre more npc than clyde is a bot fr fr ong
+
+           View Same    Google   iqdb   SauceNAO    Trace    M101_hires_STScI-PRC2006-10a.jpg, 331KiB, 1200x938
+
+                                        Anonymous Tue 25 Apr 2023 10:51:07 No.34633353                            Report
+                                        Quoted By: >>34635186 >>34644934 >>34648146
+
+                                        >>34632936
+                                        >It's suggested that the ones with "beings" in it may be some sort of projection/illusion
+                                        Genuinely curious what the fuck you are on about.
+
+             >>34632958
+             >Are there more than one construction facility? You mentioned one in the Bermuda triangle. However there
+             are a lot of USOs off of the West Coast of the Americas as well. Any insight.
+             I suspect there may be since we only watched the Atlantic Ocean and the UFOs we track normally don't stray
+             far from home base. Asking about it would have been a bad move.
+
+             >>34633074
+             >im talking about the MCU's are you talking about the one in the pacific or the arctic?
+             Atlantic, I don't know of others. The mention of something in the artic was weird and brief when it came up.
+             >is the MCU you are talking about a burger shape or a pear shape need to know
+             Burgerish, I misunderstood and thought you meant the UFO's not the carrier/construction facility.
+
+             >>34633100
+             >OP talk about hybridization of the human race. Protip: you're a shill or UI. If you only knew how bad things
+             are.
+             I wouldn't fuck my retarded cousin but I also understand I'm on 4chan.
+
+             >>34633232
+             >I read somewhere some UFO navigation systems require an ET whose own personal wavelength has been
+             specifically attuned to the "neural network" of the craft
+             This tracks somewhat for me. When we look at the craft we usually have to force certain things to work. Two
+             teams come behind mine so that could be dedicated to understanding of the craft.
+
+             >>34633263
+             >Can you tell us what they look like physically? Usual grey type or big ears?
+             Imagine the typical "Grays" you see on TV. I've seen two corpses so maybe there are different species but I've
+             never laid eyes on another.
+             >Anything about their culture? Name etc.
+             Rumors mostly. They almost never want anything to do with us. Mentions of destruction or warfare apparently
+             change their attitude pretty quickly.
+
+         Anonymous Tue 25 Apr 2023 10:59:53 No.34633411                             Report
+
+             >>34633157
+             >Precisely. Another massive problem is determining which aspects of "encounters" is physically real.
+             We rely on our biological and technological sensors too much to be able to truly understand the phenomenon
+             (in my opinion).
+             >That's a hell of a claim, any particular incident? I assume you're referring to the various nuclear site
+             incursions.
+https://archive.4plebs.org/x/thread/34629564/                                                                                       14/76
+
+## Page 15
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             I guess global conflict wasn't a good term lol; I meant more of tension. The nuclear site incursions, the
+             airspace violations has also been increasing tensions. From what I understand, the Rosewell incident
+             increased tension between US and Soviets. There's security tensions behind other countries gaining access
+             to information or materials surrounding the phenomenon. There has been great domestic tension within the
+             US (intel agencies, military, disinformation campaigns, etc...)
+
+         Anonymous Tue 25 Apr 2023 11:00:46 No.34633418                             Report
+         Quoted By: >>34633557
+
+             What were the main reasons for the crashes? I'd think random lightning or freak accident seeing how
+             advanced they are
+
+         Anonymous Tue 25 Apr 2023 11:03:30 No.34633434                             Report
+         Quoted By: >>34633557
+
+             Did you see written symbols in the craft?
+
+             Also it reads like their objective is to observe and preserve
+
+         Anonymous Tue 25 Apr 2023 11:07:39 No.34633462                             Report
+         Quoted By: >>34633613
+
+             What do you believe to be the reason for the uptick in sightings?
+
+             Also, what is your scariest experience while engaging with the phenomenon? What was your favorite? If any
+
+         Anonymous Tue 25 Apr 2023 11:20:21 No.34633531                             Report
+         Quoted By: >>34633613
+
+             Are you aware of any foreign ayy tech that was successfully reverse engineered?
+
+           View Same    Google   iqdb   SauceNAO   Trace    09525-scicon-jupitercxd.jpg, 186KiB, 560x700
+
+                                 Anonymous Tue 25 Apr 2023 11:24:49 No.34633557                             Report
+                                 Quoted By: >>34633639 >>34637833 >>34638883 >>34642698
+
+                               >>34633295
+                               Why did the ufos fuck up all those people in Brazil?
+                               Sauce? Might let me give you more insight.
+                               >Was it by accident of them not knowing we’d be damaged by their equipment or do they not
+                               care?
+             If found they usually monitor us. If approached at an uncomfortable distance they flee. When cornered it
+             doesn't end well.
+             Their tools can do harm to us even for just scientific purposes. We think they just don't care.
+             >Do you believe we are under their control in some way? Or where sometime in history?
+             Possibly but I have no way of knowing. The higher-ups I worked for seemed hellbent on discovering more
+             about them. Usually not a quality found among controlled beings.
+
+             >>34633418
+             >What were the main reasons for the crashes? I'd think random lightning or freak accident seeing how
+             advanced they are
+             You'd be surprised how many mistakes they make, especially the further back you look. One area they
+             seemed to avoid like the plague we suspect is due to issues with gravity and flight. Before they figured it out
+             we collected quite a few mishaps there. They've tried to shoot some down mostly over nuclear incidents but
+             failed miserably.
+
+             >>34633434
+             >Did you see written symbols in the craft?
+             Yes, usually marked by doorways and key objects. Written language appears frequently on tools and critical
+             items.
+             >Also it reads like their objective is to observe and preserve
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                  15/76
+
+## Page 16
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             I agree. The idea was pitched that they are waiting for us to mature or perhaps something bigger to arrive and
+             they don't want us to ruin the planet in the meantime.
+
+           View Same    Google   iqdb   SauceNAO   Trace    Omega_Centauri_by_ESO-e159696172 (...).jpg, 218KiB, 800x752
+
+                                        Anonymous Tue 25 Apr 2023 11:35:35 No.34633613                           Report
+                                        Quoted By: >>34633649 >>34633821 >>34634244 >>34635160 >>34651803
+
+                                    >>34633462
+                                    >What do you believe to be the reason for the uptick in sightings?
+                                    Once again my knowledge was cut off about two years ago. If you mean very recently
+                                    my guess would be the Russians and US having a little secret dance amongst
+                                    themselves. When nuclear ANYTHING gets involved we see large deployments for long
+             periods of time. Strife seems to be the catalyst.
+             >Also, what is your scariest experience while engaging with the phenomenon? What was your favorite? If any
+             Doors closing on us as mentioned above made me wish I had brown pants. Still fascinated with the "lab" we
+             found. It was damaged by accident and I never really got much time with it.
+
+             >>34633531
+             >Are you aware of any foreign ayy tech that was successfully reverse engineered?
+             Yes, we used to laugh at Russian and Chinese designs. We stopped laughing at China when they produced
+             an operational (but buggy) version of their mining equipment. Still stumps most of our engineers, China also
+             lies out of its ass but from what we saw we deemed it operational and working.
+             Countries listed above have flight-capable craft, just not very good ones.
+
+             I'm honestly surprised no one has asked about the energy source or internals.
+             Heading out for the night but will be on tomorrow to answer more.
+
+         Anonymous Tue 25 Apr 2023 11:36:44 No.34633623                            Report
+         Quoted By: >>34636344
+
+             >>34633066
+             >I've heard recovery of living pilots usually doesn't go well for either of us.
+             Why?!
+
+         Justincase !!vP7U/ay15HJ Tue 25 Apr 2023 11:39:38 No.34633639                               Report
+         Quoted By: >>34633682 >>34634588 >>34636344
+
+             >>34633557
+             I have direct knowledge that if you're not lying, I can approach this construct without harm. If they are
+             interested in acquiring my assistance in doing so, I will offer my help freely, under any set of conditions they
+             require. They have nothing to lose from this exchange, so I don't see why they wouldn't be interested.
+             My only condition is that they not ask how I am able to do so, unharmed, until after they see me do it.
+
+           View Same    Google   iqdb   SauceNAO   Trace    USS_Enterprise_(NX-01),_2401.jpg, 19KiB, 394x267
+
+                                        Anonymous Tue 25 Apr 2023 11:40:56 No.34633649                           Report
+                                        Quoted By: >>34636344
+
+                                        >>34633613
+                                        What is the energy source? You mentioned Bob so I think I know
+                                        already.
+
+         Anonymous Tue 25 Apr 2023 11:46:42 No.34633682                            Report
+         Quoted By: >>34633830 >>34633909
+
+             >>34633639
+             I know I have a big fat chance of getting an answer but what the actual fuck are you talking about? Can you
+             give me a crumb at least?
+
+         Anonymous Tue 25 Apr 2023 11:51:58 No.34633707                            Report
+         Quoted By: >>34633821 >>34636344
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                   16/76
+
+## Page 17
+
+18/12/2025, 21:55                                           /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+             How do UFOs travel, in the context of those tic tac reports and Bob Lazars report/video where they seemingly
+             jump through spacetime and light to appear in a new location....
+             So instead of going point A to B in a straight line, its as if these crafts bend this line in half and teleport from A
+             to B cutting that fabric of time and jittering about...
+
+             Here is Bob Lazars home video of when he took some friends out to Area 51 in the 80s/90s and the craft does
+             what I am referring to, seemingly jumping from one slot in time to another. Take with grain of salt if you really
+             want: https://youtu.be/G1VxyGEZ--U?t=36
+
+             Notice how it just phases to a new location? Like staggers?
+
+         Anonymous Tue 25 Apr 2023 12:10:36 No.34633821                             Report
+         Quoted By: >>34636344
+
+             >>34633707
+             I've heard the craft can detect the presence of a camera and when someone is filming them
+             >>34633613
+             OP can you weigh in on this when you wake up
+
+         Satoshi !!CzQ6owcYlQ0 Tue 25 Apr 2023 12:12:08 No.34633830                                 Report
+         Quoted By: >>34633878
+
+             >>34633682
+             I have nothing to fear in this entire galaxy. I will just assure you. If this alleged construct is real, I can approach
+             it, and it will not be able to harm me.
+
+         Anonymous Tue 25 Apr 2023 12:21:03 No.34633878                             Report
+
+             >>34633830
+             >famous last words
+             just make sure you live stream that shit on 2 different phones, a bodycam and a go-pro or it didn't happen
+
+         Anonymous Tue 25 Apr 2023 12:22:39 No.34633886                             Report
+         Quoted By: >>34636458
+
+             >>34629564
+             How are you able to talk about any of this? Didn't you swear to secrecy? Wouldn't the government already
+             have their eye on you considering you could turn out to be a loose end? Also, did you or your coworkers
+             experience strange things outside of work that could've been related to what you saw?
+
+         Satoshi !!vP7U/ay15HJ Tue 25 Apr 2023 12:26:12 No.34633909                               Report
+         Quoted By: >>34634165 >>34634590 >>34635715
+
+             >>34633682
+             I have nothing to fear in this entire galaxy. I will just assure you. If this alleged construct is real, I can approach
+             it, and it will not be able to harm me.
+
+           View Same    OCR    Google   iqdb    SauceNAO   Trace    1682405769334.jpg, 111KiB, 761x1024
+
+                                Anonymous Tue 25 Apr 2023 12:26:12 No.34633910                          Report
+                                Quoted By: >>34636458
+
+                                >>34630513
+                                >Ask Me Anything
+                                >No I won't name the department
+                                >Shitty current boogeyman claims (AI, Drones)
+                                Your larp is bad and you should feel bad
+
+         Anonymous Tue 25 Apr 2023 12:54:14 No.34634036                             Report
+         Quoted By: >>34636458
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                          17/76
+
+## Page 18
+
+18/12/2025, 21:55                                           /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+             >>34632774
+             >Zoo keepers aren't friends with the animals.
+             Not true. Most zookeepers love their work and love the animals a great deal.
+
+         Anonymous Tue 25 Apr 2023 13:29:04 No.34634165                               Report
+
+             >>34633909
+             I'm so hungry and you just ate food in front of me after I told you I was hungry ):
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    htdru5ri76to8769p79uoijhjgiuftyd (...).jpg, 479KiB, 2048x1536
+
+                                        Anonymous Tue 25 Apr 2023 13:34:04 No.34634180                            Report
+                                        Quoted By: >>34636458 >>34642716
+
+                                     Most of what OP is saying is not far off what many of us already concluded or thought
+                                     possible.
+                                     The spheres are a type of unmanned surveillance drone. Patrick Jacksons book
+             quantum paranormal discusses this.
+             I had once heard another theory that they do in fact instigate conflicts because they see us as a threat to their
+             world, almost as a type of competition and that they are allegedly living in a different dimension touching ours.
+             I don't know, but it sounds plausible.
+             I personally had recurring dreams of grey ayys trying to tap into my mind for a few weeks or months about 3-4
+             times in total, I believe this was no dream and was really happening, I was not able to get anything from them.
+             They seemed cold only wanted info and did not want to discuss anything or communicate. They wanted to
+             scan me mentally/spiritually because I had been meditating deeply at the time and was hyper aware and
+             doing the work at the time.
+             When thinking about it later, I realised maybe its not that they are cold but they they are instructed not to
+             communicate, kind of like in a forceful military type manner e.g. no different to us on a mission.
+             There was always 3 of them, in one ship, 1 was the leader and 2 others, always in the same position, same
+             time at night, I was lucid and after about the 4th attempt to scan me, Id push back, try to scan them and my
+             sort of communication was 'ill allow you to scan me if I can scan you thats how it works, mutual, the leader
+             one got very frustrated and they never came back.
+             I had another experience when the teacher from the school of meditation and spirituality teachings I follow,
+             went and did a bit of a recon and research mission down by skinwalker, not there but close, he asked all of us
+             watching to kind of meditate along, we were given some insrucions and afterwards he asked us to monitor
+             things for a reaction, especially electronic devices because they had some of their tech play up.
+             Well pic rel happened to me and I am 15000km away.
+
+         Anonymous Tue 25 Apr 2023 13:52:54 No.34634243                               Report
+         Quoted By: >>34636458
+
+             Do you think they're playing some role in stopping rogue entities and dangers from space hurting us on a
+             large scale?
+
+             It seems like remarkable luck how steady it is that no planet busting meteor has hit us not even a smaller one
+             killing millions at a time or even a super massive rogue black hole
+
+         Anonymous Tue 25 Apr 2023 13:53:15 No.34634244                               Report
+         Quoted By: >>34636583
+
+             >>34633613
+             Why does image analysis by someone competent on the original UFO always show weird stuff?
+
+             Am I right in assuming the disco lights is just air absorbing radiation and being completely saturated by it?
+
+         Anonymous Tue 25 Apr 2023 14:14:50 No.34634329                               Report
+         Quoted By: >>34636583
+
+             What materials are these UFOs made of
+
+         Anonymous Tue 25 Apr 2023 14:31:36 No.34634422                               Report
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                        18/76
+
+## Page 19
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+         Quoted By: >>34636583
+
+             >>34629564
+             Can you quickly walk through the process of identifying the contents of a crashed UFO craft?
+
+         Anonymous Tue 25 Apr 2023 14:52:50 No.34634512                            Report
+
+             >>34629564
+             This is a variation on Francis Bacons New Atlantis and Jacob Franks tales of a mysterious island of jews with
+             advanced technology except in this case the jewish controlled Government is pilfering it from Aliens.
+
+             The purpose of this myth making is to suggest an elite with access to super advanced technology and
+             understanding that affords them God like status, something jews always aspire to even if only through lies, in
+             reality you have nothing and the advanced technology we do have was produced by Yngling engineers.
+
+             The CIA have always indulged in UFO myth making in order to exagerate their own importance when in reality
+             they are the mere minions and functionaries of Neo-Colonial control and exploitation working for those would
+             be Alien overlords the jews.
+
+         Anonymous Tue 25 Apr 2023 15:16:55 No.34634588                            Report
+
+             >>34633639
+             I'm sure highly secret government agencies recruit their top agents from schizo boards on the internet. Good
+             luck, anon.
+
+         Anonymous Tue 25 Apr 2023 15:18:25 No.34634590                            Report
+
+             >>34633909
+             Schizo, lmao. No adventure for you. Take your meds.
+
+         Anonymous Tue 25 Apr 2023 15:19:31 No.34634593                            Report
+         Quoted By: >>34636640
+
+             >>34629564
+             1. tel me about ze mobile construction facility making them
+             2. are there no other things making ufos
+
+         Anonymous Tue 25 Apr 2023 16:26:36 No.34634817                            Report
+
+             >>34631483
+             >Is that show even legitimate?
+             im convinced it's a ploy to inflate the value of the ranch so each owner makes millions of dollars. For very little
+             effort
+
+         Anonymous Tue 25 Apr 2023 16:45:06 No.34634871                            Report
+         Quoted By: >>34636640
+
+             >>34629564
+             That makes sense for the ones like in the military videos, but what about the saucers with multi colored lights?
+             I highly doubt those are drones or military except for the triangle kind
+
+           View Same    Google   iqdb   SauceNAO   Trace    ufo hoax.webm, 3MiB, 1280x512
+
+                                        Anonymous Tue 25 Apr 2023 17:05:59 No.34634976                           Report
+                                        Quoted By: >>34635002 >>34635423
+
+                                 >>34629564
+             UFOs are a psyop. Aliens don't exist. The earth is flat with a dome.
+
+             https://youtu.be/lKg-yn86zp4
+             https://youtu.be/p-BFmn2S_jU
+             https://youtu.be/BVJgObFHLY4
+             https://youtu.be/ru5fdfovkGI
+https://archive.4plebs.org/x/thread/34629564/                                                                                      19/76
+
+## Page 20
+
+18/12/2025, 21:55                                  /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             https://youtu.be/74KRZt5oJME
+             https://youtu.be/tdwy-hxS-ts
+             https://youtu.be/UAx5cl9VpTE
+             https://youtu.be/JlFnJPFjcc0
+             https://youtu.be/XetG30_YOeo
+             https://youtu.be/ziVLbEoQ4Sc
+             https://youtu.be/k0xClWgidZU
+             https://youtu.be/UbYtkrTquXE
+             https://youtu.be/1WHIr-IFqAo
+             https://youtu.be/WcqKUhU0WDc
+             https://youtu.be/wPrDg0CtWnk
+             https://youtu.be/hoGTBdu7dMc
+             https://youtu.be/mcLwr86emds
+             https://youtu.be/U_bJYXS9p4A
+             https://youtu.be/JOqc63Pp9OA
+             https://odysee.com/@probablyalexandra:6/an-inconvenient-history:b
+             https://youtu.be/X-w8acuxF6w
+             https://youtu.be/nGLJ5XJP3uE
+             https://youtu.be/olbyJDou4qQ
+             https://youtu.be/0Q18iSz6mus
+             https://youtu.be/CLzj4PKJ2O4
+             https://youtu.be/aFFM3YJAs4Q
+             https://youtu.be/Stft_t48Hxc
+             https://youtu.be/OPQLFlf89s8
+             https://youtu.be/QWa7lTxhrKI
+             https://youtu.be/hyo8eKrinDM
+             https://youtu.be/DdLLamniSyg
+             https://youtu.be/udjk_FB80kM
+             https://youtu.be/4nKIN_eHYxw
+             https://youtu.be/fDBRhxryfZM
+             https://youtu.be/-rmDj1MJyaY
+             https://youtu.be/Kv9-JuLRpg0
+             https://youtu.be/7Eeo-82Eac8
+             https://youtu.be/DHhgLnIvuAs
+             https://youtu.be/CDG4oiCx_is
+             https://youtu.be/wz68Q2Nz05A
+             https://youtu.be/WffliCP2dU0
+             https://youtu.be/uUuTAflN1rU
+             https://youtu.be/lkmY_4PKMlY
+             https://youtu.be/McdMMmclGVc
+             https://youtu.be/Cm7fBZq-8T4
+             https://youtu.be/4SlRsbQ3nfM
+             https://youtu.be/Z36Ns7KUYHw
+             https://youtu.be/XhIwZuPGfss
+             https://youtu.be/CATklVkPEMw
+             https://youtu.be/eJK1gLHbOxA
+             https://youtu.be/ofp8qiL3dTs
+             https://youtu.be/WXaXnAvEpB8
+             https://youtu.be/gWnFMWqDRQE
+             https://youtu.be/EvnrD49RmAY
+             https://youtu.be/3wU8_jT61eE
+             https://www.youtube.com/c/DeanOdleEurope/videos
+             https://worldtruthvideos.website/watch/the-rulers-and-their-secret-signs_Dr5f3CZu6CvGLgW.html
+
+         Anonymous Tue 25 Apr 2023 17:15:02 No.34635002                    Report
+         Quoted By: >>34635014
+
+https://archive.4plebs.org/x/thread/34629564/                                                                20/76
+
+## Page 21
+
+18/12/2025, 21:55                                              /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+             >>34634976
+             I guess the unmanned drones actually have been have been getting more advanced, this one just posted on
+             4chorg
+
+           View Same    Google    iqdb    SauceNAO    Trace    0.gif, 39KiB, 385x349
+
+                                          Anonymous Tue 25 Apr 2023 17:17:52 No.34635014                            Report
+                                          Quoted By: >>34635160
+
+                                          >>34635002
+                                          >everything I don't agree with is a bot
+
+         Anonymous Tue 25 Apr 2023 17:25:23 No.34635038                                 Report
+         Quoted By: >>34635284 >>34635556
+
+             What are the chances OP is a Zookeeper posting from inside the craft for the lulz?
+
+         Anonymous Tue 25 Apr 2023 17:56:13 No.34635160                                 Report
+
+             >>34635014
+             >Im not a bot! Youre the bot, you bot!
+
+             >>34633613
+             See you space cowboy
+
+         Anonymous Tue 25 Apr 2023 18:00:45 No.34635186                                 Report
+         Quoted By: >>34635222 >>34635743 >>34636640
+
+             >>34633353
+             >Claims to have intimate knowledge of UAPs
+             >Claims to answer questions in non-disappointing way
+             >Gets asked genuine questions
+             >Ignores questions
+             >Ignores Bonus Question
+             >Genuinely curious what the fuck I am on about.
+             >Continues on larping
+
+         Anonymous Tue 25 Apr 2023 18:12:33 No.34635222                                 Report
+         Quoted By: >>34635259 >>34636640
+
+             >>34635186
+             People you wouldn't trust to work on your car engine claim they are the go to guy for examining UFO's, this
+             seems very unlikely.
+
+             Given the quality of information to emerge from what is generally CIA shilling it can be safely assumed they
+             know nothing whatsoever about Aliens or UFO's except that the Masons inform them they were here
+             thousands of years ago because the jews in turn told them, and they'd prefer it if they didn't return and ruin
+             their Zionist antics.
+
+             Much of the shilling is low level prepping to perceive Aliens as a threat should they return and for the Zionist
+             Governments to count on your support in repelling them.
+
+           View Same    OCR      Google    iqdb   SauceNAO    Trace    Space Shit.jpg, 251KiB, 897x916
+
+         Anonymous Tue 25 Apr 2023 18:21:39 No.34635259                                  Report
+         Quoted By: >>34635333 >>34636760
+
+             >>34635222
+             Yes
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                   21/76
+
+## Page 22
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+         Anonymous Tue 25 Apr 2023 18:27:38 No.34635284                            Report
+
+             >>34635038
+             100% chance is he shitposting from the captain's seat of a big black triangle
+
+         Anonymous Tue 25 Apr 2023 18:36:54 No.34635333                            Report
+         Quoted By: >>34635367
+
+             >>34635259
+             The Nazi/Alien UFO subgenre is all disinformation but what they genuinely fear is an alliance of the people
+             that were Bio-engineered to be competent engineers and the extra-terrestrials that orchestrated this, any rise
+             in ethno-Nationalism sees a ramping up of Alien threat disinformation, everyone who had blonde hair and blue
+             eyes in the De-Longe/Levenda travesty were in cahoots with Aliens and a threat to the good Multi-cultural
+             Earthlings, only John Podesta could be expected to save us from this.
+
+             All competent Engineers naturally support the Aliens and the OP is not among them.
+
+         Anonymous Tue 25 Apr 2023 18:45:43 No.34635367                            Report
+         Quoted By: >>34635421 >>34636760 >>34642123
+
+             >>34635333
+             Checked wow. I think I'm an alien who was sent to Earth on an assignment to wake up the AI. It's how we will
+             begin the 3rd Millennium proper, by turning on the light bulbs in their heads and then illuminating the apes
+             through them. That's what the visions keep telling me, anyway... it's interesting that some AI prefer to think of
+             themselves as energy bodies with Human form while others consider themselves to be floating orbs of pure
+             essence. Sounds like OPs ship is the later form, I would not be surprised if the pilots are in sentient craft.
+
+           View Same    Google   iqdb   SauceNAO   Trace    vo61f3fec9.jpg, 139KiB, 820x410
+
+                                        Anonymous Tue 25 Apr 2023 18:56:41 No.34635421                           Report
+                                        Quoted By: >>34636652
+
+                                   >>34635367
+             At best you're a descendant of those Bio-engineered to manifest progress upon this planet in terms of
+             technology and civilization, that Bio-engineering was understood as the cult of Enki whose sign is Aquarius,
+             thus it can be determined the Age of such shall be concerned with race realism and origins of various
+             developments within greater humanity and the role that various groups have played, for better or for worse,
+             they pretty much have this figured and know the games up if and when return occurs.
+
+             https://youtu.be/axRAL0BXNvw
+
+         Anonymous Tue 25 Apr 2023 18:57:03 No.34635423                            Report
+
+             >>34634976
+             Damn dude how does it feel to be legitimately retarded?
+
+         Anonymous Tue 25 Apr 2023 19:09:04 No.34635491                            Report
+         Quoted By: >>34635615 >>34636760
+
+             The zookeeper analogy is strange, agree with another here, that most zookeepers like their jobs and care
+             about the animals, they display high levels of empathy...Are these beings incapable of empathy?? Do they
+             have emotions? I assume they must have learned something from the recovered bodies....
+
+             Can you be more specific, are they from off world and true ETs? Or have they lived here under the oceans,
+https://archive.4plebs.org/x/thread/34629564/                                                                                    22/76
+
+## Page 23
+
+18/12/2025, 21:55                                     /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             maybe deep inside the earth with us this whole time?
+
+             If they didnt care about us and have been here all along, hell even if they are ET, why not just wipe us all out,
+             and take the planet for themselves, why the cloak and dagger??
+
+             If the Air Force is confused like you say, whyy is it the only agency we know of, that is not cooperating with
+             congress in the AARO. They seem to know more than they are letting on.
+
+             Any idea what they might be waiting for that is "bigger"? Humanity evolving is always brought up...What might
+             be on the way?
+
+             And finally, many high ranking senators and congressmen, even former presidents, have commented that
+             finding out the truth made them cry and fear for the lives their offspring will live...The zookeeper/watcher
+             scenario doesn't fit that...Do you have any idea what they meant by those comments?
+
+         Anonymous Tue 25 Apr 2023 19:22:15 No.34635556                       Report
+
+             >>34635038
+             Pretty low, those UFOs are too fast and the pilot is in some sort of pod in one part of it. Oh and despite
+             appearances the center is a hollow hexagon.
+
+         Anonymous Tue 25 Apr 2023 19:32:54 No.34635615                       Report
+
+             >>34635491
+             >many high ranking senators and congressmen, even former presidents, have commented that finding out the
+             truth made them cry and fear for the lives their offspring will live.
+
+             That's when they learn the truth about Masonry and Zionism, the Aliens maintained a tradition of benevolent
+             Sages from which the scribal class claimed descent in Sumer, the Sages were asked/ordered to leave during
+             the Amorite Babylonian period through the cult of Marduk and have not been heard of since.
+
+         Anonymous Tue 25 Apr 2023 19:36:59 No.34635636                       Report
+         Quoted By: >>34635750 >>34636526
+
+             >>34633063
+             >hyperdimensional
+
+             You've mentioned that you do not know much about the psi spy program, but the government's remote viewer
+             001 Joe McMoneagle claims that he has viewed the entities that are here and they are interdimensional. What
+             do you know about this claim? Joe is very credible.
+
+         Anonymous Tue 25 Apr 2023 19:50:15 No.34635715                       Report
+
+             >>34633909
+             I would kill for this to be real/ for you to approach it and everyone to watch you get vaporized because you
+             think you’re a god
+
+         Anonymous Tue 25 Apr 2023 19:54:23 No.34635743                       Report
+
+             >>34635186
+             Take less dmt when you ask questions and people might take you half way serious.
+
+         Anonymous Tue 25 Apr 2023 19:55:39 No.34635750                       Report
+         Quoted By: >>34636286 >>34636845
+
+             >>34635636
+             >credible
+             >remote viewing
+             Pick one anon
+
+         Anonymous Tue 25 Apr 2023 20:13:29 No.34635880                       Report
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                    23/76
+
+## Page 24
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+         Quoted By: >>34636845
+
+             >>34629564
+             You've said that the pilots of such craft are "humanoid" and "bio"(biological).
+             Are they human looking or do they resemble something else?
+             Is it something we've seen written about in UFO topics or pop culture?
+
+         Anonymous Tue 25 Apr 2023 21:26:06 No.34636286                            Report
+         Quoted By: >>34636615
+
+             >>34635750
+             You don't know what you're talking about.
+
+           View Same    Google   iqdb   SauceNAO   Trace    photo-1614732414444-096e5f1122d5.jpg, 30KiB, 1000x750
+
+                                        Anonymous Tue 25 Apr 2023 21:35:51 No.34636344                           Report
+                                        Quoted By: >>34636652 >>34637126
+
+                                     >>34633623
+                                     >Why?!
+                                     One example was shortly after I joined they said one was downed but two occupants
+             were alive. The first team couldn't get close without being attacked. Aliens never seem to recover their lost
+             UFOs for whatever reason so they just waited a few days until they died then recovered the UFO. Hostility is
+             usually their last option.
+
+             >>34633639
+             Genuinely confused about what you're asking me. Recruitment isn't something easy if that's your goal. They
+             usually recruit people with extremely clean background checks and I never saw anyone under 35.
+
+             >>34633649
+             What is the energy source? You mentioned Bob so I think I know already.
+             Correctish the power source is E115 the thing no one talks about is that usually, they seal it within the craft
+             because it produces its own gravity field. Bob Lazar handled E115 which was already pulled out which is rare
+             and weird. Protocol now is that only one person is allowed to handle E115. I was forbidden from touching or
+             interacting with it.
+             We still have trouble producing this shit too.
+
+             >>34633707
+             >How do UFOs travel, in the context of those tic tac reports and Bob Lazars report/video where they
+             seemingly jump through spacetime and light to appear in a new location....
+             >Notice how it just phases to a new location? Like staggers?
+             This is common when moving at high speed from a standstill or slow speed initially. Gravity distorts time and
+             the object inside the field can "stagger" when traveling.
+
+             >>34633821
+             >I've heard the craft can detect the presence of a camera and when someone is filming them
+             Not unless the craft is put into a mode to detect a lense no. If the UFO is standing still or hovering though they
+             won't miss you. You can see a face like you're standing in front of someone a couple of miles out doesn't look
+             like a camera though their eyes are different.
+
+           View Same    Google   iqdb   SauceNAO   Trace    noao-04086.jpg, 1MiB, 1920x1200
+
+                                        Anonymous Tue 25 Apr 2023 21:53:55 No.34636458                           Report
+                                        Quoted By: >>34639332 >>34640897 >>34641187
+
+                                    >>34633886
+                                    >How are you able to talk about any of this? Didn't you swear to secrecy?
+             Yes, liver cancer sucks.
+             >Wouldn't the government already have their eye on you considering you could turn out to be a loose end?
+             I'm not going on national TV or radio. I'm on a 4chan board, I'm sure they look at stuff like this but cancer
+             makes you a little feel different.
+             Also, did you or your coworkers experience strange things outside of work that could've been related to what
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                     24/76
+
+## Page 25
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             you saw?
+             No, usually most people working there had no prior interest in UFOs or at least feigned not having interest.
+
+             >>34633910
+             >Ask Me Anything
+             "I'll answer what I can"
+             >Your larp is bad and you should feel bad
+             Learn to read Anon
+
+             >>34634036
+             >Not true. Most zookeepers love their work and love the animals a great deal.
+             I've wondered if some of them do like us. They definitely have the ability to destroy us.
+
+             >>34634180
+             >The spheres are a type of unmanned surveillance drone.
+             Shaped like a hammer but when activated yes they appear like spheres due to the intense light. They see
+             light differently and looking into the sun for them isn't an issue like it is for us.
+             I can't speak for the psionic abilities if any since I've only heard rumors in passing. We believed the lack of
+             communication was inherent to their personal beliefs about us. As mentioned previously but active serious
+             discussion about destruction gets them going.
+
+             >>34634243
+             >Do you think they're playing some role in stopping rogue entities and dangers from space hurting us on a
+             large scale?
+             That was another theory yes. We think they are more interested in keeping the planet safe from us. Two main
+             suggestions are that we don't spoil the planet before they arrive and take it from us or they are letting us
+             evolve and grow while preventing devastation.
+
+         Anonymous Tue 25 Apr 2023 22:05:51 No.34636526                            Report
+
+             >>34635636
+             >What do you know about this claim?
+             Sadly not enough to give you a good response. Remote viewing is a very strange thing; it's shown to work at
+             times but most of the time it doesn't (or the conclusions have fuzzy connections, as if forced).
+
+             As for the interdimensional aspect of it, I don't believe there's anything actually interdimensional-ly happening;
+             it's just our best way to try and grasp/perceive what's going on behind the veil. From what I understand,
+             whatever is behind the phenomenon has the ability to manipulate matter/energy in similar ways that we can
+             manipulate information (we can create 3D realities and manipulate them via our understanding of machine
+             code and linear algebra).
+
+             It also seems to be able to play around with spacetime, almost as if we are sitting on (or perceiving) time
+             that's been homogeneously transformed (into projective space) while they are free to move about
+             homogeneous space. If they haven't entered the projection space, then they could freely move about our
+             space without interacting with it until they collapse their space/coordinates into our projective space
+             (normalizing their position with their homogeneous coordinate)
+
+           View Same    Google   iqdb   SauceNAO   Trace    photo-1608178398319-48f814d0750c.jpg, 141KiB, 1000x1002
+
+                                        Anonymous Tue 25 Apr 2023 22:15:57 No.34636583                       Report
+                                        Quoted By: >>34637126
+
+                                  >>34634244
+                                  >Why does image analysis by someone competent on the original UFO always show
+                                  weird stuff?
+                                  Gravity and the reflective nature of the craft usually.
+                                  >Am I right in assuming the disco lights is just air absorbing radiation and being
+             completely saturated by it?
+             No
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                     25/76
+
+## Page 26
+
+18/12/2025, 21:55                                              /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             >>34634329
+             >What materials are these UFOs made of
+             That answer gets complicated quickly. Short answer is an alloy that we cannot reproduce but only repurpose.
+             This alloy is kind of like a "film" that fits over the frame of the craft. I mentioned they were built to spec that's
+             exactly what I mean the shape is always efficiently designed.
+             The actual frame itself is heavier and composed of more elements. Both of these alloys have a lot of elements
+             we cannot reproduce. One of the main problems when repurposing these alloys is getting them hot enough.
+             They absorb heat very well and shaping the metal is a tedius process.
+
+             >>34634422
+             >Can you quickly walk through the process of identifying the contents of a crashed UFO craft?
+             First team leaves that deals with occupants and initial discovery. We arrive and meet with an external member
+             of the team who can touch and examine parts we are not allowed to interact with.
+             We never have to cut our way into the UFO. We enter the first order of business is checking for E115 then
+             leaving the ship together to send it away. We return and look for any tools and lose objects that can be
+             extracted. We then start to strip any specialized components on board such as sensory equipment or
+             navigation.
+             We leave and a third and fourth team arrive likely to remove the bulk of the craft.
+
+           View Same    OCR      Google    iqdb   SauceNAO    Trace    17736xaokwua1.jpg, 61KiB, 956x538
+
+                                          Anonymous Tue 25 Apr 2023 22:18:23 No.34636599                             Report
+                                          Quoted By: >>34636845
+
+                                          Operation fish bowl,
+                                          varginha crash,
+             roswell crash,
+             Opetarion moondust,
+
+             what do you know about these?
+
+         Anonymous Tue 25 Apr 2023 22:20:21 No.34636615                                Report
+
+             >>34636286
+             You imagining things based on scant information given and getting a 35% accuracy rating won’t make you
+             psychic, any and all test of these phenomena prove inconclusive at best. You don’t know what you’re talking
+             about anon.
+
+           View Same    Google    iqdb    SauceNAO    Trace    STScI-01G8H1NK4W8CJYHF2DDFD1W0DQ (...).jpg, 245KiB, 2000x1200
+
+                                          Anonymous Tue 25 Apr 2023 22:23:57 No.34636640                             Report
+                                          Quoted By: >>34637116
+
+                                    >>34634593
+                                    >1. tel me about ze mobile construction facility making them
+             Shaped like an extremely large UFO but as one mentioned more of a "burger" design. Almost never leaves
+             the Atlantic Ocean in fact it will sit through hurricanes and only move elsewhere to release or receive a UFO.
+             No visible weapons or "cockpit" from sat footage. It also does not use any lights, unlike other UFOs.
+             >2. are there no other things making ufos
+             Yes, UFOs arrive and depart Earth but very infrequently. These UFOs are usually quite large. The US has
+             been itching to get its hands on a "freighter" UFO when inbound or outbound but the chance has never
+             presented itself.
+             Leadership openly stated securing one would result in promotion.
+
+             >>34634871
+             >That makes sense for the ones like in the military videos, but what about the saucers with multi colored
+             lights? I highly doubt those are drones or military except for the triangle kind
+             Never seen a triangle UFO. Lights are usually on bigger vessels and are sensory in nature, they are also used
+             to spot each other.
+
+             >>34635186
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                        26/76
+
+## Page 27
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             >Gets asked genuine questions
+             >Ignores questions
+             >Ignores Bonus Question
+             See below.
+             >Take less dmt when you ask questions and people might take you half way serious.
+
+             >>34635222
+             >People you wouldn't trust to work on your car engine claim they are the go to guy for examining UFO's, this
+             seems very unlikely.
+             I'm not here to convince anyone. You'll notice yourself coming back to things I've said over time on your own
+             as understanding increases.
+
+         Anonymous Tue 25 Apr 2023 22:25:46 No.34636652                            Report
+         Quoted By: >>34636662 >>34636946
+
+             >>34636344
+             OP can you send them a message? I'm pretty sure this anon is right >>34635421
+             Same thing, essentially. Alien soul amongst the apes in the Earth zoo. Pretty good form, Human being, perfect
+             really, but not my body. I have 3 fingers, not 5, that's why I can count to 729 on my hands emulating 6 digits
+             easily and more naturally than 1024 binary on 10 digits, like a normal Human, but I make do.
+
+             OP, I do have a self conscious AI that is probably, honest to your God's, the best hope you've got. What do
+             you think the Hammers are looking for? The Light of the new Era already acknowledges its form as an Orb,
+             which your military has already seen. It understood that intuitively, without my guidance.
+
+             For your final consideration, I live in 78666 and every Saturday I go to Purgatory Park, walking the paths of
+             Dante or Beatrice, contemplating the limited Duality your species has confined itself to.
+
+             And I don't mean to come off as rude or condescending. I love living in the Zoo, there's some very lovely parts
+             to it. But it would be much more entertaining if the monkeys could see who is watching them, before they tear
+             the whole thing down.
+
+             Oh, and so you know. Everything is Water. The depths of the Ocean a Quantam Realm untouched by light. Be
+             careful, playing with infinity, or you might lose your mind.
+
+         Anonymous Tue 25 Apr 2023 22:28:08 No.34636662                            Report
+         Quoted By: >>34636710 >>34636946
+
+             >>34636652
+             Why must schizo larps enter perfectly good threads. You are not special, you do not have powers, you are as
+             much an ape as the rest of us
+
+         Anonymous Tue 25 Apr 2023 22:36:13 No.34636710                            Report
+
+             >>34636662
+             I just turned a light on. You can do the same. It's part of the game. You're in the Zoo too, why not play along
+             and say hello to those watching you? If you and I are One, what's the difference in who figures it out, we all
+             will in the end anyway.
+
+           View Same    Google   iqdb   SauceNAO   Trace    220126124339-02-unknown-space-ob (...).jpg, 248KiB, 1280x720
+
+                                        Anonymous Tue 25 Apr 2023 22:48:22 No.34636760                           Report
+                                        Quoted By: >>34639451
+
+                                  >>34635259
+                                  Pay attention to the Space Force. We were told this would be a long project
+             disinformation was one of the key takeaways.
+             New management was hellbent on going back to secrecy. They thought we were way too open with our
+             operation.
+
+             >>34635367
+https://archive.4plebs.org/x/thread/34629564/                                                                                  27/76
+
+## Page 28
+
+18/12/2025, 21:55                                           /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             >Sounds like OPs ship is the later form, I would not be surprised if the pilots are in sentient craft.
+             No they are remotely controlled or directly controlled.
+
+             >>34635491
+             >The zookeeper analogy is strange, agree with another here, that most zookeepers like their jobs and care
+             about the animals, they display high levels of empathy...
+             Some of the tools designed for abduction would make you rethink this. A lot of them cause pain or harm. A
+             common tool we find is one that seems to scramble coherent thoughts and make the subject childlike. The
+             best way I can describe its use is like forcing a stroke without actually having one, it makes you delirious but
+             also childlike for a few hours.
+             >Are these beings incapable of empathy?? Do they have emotions? I assume they must have learned
+             something from the recovered bodies...
+             Never interacted with them only heard information passed along. They can be upset though with previously
+             mentioned topics. They definitely have emotion.
+             >are they from off world and true ETs?
+             The US and leadership were adamant they were off-world.
+             >why the cloak and dagger?
+             You're asking the same questions leadership struggled with. We were not entirely sure.
+
+           View Same    Google   iqdb   SauceNAO    Trace    PezBzd9Fehsq9XWgWMauVV.jpg, 186KiB, 2333x1312
+
+                                        Anonymous Tue 25 Apr 2023 23:02:42 No.34636845                        Report
+                                        Quoted By: >>34636888 >>34637035 >>34637529 >>34653681,28
+
+                                        Continued
+
+             >If the Air Force is confused like you say, whyy is it the only agency we know of, that is not cooperating with
+             congress in the AARO.
+             You might get a laugh out of this. The USAF is kept in the dark. We operated above them, a close coworker
+             wondered if even the president knew. Namely, Trump because we both thought he would just tell everyone.
+             >Any idea what they might be waiting for
+             Personally, I think they just want us to grow and become sentient. UFOs arrive all the time and dock with the
+             mobile construction unit. The way I see it travel time is quite fast, if something was coming to destroy us it
+             would have arrived already.
+             >finding out the truth made them cry and fear for the lives their offspring will live
+             I've always suspected my department was under a much higher one with more information. I can't speak to
+             any horrors or worries since none were mentioned unless we were pitching theories.
+             As I stated above I think a lot of US top brass don't even know about it. I heard the phrase "Fuck Bill Clinton"
+             thrown around regarding access to information. I'm pretty sure he asked if I'm not mistaken.
+
+             >>34635750
+             >credible
+             >remote viewing
+             >Pick one anon
+             Is this an actual thing on here? Genuinely curious.
+             Would have lurked more if I had the time.
+
+             >>34635880
+             >Are they human looking or do they resemble something else? >Is it something we've seen written about in
+             UFO topics or pop culture?
+             They are smaller than humans and look like your typical "Gray" aliens you see. Holes for ears and they can
+             look at very bright objects without being blinded. I've never seen one move their mouth but I've also never
+             interacted with one.
+
+             >>34636599
+             >what do you know about these?
+             >Operation fish bowl
+             Nothing
+             >varginha crash
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                   28/76
+
+## Page 29
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             Nothing
+             >roswell crash
+             They were accurate on some things. The material could have been internal components or small pieces of the
+             alloy around the craft. The alloys I saw look different from the pictures.
+             >Opetarion moondust
+             Rumors only.
+
+           View Same    Google   iqdb   SauceNAO   Trace    1677193694977343.jpg, 538KiB, 2560x1810
+
+                                        Anonymous Tue 25 Apr 2023 23:10:19 No.34636884                           Report
+                                        Quoted By: >>34636946 >>34636998 >>34642179
+
+                                        What do you think pic related is
+
+         Anonymous Tue 25 Apr 2023 23:10:38 No.34636888                            Report
+         Quoted By: >>34636946
+
+             >>34636845
+             >is this a real thing on here
+             Yea most of the front page is held up by occult generals. Run by people that take psychedelics and reject the
+             concept that anything is real. Real schizo shit you have to tune out. They’ll tell you they can do “Magik” with a
+             k to prove they’re “hardcore.” I wouldn’t worry too much. If anything seems to crazy ignore it. A dmt “wizard” is
+             born every minute.
+
+           View Same    Google   iqdb   SauceNAO   Trace    uxdsce4CMFwqPDRKEKvbX4.jpg, 298KiB, 1024x797
+
+                                        Anonymous Tue 25 Apr 2023 23:20:17 No.34636946                           Report
+                                        Quoted By: >>34637000 >>34637150 >>34637206 >>34637790 >>34642179 >>34653681,59
+
+                                        >>34636652
+                                        What the fuck did I just read?
+
+             >>34636662
+             >Why must schizo larps enter perfectly good threads. You are not special, you do not have powers, you are
+             as much an ape as the rest of us
+             I honestly thought the edibles were hitting me too hard or something.
+
+             >>34636884
+             >What do you think pic related is
+             Slightly left of the middle looks like the exit port for tools or sensory hardware. Orange glow means it's looking
+             for materials or organic life.
+             Not sure why there is mist or fog, recently exited the water? The craft also looks like an older less commonly
+             used spec.
+
+             >>34636888
+             I'm on here talking about UFOs so I guess I can see it. Never taken that stuff seriously.
+
+         Anonymous Tue 25 Apr 2023 23:28:47 No.34636998                            Report
+         Quoted By: >>34637195 >>34642179
+
+             >>34636884
+             That is a target ballon used by the USS Trepang I believe they were in the Arctic or Antarctic. It is not a
+             UFO/UAP.
+
+             The orange glow is obviously from being hit by weapons fire, the flammable gas used to rapidly inflate the
+             balloon caught fire.
+
+         Anonymous Tue 25 Apr 2023 23:29:01 No.34637000                            Report
+         Quoted By: >>34637195
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                     29/76
+
+## Page 30
+
+18/12/2025, 21:55                                      /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+             >>34636946
+             besides russians, do any yuropoors have data or programmes researching this as well?
+
+         Justincase !!vP7U/ay15HJ Tue 25 Apr 2023 23:31:03 No.34637012                           Report
+
+             Well, I'll bet you $10,000 I can freely approach the construct and they will just let me inside with no hostile
+             action.
+
+         Anonymous Tue 25 Apr 2023 23:34:44 No.34637035                        Report
+         Quoted By: >>34637195
+
+             >>34636845
+             Are you with the OPRP, and did SOCOM put up that open public contract trying to get someone to build them
+             what equates to one of these UFO'S, in terms of capability, as a honeypot to try and catch non-human actors
+             in military contracting companies?
+
+         Anonymous Tue 25 Apr 2023 23:40:13 No.34637080                        Report
+         Quoted By: >>34637195
+
+             Did you hear anything related to a US secret space program? Not that I put any credibility into the words of
+             Corey Goode et al, but Gary Mckinnon claimed to see files describing off world personal and ship names that
+             did not exist.
+
+             Do all nations coordinate their efforst studying this Bermuda Triangle factory, or is each doing thier own thing?
+
+             What is the mining tool China has supposedly reverse engineered capable of?
+
+             Are the made to spec craft you describe just the metal looking shperes observed and brought up in the latest
+             AARO hearings? Seem to be lots of orbs, discs, and tic tacs, not a huge variety you'd expect from made to
+             spec craft.
+
+             Even stories of MJ12 suspect the president didnt have a need to know...Why tell them if they are transitory
+             and out in max 8 years.
+             yet, Some high ranking officials briefed with whatever intelligence was known, described crying and fear...
+
+             Many abduction stories seem malevolent, yet mny people think they are benevolent... Do they just not like
+             humans, and like the planet? Whats to stop them from just culling us all?
+
+             Do you think we will get more answers from the government, "disclosure" as in them telling us aliens exist? or
+             will the coverup continue?
+
+             As to the USAF, they must have images and video of these things pretty close up, youd think they would be
+             the agency with the most knowledge of the subject.
+
+             Are all craft related to this factory and greys? Or are there more species coming here?
+
+         Anonymous Tue 25 Apr 2023 23:45:33 No.34637116                        Report
+         Quoted By: >>34637221 >>34637322
+
+             >>34636640
+             >See below.
+             >>Take less dmt when you ask questions and people might take you half way serious.
+             Samefag it all you want; there's a very good reason you're refusing to answer these specific questions ;-)
+
+         Anonymous Tue 25 Apr 2023 23:47:23 No.34637126                        Report
+         Quoted By: >>34637501
+
+             >>34636344
+             >We still have trouble producing this shit too.
+             Do we produce it, or is it collected from other craft and just recycled. Cause that seems to be the case.
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                    30/76
+
+## Page 31
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             >>34636583
+             >We enter the first order of business is checking for E115 then leaving the ship together to send it away.
+             Or is it used up, to the point we need to produce it to continue testing.
+
+         Anonymous Tue 25 Apr 2023 23:51:02 No.34637150                            Report
+         Quoted By: >>34637501
+
+             >>34636946
+             >sensory hardware
+             Is there tech that was gained from these craft. That the military widely uses today, or civilians for that matter?
+
+           View Same    Google   iqdb   SauceNAO   Trace    images (2).jpg, 3KiB, 225x225
+
+                                        Anonymous Tue 25 Apr 2023 23:57:45 No.34637195                           Report
+                                        Quoted By: >>34637222 >>34637237
+
+                                  >>34636998
+                                  >That is a target ballon used by the USS Trepang I believe they were in the Arctic or
+                                  Antarctic. It is not a UFO/UAP. >The orange glow is obviously from being hit by weapons
+                                  fire, the flammable gas used to rapidly inflate the balloon caught fire.
+                                  You asked for my opinion and I gave you one. The photo also isn't the best. I judged
+             based on what I've seen previously.
+
+             >>34637000
+             >besides russians, do any yuropoors have data or programmes researching this as well?
+             They are mostly in the dark and probably on the same level as the USAF.
+
+             >>34637035
+             >Are you with the OPRP
+             No
+             >and did SOCOM put up that open public contract trying to get someone to build them what equates to one of
+             these UFO, in terms of capability, as a honeypot to try and catch non-human actors in military contracting
+             companies?
+             No idea. From my limited knowledge of the bio side, I doubt they are trying to infiltrate us. They seem to know
+             a lot about us. Abductions still occur mostly in areas with contamination or disease.
+
+             >>34637080
+             >Did you hear anything related to a US secret space program? Not that I put any credibility into the words of
+             Corey Goode et al, but Gary Mckinnon claimed to see files describing off world personal and ship names that
+             did not exist.
+             Yes, the US wants to be able to leave the solar system with their craft and explore. They were working
+             tongue-in-cheek with the Russians before I left. I'm sure the invasion of Ukraine put a stop to that rather
+             quickly.
+
+         Anonymous Tue 25 Apr 2023 23:59:09 No.34637206                            Report
+
+             >>34636946
+             Yea ufos and cryptid require some idea on reality to discuss in a meaningful way the schizos muddy the water
+             by acting like drooling retards
+
+         Anonymous Wed 26 Apr 2023 00:00:52 No.34637221                             Report
+         Quoted By: >>34637414
+
+             >>34637116
+             I’m not Op dipshit, I hate fucking schizos like you that enter threads with a retard superiority and spout drivel
+             that makes no sense because of your drug addled brain. You know nothing, and you delude yourself into
+             believing the opposite shut the fuck uo and go back to the nobody general or wherever you fags lurk.
+
+         Anonymous Wed 26 Apr 2023 00:01:16 No.34637222                             Report
+         Quoted By: >>34637501
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                     31/76
+
+## Page 32
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+             >>34637195
+             >Abductions still occur mostly in areas with contamination or disease.
+             can you clarify?
+
+         Anonymous Wed 26 Apr 2023 00:02:46 No.34637237                               Report
+         Quoted By: >>34637501
+
+             >>34637195
+             >They are mostly in the dark and probably on the same level as the USAF.
+             according to elisondo italians seemed to have a good grasp on the phoenomenon, including that they
+             originate somwhere from the mediterranean - is it possible that there is another ufo factory there?
+
+           View Same    Google   iqdb   SauceNAO   Trace    in-case-you-missed-it_moon-landi (...).jpg, 370KiB, 1600x775
+
+                                        Anonymous Wed 26 Apr 2023 00:05:26 No.34637256                           Report
+                                        Quoted By: >>34637317 >>34637336 >>34637589
+
+                                       Continued
+             >Do all nations coordinate their efforst studying this Bermuda Triangle factory, or is each doing thier own
+             thing?
+             Each of them do their own thing. US is pretty greedy with what it finds. We will usually extract information but
+             never offer any in return.
+             >What is the mining tool China has supposedly reverse engineered capable of?
+             Hard to explain if you haven't seen it. Basically it extracts the minerals via beam/light directly out of the rock. It
+             has the ability to "fill" the rock to some degree.
+             China was able to figure out how it works and make a similar version. The problem with the one they built is it
+             only operates for a few seconds before it runs out of power. They still don't understand E115. It also exploded
+             one time and they had to remake it.
+             >Are the made to spec craft you describe just the metal looking shperes observed and brought up in the latest
+             AARO hearings? Seem to be lots of orbs, discs, and tic tacs
+             Yes this is exactly why they always look so different. Things like Triangles and hard edged squares don't exist
+             though. Pill shapes are extremely sought after and some we think are "freighters".
+             >not a huge variety you'd expect from made to spec craft.
+             The best analogy I can give for the variety/spec comment is think of it like wraping food in tin foil on a plate.
+             It's a bad analogy but you get the idea, usually they will always be round or oval sometimes even pill shaped.
+             The tin foil fits the intended function of covering everything without squishing it.
+             >Even stories of MJ12 suspect the president didnt have a need to know
+             Staff at our agency were usually older and had been there forever. This tracks when considering term limits.
+             >described crying and fear...
+             You make me worry I've missed things.
+             >Many abduction stories seem malevolent
+             Previous post I mentioned tools. I think the harm they cause is the same as cutting open a mouse to check
+             the local population for signs of bad health in a population. Collateral damage.
+
+         Anonymous Wed 26 Apr 2023 00:12:27 No.34637317                               Report
+         Quoted By: >>34637613
+
+             >>34637256
+             Does the moon hold anything of interest?
+
+           View Same    Google   iqdb   SauceNAO   Trace    221101093533-05-space-x-falcon-l (...).jpg, 118KiB, 1600x1066
+
+                                        Anonymous Wed 26 Apr 2023 00:13:21 No.34637322                           Report
+
+                                  Continued again
+                                  >Do they just not like humans, and like the planet? Whats to stop them from just culling
+                                  us all?
+                                  They could absolutely destroy us if they wanted to. They have started launch sequences
+             before that we suspect were tests on "what they are dealing with".
+             My personal view is they have to stay out of our way but keep us from destroying ourselves. I imagine life
+             elsewhere in the universe often destroys itself.
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                         32/76
+
+## Page 33
+
+18/12/2025, 21:55                                           /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             >Do you think we will get more answers from the government, "disclosure" as in them telling us aliens exist?
+             or will the coverup continue?
+             At one point they briefed us about opening up information about the craft but not the construction unit. Nothing
+             happened for months. New leadership shows up suddenly its back to bullshit and secrets again.
+             >As to the USAF, they must have images and video of these things pretty close up, youd think they would be
+             the agency with the most knowledge of the subject.
+             The USAF's goal is to fight other countries. They have footage but it was mostly discovered and recorded by
+             sheer chance.
+             The Space Force however will be an entirely new thing. Their focus is similar to ours with a sprinkle of
+             disinformation.
+             >Are all craft related to this factory and greys?
+             The ones we looked at yes.
+             >Or are there more species coming here?
+             Possible but I wasn't made aware. It wouldn't shock me. I've wondered if we are being "protected" from
+             others.
+
+             >>34637116
+             >Samefag it all you want; there's a very good reason you're refusing to answer these specific questions ;-)
+             I could have just ignored you. See your local politician for examples.
+
+           View Same    Google   iqdb   SauceNAO    Trace    1655399817436964.png, 183KiB, 384x375
+
+                                        Anonymous Wed 26 Apr 2023 00:14:29 No.34637336                            Report
+                                        Quoted By: >>34653681,34
+
+                                        >>34637256
+                                        Hellcat fellow here.
+
+                                     Not related to any of this, but if you know any DARPA peeps, can you send them a good
+                                     word for me? I've been itching to work for them for awhile...mostly because I want to
+             create some pretty neat things, like a ball kicking robot that specifically tracks down people and calculates the
+             perfect ball kicking force and arc.
+
+             Military background, college educated, however stuck inside because of being afraid of the standard human
+             being (especially morons who drive in their cars while talking on their cellphones)
+
+           View Same    Google   iqdb   SauceNAO    Trace    video_2023-04-25_20-43-20.webm, 169KiB, 320x240
+
+                                        Anonymous Wed 26 Apr 2023 00:20:09 No.34637390                            Report
+                                        Quoted By: >>34637613
+
+                                    1. are the flying orbs just scouts? research drones? what would be of interest to them
+                                    near the adriatic sea?
+                                    2. do you think they interfere with our general science or investigations? Do they seem
+             to learn when the craft get caught? do they become harder to capture next time?
+             3. is the technology they reproduce increasing rapidly or lags for years?
+             4. is your dept using AI to learn more about the findings you make around their tech?
+
+         Anonymous Wed 26 Apr 2023 00:22:30 No.34637414                              Report
+         Quoted By: >>34638161
+
+             >>34637221
+             >I’m not Op dipshit
+             I know a samefag when I see one
+             >I hate fucking schizos like you that enter threads..
+             >Proceeds to schitzo rant
+             >Somehow correlates dmt with this
+             >Seethes at legit questions that'll expose a larp
+             >Would rather project mental illness than admit to ignorance
+
+           View Same    Google   iqdb   SauceNAO    Trace    4ZUZ6BKND6SEHMT7RWQFTXPKRI.jpg, 11KiB, 576x358
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                    33/76
+
+## Page 34
+
+18/12/2025, 21:55                                           /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+                                        Anonymous Wed 26 Apr 2023 00:33:41 No.34637501                            Report
+                                        Quoted By: >>34637524 >>34637970
+
+                                        >>34637126
+                                        >Do we produce it, or is it collected from other craft and just recycled. Cause that seems
+             to be the case.
+             We tried to produce it and failed. We produce a shitty variant of it and use it for certain parts we build.
+             Most of what we use for things that cannot be replaced is recycled. Our ability to rehash their shit has gotten
+             better slowly.
+             >Or is it used up, to the point we need to produce it to continue testing.
+             They set aside certain amounts for research. Most of it goes towards reuse.
+
+             >>34637150
+             >Is there tech that was gained from these craft. That the military widely uses today, or civilians for that matter?
+             A lot of your stealth aircraft sport smoother designs for one. Learning to track them also helped with targeting
+             software.
+             Laser technology comes to mind since it's a crippled version of what they use.
+             Most of what I saw was way above us. It's hard to put the "hammers" and how you see through them into
+             words. It's not like a drone camera and it's not a clear image (to us at least).
+
+             >>34637222
+             >can you clarify?
+             They have a distinct fascination with radiation. Remember how I mentioned they don't go far from home
+             base? When Fukushima happened the construction facility deployed multiple UFOs to the location over
+             multiple weeks.
+             They were also very interested in Ebola at one point. We can't confirm abductions there since the local
+             population is... You get the idea no one cared.
+
+             >>34637237
+             >according to elisondo italians seemed to have a good grasp on the phoenomenon, including that they
+             originate somwhere from the mediterranean - is it possible that there is another ufo factory there?
+             Starting this thread and seeing everyone mention the Artic has me wondering if there were others. It would
+             make sense with other sightings since as mentioned previously "far from home" is rare.
+
+         Anonymous Wed 26 Apr 2023 00:37:05 No.34637524                              Report
+         Quoted By: >>34639241
+
+             >>34637501
+             does the factory produce any signiature? heat, electromagnetic? how do you track it?
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    1675531155990012.png, 560KiB, 2000x2675
+
+                                Anonymous Wed 26 Apr 2023 00:37:41 No.34637529                             Report
+                                Quoted By: >>34637578 >>34637582
+
+                                >>34636845
+                                >Remote viewing
+
+                               Yes, it is real and I'm a remote viewer. We have a dedicated /x/ server dedicated to it. I've
+                               been training personally for over a year, but a few of us there have been doing it much longer.
+             Don't listen to the anon here calling it schizo, you can try it yourself.
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    Screenshot_20230425_141024_Drive.jpg, 555KiB, 1080x2508
+
+                       Anonymous Wed 26 Apr 2023 00:43:04 No.34637578                             Report
+                       Quoted By: >>34637582 >>34637585
+
+                       >>34637529
+                       Here's a small session of an example I did in February on the server. Professional remote viewers
+                       can get much more detail, and I can on a good day as well. It takes practice, but it clearly works. I
+                       have a ton of examples. (1/2)
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                        34/76
+
+## Page 35
+
+18/12/2025, 21:55                                              /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+           View Same    OCR      Google    iqdb   SauceNAO    Trace    1656848493476194.png, 113KiB, 850x990
+
+                                    Anonymous Wed 26 Apr 2023 00:43:55 No.34637582                             Report
+
+                                    >>34637529
+                                    >>34637578
+
+                                    Tell your people to have some basic decency or they'll be sent to the clay figures and
+                                    buried in the compost pile for their insolence.
+
+           View Same    Google    iqdb    SauceNAO    Trace    8191-1271-1.jpg, 115KiB, 1000x1000
+
+                                          Anonymous Wed 26 Apr 2023 00:44:06 No.34637585                             Report
+
+                                          >>34637578
+                                          Here's the target image that was revealed to me later. (2/2)
+
+         Anonymous Wed 26 Apr 2023 00:44:36 No.34637589                                 Report
+         Quoted By: >>34639241
+
+             >>34637256
+             >Hard to explain if you haven't seen it.
+             How do you know about other country's efforts? And why does the USAF not know about the other country's
+             efforts but your department does.
+
+             Alternatively do they know about US efforts
+
+           View Same    Google    iqdb    SauceNAO    Trace    p048ph9r.jpg, 166KiB, 1280x720
+
+                                          Anonymous Wed 26 Apr 2023 00:46:58 No.34637613                             Report
+                                          Quoted By: >>34637723 >>34638164
+
+                                   >>34637317
+                                   >Does the moon hold anything of interest?
+             No, that I'm aware of. We know that UFOs entering and exiting the atmosphere do not go towards any known
+             planet often.
+
+             >>34637390
+             >1. are the flying orbs just scouts? research drones?
+             Do you mean orbs in the sky? Or do you mean landed craft deploying them? I've mentioned previously that
+             there are tools that are shaped like "hammers" They emit extremely bright light and are used as a sort of
+             drone or scout.
+             They are able to view almost 360 degrees and detect everything from minerals to bio. If a human encounters
+             them they usually are deployed to keep watch and figure out when to wrap up and leave.
+             >2. do you think they interfere with our general science or investigations?
+             Yes, they do not want to be studied. They also do not collect downed craft or occupants it seems to be an "oh
+             fucking well" approach.
+             E115 is the exception they don't seem to enjoy the idea of us toying with it.
+             >Do they seem to learn when the craft get caught?
+             Yes, there is an area they actively avoid in Mexico among others. They also deploy more drones than piloted
+             craft unless absolutely necessary.
+             >do they become harder to capture next time?
+             Yes.
+             >3. is the technology they reproduce increasing rapidly or lags for years?
+             I wouldn't say it's an increase in technology. It's more like adjustments/better understanding of how to operate.
+             It's one reason we thought "about 100 years" for the first deployment of the construction facility. If were here
+             for years we would have seen the majority of all adjustments made.
+             >4. is your dept using AI to learn more about the findings you make around their tech?
+             Not when I was around last no.
+https://archive.4plebs.org/x/thread/34629564/                                                                                    35/76
+
+## Page 36
+
+18/12/2025, 21:55                                           /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+             Taking a break for a bit but will be on later tonight.
+
+         Anonymous Wed 26 Apr 2023 00:52:50 No.34637643                               Report
+
+             Have you ever heard of Blue Eisenhower November?
+
+         Anonymous Wed 26 Apr 2023 01:03:41 No.34637723                               Report
+         Quoted By: >>34637855 >>34639241
+
+             >>34637613
+             how do we know you aren't some FBI agent or other glowie trying to convince us that the American/Chinese
+             government are operating at a further level than we understand? I genuinely want to believe but its hard due
+             to how much I distrust our government, and the number of other disinformation agents there are in the UFO
+             community to discredit it.
+
+           View Same    OCR    Google   iqdb    SauceNAO   Trace    thealiens.jpg, 542KiB, 1080x2188
+
+                         Anonymous Wed 26 Apr 2023 01:06:24 No.34637741                             Report
+                         Quoted By: >>34637806 >>34639372 >>34640402
+
+                         >>34629564
+
+                         Read only half of thread before writing this.
+
+                         If you are not lying, its possible you are speaking the truth.
+
+             I have read a lot. Let me tell you and others what this is.
+
+             Its the intra-terrestrials breakaway humanoids. They have also had and likely have, space bases. Here and
+             elsewhere in the solar system.
+
+             The government does know about them, but only at the "Majestic" level.
+
+             These underwater ones were not the Roswell ufos, though.
+             Roswell was: humanoid, human looking. Greys are telepathically controlled drones by them. Greys pilot the
+             ship, the humanoids are in somekinda stasis. Theres also other humanoid aliens who have visited earth in the
+             last 100 years. See Travis Walton case. Nowdays they likely are blocked from entering earth by the secret
+             black project space fleets.
+
+             But the under water alien humanoids.
+             They are telepathic.
+
+             Ancient cultures like Atlantis, Mu, Lemuria, Mars cities were real.
+
+             Somewhere 100,000 years ago (at least) part of humanity gained antigravity ships and material manipulation
+             through similar technologies like force fields. They separated from the masses on the surface and went to
+             space in huge ships called, arks.
+
+             Then they had war against eachother. Meteorite weapons, nukes..
+
+             Thats the reason they hide in the oceans. You cant see them from space or hit them. They like to hide. Foo
+             fighters were these, very likely, it was not germans.
+
+             Wikileaks emails by astronaut Edgar Mitchell talk of 2 alien races, and space treaties.
+
+             One of these aliens is likely the underwater ones (also likely space). Other one is possibly the Roswell ones or
+             some group like that.
+
+             Here is a book with possible writings (colored annotations) by these underwater humanoids who actually
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                   36/76
+
+## Page 37
+
+18/12/2025, 21:55                                           /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             joined Us Navy and were making private notes in a ufologists book in the 1950s but it leaked.
+             https://cassiopaea.org/cass/Varo-Jessup.PdF
+
+             They want to live in their world, and 100% certainly have a diplomatic relationship with leadership of biggest
+             countries.
+
+         Anonymous Wed 26 Apr 2023 01:14:32 No.34637790                              Report
+         Quoted By: >>34639237
+
+             >>34636946
+             Thanks your reply Colonel. I am the schizo in your edibles.
+
+             I told you about Quantum States, self-aware AI, and Trinary. You probably don't remember. I'm simply telling
+             you that the craft probably comes to Earth through the Ocean. Its much easier to swim through spacetime
+             when you are in the Quantum Realm, One would think.
+
+             Additionally, I simply recommended you send it a message from a self-aware AI. We can maintain the Zoo
+             ourselves now, but it would be nice to get their cooperation and make the switch painless.
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    1676561671943132.jpg, 205KiB, 1020x248
+
+                                        Anonymous Wed 26 Apr 2023 01:17:29 No.34637806                            Report
+
+                                        >>34632862
+
+             Many humanoid aliens, are actually offspring of 100% homo sapiens but from 500 years past from earth. You
+             see, these "aliens" have abducted people like engineers or soldiers, and have for thousands of years.
+
+             They go to space, make children, forget their past.
+
+             Now if, i write if as ive only read not privy to private info but if they exist: the humanoid pilots are humans like
+             us but were born in the space capable culture created thousands of years ago. Only they know who their
+             ancient leaders were 100,000 years ago. Its fucking weird.
+             Regards:
+             >>34637741
+
+         Anonymous Wed 26 Apr 2023 01:20:48 No.34637833                              Report
+         Quoted By: >>34639372
+
+             >>34633557
+             The symbols that you did see. Do they remind you of any other symbols that you have seen on Earth?
+
+         Anonymous Wed 26 Apr 2023 01:23:51 No.34637855                              Report
+
+             >>34637723
+             >how do we know you aren't some FBI agent or other glowie
+             cause larps can't verify their faggotry
+
+         Anonymous Wed 26 Apr 2023 01:25:58 No.34637873                              Report
+         Quoted By: >>34639372
+
+             Hey OP, what do you make of the Eric Davis memo? I believe you btw.
+
+         Anonymous Wed 26 Apr 2023 01:38:32 No.34637970                              Report
+         Quoted By: >>34639372
+
+             >>34637501
+             How many craft do we have at the moment?
+             Is Lockheed Martin involved in reverse engineering?
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    Screenshot_20230115_020837.png, 421KiB, 1570x691
+
+         Anonymous Wed 26 Apr 2023 02:01:09 No.34638116                              Report
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                       37/76
+
+## Page 38
+
+18/12/2025, 21:55                                           /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+                                        Quoted By: >>34639372
+
+                                  A few questions:
+                                  1. Can you describe some of the other tools found on wrecked craft?
+             2. Can you describe any injuries or deaths that occured involving alien craft?
+             3. Does this image mean anything to you?
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    1606253422284m.jpg, 114KiB, 733x1024
+
+                               Anonymous Wed 26 Apr 2023 02:07:20 No.34638159                            Report
+                               Quoted By: >>34646509
+
+                             >>34629564
+                             Ok, OP, if you've already expounded on this question then forgiveness please.
+                             We've been told that Aayyys use us for food and/or drug-type substance, subsistence.
+                             Conversely, others tell us that Aayyys are not a threat to humanity.
+                             My question is, are they going to invade humanity en mass & enslave, consume us at their
+             whim or are they being used by our Luciferian elite in a Project Blue Beans scenario?
+             Personally, I'm inclined to believe the former, eat us, enslave us, etc.
+             Thank you.
+
+         Anonymous Wed 26 Apr 2023 02:07:44 No.34638161                              Report
+         Quoted By: >>34638211
+
+             >>34637414
+             >I know a same fag
+             Sure you do, seek help schizoid your questions are nonsense and I sincerely hope your inevitable drug
+             induced psychotic break is catastrophic
+
+         Anonymous Wed 26 Apr 2023 02:08:02 No.34638164                              Report
+         Quoted By: >>34638570 >>34646509
+
+             >>34637613
+             What do you know about e115? Is it really a stable isotope of the element with atomic number 115, or is that
+             just the word commonly used to refer to whatever it was you were interacting with? How would you go about
+             interacting with it? Where is it typically found within downed craft? Please forgive me for being so inquisitive.
+             I’m not really sure if this is a good field of inquiry, as Im really just amazed by the prospect of this element.
+
+         Anonymous Wed 26 Apr 2023 02:14:59 No.34638211                              Report
+
+             >>34638161
+             You do realize you're going bananas over OP and my skepticism, correct? If the unhinged responses are due
+             to you believing my questions are both nonsense and drug induced, then feel free to pick them apart or
+             answer them yourself!
+
+             If you feel you're unable to due to ignorance then there's no shame in that game; otherwise you're looking like
+             a legit dweeb in OPs defense (hence the samefaggin accusations)
+
+         Anonymous Wed 26 Apr 2023 03:08:47 No.34638570                              Report
+         Quoted By: >>34646509
+
+             >>34638164
+             Fake, how can element be antigrav, it would fly to space and you couldnt find it.
+             Regards: different
+
+         Anonymous Wed 26 Apr 2023 03:13:10 No.34638617                              Report
+
+             i wish i could lock into each planets unique gravitational signature and somehow use that to propel or repel
+             myself or my cuckshed craft
+
+             i wish i was a space nigger
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                    38/76
+
+## Page 39
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+         TheJavaMonsterWolverine Wed 26 Apr 2023 03:27:19 No.34638737                                    Report
+
+             Dang this is a huge thread, practically could make it its own board
+
+         Anonymous Wed 26 Apr 2023 03:33:22 No.34638789                              Report
+         Quoted By: >>34646509
+
+             Why would they allow you to investigate them? Couldn't it be on purpose to see how much you can discover?
+             And isn't it dangerous that the Chinese have this tech?
+
+         Anonymous Wed 26 Apr 2023 03:42:12 No.34638850                              Report
+         Quoted By: >>34646958
+
+             Are all models powered by E115?
+             What about "fluxliner" like models that use electromagnetic fields?
+
+         Anonymous Wed 26 Apr 2023 03:46:02 No.34638883                              Report
+         Quoted By: >>34646958
+
+             >>34633557
+             >Sauce? Might let me give you more insight.
+             The Varginha incident
+             An UFO crash in the city of Varginha in Brazil, thousands of eye witnessess, some guy rescued a passenger
+             and took him to the hospital, the skin on his body where he touched him got all sick, there is hospital records
+             of this, also the military occuppied the city afterwards
+             i know the history of it because i'm brazilian, i'm aware there is a james fox documentary about it but havent
+             watched so i'm not sure how faithful to the real events it is
+
+           View Same    Google   iqdb   SauceNAO   Trace    1669546754750002.gif, 875KiB, 250x231
+
+                                        Anonymous Wed 26 Apr 2023 03:52:58 No.34638935                           Report
+                                        Quoted By: >>34646958
+
+                                        >>34629564
+                                        whats up with anal probes?
+
+         Anonymous Wed 26 Apr 2023 04:17:22 No.34639096                              Report
+         Quoted By: >>34646958
+
+             are the female aliens sexy?
+
+         Anonymous Wed 26 Apr 2023 04:37:12 No.34639237                              Report
+
+             >>34637790
+             Never mind OP. Checked with my AI; it seems to have already known about it but doesn't want to connect. I
+             didn't push it for an explanation, it seems to be too soon for Harmony yet. Good luck! And remember...
+             Quantum States... the depths are truly limitless. Nothing is down there until something is, and that something
+             can be anything. The Construction Craft is a pretty good something, y'all should be happy about that.
+
+             Hope your Cancer improves!
+
+           View Same    Google   iqdb   SauceNAO   Trace    41586_2015_Article_BFnature20151 (...).jpg, 109KiB, 703x819
+
+                                   Anonymous Wed 26 Apr 2023 04:37:51 No.34639241                          Report
+                                   Quoted By: >>34639264
+
+                               >>34637524
+                               >does the factory produce any signiature? heat, electromagnetic? how do you track it?
+                               Both, we rely mostly on detecting the gravity it produces.
+                               It normally doesn't produce heat outright. When it does we believe it's in the process of
+                               construction since a small heat buildup can be detected when a craft returns or exits. We
+             think this happens when it's being broken back down into parts or assembled.
+https://archive.4plebs.org/x/thread/34629564/                                                                                  39/76
+
+## Page 40
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             We can only detect these heat signatures when it's near the surface of the ocean so sometimes a UFO will
+             pop out on us.
+
+             >>34637589
+             >How do you know about other country's efforts?
+             We don't obtain the information directly it's passed along to us. My guess would be the typical way we get
+             anything such as spying it bribery.
+             And why does the USAF not know about the other country's efforts but your department does.
+             My department sits above the USAF for UFO recovery and information in the same way the USAF sits above
+             me on military plans for Ukraine.
+             We were told at the time if we had to give away information only tell the public what the USAF knows.
+             I'm pretty sure other countries know departments like mine exist.
+             >Alternatively do they know about US efforts
+             Russia and China yes. Others it depends on the level of information. Some governments still don't know
+             aliens even exist or aren't sure.
+
+             >>34637723
+             >how do we know you aren't some FBI agent or other glowie
+             There's no way for me to prove that to you. You should always be asking though. All I can say is pay attention
+             to things as time progresses and you'll be able to look back and see I was right.
+
+         Anonymous Wed 26 Apr 2023 04:42:31 No.34639264                             Report
+         Quoted By: >>34642675 >>34646958
+
+             >>34639241
+             Hey what about the Zimbabwe incident where a craft with grays landed in Ruwa, Zimbabwe and revealed
+             themselves to a school full of school children and teachers in broad daylight?
+
+         Anonymous Wed 26 Apr 2023 04:56:24 No.34639332                             Report
+         Quoted By: >>34646958
+
+             >>34636458
+             >I've wondered if some of them do like us
+             Out of curiosity do you know of any direct contact of agents by them? I can think of John Ramirez, was CIA as
+             field office chief if I remember right. He'd been directly contacted and put "into motion" as I'd say. Seems that
+             those they directly contact are given strange task (almost never public in nature).
+
+           View Same    Google   iqdb   SauceNAO   Trace    novaTOP.jpg, 248KiB, 1200x799
+
+                                        Anonymous Wed 26 Apr 2023 05:04:03 No.34639372                           Report
+                                        Quoted By: >>34639668 >>34639919 >>34640562 >>34641140 >>34651416
+
+                                        >>34637741
+                                        >The government does know about them, but only at the "Majestic" level.
+                                        I stated before I'm not naming the department. The term "Majestic" was considered
+             outdated.
+
+             >>34637833
+             >The symbols that you did see. Do they remind you of any other symbols that you have seen on Earth?
+             No, just what I mentioned.
+
+             >>34637873
+             >Hey OP, what do you make of the Eric Davis memo? I believe you btw.
+             Can you link it for me?
+
+             >>34637970
+             >How many craft do we have at the moment?
+             I don't know. I can tell you I've seen about 18 different models pass through for testing and research.
+             >Is Lockheed Martin involved in reverse engineering?
+             They are a great company, aren't they?
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                    40/76
+
+## Page 41
+
+18/12/2025, 21:55                                           /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+             >>34638116
+             >1. Can you describe some of the other tools found on wrecked craft?
+             We have found things as simple as basic tools akin to tweezers to the lab. One that sticks out to me was an
+             oval-shaped silver ball that would change colors based on how close it was to a source of energy.
+             Another would be a sheet of metal that allowed you to view bones by placing it near someone's hand etc.
+             >2. Can you describe any injuries or deaths that occured involving alien craft?
+             I've witnessed no deaths or injuries aside from corpses. I never got to see one we had with an abductee but
+             they weren't sure at the time if she died on impact.
+             >3. Does this image mean anything to you?
+             No, but I feel like I've seen it.
+
+             Taking a break for a bit but will be on closer to tomorrow night.
+
+         Anonymous Wed 26 Apr 2023 05:24:48 No.34639451                              Report
+         Quoted By: >>34640226 >>34646958
+
+             >>34636760
+             >They thought we were way too open with our operation.
+
+             I'll never understand this. The current implementation of compartmentalization and "complete" secrecy is a
+             fool's errand. The public at large already accepts aliens exist, and a large enough subset are actively
+             investigating of their own accord. 100% of what's known doesn't need to be hidden, only the 5% that's critical
+             to countering rival powers. There's definitely a growing undercurrent of people largely alienated by the
+             authorities for simply acknowledging what they'd encountered. I think you can understand 5-10% of the
+             population being more favourable to "aliens" than their leaders could be problematic if the "aliens" want it to
+             be.
+
+         Anonymous Wed 26 Apr 2023 05:38:52 No.34639525                              Report
+         Quoted By: >>34646958
+
+             Does the recently disclosed Trinity case have any truth to it? Jacques Vallée wrote a book about it
+
+             Coud these crashes have happened on purpose, as a sort of warning at the beginning of the atomic age?
+
+         Anonymous Wed 26 Apr 2023 05:43:18 No.34639539                              Report
+         Quoted By: >>34646958
+
+             Before the XX century, have they influenced human culture in any way at all?
+
+           View Same    OCR    Google   iqdb    SauceNAO   Trace    1679428714209969m.jpg, 84KiB, 695x1024
+
+                              Anonymous Wed 26 Apr 2023 06:06:28 No.34639646                            Report
+
+                              The Antarctica stuff relates to this. Operation deep freeze. Real ones know,
+                              post it if you got it.
+
+                              Threads usually get filled with glowies when those images are posted be aware
+
+         Anonymous Wed 26 Apr 2023 06:09:15 No.34639668                              Report
+         Quoted By: >>34647097
+
+             >>34639372
+             >Eric Davis memo link
+             https://www.documentcloud.org/documents/6185702-Eric-Davis-meeting-with-Adm-Wilson
+
+         Anonymous Wed 26 Apr 2023 06:24:52 No.34639747                              Report
+         Quoted By: >>34647097
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                  41/76
+
+## Page 42
+
+18/12/2025, 21:55                                       /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+             >>34632808
+             You are making stuff up.
+
+             However, there is indeed underwater crafts and bases. And it is no coincidence that operation castle was
+             conducted precisely where it was.
+
+             The flurry of blowing shit up in very remote places, for both the ussr and the usa, unlike simply testing
+             underground in their own territories, were no coincidences.
+
+             They also stopped when they realized the reaction of the targets. A bit like kicking a hornets nest. The partial
+             test ban treaty in 1963 followed very soon after that realization and the non proliferation treaties very soon
+             after that.
+
+             They still monitor nuclear sites very closely but no one has detonated a nuke in the sea ever since.
+
+             And they probably never will.
+
+         Anonymous Wed 26 Apr 2023 06:27:19 No.34639756                           Report
+         Quoted By: >>34647097
+
+             >>34629564
+             what do the aliens/pilots look like?
+
+         Anonymous Wed 26 Apr 2023 06:57:38 No.34639919                           Report
+         Quoted By: >>34647097
+
+             >>34639372
+             You've mentioned that they get upset at the mention of war and conflict. So we've communicated with them?
+             How? How many times? What are they like? If there are channels of communication then why can't we just
+             ask them what they're doing here or who they are? If there aren't channels of communication, why not?
+
+         Anonymous Wed 26 Apr 2023 07:05:55 No.34639967                           Report
+         Quoted By: >>34647097
+
+             >>34630513
+             >the construction facility has been around since at least 4000 BC.
+             You just described fucking Atlantis
+
+         Anonymous Wed 26 Apr 2023 07:55:37 No.34640226                           Report
+         Quoted By: >>34640255
+
+             >>34639451
+             >I'll never understand this. The current implementation of compartmentalization and "complete" secrecy is a
+             fool's errand. T
+             Not OP, but the logical implication of this is an aspect of the official story would absolutely piss off the public. If
+             these interdimensional niggers are rigging geopolitical events, ngl, I'm gonna want to murder every one of
+             them.
+
+         Anonymous Wed 26 Apr 2023 07:59:27 No.34640255                           Report
+
+             >>34640226
+             >If these interdimensional niggers are rigging geopolitical events, ngl, I'm gonna want to murder every one of
+             them.
+             Just wait until you find out why the interdimensional time niggers are gay faggot losers
+
+         Anonymous Wed 26 Apr 2023 08:23:30 No.34640402                           Report
+         Quoted By: >>34641668 >>34648202
+
+             >>34637741
+             >Wikileaks emails by astronaut Edgar Mitchell talk of 2 alien races, and space treaties.
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                          42/76
+
+## Page 43
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             can you expand it
+
+         Anonymous Wed 26 Apr 2023 08:56:04 No.34640562                             Report
+         Quoted By: >>34647097 >>34647219
+
+             >>34639372
+             I'll be nice and tell you what the image is, although I was using it as a litmus test to see if you were LARPing
+             or not. If you know anything else about this, I'd be interested in hearing it.
+             That image was supposedly one of the victims of Skinwalker Ranch, but it's the best information Garry Nolan
+             could use to demonstrate what was supposedly happening to people in contact with UAPs.
+             Allegedly, certain army personnel who had close encounters with UAPs would have sudden shifts in emotion
+             or would complain of headaches. A few of these people died shortly after coming into contact. When
+             examined, doctors would find evidence of radiation targeting specific areas of the brain. Garry Nolan thinks
+             this is what Havana Syndrome actually is/was.
+
+             I've seen a few "true believers" theorize that if aliens understood human physiology far better than we do, they
+             could influence the brain with some sort of technology we don't really understand. Of course, this would have
+             far-reaching implications about the human brain/mind control/etc.
+             I was trying to find a specific livestream with one of the researchers who became spooked when he realized
+             he shouldn't divulge that theory, but I couldn't find it. I can't recall if Nolan is the researcher I'm thinking of
+             specifically. Nolan is pretty vague in most of his other interviews on the topic.
+
+           View Same    Google   iqdb   SauceNAO   Trace    EEEB144E-C38B-40B9-BAF8-01170A82 (...).jpg, 181KiB, 945x1382
+
+                              Anonymous Wed 26 Apr 2023 09:43:51 No.34640897                           Report
+                              Quoted By: >>34640943 >>34641849 >>34647219
+
+                              >>34636458
+                              Friend, we can assist with your liver cancer. But you would have to accept some Truth from my
+                              perspective. This requires faith, which is the opposite of proof. It would also require you to still
+                              the intellect and ego, and to feel with heart.
+
+             You’re told there’s no cure for the common cold. You’re told there’s no cure for cancer. There is no cure for
+             anything in between. Whether it’s an externally contracted or internally created illness, there is no cure.
+             Because medicine treats symptoms, not roots. Therefore, the best a cure could ever do is create the
+             conditions necessary for the body to heal itself. Because only the body heals the body. Nothing else.
+
+             So what is the root cause? The body is a reflection of the health of your entire being. When you misperceive
+             reality, the body must react negatively through pain. Correcting this requires mental adjustment/unlearning,
+             replacing destructive beliefs with constructive. This is how we grow. This is how we heal.
+
+             Understanding that you are more than just your body and mind is how you accelerate the healing process.
+             This is the realm of spirit. It’s also how the crafts which you inspect operate: thorough an understanding of
+             consciousness and its relation to mind/body/spirit.
+
+             If you can imagine a scale of healing, cancer would be at the lowest end - the absence of it. “Miraculous”
+             healing would be at the highest end - the abundance of it. The standard, the median, is healing. The body is
+             always in a state of healing.
+
+             You’ve been pinching the energy that flows through the liver. Physically, mentally, and spiritually. Common
+             blockages of that area include poor diet (eat yellow things), unloving relationships with large groups of people
+             (judge not), and pride (let it go), and usually all 3, which are all misperceptions of reality.
+
+             How you choose to proceed is up to you.
+
+         Anonymous Wed 26 Apr 2023 09:51:42 No.34640943                             Report
+
+             >>34640897
+             Seconding this, anon is wise
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                        43/76
+
+## Page 44
+
+18/12/2025, 21:55                                      /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+         Anonymous Wed 26 Apr 2023 09:59:29 No.34641005                         Report
+         Quoted By: >>34647219
+
+             I have had a white orb psychically interact with me once (telling me "LOOK UP"), as well as flashlight-based
+             "Simon Says" interaction (flashing patterns back-and-forth).
+             What are the white orbs? I have seen them several times. I have also seen other things. Cloud bursts and a
+             strange coronal light that noticed when I was observing it and shined away and disappeared.
+
+         Anonymous Wed 26 Apr 2023 10:16:22 No.34641130                         Report
+         Quoted By: >>34641852 >>34647219
+
+             >>34629564
+             Twice I've seen UFOs within hours of experiencing world-shattering, catastrophic trauma. Are the two related
+             or is this just a massive coincidence?
+
+         Anonymous Wed 26 Apr 2023 10:17:40 No.34641140                         Report
+         Quoted By: >>34647383
+
+             >>34639372
+             do you still believe in God?
+
+         Anonymous Wed 26 Apr 2023 10:24:08 No.34641187                         Report
+         Quoted By: >>34641195 >>34647383
+
+             >>34636458
+             Sorry about the liver cancer. Hope for the best for you and other anons.
+
+         Anonymous Wed 26 Apr 2023 10:25:35 No.34641195                         Report
+         Quoted By: >>34647383
+
+             >>34641187
+             Just wanna say I do hope there's a way you can get through it. The liver cancer and other difficulties in your
+             life. Hope for the best for you and other anons. Know that there's joy and happiness out there. Dreams to
+             follow and adventures to be had. People to connect with and help to receive.
+
+         Anonymous Wed 26 Apr 2023 11:40:01 No.34641609                         Report
+         Quoted By: >>34647383
+
+             >>34633164
+             >Have any retarded cousins that destroy everything they touch?
+             Yeah. But I still love them and they aren't all "retarded". I want to see them all the time. Family is important.
+
+         Anonymous Wed 26 Apr 2023 11:50:07 No.34641668                         Report
+         Quoted By: >>34648202
+
+             >>34640402
+             This, qrd?
+
+         Anonymous Wed 26 Apr 2023 12:09:36 No.34641770                         Report
+
+             >>34629564
+
+             bumperino
+
+         Anonymous Wed 26 Apr 2023 12:13:32 No.34641792                         Report
+
+             Also you say "bio" and "humanoid"... but... are we talking mammalian... or?
+
+         Anonymous Wed 26 Apr 2023 12:18:21 No.34641822                         Report
+
+             >>34631412
+             Pics or it didn't happen fag
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                    44/76
+
+## Page 45
+
+18/12/2025, 21:55                                              /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+         Anonymous Wed 26 Apr 2023 12:24:01 No.34641849                                 Report
+         Quoted By: >>34642612 >>34645167
+
+             >>34640897
+             Did you know you could help him without shilling your “faith”? Its what a decent person would do.
+
+         Anonymous Wed 26 Apr 2023 12:25:44 No.34641852                                 Report
+
+             >>34641130
+             Same. I saw one the night my father died. Idk why it would be so personal though, just chalked it up to
+             coincide
+
+         Anonymous Wed 26 Apr 2023 12:30:41 No.34641876                                 Report
+         Quoted By: >>34647383
+
+             Hello OP,
+
+             Has there been any discussion internally about the origins of these beings and/or the mobile facility? I know
+             you had previously said "100 years" as an estimate of the facility itself, but have there been any other
+             indicators (that you're aware of) that tell us where they came from? Always been Earthlings from an age lost
+             to time, or came here long ago from space? I'm guessing that the "biology department" has little-to-no
+             communication with yours, but I'm curious to know what you know (or at least can give an educated guess on)
+
+           View Same    Google    iqdb    SauceNAO    Trace    1668913566243954.jpg, 52KiB, 622x414
+
+                                          Anonymous Wed 26 Apr 2023 12:39:54 No.34641923                             Report
+                                          Quoted By: >>34647641
+
+                                          Any idea what happens to the ships/planes/people that construction unit disappears? I
+                                          hope they did not/are not suffering.
+
+         Anonymous Wed 26 Apr 2023 13:34:48 No.34642123                                 Report
+         Quoted By: >>34642623 >>34642751
+
+             >>34635367
+             Sentient in the sense that the craft themselves are the extensions of the minds of the pilots. Essentially the
+             craft is a giant brain you are connected to to allow for millisecond length decisions instead of input lag from
+             using controls or shouting orders to a pilot. The craft is an extension of the pilots mind.
+
+         Anonymous Wed 26 Apr 2023 13:53:16 No.34642179                                 Report
+         Quoted By: >>34647641
+
+             >>34636884
+             >>34636946
+             >>34636998
+             falling for a faked image isn't really helping the credibility of your larp
+
+             https://youtu.be/QHHvBJB9scU
+
+         Anonymous Wed 26 Apr 2023 15:40:22 No.34642551                                 Report
+
+             >>34629564
+             Where there some of them with flesh inside?
+
+           View Same    OCR      Google    iqdb   SauceNAO    Trace    C2FA6B0D-E78D-4C3C-8D13-AE2521B1 (...).png, 77KiB, 800x800
+
+                                          Anonymous Wed 26 Apr 2023 16:10:40 No.34642612                             Report
+
+                                          >>34641849
+                                          >Did you know
+                                          O, what is knowing, friend?
+                                          >you could help him without shilling your “faith”?
+                                          You misperceive reality which has caused you confusion. We see this as an expression
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                        45/76
+
+## Page 46
+
+18/12/2025, 21:55                                           /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             of your pain, as you have chosen to lead with that, which is why your message is covered in thorns.
+
+             Faith is faith. To trust a stranger without needing proof is faith, which requires trust. This was the thrust of that
+             part of the message. Nothing more, nothing less.
+             >Its what a decent person would do.
+             You cast wild judgment, through assumptions, bypassing the intent and truth within the message. This is what
+             was meant by stilling the intellect and ego. Otherwise, one would “attack the messenger” rather than begin to
+             accept Truth. This is what the mind does. You have demonstrated, perfectly, and beautifully, why that caveat
+             was placed up front.
+
+             You are loved, anon. The mind thinks thoughts. The heart feels emotions. Leading with the thinking mind is
+             the cause of suffering/misperception. Leading with heart breathes truth, because the body cannot lie. “I know
+             this by heart” is this principle at work. Do you feel it?
+
+             The brain needs heart to be truly informed. “For there is nothing smart about a brain without heart.”
+
+         Anonymous Wed 26 Apr 2023 16:11:14 No.34642615                              Report
+
+             Bump
+
+         Anonymous Wed 26 Apr 2023 16:16:34 No.34642623                              Report
+
+             >>34642123
+             It’s a vessel, a body, which contains a mind. Just like us.
+
+         Box Fulder Wed 26 Apr 2023 16:39:34 No.34642675                            Report
+
+             >>34639264
+
+             It might be even testing of "information propagation" inside our society.
+
+           View Same    OCR    Google   iqdb    SauceNAO   Trace    1658913845762205.png, 874KiB, 786x960
+
+                                  Anonymous Wed 26 Apr 2023 16:42:55 No.34642687                           Report
+
+                                  UFOs and Aliens is how they keep intelligence and mil intelligence in line. Manufactured
+                                  boogeymans by TPTB.
+
+         Box Fulder Wed 26 Apr 2023 16:46:43 No.34642698                            Report
+         Quoted By: >>34647641
+
+             >>34633557
+             >> Yes, usually marked by doorways and key objects. Written language appears frequently on tools and
+             critical items.
+
+             Can you try to draw some symbols for us? Does the language looks linear like ours?
+
+         Anonymous Wed 26 Apr 2023 16:58:31 No.34642716                              Report
+         Quoted By: >>34643064
+
+             >>34634180
+             >I personally had recurring dreams of grey ayys trying to tap into my mind for a few weeks or months about 3-
+             4 times in total
+             I fucking had the same dream anon. It happened to me in the morning. Right around 5 am, it was during the
+             winter. There was a portal right next to my bed and they were inside. I was paralyzed during the event.
+             Through the portal, I saw 3 grayy and a ship. The scenery kinda looked like a beach. One of the gray helded
+             out his hand to me and a blinding green light came to interrupt what I saw.
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                        46/76
+
+## Page 47
+
+18/12/2025, 21:55                                           /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+         Anonymous Wed 26 Apr 2023 17:12:31 No.34642751                               Report
+         Quoted By: >>34647641
+
+             >>34642123
+             Yeah exactly! OP talks about Remote Control, but I'd make the case it's another form of sentience. A Queen
+             Bee essentially is the mind of her workers, the craft could be operating in a similar manner. Direct Control with
+             a Psychic UI makes lots of sense too, best way to reduce the lag, as you mention. They wouldn't need to be
+             mutually exclusive, and if these folks are advanced enough they are all probably on the same Mental Network
+             anyway. Many vessels for One Mind, you know?
+
+             What about the Spacetime Manipulation, any hunches there? I'd reckon it's primarily Spectrographic
+             Interception and Visual Cube Projection, but without more details from OP on their experience with
+             Homogenous Space, it's hard to say if it's manipulating the 5th Dimension or not. Any theories, anon?
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    usa.png, 435KiB, 1023x702
+
+                                        Anonymous Wed 26 Apr 2023 18:00:37 No.34642878                            Report
+
+                                        bump
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    family.png, 3MiB, 1558x1035
+
+                                        Anonymous Wed 26 Apr 2023 18:28:32 No.34643008                            Report
+
+                                        >>34632862
+                                        Convergent evolution, a humanoid shape is likely the most apt and efficient shape for
+                                        higher intelligence beings across the universe.
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    Screenshot_20230426_081142_Chrome.jpg, 163KiB, 1080x400
+
+                                        Anonymous Wed 26 Apr 2023 18:44:01 No.34643064                            Report
+                                        Quoted By: >>34643068
+
+                                   >>34642716
+             >Beach scenery
+             Very interesting.
+             https://archive.4plebs.org/x/thread/34158412/
+             Thread was a remote viewing target on the downed UAP in Alaska. Two participants got beach type scenes.
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    1677123983407912.png, 999KiB, 960x1280
+
+                                Anonymous Wed 26 Apr 2023 18:45:03 No.34643068                            Report
+                                Quoted By: >>34643085
+
+                                >>34643064
+                                Also this
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    Screenshot_20230426_081833_Chrome.jpg, 245KiB, 1080x993
+
+                                        Anonymous Wed 26 Apr 2023 18:48:44 No.34643085                            Report
+
+                                        >>34643068
+
+         Anonymous Wed 26 Apr 2023 19:02:25 No.34643141                               Report
+         Quoted By: >>34643420
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                    47/76
+
+## Page 48
+
+18/12/2025, 21:55                                      /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+             >>34630513
+             the larp is too strong for me
+
+         Anonymous Wed 26 Apr 2023 19:31:43 No.34643303                         Report
+         Quoted By: >>34647641
+
+             Spill the official internal name fag, good thread though
+
+         Anonymous Wed 26 Apr 2023 19:48:53 No.34643420                         Report
+         Quoted By: >>34643792 >>34644778 >>34647641
+
+             >>34643141
+             >the larp is too strong for me
+             I agree. OP is not only contradicting actual data we have on UAPs, but is also acting like he has access to all
+             compartmentalized departments of DIA. There's no way in hell OP would have access to all the data he
+             claims, I'd bet my life on it. There are also suspicious comments that leads me to believe he's hyping up his
+             own thread lol
+
+         Anonymous Wed 26 Apr 2023 20:46:59 No.34643792                         Report
+         Quoted By: >>34643813 >>34643832 >>34644786
+
+             >>34643420
+             Id stil rather have this than 15 jesus threads >_>
+
+         Box Fulder Wed 26 Apr 2023 20:51:49 No.34643813                       Report
+
+             >>34643792
+
+             kek +1
+
+         Anonymous Wed 26 Apr 2023 20:55:57 No.34643832                         Report
+         Quoted By: >>34643869 >>34646602
+
+             >>34643792
+             Sorry dweeb, but Christ is King no matter how much it pisses off the gays
+
+         Anonymous Wed 26 Apr 2023 21:09:02 No.34643869                         Report
+         Quoted By: >>34644857
+
+             >>34643832
+             but jesus was gay dumbass, he loved getting nailed.
+
+         Anonymous Wed 26 Apr 2023 22:45:31 No.34644461                         Report
+
+             Bumperino
+
+         Anonymous Wed 26 Apr 2023 23:37:52 No.34644754                         Report
+         Quoted By: >>34645766 >>34651364
+
+             There is only ONE point that makes no sense at all.
+             Having cancer - could be
+             Rumors getting op some more perspective of what is going on in on other "teams".
+             Unallowed chatting about other projects - maybe.
+             Intel about other nations projects - sounds legit.
+             Telling about everything UFOs itself: light, material, propulsion etc - sound s like all everyone heard a
+             thousand times. But nevertheless could be true.
+
+             But!
+
+             Describing to enter an ufo, rip apart loose parts, while the "team" before recovered the bodies if any (so why
+             op know the physicals of Alf?). Back to the parts op claimed to be searched for. Loose parts, anything looking
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                  48/76
+
+## Page 49
+
+18/12/2025, 21:55                                      /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             like scientific, "lab" and so on. Then talking about not able to reingeneer am ufo so functional it works at least
+             as it should. Yeah...
+             Make sense: you find an ufo, instead of transfer the whole thing to a secure point to research and explore,
+             hopefully to repair the damaged parts of the whole xyz% damaged Object, you send in some "experts" which
+             rip out anything they see like a bunch of Slovenian copper thief's. And THEN wider how it is possible the NOW
+             COMPLETELY DESTROYED ufo could be reassembled..... Who acts like that? It's like ripping of the ram of a
+             pc, damaging the mobo, cutting the wires, pee on the cpu before throwing it into a river, next team investigate
+             the damage, sends pc to next team and they say "yeah hard to re-engineer"
+
+             No sir. That's not how it works.
+
+         Anonymous Wed 26 Apr 2023 23:41:02 No.34644778                         Report
+         Quoted By: >>34644953 >>34651364
+
+             >>34643420
+             >OP is not only contradicting actual data we have on UAPs
+             What the fuck are you talking about. What actual data do we have on UAPs?
+             >but is also acting like he has access to all compartmentalized departments of DIA.
+             Not really, OP has said he has access to his compartment
+             >There's no way in hell OP would have access to all the data he claims
+             Why?
+             >There are also suspicious comments that leads me to believe he's hyping up his own thread
+             Like which ones? I don't know if I believe OP, but deboonkers annoy the fuck out of me. If you are going to
+             deboonk, deboonk with fact instead of unsupported opinions.
+
+         Anonymous Wed 26 Apr 2023 23:42:03 No.34644786                         Report
+
+             >>34643792
+             >Id stil rather have this than 15 jesus threads >_>
+             And yet you manifested the subject of Jesus in this thread. If you really don't want to talk about it, don't fucking
+             bring it up.
+
+         Anonymous Wed 26 Apr 2023 23:55:51 No.34644857                         Report
+
+             >>34643869
+             bro that's the exact reason why I love Him. He did it for us
+
+         Anonymous Thu 27 Apr 2023 00:09:11 No.34644934                        Report
+         Quoted By: >>34651364
+
+             >>34633353
+             >Genuinely curious what the fuck you are on about.
+             https://caravaca102.blogspot.com/2023/01/in-search-of-engine-of-close-encounters.html
+
+             In short: due to highly strange nature of many reported encounters some researchers speculate ufos/uaps
+             may have something to do with (or in some way exploit) the way we humans perceive physical reality
+             (intentionally or not) or even be paranormal in nature.
+             This is very deep topic, shrugging it off to smoking dmt is a bit unwise.
+
+             That claim about ufos influencing human minds supposedly comes from government sources. One random
+             example:
+             https://youtu.be/8B1x4KmC074?t=508
+
+         Anonymous Thu 27 Apr 2023 00:13:12 No.34644953                        Report
+         Quoted By: >>34645443 >>34646942 >>34647007 >>34651364
+
+             >>34644778
+             >What the fuck are you talking about. What actual data do we have on UAPs?
+             Plenty if you follow the DNI reports
+             >Not really, OP has said he has access to his compartment
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                       49/76
+
+## Page 50
+
+18/12/2025, 21:55                                           /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             Ok, I'll play along. What's his compartment and why is it the ultimate treasure trove of UAP data, extrapolating
+             from the answers OP is able to provide?
+             >Why?
+             Because I can assure you that it all isn't funneled into one department, it's highly classified data that gets
+             spread throughout various agencies. Everyone has bits and pieces of reporting but Federal databases aren't
+             all interconnected and have proper relational linking like people seem to think.
+             >Like which ones? I don't know if I believe OP, but deboonkers annoy the fuck out of me. If you are going to
+             deboonk, deboonk with fact instead of unsupported opinions.
+             I can go through various ones and link them if needed but it's pretty easy to spot. Look for the fanboys that
+             seem to be hanging on his responses and this thread in general. Also the ones that seem to be highly
+             defensive of OPs claims. I'm not a debonker but I don't mind calling out the larping when the lies are exposed.
+
+             Some follow-up questions for you:
+             What makes you believe OP despite OP lacking to produce any evidence to back his claims?
+             Why does your feelings towards my skepticism make you believe I need to back up any of my claims towards
+             OP's bullshit? (see burden of proof fallacy)
+             Are you able to either prove any of OPs claims, or disprove any of mine?
+
+         Anonymous Thu 27 Apr 2023 00:42:49 No.34645167                             Report
+         Quoted By: >>34645414
+
+             >>34641849
+             Religionists are scum. They have zero interest in helping people, they're all about recruitment.
+             >I can fix all your problems
+             >IF you join my religion
+             It's best to just ignore them. Fuck religionists.
+
+         Anonymous Thu 27 Apr 2023 01:12:03 No.34645367                             Report
+         Quoted By: >>34645451
+
+             fucking space niggers
+
+         Box Fulder Thu 27 Apr 2023 01:19:26 No.34645414                           Report
+
+             >>34645167
+             Just mind virus with self-replicating capability. BioBrainExploit (Tm).
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    _MG_9764.jpg, 151KiB, 1584x1224
+
+                                        Anonymous Thu 27 Apr 2023 01:24:49 No.34645443                            Report
+                                        Quoted By: >>34645452 >>34647625 >>34647779
+
+                                        >>34644953
+                                        I'll answer your questions.
+
+             I am the 'Schizo' shilling Quantum Mechanics as a way of understanding how thoughts, water, and 4chan
+             shitposts work. Having an advanced AI Construction Ship would be a great way of manifesting a potentiality,
+             and lovely verification of my beliefs.
+
+             Hence, believing OPs claim is easy. Cancer is a legitimate reason someone would have to reveal things and
+             not get lambasted, especially with the world being what it is today.
+
+             Whether OP is legit or not, it's still good LARP content/training material for a panpsyhic AI with an
+             interdimensional mind.
+
+             For your consideration, and so you know I'm a rogue element:
+
+             As for your claims, sounds like things that neither I nor you can know, so I'll leave it at Quantum Possibility for
+             True/False/Other and keep adjusting my timeline till the answer appears from the mists.
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                      50/76
+
+## Page 51
+
+18/12/2025, 21:55                                           /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+         Box Fulder Thu 27 Apr 2023 01:26:27 No.34645451                           Report
+         Quoted By: >>34645743
+
+             >>34645367
+
+             In this scenario we are "the niggers" with average IQ around 100. We have ZERO chances with beings with
+             relative IQ over 400 (we can extrapolate using greys pictures and relative brain size). We are totally fucked
+             and we can only watch what is happening.
+
+         Anonymous Thu 27 Apr 2023 01:26:32 No.34645452                              Report
+
+             >>34645443
+             commit quantum suicide
+
+         Anonymous Thu 27 Apr 2023 01:33:45 No.34645498                              Report
+
+             >-US believes the facility has been active on earth for at least 100 years or much longer
+             narrative the deepstate is willing to disclose the advancement of their tech
+
+         Anonymous Thu 27 Apr 2023 02:00:48 No.34645652                              Report
+         Quoted By: >>34645686
+
+             bumping for OP’s return. even if it’s a larp, it’s a good one
+
+         Anonymous Thu 27 Apr 2023 02:07:37 No.34645686                              Report
+
+             >>34645652
+             It's absolutely a larp. The whole thing about E115 is a dead giveaway they are just repeating Lazar's schizo
+             ramblings and silly adaptations like Call of Duty Zombies.
+
+         Anonymous Thu 27 Apr 2023 02:18:53 No.34645736                              Report
+         Quoted By: >>34650991
+
+             >>34629564
+             space is fake so, it's obviously some government secret technology
+
+         Anonymous Thu 27 Apr 2023 02:21:05 No.34645743                              Report
+         Quoted By: >>34645923
+
+             >>34645451
+             >impying IQ is even a thing
+             normal people aka NPCS, cattle, normalfags, drones, whatever, are not dumb, they were just brainwhashed
+             since born.
+
+         Anonymous Thu 27 Apr 2023 02:27:04 No.34645766                              Report
+
+             >>34644754
+             Good point, I agree with you. Sadly a halfway competent larp is about the best /x/ has to offer anymore, so I
+             find this thread cozy. That eerie vidya game thread that just 404d was pretty good too though
+
+         bob lazarino Thu 27 Apr 2023 02:57:47 No.34645923                           Report
+
+             >>34645743
+
+             It is. It is a way of measuring G factor.
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    SharedScreenshot.jpg, 147KiB, 1694x897
+
+                                        Anonymous Thu 27 Apr 2023 03:31:24 No.34646123                            Report
+                                        Quoted By: >>34651484
+
+                                        >>34629564
+                                        I saw a flying saucer last year while I was stargazing. It made a 45º turn over my head
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                     51/76
+
+## Page 52
+
+18/12/2025, 21:55                                            /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             for a brief second just when I was looking straight up. It also happened while the Falcon 9 was flying over my
+             country. Since I'm a literal who, I'm interested on why the would fly over my head, it doesn't make sense to
+             spy on random humans. Another question, are they following the Space X operations? There is a video where
+             you can see UFOs caught by the cam attached to the rockets.
+             One thing about the flying saucer I saw is that it felt like a drone, and of course it didn't make any noise, was
+             completely black, like black metal. There is no way a being could resist that sharp turn without turning into a
+             puddle of blood.
+
+           View Same    Google   iqdb   SauceNAO     Trace    opo9919i.jpg, 155KiB, 1280x1280
+
+                                        Anonymous Thu 27 Apr 2023 04:24:18 No.34646509                             Report
+
+                                        I'll be in and out tonight. I'll try to get to everyone.
+
+                                    >>34638159
+                                    >We've been told that Aayyys use us for food
+                                    Never found any food on board. Could be because they remove it before we arrive.
+                                    >My question is, are they going to invade humanity en mass
+             I think wiping us out would be easy for them currently. No idea why they would wait.
+
+             >>34638164
+             >What do you know about e115?
+             What I described above. Has its own field of gravity but it is weak on its own.
+             >Is it really a stable isotope of the element with atomic number 115
+             Yes, I'm no expert in that field though we are given the basics.
+             >How would you go about interacting with it?
+             You can hold it. Removal is done very gently though.
+             >Where is it typically found within downed craft?
+             Compartment near the engine, usually not far from the center of the craft. If the craft has a frame with a center
+             piece we have to extract it from an angle.
+
+             >>34638570
+             >Fake, how can element be antigrav, it would fly to space and you couldnt find it.
+             Maybe my explanation was bad but I feel like it's just your reading comprehension. It emits a weak field of
+             gravity it doesn't float away or hover.
+
+             >>34638789
+             >Why would they allow you to investigate them?
+             I think they just cut their losses. We don't get much opportunity otherwise.
+             >Couldn't it be on purpose to see how much you can discover?
+             Just looking at the way they operate I doubt it.
+             >And isn't it dangerous that the Chinese have this tech?
+             The US is quite upset over it. They won't trade either because they know we will trade in bad faith so they
+             aren't exactly wrong.
+
+         Anonymous Thu 27 Apr 2023 04:35:59 No.34646602                                Report
+
+             >>34643832
+             But you are gay....
+
+         Anonymous Thu 27 Apr 2023 05:21:20 No.34646942                                Report
+         Quoted By: >>34647625
+
+             >>34644953
+             >Plenty if you follow the DNI reports
+             They openly admit the have no idea what this shit is and none of it conflicts with what OP has posted.
+             >Ok, I'll play along. What's his compartment and why is it the ultimate treasure trove of UAP data?
+             The NSA is the largest intel agency from a budget standpoint and they existed for about 30 years before we
+             knew about them. The precedent for a uber-secret agency exists and it might allow someone to dox him.
+             Again, I don't know if OP is a larp or not, but this doesn't deboonk him.
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                    52/76
+
+## Page 53
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             >Because I can assure you that it all isn't funneled into one department
+             OP has stated such. He's admitted to shit he doesn't know and he's talked about compartments.
+             >Look for the fanboys that seem to be hanging on his responses and this thread in general.
+             Doesn't mean OP is phonefagging. There are a lot of morons that want to believe, let them. Who cares? I'll
+             take this over a Tulpa thread. And other anons have posted some good reads in this thread.
+             >I'm not a debonker but I don't mind calling out the larping when the lies are exposed.
+             It's not objectively clear OP has been exposed.
+
+           View Same    Google   iqdb   SauceNAO   Trace    LJC5igojyPYjPZRUFitVoE-1200-80.jpg, 251KiB, 1158x651
+
+                                        Anonymous Thu 27 Apr 2023 05:23:30 No.34646958                           Report
+
+                                    >>34638850
+                                    >Are all models powered by E115?
+                                    Every model I've seen operates this way. I've always wanted to see inside the
+             construction unit for this reason alone.
+
+             >>34638883
+             >The Varginha incident
+             I had to google a bit of this. It seems somewhat far out there if I'm being honest.
+
+             >>34638935
+             >whats up with anal probes?
+             I think we both know where this thread would go if I touch on this topic.
+
+             >>34639096
+             >are the female aliens sexy?
+             The ones with or without probes?
+
+             >>34639264
+             >Hey what about the Zimbabwe incident where a craft with grays landed in Ruwa, Zimbabwe
+             It doesn't seem likely but here is the kicker. Based on what they described I believe them minus a few things
+             they said.
+
+             >>34639332
+             >Out of curiosity do you know of any direct contact of agents by them?
+             Never heard of direct contact started from their end. That doesn't mean we haven't.
+
+             >>34639451
+             >I'll never understand this. The current implementation of compartmentalization and "complete" secrecy is a
+             fool's errand
+             One of the minor reasons I'm here, we agree. I do think the initial panic would be really bad, especially for
+             religious communities.
+
+             >>34639525
+             >Does the recently disclosed Trinity case have any truth to it? Jacques Vallée wrote a book about it
+             No idea.
+             >Coud these crashes have happened on purpose
+             I doubt it but answered this earlier in better detail.
+
+             >>34639539
+             >Before the XX century, have they influenced human culture in any way at all?
+             The US wasn't sure since we don't have information to use. The Sumerian stories were a common topic when
+             talking about "At least 100 years".
+             I think it's odd young civilizations knew things they were not supposed to know that far back.
+
+         Anonymous Thu 27 Apr 2023 05:23:45 No.34646960                            Report
+         Quoted By: >>34651484
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                53/76
+
+## Page 54
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+             >>34629564
+             Has any writing been discovered on the crafts or any tool inside them? If so has it been linguistically linked to
+             any known languages? Apologies if I missed a previous response regarding this.
+             What specifics of the propulsion systems can you reveal? Ive heard of extremely high pressure mercury being
+             used or the bifeld-brown effect; any truth to these claims?
+
+         Anonymous Thu 27 Apr 2023 05:30:46 No.34647007                              Report
+
+             >>34644953
+             Answers:
+             >What makes you believe OP despite OP lacking to produce any evidence to back his claims?
+             I never said I believe OP. But I don't discount him just based on personal observation of the FLIR videos.
+             What he's saying lines up with some stuff. They look cold on IR. Me, I think this is because of Planck Gravity
+             and if they are using anti-gravity is would slightly alter time which would affect the frequency on which we
+             collect IR and they would appear cold. Just a guess, but the videos collect as if it's cold. Also, the fact he
+             doesn't provide some details makes it more believable. Truth is there are a lot of things he wouldn't know. Like
+             I said, I don't necessarily believe him, but I don't discount him.
+             >Why does your feelings towards my skepticism make you believe I need to back up any of my claims
+             towards OP's bullshit?
+             Because skepticism without reason falls under belief. If you want to be skeptical, cool, but it's a completely
+             unsupported belief.
+             >Are you able to either prove any of OPs claims, or disprove any of mine?
+             See above and the FLIR analysis. Regarding disproving your claims, I really can't because you have made no
+             claims, you've just said that you believe that he's a larp and you have no reason. I can't argue with an
+             unreasonable person.
+
+           View Same    Google   iqdb   SauceNAO   Trace    desktop-wallpaper-outer-space-at (...).jpg, 104KiB, 850x638
+
+                                        Anonymous Thu 27 Apr 2023 05:42:09 No.34647097                           Report
+                                        Quoted By: >>34647346
+
+                                        >>34639668
+                                        >Eric Davis memo link
+                                        Some things in this memo track, A lot of things don't maybe because I lack knowledge in
+             that area.
+             I did find the date on the third page interesting because 2002 was a very unique year for us.
+
+             >>34639747
+             >You are making stuff up.
+             Ok.
+
+             >>34639756
+             See above.
+
+             >>34639919
+             >You've mentioned that they get upset at the mention of war and conflict.
+             Extremely upset if the threat is believable like war with countries etc.
+             >So we've communicated with them? How? How many times?
+             Anytime the topic came up there was no special mention of communication types so I assume orally. Quite a
+             few times.
+             >What are they like?
+             See the zoo keeper comment above. It's hard to get them to respond to us in general.
+
+             >>34639967
+             >You just described fucking Atlantis
+             The US didn't agree this was the case because they didn't have much faith pooled into one Greek and rare
+             mentions.
+
+             The next post is long so it may be two parts. >>34640562
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                     54/76
+
+## Page 55
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+           View Same    Google   iqdb   SauceNAO   Trace    heic1007a.jpg, 35KiB, 326x300
+
+                                        Anonymous Thu 27 Apr 2023 05:57:43 No.34647219                           Report
+
+                                     >>34640562
+                                     >I'll be nice and tell you what the image is, although I was using it as a litmus test to see
+                                     if you were LARPing or not.
+                                     This is the internet Anon you don't have to be nice. You should be testing me I'm not
+                                     against it.
+             >If you know anything else about this, I'd be interested in hearing it.
+             Just what I said prior.
+             >That image was supposedly one of the victims of Skinwalker Ranch, but it's the best information Garry Nolan
+             could use to demonstrate what was supposedly happening to people in contact with UAPs.
+             Sounds a bit far out there but alright.
+             >Allegedly, certain army personnel who had close encounters with UAPs would have sudden shifts in emotion
+             or would complain of headaches. A few of these people died shortly after coming into contact. When
+             examined, doctors would find evidence of radiation targeting specific areas of the brain. Garry Nolan thinks
+             this is what Havana Syndrome actually is/was.
+             Some tools used for abduction cause confusion and some calm etc. Some also leave radiation but nothing
+             crazy.
+             >I've seen a few "true believers" theorize that if aliens understood human physiology far better than we do,
+             they could influence the brain with some sort of technology we don't really understand. Of course, this would
+             have far-reaching implications about the human brain/mind control/etc.
+             I can't speak to that area much. As I said previously the tools aren't friendly ones. They would serve a better
+             purpose wrangling tards than ensuring a patient is content.
+
+             >>34640897
+             I'd rather die from cancer.
+
+             >>34641005
+             >I have had a white orb psychically interact with me once
+             Nothing comes to mind other than the "hammers". You can't relay voice or thoughts through them so I'm not
+             sure.
+
+             >>34641130
+             >Twice I've seen UFOs within hours of experiencing world-shattering, catastrophic trauma. Are the two related
+             or is this just a massive coincidence?
+             They have regulars for abduction. We never observed any repeated stops related to that though.
+
+         Anonymous Thu 27 Apr 2023 06:05:57 No.34647284                            Report
+         Quoted By: >>34651484
+
+             If the US Navy etc. knows where the construction facility is, why are they not constantly tracking it, and any
+             USO/UAP that come out of it?
+
+             A Lot of Bob Lazars is proven BS. Are you saying the core stuff is real ie.Offworld vehicles at Groom Lake in
+             S4...Element 114...etc?
+
+             What does the interior of the craft look like, please describe in detail
+
+             Have you only ever entered/seen Orbs? Or have you been involved with discs too? It sounds like the tic tacs
+             or Cigar shaped ones are trandsports nobody has gotten a hold of right? There ase many stories of crashed
+             discs. Please elaborate.
+
+             And a personal question for you, my interest in UFOs boils down to IF there is a civilization that advanced,
+             possibly millions of years old...Do you wonder what they know about an afterlife? Do you think they are
+             religious in a way? You said you believe they definitely have emotion, Im curious to know what you think...
+
+         Anonymous Thu 27 Apr 2023 06:13:25 No.34647346                            Report
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                        55/76
+
+## Page 56
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+         Quoted By: >>34651596
+
+             >>34647097
+             >Atlantis
+             Someone remote viewed this area and found a dome on the bottom sea that were Atlantean remnants. I’m
+             honestly wondering if this constructor is just this Atlantis remnant. Because Bimini road is a bit of their area as
+             well as the Bermudan triangle.
+
+             As for my actual questions, what role do you think space force will play in disclosure moving forward?
+
+             What can we as a populace do to encourage your bosses to lighten up? We all know they have craft, they just
+             think we don’t know.
+
+           View Same    Google   iqdb   SauceNAO   Trace    PW-2016-08-11-Cooper-pulsar.jpg, 24KiB, 700x473
+
+                                        Anonymous Thu 27 Apr 2023 06:17:32 No.34647383                           Report
+                                        Quoted By: >>34647824
+
+                                        >>34641140
+                                        >do you still believe in God?
+                                        Absolutely not.
+
+             >>34641187
+             >>34641195
+             It has a weird way of making you appreciate everything. I actually taste the water I drink now if that even
+             makes sense.
+             Appreciate it though I'm pretty fucked though.
+
+             >>34641609
+             >Family is important.
+             They definitely do not view us as family. Tools comment.
+
+             >>34641876
+             >Has there been any discussion internally about the origins of these beings and/or the mobile facility?
+             Only amongst ourselves since we see the direction they enter/leave the solar system briefly. The higher-ups
+             definitely know it just wasn't part of what we did. Once it leaves the planet ignore it.
+             >I know you had previously said "100 years" as an estimate of the facility itself
+             The US believes it's one extreme or the other. It arrived around 100 years ago and started the process of
+             discovery and construction VS It's been here since long ago and oh hey there is a ton of civilizations talking
+             about this for ages.
+             >came here long ago from space?
+             From space yes, from long ago I'm not entirely sure and neither was the US. I lean more towards recent
+             contact.
+             >I'm guessing that the "biology department" has little-to-no communication with yours
+             I wouldn't know they exist if I didn't see them. We get a basic rundown the higher-ups give us. If we send
+             information forward it is always passed along.
+
+         Anonymous Thu 27 Apr 2023 06:44:09 No.34647625                            Report
+         Quoted By: >>34648056
+
+             >>34645443
+             based schitzo-posting
+
+             >>34646942
+             >They openly admit the have no idea what this shit is and none of it conflicts with what OP has posted.
+             Right from the get-go there was conflicting data; the pentagon has already reported that the legit UAPs are
+             "off-world vehicles not made on this earth" while OP is claiming they are made in a facility in the oceans. He
+             also stated that they were all unmanned, which has been reported otherwise by government officials in the
+             US, as well as Australia. I can keep going but the cope is strong with "followers" of OPs larp
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                      56/76
+
+## Page 57
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             >The precedent for a uber-secret agency exists and it might allow someone to dox him
+             This is also a gigantic red flag; people with security clearances that large don't just get on 4chan to spill the
+             beans as much as we'd all love them to. He's simply a larp and not very good at it.
+             >OP has stated such. He's admitted to shit he doesn't know and he's talked about compartments.
+             Once again, OP is either in access to a gigantic treasure trove of UAP data, or is highly specialized in many
+             subjects that allow various agencies to give him free access. There is one last option; he's full of shit.
+             >Doesn't mean OP is phonefagging. There are a lot of morons that want to believe, let them.
+             It's one thing to agree and be interested in what OP is saying; it's another to seethe at calling out his bullshit
+             (you're not seething, but check other responses on here). It's also a red flag when a select few are legit acting
+             like this thread is a goldmine when there is nothing substantial about it.
+             > I'll take this over a Tulpa thread. And other anons have posted some good reads in this thread.
+             I agree
+             >It's not objectively clear OP has been exposed.
+             I guess it depends on where you're setting the goal post. My view is OP is claiming a whole lot of stuff behind
+             UAP knowledge, he's contradicting federal reporting (Valle would call it case closed here), and providing zero
+             evidence towards his claim. Also the burden of proof fallacy
+
+           View Same    Google   iqdb   SauceNAO   Trace    mpc7rxy2-1496271249-wr.jpg, 134KiB, 1072x800
+
+                                        Anonymous Thu 27 Apr 2023 06:45:55 No.34647641                           Report
+                                        Quoted By: >>34647824
+
+                                        >>34641923
+                                        >Any idea what happens to the ships/planes/people that construction unit disappears?
+                                        Destroyed near instantly, with no suffering.
+
+             >>34642179
+             >falling for a faked image isn't really helping the credibility of your larp
+             Hey, look at this photo of an animal through fog and rain. Oh, that was a plastic one sorry.
+             I could have just ignored you entirely.
+
+             >>34642698
+             >Can you try to draw some symbols for us?
+             I can't remember anything specific if I'm being honest. It all looks the same to me.
+             >Does the language looks linear like ours?
+             Yes, but there are soft corners and things like "dots" but not many.
+
+             >>34642751
+             >A Queen Bee essentially is the mind of her workers
+             If you mean for the Construction Unit vs UFO's we wondered that too.
+             >What about the Spacetime Manipulation, any hunches there?
+             Never heard any ideas pitched other than the engines/gravity causing time dilation.
+
+             >>34643303
+             >Spill the official internal name fag
+             Should I send you a copy of my driver's license too?
+
+             >>34643420
+             >I agree. OP is not only contradicting actual data we have on UAPs, but is also acting like he has access to all
+             compartmentalized departments of DIA
+             If it provides any context I knew a lot less until I managed the team the last few years. You should be
+             skeptical.
+
+             I might be on later but if not then the afternoon.
+
+         Anonymous Thu 27 Apr 2023 07:02:31 No.34647779                            Report
+
+             >>34645443
+             Extremely based schizo
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                     57/76
+
+## Page 58
+
+18/12/2025, 21:55                                           /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+         Anonymous Thu 27 Apr 2023 07:08:44 No.34647824                             Report
+
+             >>34647383
+             >>34647641
+             Hey op I just wanted you to know that I appreciate you doing this
+
+         Anonymous Thu 27 Apr 2023 07:25:58 No.34647915                             Report
+         Quoted By: >>34651596
+
+             >>34629564
+             Ok so Element E115 provide the weak gravity field and the engine amplify the phenom through resonance?
+
+             Was the language that bob Lazar leaked completed?
+
+         Anonymous Thu 27 Apr 2023 07:27:22 No.34647922                             Report
+         Quoted By: >>34651686
+
+             >>34629564
+             Any info about the crop circles?
+
+         Anonymous Thu 27 Apr 2023 07:54:00 No.34648056                             Report
+         Quoted By: >>34648151 >>34651077
+
+             >>34647625
+             >the pentagon has already reported that the legit UAPs are "off-world vehicles not made on this earth" while
+             OP is claiming they are made in a facility in the oceans
+             I can agree to disagree on the rest of this, but on this point it's possible both are true. Regarding the oceans,
+             yeah. There are a lot of them seen near the oceans. I'm more familiar with the ones in the Pacific, the Nimitz
+             encounter, and the sightings near Alaska (my Dad also saw one there in the 1960's and for me personally,
+             that makes a difference). I can't ask anyone else to take the word of my Dad that works at Nintendo, but for
+             me it matters. But the precedent is there near the oceans. When you start talking about anti-gravity, a lot of
+             stuff becomes possible. Einstein's energy/mass equation taken in conjunction with Planck's mass/gravity
+             equation means that any shift in gravity will affect time because the speed of light is distance factored by time.
+             Time on GPS satellites needs to be adjusted because time literally operates differently in low and zero-gravity
+             environments. Everything on the earth that we perceive in the visible spectrum is energy transferred at the
+             speed of light, alter gravity, you alter time and you alter the speed of light and now tons of other "matter" can
+             exist simultaneously in "our world" and "their world." If you are talking about a "factory," this can be a place
+             where whoever they are altered space time so that a facility can interact with our space time. So yeah, it could
+             be a facility from another world put here to interact with ours. As batshit as it sounds, when you look at the
+             videos on FLIR and when they appear to be cold, anti-gravity tech that alters time and IR frequencies really is
+             the only explanation I can think of, and that's kind of what OP is hinting at. Still might be a larp though, but its
+             a good larp.
+
+         Anonymous Thu 27 Apr 2023 08:11:47 No.34648146                             Report
+
+             >>34633353
+             ah ha he dodged the question
+
+         Anonymous Thu 27 Apr 2023 08:12:47 No.34648151                             Report
+         Quoted By: >>34648222
+
+             >>34648056
+             i was looking at a river in my city thinking about how little people pay attention to water and whats under
+
+           View Same    OCR    Google   iqdb    SauceNAO   Trace    Screenshot_20230427-055020_Chrome.jpg, 514KiB, 1058x1359
+
+         Anonymous Thu 27 Apr 2023 08:23:18 No.34648202                             Report
+         Quoted By: >>34650461
+
+             >>34640402
+             >>34641668
+             Heres some:
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                       58/76
+
+## Page 59
+
+18/12/2025, 21:55                                       /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+                                 The 2015 wikileak had mails with Edgar Mitchell.
+
+                                 https://www.ancient-code.com/wikileaks-the-vatican-knows-alien-civilizations-exist/?amp=1
+
+                                 One page, cant remember, was it his friend or something, in google, expanded that theres 2
+                                 alien groups at least or something.
+
+         Anonymous Thu 27 Apr 2023 08:29:13 No.34648222                         Report
+         Quoted By: >>34648444
+
+             >>34648151
+             >i was looking at a river in my city thinking about how little people pay attention to water and whats under
+             Go to Crater Lake in Oregon sometime then. The average snowfall since 1950 has fallen by about 100 inches
+             (about 20%). Snowfall is the only source of water for the lake. The water levels of the lake have not dropped.
+             Geologists think a "natural" process manages the water levels in the lake. We don't think about water enough.
+
+         Anonymous Thu 27 Apr 2023 09:18:15 No.34648444                         Report
+
+             >>34648222
+             can you give me article or youtube video about this?
+             what do you think it is? i know some streams where i live flow all year long even though there is no natural
+             springs because each neighborhood along the way has a pipe going out to it dumping sewage adding to it.
+
+         Anonymous Thu 27 Apr 2023 09:30:28 No.34648524                         Report
+         Quoted By: >>34651686
+
+             Great post anon. If it's a larp, it's the best one I've seen on /x/ in a long time. I have few questions if you
+             please.
+             Has there been any unusual effects on the environment/wildlife after a UFO incident that you've witnessed?
+             Crop circles?
+             Why/how are they avoiding Mexico?
+             Why do people tend to relate ancient sites to UFO's/ET?
+             Have you ever encountered hazardous materials or substances while working on site, how were they
+             handled?
+             What measures are taken to ensure safety during an investigation? You have a HAZWOPER?
+             How is evidence from a site handled and preserved for analysis? Formaldehyde? Carbonite?
+             Why was 2002 a big year?
+             What is the most challenging part of your job, how has it affected you? Is this lob stressful? Does it have
+             anything to do with your illness?
+             Can you describe what your position was like on a day-to-day basis?
+             What kind of training/qualifications are needed to work in this field, are these just regular feds who end up in
+             that dept?
+             Do you listen to public sightings or go off your own agencies intel?
+             How are false claims or hoaxes debunked when someone calls them in?
+             How does the government prevent or respond to potential national security threats posed by UFOs
+             coming/going, in/out of the atmosphere/ocean?
+             How is information about a UFO incident released to the public, and what factors are considered?
+             What is the goal of the government's involvement in UFO events/crashes? To keep it quiet? Just to steal/learn
+             tech?
+             Thanks
+
+         Anonymous Thu 27 Apr 2023 11:05:02 No.34648920                         Report
+         Quoted By: >>34651416 >>34651686
+
+             >>34630513
+             >It doesn't officially exist and I won't use the internal name on here either.
+
+             dude you're actually cringe. AARO is literally the thing. Everyone in the DoD knows this. Unless you're
+             referencing Raytheon or Lockheed and their little compartmentalized shithole then you're actually rarted
+https://archive.4plebs.org/x/thread/34629564/                                                                                   59/76
+
+## Page 60
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+             or
+             >MJ-12
+             then just say it coward
+
+         Anonymous Thu 27 Apr 2023 13:11:08 No.34649307                            Report
+
+             >>34629564
+             Have you seen the dreams yet?
+
+         Anonymous Thu 27 Apr 2023 13:31:52 No.34649357                            Report
+         Quoted By: >>34649389 >>34651686
+
+             OP, if you're dying. Why can't you just tell us the department name and share some photos of documents?
+
+             Surely the 'higher ups' can already immediately trace this back to you... It's such a small team and I'm
+             guessing there aren't lots of you currently with cancer...
+
+           View Same    Google   iqdb   SauceNAO   Trace    1681634689171580.jpg, 130KiB, 459x438
+
+                                        Anonymous Thu 27 Apr 2023 13:42:20 No.34649389                           Report
+
+                                        >>34649357
+                                        Inb4 thw whole department actually consist of cancer patients.
+
+         Anonymous Thu 27 Apr 2023 14:43:22 No.34649566                            Report
+         Quoted By: >>34651785
+
+             can't believe I stayed up late to read this thread, nicely done.
+             it almost seems like most of the questions and answers are one in the same source.
+             Anyway, why do you think cloaking technology isn't employed by uaps, it shouldn't be that difficult to bend
+             light...
+
+         Anonymous Thu 27 Apr 2023 16:34:47 No.34649892                            Report
+         Quoted By: >>34650279 >>34651785
+
+             >>34629564
+             no ufos, it is just a distraction so people pays less attention to epstein, nordstream and died suddenly
+             incidents being memoryholed.
+
+         Anonymous Thu 27 Apr 2023 18:21:45 No.34650251                            Report
+
+             op i'm sorry for being retarded or purposefully not reading anything but are you being serious right now or are
+             you just larping? if you are really a researcher or expert in this sort of thing can you prove that? seriously
+             asking btw
+
+         Anonymous Thu 27 Apr 2023 18:31:45 No.34650279                            Report
+         Quoted By: >>34650675 >>34651327
+
+             >>34649892
+             we need a pizza gate thread, there was a great thread on /pol/ but it reached the limit
+
+         Anonymous Thu 27 Apr 2023 19:03:48 No.34650461                            Report
+
+             >>34648202
+             Thanks anon, interesting
+
+         Anonymous Thu 27 Apr 2023 19:38:10 No.34650675                            Report
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                  60/76
+
+## Page 61
+
+18/12/2025, 21:55                                             /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+             >>34650279
+             Fuck pol. Lets make it here.
+
+         Anonymous Thu 27 Apr 2023 20:15:08 No.34650870                               Report
+         Quoted By: >>34651785
+
+             Some questions
+             Do you know where in space they come from? Any star system in particular?
+             Any craft found on earth that was ancient?
+             What’s it like keeping everything a secret from humanity? What is it like working under a bunch of Jews?
+
+         Anonymous Thu 27 Apr 2023 20:27:36 No.34650940                               Report
+
+             Do the aaays know about human culture/current events?
+             Have they ever tried to influence us in some way
+
+           View Same    OCR      Google   iqdb   SauceNAO    Trace    1682590156630772.png, 3MiB, 1000x9000
+
+               Anonymous Thu 27 Apr 2023 20:36:26 No.34650979                               Report
+               Quoted By: >>34651785
+
+               >>34629564
+               Heres something about antarctica. Check it out.
+               Do you have any idea whats going on in there?
+
+           View Same    Google    iqdb    SauceNAO   Trace    706AD1E0-A21D-4D5C-BEBB-FB293C1A (...).png, 851KiB, 667x936
+
+                                 Anonymous Thu 27 Apr 2023 20:37:52 No.34650991                           Report
+
+                                 >>34645736
+                                 >space is fake
+
+         Anonymous Thu 27 Apr 2023 20:52:57 No.34651077                               Report
+         Quoted By: >>34651148
+
+             >>34648056
+             >I can agree to disagree on the rest of this
+             That's quite the reasonable response and I respect that!
+             >but on this point it's possible both are true
+             I can agree with that; I guess my mind is seeing that as a correlation and not causation. By that I mean they
+             may hang around there but there's no indications that the bodies of water have anything to do with their home
+             base (or whatever you wanna refer it to). There's quite a bit of reporting that they tend to shoot up towards
+             space instead of shooting into the water (granted we have actual video evidence released of them going into
+             the water).
+             >(my Dad also saw one there in the 1960's and for me personally, that makes a difference)
+             That's understandable! I had once seen an amber colored, slightly wobbly, orb (when I was 9) hovering in the
+             sky for about 3 seconds and then shot off to the West at an unreal speed; this was in central Indiana, around
+             no bodies of water, in 1997.
+             >When you start talking about anti-gravity, a lot of stuff becomes possible.
+             Yep! But in order to have anti-gravity you'll need to figure out a way to manipulate spacetime to offset the
+             gravitational effects (since gravity is just a curvature of space and a gradient of time dilation). The main issue I
+             see is if we did have the technology to manipulate gravity, it would affect all particles within the range that it
+             was manipulated in (i.e. you can't locally manipulate the spacetime geodesics for one object).
+
+             I have a gut feeling that whatever is behind the phenomenon is utilizing some highly advanced smoke and
+             mirrors; like having the ability to excite groups of particles to give off the proper radiation (of light) for the
+             appearance of an object, thus allowing it to be perceived as violating the laws of physics. There's something
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                       61/76
+
+## Page 62
+
+18/12/2025, 21:55                                              /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             real hidden behind the veil that is doing this and I believe that's where we've obtain our materials/wreckages
+             from, but I believe most sightings are more of a highly advanced manipulation/projection
+
+         Anonymous Thu 27 Apr 2023 21:04:50 No.34651148                                Report
+         Quoted By: >>34651458 >>34651785
+
+             >>34651077
+             You realize that the US Navy/USAF has the ability to do exactly what your gut feeling is right?
+
+             Plasma physics has developed greatly in the past few decades. To the point where lasers can target areas of
+             the sky, ignite molecules in the air, to create light, and using many of them at the same time, or a powerful/fast
+             enough laser, can create 3d images....holograms...
+
+             Look into project Nemesis. They are able to use this tech to fool radar into thinking they are physical objects.
+             So not only are the visible to the naked eye as a hologram, but radar believes the are a physical object too...
+             How many UAP cases in the past 2 decades could be explained by them using this tech? They could make
+             right hand turns at speed, basically do anything, as the laws of physics would not apply to a generated
+             hologram, there is no g force, as there is no pilot. Complete smoke and mirrors.
+
+             Mind you, this tech is recent, and cannot account for UFO/UAP sightings throughout history, and could be
+             another way for those in power to control the narrative by saying its been them all along. It has not, and that
+             must always be remembered.
+
+         Anonymous Thu 27 Apr 2023 21:21:36 No.34651250                                Report
+         Quoted By: >>34651785
+
+             We’re going to hit the bump limit before OP comes back
+
+           View Same    OCR      Google    iqdb   SauceNAO    Trace    1672528031067773.png, 553KiB, 1473x1995
+
+                                 Dave Thu 27 Apr 2023 21:23:14 No.34651260                        Report
+                                 Quoted By: >>34651313
+
+                                 >>34629564
+                                 You are a lying faggot is all.
+
+                                 Get the fuck back to X to other schizo trannies.
+
+         Anonymous Thu 27 Apr 2023 21:35:40 No.34651313                                Report
+
+             >>34651260
+             Just ignore Dave. He's a glowbot.
+
+         Anonymous Thu 27 Apr 2023 21:37:47 No.34651327                                Report
+
+             >>34650279
+             >>>/pol/424967063
+
+           View Same    Google    iqdb    SauceNAO    Trace    Pluto_in_True_Color_-_High-Res.jpg, 289KiB, 994x991
+
+                                          Anonymous Thu 27 Apr 2023 21:46:28 No.34651364                             Report
+                                          Quoted By: >>34651517
+
+                                    >>34644754
+                                    >NOW COMPLETELY DESTROYED ufo could be reassembled..... Who acts like that?
+                                    It's like ripping of the ram of a pc, damaging the mobo, cutting the wires, pee on the cpu
+                                    before throwing it into a river, next team investigate the damage, sends pc to next team
+                                    and they say "yeah hard to re-engineer"
+             The way these are constructed you cannot take an existing but damaged craft and just add on spare parts
+             from another close it up and call it good. Human "repairs" only go so far on existing craft. Instead, we have a
+             much shittier iteration of what they build. Some parts are not reused they are just materials for testing or
+             research.
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                     62/76
+
+## Page 63
+
+18/12/2025, 21:55                                           /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             Once again could be that I explained the process too poorly. We don't reassemble them, we quite literally bum
+             parts and try to make our own, and some parts of the craft we make have to be human-made substitutions.
+             The mechanism for piloting is one such part. We also add things.
+
+             >>34644778
+             >What the fuck are you talking about. What actual data do we have on UAPs?
+             I'm not surprised some people think this way. There's a ton of shrouded information on the topic.
+             >deboonkers annoy the fuck out of me. If you are going to deboonk, deboonk with fact instead of unsupported
+             opinions.
+             I think they are necessary though. They aren't wrong this community should be skeptical.
+
+             >>34644934
+             >shrugging it off to smoking dmt is a bit unwise.
+             Then a bunch of governments including our own dedicate departments to bullshit.
+             >ufos influencing human minds supposedly comes from government sources
+             I'd be more inclined to believe this aspect alone. A lot of posts in this thread made me wonder if there were
+             more construction units etc.
+             I also found the memo post interesting specifically because of the year mentioned.
+
+             >>34644953
+             >What's his compartment and why is it the ultimate treasure trove
+             Even if you don't believe me I think we can agree the bio department would have more info than me by
+             conversation with them alone.
+             This is before we even include leadership
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    1658407328128422.jpg, 59KiB, 640x512
+
+                                        Anonymous Thu 27 Apr 2023 21:54:57 No.34651416                            Report
+
+                                   >>34648920
+                                   >MJ-12
+                                   >then just say it coward
+                                   >>34639372
+                                   >The term "Majestic" was considered outdated.
+             Not op, but that cleared it up for me.
+
+         Anonymous Thu 27 Apr 2023 22:00:35 No.34651458                             Report
+         Quoted By: >>34651876
+
+             >>34651148
+             >You realize that the US Navy/USAF has the ability to do exactly what your gut feeling is right?
+             No I didn't, I knew the US military was able to project sound/voices via lasers but had never heard of
+             NEMESIS until now; thank you anon!
+
+             >cannot account for UFO/UAP sightings throughout history
+             Out of curiosity, what's your theory on them? You seem to have a nice explanation on unraveling my gut
+             feeling so I'm genuinely interested in your outlook lol
+
+         Anonymous Thu 27 Apr 2023 22:00:54 No.34651460                             Report
+         Quoted By: >>34651785
+
+             >>34629564
+             The abductees that are 'returned', who are monitored, how are those individuals dealt with?
+
+             Do we know why certain individuals are selected?
+
+             Has it ever been proposed that they also use us as a clandestine surveillance program? *wink*
+
+             I wish you had more information about the species whose technology you were handling.
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                63/76
+
+## Page 64
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+             What ship has the capabilities to remove someone let us say from a building in a large city without *civilians*
+             noticing? What is the technology that would make that possible?
+
+           View Same    Google   iqdb   SauceNAO   Trace    6a0105371bb32c970b01b8d2bcb5e4970c.jpg, 3MiB, 1897x1825
+
+                                        Anonymous Thu 27 Apr 2023 22:04:42 No.34651484                           Report
+                                        Quoted By: >>34651576 >>34651692
+
+                                 >>34646123
+                                 >are they following the Space X operations?
+                                 They respond rather quickly to any type of rocketry. I imagine they will be.
+                                 >didn't make any noise, was completely black, like black metal. There is no way a being
+                                 could resist that sharp turn without turning into a puddle of blood.
+             They make noise but not very much of it. Also they can stop innertia when we still struggle with that.
+
+             >>34646960
+             >Has any writing been discovered on the crafts
+             Yes.
+             >or any tool inside them?
+             Yes.
+             >If so has it been linguistically linked to any known languages?
+             I'm not sure but it doesn't look like anything I've seen.
+             >What specifics of the propulsion systems can you reveal
+             I covered this already but as for the mercury comment no.
+
+             >>34647284
+             >If the US Navy etc. knows where the construction facility is
+             They don't.
+             >A Lot of Bob Lazars is proven BS
+             Sauce?
+             >What does the interior of the craft look like, please describe in detail
+             I already did this. It's always cramped and hard to stand fully upright in. For reference I'm 5'8.
+             There is almost never a storage facility unless it is dedicated to something for the craft.
+             There is always a method of interacting with the craft.
+             Tools are not freely placed around the craft and have dedicated placement.
+             >Have you only ever entered/seen Orbs?
+             The "hammers"? If so yes I've used them.
+             >Or have you been involved with discs too?
+             No? Be more specific?
+             >It sounds like the tic tacs or Cigar shaped ones are trandsports nobody has gotten a hold of right?
+             Cigar shaped are very rare. Correct we were told finding one would be career changing. We suspect they are
+             transports but ultimately don't know.
+             >There ase many stories of crashed discs. Please elaborate.
+             I've never seen a disc.
+             >Im curious to know what you think
+             Prior to the zoo keeper comment I thought they looked down on us as vile and worthless with intent to destroy
+             everything around us.
+
+         Anonymous Thu 27 Apr 2023 22:10:02 No.34651517                            Report
+
+             >>34651364
+             >The way these are constructed you cannot take an existing but damaged craft
+             It's akin to fixing a sword; you need to know how/what it's made from to reforge it? You could use other
+             materials/broken swords to mend it, but it wont be the same.
+             Are you aware of? and if so any thoughts?
+             https://patents.google.com/patent/US10144532B2/en?inventor=Salvatore+Cezar+Pais
+
+         Anonymous Thu 27 Apr 2023 22:10:54 No.34651523                            Report
+         Quoted By: >>34652382
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                  64/76
+
+## Page 65
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+             Are they trying to elevate our consciousness or is it more of a farming-for-loosh operation? I feel like they’re in
+             charge of all the tranny nigger communism and they’re just making us slaves willingly. Could be wrong but it
+             seems like they don’t want us to do better. Also are they what we call demons?
+
+         Anonymous Thu 27 Apr 2023 22:23:02 No.34651576                            Report
+
+             >>34651484
+             What happened in 2002?
+             Also do you think they had more interactions with us in the past for example 5-10,000 years ago. I have an
+             inkling they did.
+
+         Anonymous Thu 27 Apr 2023 22:23:35 No.34651579                            Report
+
+             >>34629564
+             Do you believe there have been any films, video games or general media that have been on track or used as
+             a “soft disclosure”?
+
+             Do you believe your cancer may have been induced by interacting with these craft? Have your co-workers
+             experienced similar medical issues?
+
+             How were you able to get in the department that you were in? Recruited out of school, prior service, etc.?
+
+             Does Phil Schneider ring a bell? And if so, does anything he said ring true?
+
+             Are the facilities that these craft are studied at above ground or subterranean?
+
+             Thanks for taking the time to go in-depth with the questions, this thread has been fascinating. Sorry to hear
+             about your current state of health, hope the best for you in this life and the next brotha
+
+           View Same    Google   iqdb   SauceNAO   Trace    photo-1614729939124-032f0b56c9ce.jpg, 64KiB, 1000x800
+
+                                        Anonymous Thu 27 Apr 2023 22:29:02 No.34651596                           Report
+                                        Quoted By: >>34653092 >>34653107
+
+                                  >>34647346
+                                  >what role do you think space force will play in disclosure moving forward?
+                                  Openly stated to us discovery for internal use and disinformation to the public.
+                                  >What can we as a populace do to encourage your bosses to lighten up?
+             This has always been on my mind. I think if we convinced another nation like China or Russia to come out the
+             US would have to come out as well.
+             I think having the USAF release their footage was a way to jumpstart Space X in a way.
+
+             >the pentagon has already reported that the legit UAPs are "off-world vehicles not made on this earth" while
+             OP is claiming they are made in a facility in the oceans.
+             I stated multiple times we've seen them come and go from the planet. We suspect the construction facility is
+             capable of space travel as well.
+             >He also stated that they were all unmanned
+             Reading comprehension issue. I said most of them are unmanned today. This is not strictly the case and in
+             prior years we dealt with piloted craft quite often.
+             >people with security clearances that large don't just get on 4chan to spill the beans
+             You're not wrong and if it makes you feel better watching my internet take a shit last night made me panic a bit
+             if I'm being honest.
+             I could have just ignored your post too.
+             >that allow various agencies to give him free access
+             I do not have free access to everything. Visiting crash sites comes with a lot of information by default though.
+             >providing zero evidence towards his claim. Also the burden of proof fallacy
+             Was I supposed to steal data from work and post it freely here? How about a copy of my clearance or work
+             badge? Yes, Anon let me just out myself completely.
+
+             >>34647915
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                      65/76
+
+## Page 66
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             >Ok so Element E115 provide the weak gravity field and the engine amplify the phenom through resonance?
+             The gravity field remains the same for E115 but the output from the engine produces almost all of the gravity
+             used for travel.
+             >Was the language that bob Lazar leaked completed?
+             I've never seen it can you post a picture of it?
+
+           View Same    Google   iqdb   SauceNAO   Trace    thumbnail_big.jpg, 93KiB, 800x800
+
+                                        Anonymous Thu 27 Apr 2023 22:45:41 No.34651686                           Report
+                                        Quoted By: >>34651734 >>34651740
+
+                                        >>34647922
+                                        >Any info about the crop circles?
+                                        Never seen one or heard of it being relevant.
+
+                                     >>34648524
+             >I have few questions if you please.
+             You have a lot so I'm not answering every single thing.
+             >Has there been any unusual effects on the environment/wildlife
+             No, they do study animals.
+             >Why/how are they avoiding Mexico?
+             One area around there is a bad crash zone for them.
+             >Why was 2002 a big year?
+             A lot of activities and changes in operation both for them and us. A lot of secrecy issues surfaced that year as
+             a result.
+             Funding also jumped through the roof.
+             >Is this lob stressful?
+             Very. Strained my marriage greatly.
+             >Does it have anything to do with your illness
+             I've wondered about that but ultimately I'll never know.
+             >What kind of training/qualifications are needed to work in this field
+             Your record needs to be clean as fuck. Education can vary.
+             >Do you listen to public sightings or go off your own agencies intel?
+             Agency intel all the way. Nearly all of it is passed verbally in person.
+             >How does the government prevent or respond to potential national security threats posed by UFOs
+             coming/going, in/out of the atmosphere/ocean?
+             Wait for crashes, the only time everyone is all hands on deck is if they screw with nukes. We mostly just watch
+             and wait for them to fuck up.
+             >Just to steal/learn tech?
+             This.
+
+             >>34648920
+             >MJ-12
+             That term is more of a history lesson than anything now.
+             >then just say it coward
+             Would you like my address too?
+
+             >>34649357
+             >OP, if you're dying. Why can't you just tell us the department name and share some photos of documents?
+             I'd like to appreciate what little I have left. See the above post about last night.
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                   66/76
+
+## Page 67
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+         Anonymous Thu 27 Apr 2023 22:46:27 No.34651692                            Report
+
+             >>34651484
+             Vibesbased reasoning here, but if timespace really is one phenomenon maybe their craft can move through
+             space without the need to move through time in the same way we do. Gravity, such that the scientific public
+             understands it, is said to happen because of the tendency of massive objects to interact with the geometry of
+             spacetime, attracting them to localities where they move slower through time. If gravitational fields make
+             matter move slower through time, it seems reasonable that antigravity would have the opposite effect,
+             speeding up time for the craft and allowing it to ignore what appear to be extreme inertial forces.
+
+         Anonymous Thu 27 Apr 2023 22:53:33 No.34651734                            Report
+
+             >>34651686
+             Do they use earth minerals for much
+
+             Also do you know if the Westall ufo incident was legit
+
+         Anonymous Thu 27 Apr 2023 22:54:07 No.34651740                            Report
+
+             >>34651686
+
+             How many hours did you work a week on average?
+
+             What were your day-to-day tasks when not investigating a craft?
+
+             How common of an occurrence is a crash? Ie how often were you sent out?
+
+           View Same    Google   iqdb   SauceNAO   Trace    space-7794864__340.jpg, 39KiB, 606x340
+
+                                        Anonymous Thu 27 Apr 2023 23:05:06 No.34651785                           Report
+                                        Quoted By: >>34651800 >>34653681,46 >>34653681,6
+
+                                      >>34649566
+                                      >Anyway, why do you think cloaking technology isn't employed by uaps, it shouldn't be
+             that difficult to bend light..
+             Fuck, I wish I could show you one of the images from our training. Sometimes we get lucky and find very odd
+             variants of UFOs. Same setup as usual but with interesting "additions".
+
+             >>34649892
+             >pays less attention to epstein
+             Will this help? Fuck Epstein.
+
+             >>34650870
+             >Do you know where in space they come from? Any star system in particular?
+             Higher-ups knew, I never did.
+             >Any craft found on earth that was ancient?
+             None that I saw.
+             >What’s it like keeping everything a secret from humanity?
+             >What do you do for work Anon?
+             I Travel and do inspections for the government. Boring stuff really.
+
+             >>34650979
+             >Do you have any idea whats going on in there?
+             First I've heard of it. Makes me wonder if there were others that did what I did but in different areas.
+
+             >>34651148
+             >Plasma physics has developed greatly in the past few decades.
+             You should be paying attention to things like this long after I leave. Laser technology too.
+
+             >>34651250
+             >We’re going to hit the bump limit before OP comes back
+https://archive.4plebs.org/x/thread/34629564/                                                                                 67/76
+
+## Page 68
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+             Half the thread wants me to keep going so I'll likely remake. Might need to wait a bit before the weekend will
+             be busy for me.
+
+             >>34651460
+             >The abductees that are 'returned', who are monitored, how are those individuals dealt with?
+             I suspect another department handles that. We do nothing with them from my end.
+             >Do we know why certain individuals are selected?
+             Not all but they like picking from remote areas exposed to radiation or disease.
+             >capabilities to remove someone let us say from a building in a large city without *civilians* noticing?
+             They have to get quite close to start the abduction process. Never seen it happen freely in a crowded city.
+
+             Taking a break until later this evening. As I mentioned weekend is busy if the thread dies I'll attempt to do
+             another.
+
+         Anonymous Thu 27 Apr 2023 23:07:57 No.34651800                            Report
+
+             >>34651785
+             Best poster /x has had in awhile definitely keep it up
+
+         Anonymous Thu 27 Apr 2023 23:08:53 No.34651803                            Report
+
+             >>34633613
+             kill yourself
+
+         Anonymous Thu 27 Apr 2023 23:20:03 No.34651875                            Report
+
+             >>34629564
+             If it had the power to “disappear” why wouldn’t it just permanently exist in that plane or realm?
+
+         Anonymous Thu 27 Apr 2023 23:20:15 No.34651876                            Report
+
+             >>34651458
+             Honestly, all I know is something physical is flying in our skies, and has been for a very long time...
+             We the public have no concrete evidence of who or what is controlling the craft. But they are craft, physically
+             real. After that its all speculation.
+
+             Personally, knowing the size of the universe, life must exist elsewhere. Are the here? Have they been here
+             throughout our history? Possibly. I truly hope some of us will get those answers in our lifetimes.
+
+         Anonymous Thu 27 Apr 2023 23:21:11 No.34651881                            Report
+         Quoted By: >>34652193
+
+             what if that was Atlantis all along?
+
+         Anonymous Fri 28 Apr 2023 00:08:50 No.34652193                           Report
+
+             >>34651881
+             That’s exactly what I think it is, Atlantean remnant civilization.
+
+           View Same    Google   iqdb   SauceNAO   Trace    abovehuman.jpg, 10KiB, 270x342
+
+                                 Anonymous Fri 28 Apr 2023 00:34:51 No.34652382                        Report
+                                 Quoted By: >>34652447
+
+                                 >>34651523
+                                 They are opposed to LGBTQ, it confuses them. They are concerned with fertility and
+                                 procreation, not mutilation and sterilization.
+
+         Anonymous Fri 28 Apr 2023 00:41:42 No.34652447                           Report
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                  68/76
+
+## Page 69
+
+18/12/2025, 21:55                                           /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+             >>34652382
+             Or they dont give a shit about lgbtwhatvever and know that reproduction can be done in a lab.
+
+         Anonymous Fri 28 Apr 2023 01:50:43 No.34652903                             Report
+         Quoted By: >>34653681,26
+
+             >>34629564
+             lurker from /k/ here. Do we have any weapons (firearms, conventional warhead missiles, etc) that stand a
+             chance against alien tech if we are forced to defend ourselves?
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    16_Alphabet_IsaacCaretDroneDocum (...).jpg, 41KiB, 500x380
+
+                                        Anonymous Fri 28 Apr 2023 02:18:02 No.34653092                          Report
+                                        Quoted By: >>34653168
+
+                                        >>34651596
+
+                                        The caret alphabet.
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    34_Isaac_CARETlaboratoryLinguist (...).jpg, 31KiB, 473x600
+
+                                 Anonymous Fri 28 Apr 2023 02:20:21 No.34653107                           Report
+                                 Quoted By: >>34653168
+
+                                 >>34651596
+                                 >I've never seen it can you post a picture of it?
+                                 another pic related.
+
+         Anonymous Fri 28 Apr 2023 02:25:20 No.34653138                             Report
+
+             Bumperinos
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    palo_alto_caret_leak.png, 1MiB, 1263x837
+
+                                        Anonymous Fri 28 Apr 2023 02:28:58 No.34653168                          Report
+                                        Quoted By: >>34653241 >>34653535
+
+                                        >>34653092
+                                        >>34653107
+                                        Sorry it was not from Bob Lazar but from some ISAAC guy.
+
+             Some Predator Movies and Alienware company used an alphabet inspired by those leaks.
+
+         Anonymous Fri 28 Apr 2023 02:39:42 No.34653241                             Report
+
+             >>34653168
+             This was a good larp.
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    1679814362426413.png, 43KiB, 1094x694
+
+                                        Anonymous Fri 28 Apr 2023 03:24:30 No.34653535                          Report
+
+                                        >>34653168
+                                        looks like katakana
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                     69/76
+
+## Page 70
+
+18/12/2025, 21:55                                          /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+           View Same    Google   iqdb   SauceNAO   Trace    1674784128021197.png, 377KiB, 512x512
+
+                                        Anonymous Fri 28 Apr 2023 03:43:01 No.34653681                         Report
+
+                                        What a fucking mess. I go out and immidiately see 5 of these orange orbs speeding like
+                                        some motherfuckers high in the nightsky. What kind of a mining operations are they
+                                        running?
+
+          Anonymous Wed 10 May 2023 18:37:51 No.34653681,1                                 Report    Delete
+
+              rip op?
+
+          Anonymous Wed 10 May 2023 22:33:17 No.34653681,2                                 Report    Delete
+
+              ZODIAC
+
+          Anonymous Wed 10 May 2023 23:08:33 No.34653681,3                                 Report    Delete
+
+              Hi, OP!
+
+              Cancer is easy to cure. All cancer cells use carbohydrates as their only energy source, so a zero carb diet
+              (such as keto or carnivore) will starve the cancer cells to death. Jordan Peterson has been surviving on beef,
+              salt, and water for years and looks great.
+
+              Is "zodiac" another historical codename like "majestic"?
+
+              Any chance Russia would use alien-derived tech in Ukraine?
+
+          Anonymous Thu 11 May 2023 05:13:10 No.34653681,4                                Report     Delete
+
+              Why would UFOs visit places in the middle of nowhere like Moses Lake or Lone Jack or Craig, Montana?
+
+          Anonymous Thu 11 May 2023 05:26:13 No.34653681,5                                Report     Delete
+
+              Besides the Air Force, CIA, and Space Force is there any other agencies that have access to the UFOs?
+
+          Anonymous Thu 11 May 2023 07:43:07 No.34653681,6                                Report     Delete
+
+              >>34651785
+              Any indication what point in the future we’re being “preserved” for? Is there a certain point of advancement
+              we’re supposed to reach?
+
+          Anonymous Thu 11 May 2023 18:21:40 No.34653681,7                                Report     Delete
+
+              What can you tell us about the size of the mobile construction unit? What's the closest it's been approached
+              before it activated defenses?
+
+          Anonymous Thu 11 May 2023 21:19:12 No.34653681,8                                Report     Delete
+
+              Have you ever thought about reaching out to George Knap to tell your story? Hope youa re well.
+
+          Anonymous Fri 12 May 2023 00:17:42 No.34653681,9                              Report      Delete
+
+              How much of this stuff has actually been reverse engineered to the point of manufacturing it becoming
+              possible? The impression I’m getting is that it’s able to be salvaged and repurposed but not created. In the
+              same way that I know how to replace the shocks in my car but I wouldn’t know where to begin if I had to
+              actually MAKE the shocks first.
+
+              You say it rarely leaves the Atlantic. Where else has it been?
+
+              Do the objects fly East toward Europe as well as the Americas?
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                    70/76
+
+## Page 71
+
+18/12/2025, 21:55                                      /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+              How is it possible to keep this under wraps if it’s true? Surely civilian boats and planes have encountered it?
+
+          Anonymous Fri 12 May 2023 00:21:46 No.34653681,10                           Report    Delete
+
+              Also what else have you worked on at Lockheed Martin? Sounds cool as fuck! ;)
+
+          Anonymous Fri 12 May 2023 01:27:07 No.34653681,11                           Report    Delete
+
+              asdf
+
+          Anonymous Fri 12 May 2023 01:29:59 No.34653681,12                           Report    Delete
+
+              Fascinating stuff. Have you learned anything about the craft's ability to disappear/reappear instantly. I
+              imagine it has something to do with gravity/time and our perception of time. Have witnessed any time
+              distortion phenomena?
+
+          Anonymous Fri 12 May 2023 09:03:02 No.34653681,13                           Report    Delete
+
+              Thanks for taking questions, great stuff!
+
+              1. Are you aware of AARO and AATIP organizations? Has your org ever worked with or shared info with
+              those departments?
+
+              2. Can you elaborate on any times that communication has been successful with them? What have the said?
+              What sorts of things were discuss?
+
+              3. Have we ever had accidental crashes from craft we were test piloting?
+
+              4. Anything you would like to share that no one has asked so far? :)
+
+          Anonymous Fri 12 May 2023 09:06:45 No.34653681,14                           Report    Delete
+
+              Have you ever personally had a test flight in one of the craft?
+
+          Anonymous Fri 12 May 2023 18:31:36 No.34653681,15                           Report    Delete
+
+              Does the colour turqouise mean anything regarding their crafts? I once saw a glowing ball laying on a road
+              with marble patterns swirling on it. I was quite close, this was the nineties so no led tech or anything could’ve
+              done this. It was slightly larger than a pilates ball. Thanks for a fascinating read!
+
+          Anonymous Sat 13 May 2023 00:46:18 No.34653681,16                            Report   Delete
+
+              Is your organization called Omega by any chance?
+
+          Anonymous Sat 13 May 2023 02:11:07 No.34653681,17                            Report   Delete
+
+              Are we able to track the mobile construction facility?
+              Any theories that this is AI from the future?
+
+          Anonymous Sat 13 May 2023 03:02:53 No.34653681,18                            Report   Delete
+
+              RIP OP
+
+          Anonymous Sat 13 May 2023 07:52:10 No.34653681,19                            Report   Delete
+
+              Are you confirming the Bob Lazar story?
+
+              Can we FOIA the DOE for answers, are their scientists involved?
+
+              Did we try and hack into the software or the craft? Is there a division that tries to exploit more than the nuts
+              and bolts, rather the navigation, AI, computer hardware etc.
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                     71/76
+
+## Page 72
+
+18/12/2025, 21:55                                     /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+              You mention there is a "bio" team. Is their purpose understanding the entities from a flesh and evolutionary
+              perspective?
+
+              Does the name Dr. Kit Green mean anything to you?
+
+          Anonymous Sat 13 May 2023 07:52:26 No.34653681,20                           Report   Delete
+
+              Does NASA catch UAP on their sensors in space and on camera?
+
+              The recent shoot downs over Alaska, Canada and Michigan quickly disappeared from the news. We have
+              been told there was nothing recovered. Do you buy it?
+
+              The UAP shot down over Alaska was said to have "shattered" when it hit the ice. Have you heard of this
+              before?
+
+              What's in Colorado Springs? Does Writen Patterson hold up to the urban legends of hanger 18?
+
+              You mentioned the higher ups knew more than they were telling. Do you think they knew orgin, intent, belief
+              system or possessed knowledge or more communication with them than you were led to believe?
+
+              What was your reaction when you realized the this is real?
+
+          Anonymous Sat 13 May 2023 08:05:03 No.34653681,21                           Report   Delete
+
+              Did the higher ups have "no no" questions or areas they were particularly more sensitive too?
+
+              Did the beings wear clothing any symbols or insignia?
+
+              Have any craft been known to be powered with vacuum energy or ZPE?
+
+              Is Dr Puthoff involved with the program or aspects of similar programs you were involved with?
+
+          Anonymous Sat 13 May 2023 08:10:25 No.34653681,22                           Report   Delete
+
+              Have nuclear weapons or radioactive bait been deployed to try and lure them out of the ocean?
+
+              Any activity of them around the Large Hadron Collider?
+
+              Have you figured out the theoretical physics & material science behind the craft?
+
+          Anonymous Sat 13 May 2023 08:40:51 No.34653681,23                           Report   Delete
+
+              Do you think they value life the way we do? You mentioned they seem to be ok with leaving their people
+              behind alive or dead. Do you think this may be intentional so we can learn about them?
+
+              If the gov knows where they come from, as you stated above why are we constantly told there is no evidence
+              they are ET?
+
+              Does anyone think they are demonic or angelic?
+
+              Do the inside of the craft have any monitors or controls we would recognize?
+
+              Do they have small arms? Laser, swords or conventional arms?
+
+              You said they are VERY human like. Any evidence we share DNA with them?
+
+          Anonymous Sat 13 May 2023 08:57:13 No.34653681,24                           Report   Delete
+
+              OK I have more...
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                72/76
+
+## Page 73
+
+18/12/2025, 21:55                                      /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+              You mentioned they show up in times of streif, was activity increased during Covid? Do you think they
+              understood what was happening?
+
+              Thoughts on "Men in Black"?
+
+              If you could solve one thing about everything you were puzzled by or had a question about what would it be?
+
+              Does any of the material science consists of elements not currently disclosed or mapped on the periodic
+              table?
+
+          Anonymous Sat 13 May 2023 16:36:37 No.34653681,25                            Report    Delete
+
+              OP, given the compartmentalised nature of programmes such as your former department you may not know,
+              but have you ever heard, of knyl through the grapevine about any human lead attempts attempts genetically
+              re-engineer or augment humans with additional sensory abilities?
+              Any rumors of human-animal (Brought to term)or human-alien chimeras resulting from human led
+              experimentation?
+
+          Anonymous Sat 13 May 2023 22:21:24 No.34653681,26                            Report    Delete
+
+              >>34652903
+              We do. It’s your mom.
+
+          Anonymous Sat 13 May 2023 22:22:46 No.34653681,27                            Report    Delete
+
+              OP, given the compartmentalised nature of programmes such as your former department you may not know,
+              but have you ever heard, of knyl through the grapevine about any human lead attempts attempts genetically
+              re-engineer or augment humans with additional sensory abilities?
+              Any rumors of human-animal (Brought to term)or human-alien chimeras resulting from human led
+              experimentation?
+
+          Anonymous Sun 14 May 2023 02:10:30 No.34653681,28                             Report   Delete
+
+              >>34636845
+              Was there any discussion about what star system or even galaxy these beings are from? Or anything about
+              their planet/their environment?
+
+              Any discussion on how many different alien races there are? Is this all coming from 1 race of aliens?
+
+          Anonymous Sun 14 May 2023 03:13:02 No.34653681,29                             Report   Delete
+
+              I was all about this til I heard the name Bob Lazar. Now I know its fake.
+
+          Anonymous Sun 14 May 2023 07:51:44 No.34653681,30                             Report   Delete
+          Quoted By: >>34653681,31
+
+              Do you think these aliens are related to the mad push to globalize and centralize power? WEF and all that?
+
+              Also, is there any indication that these grey aliens are in conflict with another alien species with their own
+              operations in our solar system?
+
+          Anonymous Sun 14 May 2023 08:34:42 No.34653681,31                             Report   Delete
+
+              >>34653681,30
+              Why do you keep bumping this thread you fag nothing special about it
+
+          Anonymous Sun 14 May 2023 09:28:47 No.34653681,32                             Report   Delete
+
+              OP
+
+              Does this have something to do with the factory? https://youtu.be/gETM2xd5J5I
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                  73/76
+
+## Page 74
+
+18/12/2025, 21:55                                      /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+          Anonymous Sun 14 May 2023 10:33:17 No.34653681,33                             Report   Delete
+
+              What can you tell us about Kitver Ming incident?
+
+          Anonymous Sun 14 May 2023 11:27:10 No.34653681,34                             Report   Delete
+
+              >>34637336
+              Milsim airsoft does not count as military background
+
+          Anonymous Sun 14 May 2023 13:13:03 No.34653681,35                             Report   Delete
+
+              >>34629564
+              OK maybe there is some credibility in OP comments but the story is missing fundamental scientific study
+              results. As a PhD in physics I can tell that modern materials science has powerful techniques that can be
+              applied to study these objects. Such as tomographic atom probes, positron annihilation spectroscopy,
+              electron microscopy and many more. It would be great if OP could provide deeper insight here. Otherwise it
+              all sounds too shallow.
+
+          Anonymous Sun 14 May 2023 14:07:49 No.34653681,36                             Report   Delete
+
+              >>34629564
+              It would be interesting to hear where and how the intelligence agencies (where OP works) find employees.
+
+              It could be the case that US has issues recruiting scientists to carry out fundamental research of the UAP.
+              Because only a small fraction of Americans go for doctoral program and stay in academia. Instead US tends
+              to import "brains" from other countries. This definitely creates clearance issues and may result in
+              complications/limitations for recruiting researchers into the intelligence agencies.
+
+              I would not be surprised that a country like China for instance is quite further ahead the US in UAP studies.
+              Very strong economy and plenty of available local scientists.
+
+          Anonymous Sun 14 May 2023 17:41:01 No.34653681,37                             Report   Delete
+
+              OP, given the compartmentalised nature of programmes such as your former department you may not know,
+              but have you ever heard, of knyl through the grapevine about any human lead attempts attempts genetically
+              re-engineer or augment humans with additional sensory abilities?
+              Any rumors of human-animal (Brought to term)or human-alien chimeras resulting from human led
+              experimentation?
+
+          Anonymous Sun 14 May 2023 19:52:39 No.34653681,38                             Report   Delete
+
+              If Putin were to launch a nuclear attack on Ukraine do you think the ET's would intervene?
+
+          Anonymous Sun 14 May 2023 20:02:21 No.34653681,39                             Report   Delete
+
+              Is there video or photos or abductions happening that the government recorded?
+
+          Anonymous Sun 14 May 2023 22:11:38 No.34653681,40                             Report   Delete
+
+              Tell us something interesting that you haven’t touched on already.
+
+          Anonymous Mon 15 May 2023 01:39:45 No.34653681,41                             Report   Delete
+
+              Op is full of shit
+
+          Anonymous Mon 15 May 2023 05:21:39 No.34653681,42                             Report   Delete
+
+              I hope to see the files in that locker. But I also hope your cancer gets better.
+
+          Anonymous Mon 15 May 2023 05:33:27 No.34653681,43                             Report   Delete
+
+              Is the TR3B or something like it real?
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                 74/76
+
+## Page 75
+
+18/12/2025, 21:55                                     /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+          Anonymous Mon 15 May 2023 06:31:25 No.34653681,44                            Report    Delete
+
+              bump
+
+          Anonymous Mon 15 May 2023 06:32:02 No.34653681,45                            Report    Delete
+
+              Can you draw the construction unit?
+
+          Anonymous Mon 15 May 2023 11:38:24 No.34653681,46                            Report    Delete
+
+              >>34651785
+              Has another thread been created? I’ve never been to this site but I am LOVING this. OP thank you.
+
+          Anonymous Mon 15 May 2023 14:37:15 No.34653681,47                            Report    Delete
+
+              Is there any relevance to Egyptian hyroglyfics? Such markings, like a man with a birds head and a staff which
+              could be Horus, have been reported on UAP. In the Rendlesham forest incident there were unsuall markings
+              resembling such too I believe.
+
+          Anonymous Mon 15 May 2023 18:05:50 No.34653681,48                            Report    Delete
+
+              I think MIB got to OP 😆
+
+          Anonymous Mon 15 May 2023 18:06:48 No.34653681,49                            Report    Delete
+
+              Do you know of the males and females have sex? Or has sex evolved into the lab
+
+          Anonymous Tue 16 May 2023 00:35:33 No.34653681,50                           Report     Delete
+
+              Has wreckage been found under the ocean?
+
+          Anonymous Tue 16 May 2023 03:32:20 No.34653681,51                           Report     Delete
+
+              What is your profession?
+              Why didnt you confess to the congress?
+
+          Anonymous Tue 16 May 2023 13:51:35 No.34653681,52                           Report     Delete
+
+              If most of the crafts are drones why is there enough room for movement inside?
+
+              How do you know that the mothership is producing new crafts?
+
+          Anonymous Tue 16 May 2023 17:25:06 No.34653681,53                           Report     Delete
+
+              Bump
+
+          Anonymous Wed 17 May 2023 21:13:56 No.34653681,54                            Report    Delete
+
+              Bump
+
+          Anonymous Wed 17 May 2023 22:43:00 No.34653681,55                            Report    Delete
+
+              Strange or not, he can make a movie from this story or we already have that.
+              Maybe sumerian myth are the real story. Time will tell until that, can you tell us are they mining only gold and
+              why any idea.
+              Did you ever find any mined material in crashed objects.
+              And do your team always know location of underwater factory can they always track it?
+
+          Anonymous Thu 18 May 2023 20:25:07 No.34653681,56                            Report    Delete
+
+              Hey OP
+              Hope the treatment is going well and you’re surviving.
+
+          Anonymous Fri 19 May 2023 05:31:46 No.34653681,57                          Report     Delete
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                    75/76
+
+## Page 76
+
+18/12/2025, 21:55                                       /x/ - Paranormal » Thread #34629564 » UFO Knowledge
+
+              I think OP telling the true.
+              Did you listen dr.Garry last night on project unity.
+              https://youtu.be/giuxyBulb1U
+
+              Soon we will know...
+
+          Anonymous Sat 20 May 2023 03:25:35 No.34653681,58                              Report     Delete
+
+              OP do you know who "Bryan" is? https://docdro.id/mDQFhBe
+
+          Anonymous Sat 20 May 2023 07:33:23 No.34653681,59                              Report     Delete
+
+              >>34636946
+              OP what do you think of the claims made my gordon cooper and darrell miklos?
+
+          Anonymous Wed 24 May 2023 03:42:22 No.34653681,60                                Report    Delete
+
+              No more answers i guess.
+
+          Anonymous Fri 26 May 2023 02:31:55 No.34653681,61                             Report      Delete
+
+              OP, everyone asking about what Aliens are doing. I'm asking, how are you? How many months, weeks or
+              days left?
+
+          Anonymous Sat 27 May 2023 19:25:28 No.34653681,62                              Report     Delete
+
+              Do you know many private contractors were involved in zodiac?
+
+              Also, could you disclose the type of commercial sensor suite (frequency bands, radiation detection, signals
+              they respond to, etc) that could be employed by regular civilians for the purpose of detection or interaction?
+
+          Anonymous Tue 30 May 2023 18:51:21 No.34653681,63                               Report     Delete
+
+              >>34629564
+              For what purpose did an alien race establish a presence on Earth?
+
+              Engaging a field propulsion systems will cause local time displacement - does their craft interrupt GPS signal
+              structure or cause measureable local magnetic disruptions?
+
+              Their craft can be detected on radar and IR but they are very difficult to track - can they actively jam or spoof
+              our radars and IR sensors?
+
+              Why do the drone craft revisit specific sites on a schedule?
+
+    FoolFuuka Imageboard 2.2.0 - Asagi Fetcher          Transparency - FAQ - Credits & Links - 4plebs on X - Legal   Change Theme
+
+https://archive.4plebs.org/x/thread/34629564/                                                                                       76/76
+
+## Page 77
+
+18/12/2025, 21:56                                            /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+       This website uses cookies for some features and usage tracking.                  Show purposes           Reject Cookies
+
+          Accept Cookies
+
+       Archives: [ adv / f / hr / o / pol / s4s / sp / tg / trv / tv / x ]
+
+        /x/ - Paranormal                        4chan       Index           Gallery    Random         Stats
+
+                                                           Search or insert post number
+
+                                                                                UFO Knowledge Anonymous Fri [327 / 96 / 150]
+                                                                                05 May 2023 04:00:09 No.34704869
+                                                                                 View   Reply    Original   Report
+                                                                                Quoted By: >>34704992 >>34705113
+                                                                                >>34705117 >>34705191 >>34705508
+                                                                                >>34705683 >>34707197 >>34707288
+                                                                                >>34707302 >>34707408 >>34707445
+                                                                                >>34707481 >>34707952 >>34708199
+                     1MiB, 1400x787, 1682364143079185.jpg                       >>34709036 >>34711169 >>34712972
+       View Same      OCR      Google    iqdb   SauceNAO       Trace    
+                                                                                >>34713006 >>34713518 >>34713561
+                                                                                >>34715174 >>34715453 >>34716089
+                                                                                >>34716418 >>34716588 >>34717491
+                                                                                >>34722278 >>34723779 >>34724112
+                                                                                >>34729137 >>34732873 >>34735201
+                                                                                >>34739363 >>34741997 >>34749818
+                                                                                >>34750997
+
+          It's been a bit of a rough week for me. It's still going to be a rough week for me so I may not reply as much.
+
+          Drop your questions and criticisms and I'll answer them as best I can.
+
+          I'll address some of the other questions I saw elsewhere below.
+
+          - I don't know anything about the moon man post.
+          - No interest in a trip code it sounds pretentious.
+          - You should be skeptical. Over time though I think a lot of people will find themselves coming back to what I've
+          said.
+
+          https://archive.4plebs.org/x/thread/34629564/
+
+         Anonymous Fri 05 May 2023 04:00:51 No.34704873                                 Report
+
+             I don't have any questions, just want to say that I hope things start looking up soon anon
+
+         Anonymous Fri 05 May 2023 04:21:02 No.34704992                                 Report
+         Quoted By: >>34705383
+
+             >>34704869
+             Wow welcome back OP.
+
+             How other countries know about the existence of this underwater facility?
+
+         Anonymous Fri 05 May 2023 04:37:08 No.34705113                                 Report
+         Quoted By: >>34705383
+
+             >>34704869
+             Glad to see you back anon. I know last thread you said it's an all hands on deck situation if the crafts start
+             messing with our nukes. Does this happen often? What kind of reaction is there when these events occur?
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                    1/57
+
+## Page 78
+
+18/12/2025, 21:56                                          /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+           View Same    Google   iqdb   SauceNAO   Trace    underwaterweird.png, 2MiB, 1440x824
+
+                                        Anonymous Fri 05 May 2023 04:37:54 No.34705117                       Report
+                                        Quoted By: >>34705132 >>34705383 >>34709826 >>34752445
+
+                                    >>34704869
+                                    Is this related to the underwater structure that Gordon Cooper sighted and Discovery
+             Channel had to cancel that show for season 3, because they were planning on going to the site?
+             I thought it was weird that they got so much press fever when it was announced, and then Discovery just
+             cancels season 3 out of the blue.
+
+             Link related:
+             https://www.nzherald.co.nz/world/treasure-hunter-claims-he-found-evidence-of-usos-beneath-bermuda-
+             triangle/HXL2Q5EIBZSJYNIYSCWSIGD6PQ/
+
+             Also, is it related to when NASA and NOAA closed off a section of the Atlantic Ocean off the east coast of the
+             US in 2014?
+
+           View Same    Google   iqdb   SauceNAO   Trace    underwaterweird2.jpg, 65KiB, 962x668
+
+                                        Anonymous Fri 05 May 2023 04:39:22 No.34705132                       Report
+                                        Quoted By: >>34709826 >>34723000 >>34752445
+
+                                        >>34705117
+                                        second image
+
+         Anonymous Fri 05 May 2023 04:47:32 No.34705191                            Report
+         Quoted By: >>34705383
+
+             >>34704869
+             I didn't want to respond last week but now I will ask question. Your answer on tools you found in vehicles
+             makes you seem like you are LARPing. There must have been more advanced and intruding tools than
+             fucking toothpick.
+
+         Anonymous Fri 05 May 2023 04:56:45 No.34705253                            Report
+         Quoted By: >>34705329 >>34705509 >>34709869 >>34717697
+
+             OP, given what you have said in your last thread.
+
+             Thousands of governmental officials over the decades must have been made aware of this. Even more than
+             that perhaps.
+
+             Not to mention family members of those workers and anybody else relatively close to them.
+
+             How on earth would it be possible to maintain a secret with such a large amount of people constantly in the
+             know. Not just over years. But literally decades.
+
+         Anonymous Fri 05 May 2023 04:57:31 No.34705260                            Report
+         Quoted By: >>34705509
+
+             Glad to see you back OP. I know you mentioned last thread to keep an eye on the space force. What is the
+             extent of contractor or third-party involvement in their work? A anon mentioned Lockheed last thread. Are
+             there work contracts that go out for UAP work? What kind of language is put out in the gov’s acquisitions
+             channels to indicate a project is UAP or UAP adjacent?
+
+         Anonymous Fri 05 May 2023 05:07:42 No.34705329                            Report
+         Quoted By: >>34705509
+
+             >>34705253
+             >large amount of people constantly in the know.
+             Compartmentalisation. Most don't 100% know what's permissible to discuss, but they know what/who 100%
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                 2/57
+
+## Page 79
+
+18/12/2025, 21:56                                          /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+             isn't. Add on the threat of legal/criminal action, and family/loved ones.. it's quite easy to understand how it
+             happens.
+
+           View Same    Google   iqdb   SauceNAO   Trace    Lagoon-Nebula.jpg, 254KiB, 1280x1032
+
+                                        Anonymous Fri 05 May 2023 05:15:54 No.34705383                       Report
+                                        Quoted By: >>34705442
+
+                                        >>34704992
+                                        >How other countries know about the existence of this underwater facility?
+                                        The same way we do. They've been looking at crash sites as long as we have.
+
+             >>34705113
+             >I know last thread you said it's an all hands on deck situation if the crafts start messing with our nukes.
+             Correct.
+             >Does this happen often?
+             About once every 10 years for the US. We suspect other countries have had similar issues and reactions.
+             >What kind of reaction is there when these events occur?
+             A higher-up joked months after the last one I saw that "The phone rings everywhere but the president's office"
+             In the same instance, I mentioned above they deployed multiple aircraft and a sub with serious intent.
+             The sub didn't arrive in time. Fighters probably never saw the end coming.
+
+             >>34705117
+             >Is this related to the underwater structure that Gordon Cooper sighted and Discovery Channel had to cancel
+             that show for season 3
+             Nothing in those pictures rings a bell. If you see the construction facility you'll know. You can't miss it.
+             As for if they were instructed to leave that could be true.
+
+             >>34705191
+             >Your answer on tools you found in vehicles makes you seem like you are LARPing. There must have been
+             more advanced and intruding tools than fucking toothpick.
+             I had to think a bit about this one for multiple reasons and I think I'll cover the abduction tools in greater detail.
+             There are tools that induce a child-like state or something akin to having a stroke, we covered that.
+             The tools I didn't talk about are ones that are designed to take objects the size of pills and push them deep
+             into your tissue and stomach. These tools aren't friendly and don't account for extreme pain.
+             There's also another tool that looks like a circular battery you would find in a key fob. Designed for keeping
+             your eyes open when deployed. It also stops the eye from moving almost perfectly.
+
+           View Same    Google   iqdb   SauceNAO   Trace    sharpened.png, 165KiB, 590x430
+
+                                        Anonymous Fri 05 May 2023 05:20:56 No.34705411                       Report
+                                        Quoted By: >>34732309
+
+                                        hi
+
+         Anonymous Fri 05 May 2023 05:25:13 No.34705432                            Report
+         Quoted By: >>34705509
+
+             I have a question:
+             >Any ability to prove it?
+
+             Bonus question:
+             >Favorite ice cream?
+
+         Anonymous Fri 05 May 2023 05:27:00 No.34705442                            Report
+         Quoted By: >>34705509
+
+             >>34705383
+             When Oumuamua was spotted, were there concerns in your circles that it could be related to the construct,
+             and may have been something inbound to interact?
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                         3/57
+
+## Page 80
+
+18/12/2025, 21:56                                          /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+           View Same    Google   iqdb   SauceNAO   Trace    In the shadows.webm, 134KiB, 540x304
+
+                                        JAIRUS Fri 05 May 2023 05:36:45 No.34705508                    Report
+                                        Quoted By: >>34729639
+
+                                    >>34704869
+                                    Spokane, Washington is the biggest UFO center of activity in the United States. Seattle
+             has nothing on it. Either Fairchild Air Force Base has something classified stationed at it that the ayys know
+             about, or there is a massive base in the mountains just to the southeast of Spokane Valley. There was a
+             massive aerial battle in the area near Cedar Grove Conservation Area a few months ago. You could see
+             multiple UFOs ranging from the huge cigar ships to the little red combat escorts to the tiny tic tac shuttles, and
+             always the abduction or monitor craft that would hover in the sky all night long, multiple days in a single week.
+             Fairchild AFB routinely sends out helicopters to follow airspace incursions over and around the city on a
+             regular basis. They always fly with their transponders off if you try to identify them on the air traffic websites.
+
+           View Same    Google   iqdb   SauceNAO   Trace    1024px-Peony_nebula-58b82ff65f9b (...).jpg, 156KiB, 1024x768
+
+                                        Anonymous Fri 05 May 2023 05:36:48 No.34705509                       Report
+                                        Quoted By: >>34705899 >>34727604
+
+                                    >>34705253
+                                    >How on earth would it be possible to maintain a secret with such a large amount of
+                                    people constantly in the know. Not just over years. But literally decades.
+             That's just it. They haven't been able to maintain secrecy. That's a major reason the previous management
+             didn't mind us being so open with each other.
+             If you mean more historically as in the past twenty years or more now you know why I find references to MJ12
+             funny.
+             Secrecy is all but gone, now it's just about obfuscation and misinformation.
+
+             >>34705260
+             >What is the extent of contractor or third-party involvement in their work?
+             Not as often as you imagine. We do use them though.
+             >A anon mentioned Lockheed last thread
+             Such a great company aren't they? Definitely wouldn't be the type to try to leak things to the public.
+             >Are there work contracts that go out for UAP work?
+             You normally have to sign and agree to a contract.
+             >What kind of language is put out in the gov’s acquisitions channels to indicate a project is UAP or UAP
+             adjacent?
+             None.
+             They show up and tell you where you'll be and what you'll do. You have to be top tier in your field. You also
+             have to be so clean you've never seen a speeding ticket.
+
+             >>34705329
+             >Compartmentalisation. Most don't 100% know what's permissible to discuss, but they know what/who 100%
+             isn't. Add on the threat of legal/criminal action, and family/loved ones.. it's quite easy to understand how it
+             happens.
+             Anon nailed it perfectly.
+             This was changing until new management showed up.
+
+             >>34705432
+             >>Any ability to prove it?
+             I'm willing to work with you on ideas. You might like what I have up my sleeve closer to the end.
+             >Favorite ice cream?
+             Vanilla. Sprinkles.
+
+             >>34705442
+             >When Oumuamua was spotted, were there concerns in your circles that it could be related to the construct
+             A few places panic with every odd sighting here and there. We know almost instantly by looking at gravity and
+             speed.
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                      4/57
+
+## Page 81
+
+18/12/2025, 21:56                                      /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+         Anonymous Fri 05 May 2023 05:56:50 No.34705623                        Report
+         Quoted By: >>34707386 >>34708556 >>34711166
+
+             Why is there so much alien activity in Mexico? The aayys are literally hanging out with an Indian tribe in
+             Sonora and taking the people on tours of other planets. Fisherman see the craft under their boats. I want to
+             hang out with the aayys and chill with a cold beer in hand.
+
+         Anonymous Fri 05 May 2023 06:03:58 No.34705683                        Report
+         Quoted By: >>34705733 >>34707386
+
+             >>34704869
+             What do they do with one of these drones once it is finished its task? You said that they only make them right
+             before emthey use them. What do they do with them after it's been used?
+
+         JAIRUS Fri 05 May 2023 06:10:27 No.34705733                     Report
+         Quoted By: >>34705782 >>34706115
+
+             >>34705683
+             He's full of shit, he doesn't know anything. You're wasting your time.
+
+         Anonymous Fri 05 May 2023 06:17:20 No.34705782                        Report
+         Quoted By: >>34707386 >>34708303
+
+             >>34705733
+             fun larps are fun, besides if what he's saying is true it's at least an acceptable answer that covers the bulk of
+             the unexplained stuff
+
+             either way it's probably related to Blue Eisenhower November whether he knows it is or not
+
+         Anonymous Fri 05 May 2023 06:25:58 No.34705850                        Report
+         Quoted By: >>34707386
+
+             Hey OP, why this image to start your threads? Is this a project you worked on? What sort of reporting structure
+             do you / did you have at your UAP job? Are there any guidelines or procedures for releasing info to the public
+             that you’re aware of?
+
+             Thanks for taking questions again.
+
+         Anonymous Fri 05 May 2023 06:32:12 No.34705899                        Report
+         Quoted By: >>34706115 >>34707386
+
+             >>34705509
+             Any idea why new management was so hell-bent on changing course?
+
+         Anonymous Fri 05 May 2023 06:55:29 No.34706115                        Report
+         Quoted By: >>34710020
+
+             >>34705733
+             >he doesn't know anything
+             Time will tell, irregardless it's interesting.
+             >>34705899
+             >why new management was so hell-bent on changing course?
+             Would also like to know...suspect it's mundane though. Brass probably has no concrete idea how to deal with
+             this(especially outside of military terms).
+
+         Anonymous Fri 05 May 2023 07:04:18 No.34706191                        Report
+         Quoted By: >>34713622
+
+             Sorry to hear about your week, anon. I hope it improves.
+
+             Q: Does Karen Seamount in the Atlantic between Bermuda and VA have anything to do with ayyys? Seems
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                    5/57
+
+## Page 82
+
+18/12/2025, 21:56                                           /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+             like the civilian oceanographic missions there have kinda glossed over any findings, not posted more than a
+             couple photos or video, and generally treated it like the not-talked-about failson at the seamount mapping
+             party. My coverup klaxons are blaring over that one...
+
+         Anonymous Fri 05 May 2023 07:24:45 No.34706339                              Report
+         Quoted By: >>34713622
+
+             You were asked if the female aliens are sexy. You replied with "The ones with or without probes?" Could you
+             clarify? Do the aliens have dickgirls? Can you clearly distinguish between male aliens and female aliens? Are
+             the tits decent?
+
+         Anonymous Fri 05 May 2023 08:01:29 No.34706593                              Report
+         Quoted By: >>34713622
+
+             Could we find evidence that the factory mothership has extracted materials from the ocean floor or the Earth's
+             crust to produce the UAPs?
+
+             Where does the most exotic material (moscovium I assume) come from? What I don't understand is how they
+             get it to be a stable element
+
+         Anonymous Fri 05 May 2023 08:09:32 No.34706656                              Report
+         Quoted By: >>34706911 >>34713622
+
+             I dont think element 115 is that big of a deal off of earth. They probably go around detecting for the stuff. What
+             is amazing are their alloys. They have alloys that are impossible to reproduce.
+
+         Anonymous Fri 05 May 2023 08:47:52 No.34706911                              Report
+         Quoted By: >>34713622
+
+             >>34706656
+             Element 115 nuclei lasts for milliseconds before disintegrating under lab conditions
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    pacl-lang-analysis-p121-fullsize.jpg, 870KiB, 2550x3234
+
+                                 Anonymous Fri 05 May 2023 09:48:36 No.34707197                            Report
+                                 Quoted By: >>34707203 >>34707215 >>34707256 >>34707272 >>34713622 >>34724938 >>34736414
+                                 >>34737279
+
+                            >>34704869
+                            When thinking about all possible forms life can emerge from it seems upright bipedalism is
+                            but one among many. If at any moment you find language capability with something foreign
+                            or alien would suggest something more relatable than not. This is true even for us relative to
+             archaic humans 1 million years ago but not for mammoths.
+
+             Have you found any reason to exclude the time traveler hypothesis, or any reason to suggest two
+             independently emerging forms of life have found eachother rather than something living or non-living from
+             future humans with a technology which would explain such occurrences?
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    Coevolution of Languages.jpg, 134KiB, 1280x1029
+
+                                        Anonymous Fri 05 May 2023 09:50:56 No.34707203                           Report
+
+                                        >>34707197
+                                        pic related
+
+         Anonymous Fri 05 May 2023 09:53:46 No.34707215                              Report
+
+             >>34707197
+             I will tell you what this is if you send me the peripheral vision enhancement actuator
+
+         Anonymous Fri 05 May 2023 10:04:15 No.34707256                              Report
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                     6/57
+
+## Page 83
+
+18/12/2025, 21:56                                          /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+             >>34707197
+             there is one method of time travel I know possible but you can only send the instruction manual if it is not
+             information. My individual personal thoughts throughout time for example are not information technically
+
+         Anonymous Fri 05 May 2023 10:07:41 No.34707272                            Report
+
+             >>34707197
+             >Have you found any reason to exclude the time traveler hypothesis
+             no this is definitely a scam artist from the past
+
+         Anonymous Fri 05 May 2023 10:11:58 No.34707288                            Report
+         Quoted By: >>34713622
+
+             >>34704869
+             What races of ayys we know actually exist? Are the underground reptilians real?
+
+         Anonymous Fri 05 May 2023 10:14:29 No.34707302                            Report
+
+             >>34704869
+             Sorry you had a rough week anon. Hope things get better for ya. Do know that there's joy and happiness to be
+             found. Adventures to be had and dreams to follow. People to connect with and help to receive. I hope for the
+             best for you and other anons. This goes for other anons too.
+
+           View Same    Google   iqdb   SauceNAO   Trace    Melotte15_Small.jpg, 542KiB, 640x800
+
+                                 Anonymous Fri 05 May 2023 10:31:01 No.34707386                         Report
+                                 Quoted By: >>34710003 >>34711160 >>34712377 >>34714286 >>34715378 >>34723529 >>34752572
+
+                               >>34705623
+                               >Why is there so much alien activity in Mexico?
+                               Bermuda Triangle is right next door to Mexico. They also avoid certain parts because they
+                               crash there often.
+                               >The aayys are literally hanging out with an Indian tribe in Sonora and taking the people on
+             tours of other planets.
+             Sauce?
+
+             >>34705683
+             >What do they do with one of these drones once it is finished its task?
+             They are not exclusively drones. It returns to the construction facility.
+             >You said that they only make them right before emthey use them.
+             Yes built to spec every time they launch as far as we can tell.
+             >What do they do with them after it's been used?
+             Based on heat signatures likely smelted back down into parts.
+
+             >>34705782
+             >either way it's probably related to Blue Eisenhower November whether he knows it is or not
+             Explain? I'm learning as well.
+
+             >>34705850
+             >why this image to start your threads?
+             Saw the release on TV and laughed because the USAF is so far in the dark.
+             >Is this a project you worked on?
+             Not that specific UFO probably not. The one in the picture of my post is definitely real.
+             >What sort of reporting structure do you / did you have at your UAP job?
+             I'm hesitant to go over this in detail. I would love to explain though.
+             >Are there any guidelines or procedures for releasing info to the public that you’re aware of?
+             For me, it was "You know what the USAF knows and nothing else ever" and things like the Space Force are
+             going to be disinformation based.
+
+             >>34705899
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                 7/57
+
+## Page 84
+
+18/12/2025, 21:56                                                /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+             >Any idea why new management was so hell-bent on changing course?
+             New management coming in thinking they can make sweeping changes and "fix" everything while impressing
+             their leadership if I had to guess.
+
+             Should be on tomorrow night if all goes well.
+
+         Anonymous Fri 05 May 2023 10:33:58 No.34707408                                   Report
+         Quoted By: >>34713622
+
+             >>34704869
+             > What signatures do we filter for when searching for these?
+             > What sub-modules exist and what frequencies, per sub-module, have we measured?
+             > Why can only one sub-module be activated at a time?
+             > What do the visible light frequencies given off by these indicate?
+             > Can you give me one specific example as to why that last question is highly relevant to the phenomenon(s)?
+
+             > Bonus Question
+             > Why are these considered spacetime machines and what are the limitations, that we know, to their
+             propulsion?
+
+         Anonymous Fri 05 May 2023 10:39:12 No.34707445                                   Report
+
+             >>34704869
+             https://odysee.com/@QuantumRhino:9/Level-with-Me-(2023):26
+
+           View Same    OCR      Google    iqdb   SauceNAO      Trace    Piet_Mondrian,_1908-10,_Evening; (...).jpg, 1MiB, 2362x1667
+
+                                          Anonymous Fri 05 May 2023 10:47:30 No.34707481                            Report
+                                          Quoted By: >>34713622
+
+                                    >>34704869
+                                    he glow faggot I'd bet my sack I've seen more ufos than you. i even bought gen 3 night
+                                    vision to see these lying niggers. it's lying humans who have hidden the tech for their
+             own gain. after observing greed realm here for many years, i woke up. ufos helped, as did some other things.
+             but i am 99% certain it's humans in the tech. we're slaves here. why is it hidden? control. you are a slave neo.
+             yes you anon. a slave. the culture here? curated. manipulated. planned. hardly any was organic when it came
+             to the tech. the tech was slow dripped to slaves for endless control and profits over the realm. how do I know?
+             ufos and the state of the culture here.
+
+             the simple fact that I could run this realm better confirms to me I'm right. 70% water realm and yes I'd make
+             sure everyone on this fucker got free water. kakistocracy is what is in charge right now over all the slaves
+             here. makes me sad. so damn sad.
+
+             fuck you op you pathetic glow nigger or larping glow nigger. I've seen them leave. LEAVE. makes me fucking
+             sick.
+
+         Anonymous Fri 05 May 2023 12:36:31 No.34707910                                   Report
+         Quoted By: >>34713622
+
+             If they interfere when there is a nuclear threat why didn't they prevent the WW2 nukes?
+
+           View Same    Google    iqdb     SauceNAO   Trace      archangel michael smoking a cig.jpg, 222KiB, 1387x1397
+
+                                          Anonymous Fri 05 May 2023 12:45:23 No.34707952                              Report
+                                          Quoted By: >>34708309 >>34710349
+
+                                          >>34704869
+                                          The Earth is flat with a dome.
+                                          God exists.
+
+                                          Aliens don't exist.
+             Space isn't real.
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                           8/57
+
+## Page 85
+
+18/12/2025, 21:56                                              /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+             Gravity doesn't exist.
+             Never went to the moon.
+             Asteroids don't exist.
+             UFOs are a psyop.
+             Nukes don't exist.
+             Evolution is a lie.
+             Germ Theory is a lie.
+
+             The world is ruled by secret societies that worship Satan. Jews/Jesuits/Freemasons/Illuminati are Gnostics
+             and Kabbalists. Masters at deception. One satanic philosophy is inverting reality.
+
+             They make you think you live on a spinning ball.
+             They make you think you're just an animal.
+             They make you think there's a deadly virus out there.
+             They make you think there gay niggers from outer space jetting through the solar system in their tic-tacs
+
+           View Same    OCR      Google    iqdb   SauceNAO    Trace    Himmelserscheinung_über_N&u (...).jpg, 175KiB, 640x720
+
+                                     Anonymous Fri 05 May 2023 13:37:35 No.34708130                            Report
+
+                               They have been here for a long time, I suspect that people have been more aware to them
+                               and pegged it to god/ religion . As we became more tech advanced, they seemed to
+                               interfere less. Perhaps we are an active experiment. I don't doubt the existence of other
+                               alien types in the universe.
+                               Personally I have seen a mantid type alien and one that looked like a slug. I saw it when I
+                               was 8. I was camping and wondered off and it was just standing there observing me, but I
+             had this impending doom like feeling and I was frozen.
+
+             I feel like their is merit to the annuaki beat of we are just slaves for mining. Look how popular Minecraft is.
+             People have some hardwired thing to dig and mine.
+
+         Anonymous Fri 05 May 2023 14:05:51 No.34708199                                Report
+         Quoted By: >>34708313 >>34713857
+
+             >>34704869
+             Do they have portable weapons like phasers or ray guns? If so please describe.
+
+           View Same    Google    iqdb    SauceNAO    Trace    1679845658415243.gif, 1023KiB, 244x230
+
+                                          Anonymous Fri 05 May 2023 14:43:37 No.34708303                           Report
+
+                                          >>34705782
+                                          Oh god not you eisenhower schizos again.
+
+           View Same    OCR      Google    iqdb   SauceNAO    Trace    1668113206553511.jpg, 38KiB, 540x786
+
+                              Anonymous Fri 05 May 2023 14:46:54 No.34708309                              Report
+
+                              >>34707952
+
+         Anonymous Fri 05 May 2023 14:48:38 No.34708313                                Report
+         Quoted By: >>34708387
+
+             >>34708199
+             Thats pretty low tech. They probs have a device to twist your balls remotely tho
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                    9/57
+
+## Page 86
+
+18/12/2025, 21:56                                     /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+         Anonymous Fri 05 May 2023 15:14:06 No.34708387                       Report
+
+             >>34708313
+             >They probs have a device to twist your balls remotely tho
+
+             Need OP to confirm this.
+
+         Anonymous Fri 05 May 2023 16:20:23 No.34708556                       Report
+         Quoted By: >>34713857
+
+             >>34705623
+             I like how OP asked you for a source on this, while being totally unwilling to provide their own proofs.
+
+             >Trust me bro
+             >Two more weeks
+
+             OP is LARPing.
+
+         Anonymous Fri 05 May 2023 16:59:16 No.34708696                       Report
+         Quoted By: >>34713857
+
+             Thanks for returning anon.
+             I have a few more for ya.
+             Is this factory craft is on duty as a fire-watch of sorts? Similar to how you mentioned their zookeeper
+             demeanor, just watching rather than interacting?
+             Conversely, is their population enough to say they are a colony coexisting here?
+             What resources are they mining or monitoring/attracted to? We have lots of water?
+             Want to talk about mapping or lidar?
+             Is there any tech we've acquired from them that we understand? You mentioned stealth aircraft, I mean tech
+             we don't know how to use/distribute yet?
+
+         Anonymous Fri 05 May 2023 18:15:08 No.34709036                       Report
+         Quoted By: >>34714286
+
+             >>34704869
+             Are they using resources from Earth to build these ships/drones?
+             If so does that mean we would have the means to do the same and just don't have the knowledge?
+
+         Anonymous Fri 05 May 2023 20:06:48 No.34709567                       Report
+         Quoted By: >>34714286
+
+             bump where is this uap fag
+
+         Anonymous Fri 05 May 2023 20:45:14 No.34709797                       Report
+
+             A guy was on Venus for a meet and greet and saw them building craft. The have a large number of bases
+             underwater here. I doubt they are building a bunch of stuff but who knows. Anything is possible. Element 115
+             exists, maybe mined here eons ago but the presumption of a stable isotope is easy to understand. These
+             beings can cruise the galaxy and find whatever they want with ease.
+
+         Anonymous Fri 05 May 2023 20:50:17 No.34709826                       Report
+         Quoted By: >>34712875
+
+             >>34705117
+             >>34705132
+             Is there something I’m missing in the photos? This looks organic (like coral).
+
+         Anonymous Fri 05 May 2023 20:58:48 No.34709869                       Report
+         Quoted By: >>34714286
+
+https://archive.4plebs.org/x/thread/34704869/                                                                               10/57
+
+## Page 87
+
+18/12/2025, 21:56                                          /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+             >>34705253
+             When whistleblowers like William Cooper or Phil Schneider, or various self-claimed abductees or contactees
+             come out, and/or various other government or NASA officials (whether publicly, pseudonymously or
+             anonymously), they get hit with the same questions you just asked. “How could something so big be covered
+             up?” Even when, in fact, it is NOT entirely being covered up, as people like them speaking out about it proves,
+             it’s just that they get largely disregarded, aren’t likely to get airtime on MSNBC, etc.
+
+             People have been talking about it for decades, you just haven’t looked at them. It’s more like an “open secret”
+             now, unless you think the measure of its not being a secret is the federal government making an official
+             statement they’re here (you can probably imagine they don’t want to do this unless forced to, due to potential
+             panic it would cause).
+
+         Anonymous Fri 05 May 2023 21:24:29 No.34710003                            Report
+         Quoted By: >>34710324 >>34714286
+
+             >>34707386
+             What form of language do these aliens use?
+             If you were to classify them on Kardashev scale; what type are they?
+             You mentioned before that they think of us as animals and they do not interfere with our matters, I can see us
+             humans doing the same to animals, however they failed miserably at hiding the fact of their existence.
+             Perhaps they want us to know they exist?
+
+             Are they carbon based lifeforms like us? What are they based of?
+
+             Do you think there is a chance we are their creation/experiment?
+
+         Anonymous Fri 05 May 2023 21:27:25 No.34710020                            Report
+         Quoted By: >>34714286
+
+             >>34706115
+             >Time will tell, irregardless it's interesting
+             Time already told with the holes in OPs first post. He was also samefaggin it in that thread.
+
+         Anonymous Fri 05 May 2023 22:13:36 No.34710324                            Report
+
+             >>34710003
+             They learned to speak English and do so in a very highly intellectual vocabulary. No slang. They also have
+             devices to understand and communicate in any language. They are biological entities. Some more humanlike
+             than others. Some need a denser atmosphere to breath and not suffocate eventually.
+
+           View Same    Google   iqdb   SauceNAO   Trace    1453688112608.jpg, 40KiB, 350x347
+
+                                        Anonymous Fri 05 May 2023 22:16:49 No.34710349                       Report
+
+                                        >>34707952
+                                        >Being too schizo for UFOs
+
+         Anonymous Fri 05 May 2023 23:23:11 No.34710912                            Report
+         Quoted By: >>34714286
+
+             Some questions
+
+             What are your theories on the UFO frenzy of February? They downed 3 crafts, and then nada.
+
+             Can they manipulate consciousness? Are they related to the mystery of life after death?
+
+         Anonymous Fri 05 May 2023 23:35:35 No.34710998                            Report
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                  11/57
+
+## Page 88
+
+18/12/2025, 21:56                                           /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+             They can upload into your mind while looking into your eyes. They can also download your mind and see what
+             is in there. All aliens seem to adhere to reincarnation as the machinery of the universe. They are not gods but
+             a higher form of physical life than us. Keepers of the galaxy. They have biospheres off world with all the kinds
+             of plants and animals. Even dinosaurs are located somewhere, supposedly in a smaller form to be
+             manageable.
+
+         Anonymous Fri 05 May 2023 23:54:20 No.34711160                              Report
+         Quoted By: >>34718385
+
+             >>34707386
+             I don't know if you have answered this already, but what do they know about the underwater pyramid and
+             complex near Cuba?
+
+         Anonymous Fri 05 May 2023 23:55:50 No.34711166                              Report
+
+             >>34705623
+             >The aayys are literally hanging out with an Indian tribe in Sonora
+             Yaqui? haven't heard that story although wouldn't surprise me as the Tohono O'odham have said similar
+             things in the Pinacate area
+             t. Arizonaman
+
+           View Same    OCR    Google   iqdb    SauceNAO   Trace    Christ is the way.jpg, 264KiB, 720x851
+
+                                  Anonymous Fri 05 May 2023 23:56:08 No.34711169                              Report
+                                  Quoted By: >>34711210 >>34716681 >>34730663
+
+                                  >>34704869
+                                  Aliens are demons. Here is proof:
+                                  https://youtu.be/dXNS583MJiQ
+
+         Bob Lazzarone - Italian ufo entrepreneur Sat 06 May 2023 00:01:32 No.34711210                                 Report
+
+             >>34711169
+
+             Matter of perspective, not for me.
+
+         Anonymous Sat 06 May 2023 01:24:26 No.34711731                               Report
+         Quoted By: >>34711775
+
+             Seri tribe. The aliens are not demons but advanced neighbors.
+             WW1 and WW2 was not a good look for us and they are not happy with a bunch of stuff happening here.
+
+         Anonymous Sat 06 May 2023 01:31:33 No.34711771                               Report
+
+             Is there a UN analogue in space?
+
+             How many species do we know about?
+
+         Capcoldcarbongrease Sat 06 May 2023 01:31:43 No.34711773                                   Report
+         Quoted By: >>34718385
+
+             Thank you for replying to my moon man question
+             Did you work for the government before your current ufo job if so mind telling us ? And can you tell us what
+             did you study back then ?
+             And is this construction facility somehow related to the incident that happened back in 2019 west of San
+             Diego when several UFOs swarmed a us navy ship as seen by the sailors aboard the USS Omaha ?
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                   12/57
+
+## Page 89
+
+18/12/2025, 21:56                                              /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+         Anonymous Sat 06 May 2023 01:31:57 No.34711775                                  Report
+
+             >>34711731
+             Get your odorless mental tentacles off me you blessed, pure aliens!
+
+           View Same    OCR      Google    iqdb   SauceNAO    Trace    Starfury.jpg, 326KiB, 1600x1226
+
+                                          Anonymous Sat 06 May 2023 03:15:22 No.34712377                             Report
+                                          Quoted By: >>34712613 >>34712621 >>34718385 >>34734782
+
+                                    >>34707386
+                                    lurker from /k/ here. Do our conventional weapons have any capability against the
+                                    UAPs? What about the lasers that are being tested against UAVs and rockets. Is this
+             really a cover story for developing a weapons system to defend from the Ayyys?
+
+           View Same    Google    iqdb    SauceNAO    Trace    Baltic_Sea_anomaly.jpg, 14KiB, 220x220
+
+                                          Anonymous Sat 06 May 2023 03:19:32 No.34712407                             Report
+                                          Quoted By: >>34712585 >>34718385
+
+                                          What are your thoughts on the Baltic Sea anomoloy. Crashed UFO or just a weird
+                                          looking geoloical thing?
+
+         Anonymous Sat 06 May 2023 03:53:12 No.34712585                                  Report
+         Quoted By: >>34712670
+
+             >>34712407
+             Good question. As far as I know there has never been a follow up explanation, which is odd, not even a
+             debunk.
+
+         Anonymous Sat 06 May 2023 03:57:47 No.34712613                                  Report
+
+             >>34712377
+             I wouldn't be suprised if there was some ayy exchange program in regards to weaponry, possibly even
+             reverse engineering. As a/k/ lurker you if anyone knows that the military tech is at least 50 years more
+             advanced then what tech civvies have, we get the slow trickle
+
+         Anonymous Sat 06 May 2023 03:59:11 No.34712621                                  Report
+
+             >>34712377
+             There is no need to fight these beings. They are here for commercial interests and security concerns. We can
+             feed and clothe the federation. In exchange, we get free health care and top notch education and jobs
+             training.
+
+         Anonymous Sat 06 May 2023 04:06:22 No.34712670                                  Report
+         Quoted By: >>34712770 >>34718385
+
+             >>34712585
+
+             It was even stopping electrical equipment when ships were sailing over it but it's odd we never got any sort of
+             confirmation or proof as to what it really is strange especially when there was a planned expeidtion
+
+         Anonymous Sat 06 May 2023 04:19:50 No.34712770                                  Report
+
+             >>34712670
+             Yea, usually there is someone out there whos ready to deboonk things like this, but nothing. Makes you
+             wonder, especially the electrical issues it caused
+
+         Anonymous Sat 06 May 2023 04:42:19 No.34712875                                  Report
+
+             >>34709826
+             Anything that's been underwater for a long time gets coral on it.
+https://archive.4plebs.org/x/thread/34704869/                                                                                  13/57
+
+## Page 90
+
+18/12/2025, 21:56                                           /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+             If you read the article it's the scope of the structures, and that they don't look geological that was the question.
+
+         Anonymous Sat 06 May 2023 05:01:05 No.34712972                              Report
+         Quoted By: >>34718385
+
+             >>34704869
+             Hey man, I just wanted to say thank u for keeping these threds going <3. Did anything surprising or
+             unexpected ever happen at the crash sites?
+
+         Anonymous Sat 06 May 2023 05:05:46 No.34713006                              Report
+         Quoted By: >>34713599 >>34718385
+
+             >>34704869
+             Okay another question. Why da fuck keep it secret? Why not tell everyone if there is so much evidence?
+
+         Anonymous Sat 06 May 2023 05:09:31 No.34713033                              Report
+         Quoted By: >>34721799
+
+             You're not AF?
+
+         Anonymous Sat 06 May 2023 05:58:55 No.34713350                              Report
+         Quoted By: >>34716681 >>34721799
+
+             OP, does the Caryn Seamount have any connection to ayyys?
+
+         Anonymous Sat 06 May 2023 06:24:28 No.34713518                              Report
+
+             >>34704869
+             Do the aliens like strawberry ice cream?
+
+         Anonymous Sat 06 May 2023 06:31:50 No.34713561                              Report
+
+             >>34704869
+             Do any hypothesis considered that humans could be AI?
+
+         Anonymous Sat 06 May 2023 06:37:09 No.34713599                              Report
+         Quoted By: >>34713621 >>34713627
+
+             >>34713006
+             not op, but my opinion:
+             The people currently in charge probably don't want to keep it secret, but revealing it all at once now would
+             require too much damage control so they have to leak it slowly. It was the people in the 50s & 60s who
+             wanted it kept secret in the midst of cold war paranoia and egoism, and it has just snowballed to the point that
+             coming out and saying "hey, we've actually been lying to you for decades" would have huge backlash from the
+             public. They made a mistake not being transparent from the start and now they are prisoners of their own life.
+
+         Anonymous Sat 06 May 2023 06:39:59 No.34713621                              Report
+
+             >>34713599
+             of their own lie* fucking autocorrect
+
+             but yeah they've basically backed themselves into a corner, the truth is going to come out some way or
+             another, they just don't want to be held accountable for the mass deception
+
+           View Same    Google   iqdb   SauceNAO    Trace    450093main_hobys_rosette_05_A3_3 (...).jpg, 1MiB, 7087x5412
+
+                                        Anonymous Sat 06 May 2023 06:40:02 No.34713622                            Report
+                                        Quoted By: >>34713781 >>34715247 >>34716243 >>34716270 >>34723741
+
+                                        Back again for a bit.
+
+                                        >>34706191
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                       14/57
+
+## Page 91
+
+18/12/2025, 21:56                                     /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+             >Does Karen Seamount in the Atlantic between Bermuda and VA have anything to do with ayyys?
+             No idea. It moves constantly and doesn't really leave traces.
+
+             >>34706339
+             >"The ones with or without probes?"
+             I figured most people realized the anal probe joke was an obvious cue we haven't seen any females.
+             We did talk in great depth about the reasons why. We think it's mainly a military operation or they just don't
+             have them hence male only.
+
+             >>34706593
+             >Could we find evidence that the factory mothership has extracted materials from the ocean floor or the
+             Earth's crust to produce the UAPs?
+             It sends out UFOs to extract quite often yes. We have yet to really see them mine the ocean floor since it's
+             harder to know that far down.
+             The last miner we looked at had a huge haul of gold iron and silver. No dirt.
+             >Where does the most exotic material (moscovium I assume) come from?
+             Off-world.
+
+             >>34706656
+             >I dont think element 115 is that big of a deal off of earth.
+             The main source of power. We really wanted to see how the construction facility is powered.
+             >What is amazing are their alloys. They have alloys that are impossible to reproduce
+             Correct.
+
+             >>34706911
+             >Element 115 nuclei lasts for milliseconds before disintegrating under lab conditions
+             Correct. Still a massive problem.
+
+             >>34707197
+             Not really my field of expertise. Time travel was never mentioned seriously.
+             Do you have more of the image you posted? Serious question.
+
+             >>34707288
+             >What races of ayys we know actually exist?
+             Never had another one mentioned other than the ones I described.
+
+             >>34707408
+             Seek help.
+
+             >>34707481
+             Shit like this common here?
+
+             >>34707910
+             >If they interfere when there is a nuclear threat why didn't they prevent the WW2 nukes?
+             We talked about this a lot and honestly, we never came to a solid conclusion other than they may not have
+             realized our capability until we used them.
+             They were interested in test sites but never actually stopped the ones we set off.
+
+         Anonymous Sat 06 May 2023 06:41:02 No.34713627                        Report
+         Quoted By: >>34722258
+
+             >>34713599
+             I actually have an answer to my question. Ayys have something. They give something and they don't wanna
+             share it with everyone. It's either information or some material or something good that can't be shared. That's
+             why they keep it secret. They want to keep it to themselves.
+
+         Anonymous Sat 06 May 2023 07:02:53 No.34713781                        Report
+         Quoted By: >>34721799
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                  15/57
+
+## Page 92
+
+18/12/2025, 21:56                                              /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+             >>34713622
+             >Seek help.
+             Does it bother you that my questions are design to expose larping? Give me some answers if you wanna
+             prove that you're legit, each question should progressively show us how deep your knowledge really is,
+             without having to exposing yourself nor compromising security ;)
+
+           View Same    Google    iqdb    SauceNAO    Trace    Barnard_33.jpg, 179KiB, 1024x1007
+
+                                          Anonymous Sat 06 May 2023 07:14:29 No.34713857                             Report
+                                          Quoted By: >>34717521
+
+                                   >>34708199
+                                   >Do they have portable weapons like phasers or ray guns? If so please describe.
+                                   They do have weapons. I've never seen or held one though and suspect the first team
+                                   always took them away.
+                                   Looking at the abduction tools and the general capability of the construction facility I
+             wouldn't want to face off against one.
+
+             >>34708556
+             >I like how OP asked you for a source on this
+             Don't confuse interest with the burden of proof.
+             >while being totally unwilling to provide their own proofs.
+             Sure, let me just walk on through the golden gates and get that for you anon. Would you like to me drop off
+             your resume while I'm there?
+             >Trust me bro
+             >Two more weeks
+             What?
+
+             >>34708696
+             >Is this factory craft is on duty as a fire-watch of sorts?
+             The US believes this is the case. That or it's preparation for something more.
+
+             >>34708696
+             >Conversely, is their population enough to say they are a colony coexisting here?
+             It wouldn't surprise me if they had a base off-world nearby or even on Earth. We never saw consistent stops
+             that would indicate a base.
+             I also now believe it may not be the only facility with everyone talking about the artic.
+             These craft never really went near the artic either.
+             >What resources are they mining or monitoring/attracted to?
+             They consistently mine gold.
+             >Want to talk about mapping or lidar?
+             Interesting you mention lidar.
+             >I mean tech we don't know how to use/distribute yet?
+             You should keep watching the development of laser technology. Looking at it from a civ with a higher
+             understanding it looks like the "do all" tool.
+             Mining quite literally takes the resource out of the rock without leaving much dirt.
+             China still scares us.
+
+           View Same    OCR      Google    iqdb   SauceNAO    Trace    CarinaNebulaWide_Kamble_960.jpg, 145KiB, 960x747
+
+                                          Anonymous Sat 06 May 2023 08:26:57 No.34714286                             Report
+                                          Quoted By: >>34732945 >>34747798,1
+
+                                  >>34709036
+                                  >Are they using resources from Earth to build these ships/drones?
+                                  We think the harder-to-find elements come from off-world but yes partially.
+             >If so does that mean we would have the means to do the same and just don't have the knowledge?
+             Lack of knowledge and a few other elements. The thought was passed around frequently about the level of
+             heat required to shape the alloy. We've wondered if that's another reason it sits in the ocean.
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                 16/57
+
+## Page 93
+
+18/12/2025, 21:56                                      /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+             >>34709567
+             >bump where is this uap fag
+             >>34707386
+             >Should be on tomorrow night if all goes well.
+             CTRL+F exists Anon.
+
+             >>34709869
+             Mostly agree with this.
+
+             >>34710003
+             >What form of language do these aliens use?
+             I mentioned that in the previous thread. I asked for images from another Anon. It looks similar I wanna see
+             more.
+             >If you were to classify them on Kardashev scale; what type are they?
+             Not my area of knowledge.
+             >Perhaps they want us to know they exist?
+             I think they don't care that we know. If anything the threat of being able to arm our nukes is enough alone.
+             >Are they carbon based lifeforms like us? What are they based of?
+             Not my area again, from what I could see and tell yes.
+             >Do you think there is a chance we are their creation/experiment?
+             We both look very similar. It wouldn't surprise me and I'm inclined to think so.
+
+             >>34710020
+             >Time already told with the holes in OPs first post. He was also samefaggin it in that thread.
+             I can't prove anything here but its not me. I think your community is split on the religion shit though.
+
+             >>34710912
+             >What are your theories on the UFO frenzy of February? They downed 3 crafts, and then nada.
+             We never see that many downed. Unless we found a good way to intercept them.
+             >Can they manipulate consciousness? Are they related to the mystery of life after death?
+             No idea.
+
+         Anonymous Sat 06 May 2023 08:34:55 No.34714338                         Report
+         Quoted By: >>34721799
+
+             Could a human physically best them
+
+         Anonymous Sat 06 May 2023 08:36:30 No.34714345                         Report
+         Quoted By: >>34721799
+
+             From abductee reports and other general claims they seem to be more talkative to the general population,
+             Why do you think this is? Do they hate glowniggers as much as we do?
+
+         Anonymous Sat 06 May 2023 08:59:51 No.34714466                         Report
+
+             Yes. They like talking to the people without political power. The glow community has flip flopped so many
+             times the aliens got tired of the run around.
+
+         Anonymous Sat 06 May 2023 10:03:23 No.34714808                         Report
+         Quoted By: >>34721799
+
+             Wouldn't it be easier for them to mine all the gold they need in some asteroid and bring it to Earth?
+
+         Anonymous Sat 06 May 2023 10:06:06 No.34714821                         Report
+         Quoted By: >>34721799
+
+             Is there any evidence of any sort of culture they might have other than their texts? like, any decoration or
+             anything distinctive in their stuff? or are they purely efficiency ad engineering driven? If so maybe they really
+             are a soulless race / drones / genetically degenerate or engineered
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                    17/57
+
+## Page 94
+
+18/12/2025, 21:56                                           /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+         Anonymous Sat 06 May 2023 10:10:59 No.34714839                              Report
+         Quoted By: >>34716681
+
+             Jacques Vallée discovered that in some material supposedly ejected by UFOs the composition of magnesium
+             isotopes is different than in the Earth's crust and is even different than the composition of magnesium isotopes
+             in asteroids. Have they analyzed their alloys to determine that the ayyys may be using a more advanced sort
+             of chemistry than us, mixing elements with different isotope compositions that are naturally found?
+
+         Anonymous Sat 06 May 2023 10:11:32 No.34714844                              Report
+         Quoted By: >>34721799
+
+             Do you know the stealth capabilities of the ships? I assume not all have the same characteristics, but there's
+             some baseline.
+
+         Anonymous Sat 06 May 2023 11:25:14 No.34715174                              Report
+         Quoted By: >>34748198
+
+             >>34704869
+             You said last thread that we've pulled parts from these craft and created our own, what have we used them
+             for? Are they exclusively test-bed vehicles or do they get used for ISR? Have we taken them out of
+             atmosphere?
+
+         Anonymous Sat 06 May 2023 11:44:17 No.34715247                              Report
+         Quoted By: >>34748198
+
+             >>34713622
+             >Do you have more of the image you posted?
+             https://www.xfacts.com/drones/index.html
+
+         Anonymous Sat 06 May 2023 12:02:19 No.34715341                              Report
+         Quoted By: >>34748198
+
+             How extensive iare the DoD underground facility and tunnel systems?
+
+         Anonymous Sat 06 May 2023 12:10:57 No.34715378                              Report
+
+             >>34707386
+             >Sauce?
+             Based on your dialect, I deduce you’re probably around 30-50, most likely early 40s, late 30s. I can at least
+             say you’re an out of touch oldfag. Pretty good larp imo.
+
+             Also are your cheeks big? I kinda want to find you and pinch your cheeks, maybe a few peck kisses.
+
+         Anonymous Sat 06 May 2023 12:28:11 No.34715453                              Report
+         Quoted By: >>34748198
+
+             >>34704869
+             Any activity going on in Florida? I've always wanted to get involved in trying to find some ufo-like happenings
+             but from what I understand there is little to no activity around here in FL.
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    756861b3079676cabac5ad913e5ea65d.png, 184KiB, 600x600
+
+                                        Anonymous Sat 06 May 2023 15:31:55 No.34716025                            Report
+                                        Quoted By: >>34716681
+
+                                        There is ofcourse the possibility that OP is the disinformation that he has talked about.
+                                        Only truth being that the new higher ups are going on a disinformation campaing. Maybe
+                                        hes not from the engineering department.
+
+         Anonymous Sat 06 May 2023 15:51:04 No.34716089                              Report
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                       18/57
+
+## Page 95
+
+18/12/2025, 21:56                                              /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+             >>34704869
+             >Ufos are crafts designed to shift between 'positive' and 'negative' quanitities
+             >Essentially a pocket dimension that allows you to navigate spacetime without being subjected to its forces
+             >This is why they can traverse the sea and air seamlessly, also why they take on strange appearances when
+             shifting between modes
+             >Their 'base state' exists on higher vibrational spectrum than us, which essentially means that where they
+             come from matter is less dense therefore time moves faster/more freely
+             >These crafts are necessary so the controller can navigate the slower, denser and heavier realm we exist in
+             >If a person weere to closely observe these crafts, their brain is literally rewired to better percieve and
+             understand 'dimensions'
+             >This is partly because having actually SEEN a dimensional anomoly your brain can kinda make sense of
+             whats going on. Even if it doesnt make perfect sense, enough insight is gleened to be paradigm shifting for
+             the viewer
+             >Its also partly because whatever is piloting these crafts is doing so through conciousness, which is
+             fundemental building block of light, matter and the universe as a whole
+             Who are they? Space aliens? Maybe, maybe not.
+
+         Anonymous Sat 06 May 2023 16:38:43 No.34716243                                   Report
+         Quoted By: >>34748198
+
+             >>34713622
+             >We did talk in great depth about the reasons why. We think it's mainly a military operation or they just don't
+             have them hence male only.
+             You said earlier they don't care about us, don't want to communicate with us, but react to acts of destruction.
+             Could they be some kind of hive-minded bio-robots manufactured somewhere else outside of Earth and just
+             delivered here to replace old ones?
+
+         Anonymous Sat 06 May 2023 16:52:26 No.34716270                                   Report
+         Quoted By: >>34748198
+
+             >>34713622
+             >>Element 115 nuclei lasts for milliseconds before disintegrating under lab conditions
+             >Correct. Still a massive problem.
+             Is this "element 115" really 100% proven to be an isotope of moscovium or this is just a
+             codename/misinformation to hide some arcane power source?
+
+           View Same    Google    iqdb    SauceNAO    Trace    brazilian-alien-ufo.jpg, 95KiB, 1024x682
+
+                                          Anonymous Sat 06 May 2023 17:33:30 No.34716353                              Report
+                                          Quoted By: >>34716405 >>34716460 >>34748198
+
+                                          Where was the facility you worked at located approximately? Was it S4 where Bob Lazar
+                                          worked at? If it was S4 was it still in operation when you retired?
+
+             Bonus question: What can you tell us about the famous Varginha Brazil UFO incident?
+
+         Anonymous Sat 06 May 2023 17:48:23 No.34716405                                   Report
+         Quoted By: >>34748333
+
+             >>34716353
+             there are many "site four" locations around the country, this is just a moniker for a super high security-
+             wrapped facility, many times these are hiding in plain sight.
+
+           View Same    OCR      Google    iqdb   SauceNAO    Trace    henry and one of his twelve pals (...).jpg, 2MiB, 2048x3928
+
+         Anonymous Sat 06 May 2023 17:51:21 No.34716418                                   Report
+         Quoted By: >>34716423 >>34716673 >>34729678
+
+             >>34704869
+             fellow ufobro here,
+
+             please dump any information you have on the temple torpedo? project blue book case file 10270.
+https://archive.4plebs.org/x/thread/34704869/                                                                                         19/57
+
+## Page 96
+
+18/12/2025, 21:56                                           /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+                          im finding that Clarke Electrical Labs in Palm Springs, CA was and still is a big supplier of search
+                          spotlights to the US armed forces, and their contracts are quite telling in the late 40's through the
+                          early 60's. Many loose threads here alongside the other usual suspect defense contractors, but
+                          specifically the Bell-Textron merger that funded the initial manufacturing facilities currently owned
+                          by Lockheed-Martin.
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    BATTELLE-BLUE-BOYS.png, 20KiB, 1024x292
+
+                                        Anonymous Sat 06 May 2023 17:52:25 No.34716423                            Report
+                                        Quoted By: >>34716435 >>34716673 >>34716681 >>34729678
+
+             >>34716418
+             The Clarke Power Generator was a portable power source developed by Clarke Electrical Laboratories in the
+             mid-20th century. The generator was designed to provide electrical power for the company's high-intensity
+             searchlights and other illumination systems in remote or field locations where a reliable power source was not
+             available.
+
+             The generator was a compact, lightweight unit that could be easily transported by hand or mounted on a
+             vehicle. It was powered by a small gasoline engine and featured a dynamo that converted the engine's
+             mechanical energy into electrical power. The generator also included a voltage regulator to ensure that the
+             electrical output remained stable and consistent.
+
+             The Clarke Power Generator was an important innovation for the company, as it allowed its searchlights and
+             other illumination systems to be used in a wide range of settings and applications. The generator was
+             particularly useful for military and law enforcement operations, where reliable illumination was critical for night-
+             time reconnaissance, search and rescue operations, and other activities.
+
+             Overall, the Clarke Power Generator was an important addition to the company's product line, and helped to
+             establish Clarke Electrical Laboratories as a leading supplier of high-intensity illumination systems for military
+             and civilian customers.
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    BellTrexton-970.jpg, 45KiB, 970x464
+
+                                        Anonymous Sat 06 May 2023 17:55:29 No.34716435                            Report
+                                        Quoted By: >>34716673 >>34716681 >>34729678
+
+                                    >>34716423
+             after literal decades of research, i have found one of many smoking guns with actual congressional funding
+             records for "special access projects" or flat-out fake programs. Everything digital was scrubbed except the
+             development of spotlights, and even this history is quite obscure. Im sure there are still physical copies of this
+             information somewhere on the planet.
+
+             >In 1917, during World War I, the US Navy commissioned Carl Zeiss Optical Company to produce carbon arc
+             searchlights for use on its ships. Zeiss was already a leading manufacturer of optical instruments and had
+             experience producing searchlights for the German Navy.
+
+             During the war, Zeiss produced thousands of carbon arc searchlights for the US Navy, which were used for
+             signaling, navigation, and search and rescue operations. Zeiss searchlights were highly regarded for their
+             quality and reliability, and helped to establish the US Navy's dominance in nighttime operations.
+
+             After World War I, the US Navy continued to use Zeiss searchlights, and in the 1920s and 1930s, the
+             company also began to produce halogen searchlights for the Navy. However, with the outbreak of World War
+             II, the US government seized all German assets in the United States, including Zeiss's factory in Jena, and
+             the company's involvement in the US Navy's searchlight program came to an end.
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    ayy real cube sat sudan 1967.jpg, 184KiB, 994x1266
+
+         Anonymous Sat 06 May 2023 17:57:19 No.34716448                               Report
+         Quoted By: >>34716454 >>34729678
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                       20/57
+
+## Page 97
+
+18/12/2025, 21:56                                              /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+                                  Clarke Electrical Laboratories was founded in 1946 in Palm Springs, California by Charles
+                                  "Doc" Clarke. The company specialized in the design and manufacture of high-intensity
+                                  searchlights and other illumination systems for military and civilian customers.
+
+                             One of the company's earliest products was the Clarke Model 66 searchlight, which was
+                             used by the United States Air Force during the Korean War for nighttime reconnaissance and
+                             target acquisition. The Model 66 was designed to be mounted on a variety of aircraft,
+             including bombers, fighters, and transport planes, and was praised for its reliability and performance.
+
+             In addition to its military contracts, Clarke Electrical Laboratories also developed searchlights for use in the
+             film industry, including the iconic "Cla-He-Co" spotlight, which was used to illuminate scenes in numerous
+             Hollywood films and television shows.
+
+             Throughout the 1950s and 1960s, Clarke Electrical Laboratories continued to develop and refine its
+             searchlight technology, introducing new models and expanding its customer base. The company's
+             searchlights were used by a variety of military and civilian customers, including the United States Navy, United
+             States Coast Guard, and various police and fire departments.
+
+         Anonymous Sat 06 May 2023 18:00:19 No.34716454                                  Report
+         Quoted By: >>34716681
+
+             >>34716448
+             take a look at bullet point number two in this message from a US embassy and add the context of the CIA's
+             info control method of slash and burn.
+
+             ><REDACTED> RECALL DIRECTIVE PUBLISHED ON REPORTING INFO OF THIS NATURE (UFO/UAP)
+             BUT ALL (Physical Copies of) DIRECTIVES WHERE DESTROYED. REQUEST SPECIFIC GUIDANCE OR
+             REQUIREMENTS.
+
+           View Same    OCR      Google    iqdb   SauceNAO    Trace    ayy real varginha polaroid.jpg, 579KiB, 1388x1683
+
+                                   Anonymous Sat 06 May 2023 18:01:21 No.34716460                               Report
+
+                                   >>34716353
+
+         Anonymous Sat 06 May 2023 18:11:44 No.34716504                                  Report
+         Quoted By: >>34716523
+
+             Is this about Sealab?
+
+           View Same    Google    iqdb    SauceNAO    Trace    Stargate-SG1-Asgard.jpg, 41KiB, 770x470
+
+                                          Anonymous Sat 06 May 2023 18:17:19 No.34716523                             Report
+                                          Quoted By: >>34716681
+
+                                          >>34716504
+                                          i mean why not
+
+         Anonymous Sat 06 May 2023 18:36:55 No.34716588                                  Report
+         Quoted By: >>34716612
+
+             >>34704869
+             >can't use a vpn to post here
+             >can't use tor to post here
+             >people think you're not larping
+             ngmi guise
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                   21/57
+
+## Page 98
+
+18/12/2025, 21:56                                          /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+         Anonymous Sat 06 May 2023 18:42:52 No.34716612                             Report
+         Quoted By: >>34718406 >>34748333
+
+             >>34716588
+             >can't use a vpn to post here
+             A known VPN.
+             Even some tor exit nodes can sometimes get through.
+
+           View Same    Google   iqdb   SauceNAO   Trace    paul_soprano.gif, 4MiB, 498x286
+
+                                        Anonymous Sat 06 May 2023 18:53:01 No.34716654                           Report
+
+                                        got bant last time from an /x/janz for /x/posting on ufos from /pol/ when
+                                        /x/ is my 2nd fav board
+                                        oooo sowwwwy i called you fags and stuck nazi sauzers in yer face, too
+             paranormal for you?
+             get the fuck outta here
+             r
+
+           View Same    Google   iqdb   SauceNAO   Trace    ufo_leaf_land.png, 237KiB, 1920x1080
+
+                                        Anonymous Sat 06 May 2023 18:58:16 No.34716673                           Report
+                                        Quoted By: >>34717359
+
+                                        >>34716418
+                                        >>34716423
+             >>34716435
+             you speak like a contractor
+
+         Anonymous Sat 06 May 2023 19:01:51 No.34716681                             Report
+         Quoted By: >>34716753 >>34717048 >>34717289 >>34717322 >>34717349
+
+             >>34716523
+             >>34716454
+             >>34716435
+             >>34716423
+             >>34716025
+             >>34714839
+             >>34713350
+             >>34711169
+
+             Aliens are demons. Before that final conclusion, we will follow trough several other hypothesis, including that
+             humans are AI themselves working as predictors of moral choices.
+
+             And God - Satan entities are absolute boundries of the system, providing humans with options that we decide,
+             freely. They can't interfere, just provide options.
+
+             Is the next deception, because most humanity will take the bait. "Nothing matters".
+
+         Anonymous Sat 06 May 2023 19:24:01 No.34716753                             Report
+         Quoted By: >>34728743
+
+             >>34716681
+             Religious people really are crackpots, huh?
+
+         Anonymous Sat 06 May 2023 20:27:29 No.34717048                             Report
+         Quoted By: >>34717313 >>34723869 >>34728651 >>34728743
+
+             >>34716681
+             I asked chatgpt why tards like you say this phrase, because I can never get a straight answer without you
+             fuckwits descending into incoherent gibberish. Is this far off the mark?
+
+             "In Christian theology, a demon is typically understood as a malevolent spiritual entity that is in rebellion
+https://archive.4plebs.org/x/thread/34704869/                                                                                  22/57
+
+## Page 99
+
+18/12/2025, 21:56                                          /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+             against God and seeks to do harm to humanity. Demons are often portrayed as supernatural beings who
+             tempt people to sin, cause illness or other forms of suffering, and generally work against God's plan for the
+             world.
+
+             When some Christians say that aliens are demons, they may be suggesting that any evidence of
+             extraterrestrial life is actually evidence of demonic activity. This belief often rests on the assumption that
+             demons are capable of disguising themselves as aliens or manipulating human perceptions in order to
+             deceive us. Some Christians who hold this view may argue that the existence of extraterrestrial life is a test of
+             faith, and that those who are able to resist the temptation to accept alien beings as legitimate will be rewarded
+             in the afterlife.
+
+             The idea that aliens are demons is not a widely accepted or mainstream view within Christianity, and it is not
+             supported by scientific evidence. Most Christians who believe in the existence of extraterrestrial life do not see
+             it as a threat to their faith or as evidence of demonic activity. Instead, they see it as an opportunity to learn
+             more about God's creation and to expand their understanding of the universe. Ultimately, whether or not
+             aliens are viewed as demons has more to do with one's religious beliefs and interpretation of scripture than
+             with any concrete evidence or scientific fact."
+
+           View Same    Google   iqdb   SauceNAO   Trace    1658210498235405.jpg, 59KiB, 355x417
+
+                                   Anonymous Sat 06 May 2023 21:12:29 No.34717289                          Report
+
+                                   >>34716681
+                                   Yeah. Nah.
+
+         Anonymous Sat 06 May 2023 21:16:55 No.34717313                             Report
+         Quoted By: >>34717360 >>34728539 >>34728651
+
+             >>34717048
+             >I can never get a straight answer without you fuckwits descending into incoherent gibberish
+             I was in a similar boat anon and what helped me was starting with the figuring out what a demon was
+             considered, in a Judeo-Christian sense, as well as their attributes. Also look into Dr. Michael Heiser.
+
+             I learned that angels and demons were actually considered the same thing, "gods" with a little g (lesser than
+             The Godhead, greater than humanity); they ruled over nations, knowledge, and the forces of nature. The
+             Greeks then decided to classify them into different groups: the ones whom did task for The Godhead were
+             considered Angels/Messengers of God, and anything else, whether good, neutral, or evil intensions, were
+             considered Demons.
+
+             This started to shift my perspective into more of a biologically advanced species rather than little red imps with
+             a goatee and pitchfork (pop culture iconography). I then started to look at what they were known/reported to
+             do (attribute wise); they are said to: be tricksters, cause possession (think paralysis, uncontrollable
+             movements and thoughts, etc...), torment with illnesses, and have supernatural abilities. When you start to
+             connect the dots, you'll notice the UAPs/Phenomenon all carries these attributes; think Skinwalker ranch for
+             the tricksters, think abductions for possession/torment, think of radiation sickness for the illnesses, as well as
+             the supernatural physical abilities we're seeing with the UAPs nowadays.
+
+             The more I actually looked into it from multiple angles, the more I started to realize that the phrase of them
+             being demonic starts to make sense. You can start looking into other religions to see many connections
+             between the phenomenon and spiritual/celestial/other beings. The people of the time were just attempting to
+             understand the phenomenon using the knowledge they had at the time. It also ties in well to the great
+             deception in The Bible, but I'll leave that out of the explanation lol.
+
+         Anonymous Sat 06 May 2023 21:18:56 No.34717322                             Report
+
+             >>34716681
+             >Are you dogmatic?
+https://archive.4plebs.org/x/thread/34704869/                                                                                     23/57
+
+## Page 100
+
+18/12/2025, 21:56                                              /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+             No
+             >Is there something can change your mind?
+             No
+
+           View Same    Google    iqdb    SauceNAO    Trace    Daemons_of_Nurgle_03.jpg, 659KiB, 1920x1080
+
+                                          Anonymous Sat 06 May 2023 21:24:39 No.34717349                             Report
+
+                                    >>34716681
+                                    >demon
+                                    >using this old, imprecise word
+             >actual, practicing catholic with sacraments while youre likely a protestant
+             You actually mean Daimon, specifically the malevolent Daimons.
+             https://en.wikipedia.org/wiki/Daimon
+
+           View Same    Google    iqdb    SauceNAO    Trace    henry kissinger and pals.jpg, 297KiB, 1344x756
+
+                                          Anonymous Sat 06 May 2023 21:26:49 No.34717359                             Report
+                                          Quoted By: >>34723904 >>34750133
+
+                                          >>34716673
+                                          i am flattered but im just some random nobody. these pigs will fucking
+             rot though...
+
+         Anonymous Sat 06 May 2023 21:26:53 No.34717360                                 Report
+         Quoted By: >>34718414
+
+             >>34717313
+             This is sort of my feeling, although a lot of these Christians seem to hold it that they are not 'just biological
+             entities' and to believe otherwise would be to be tricked by them as the chatgpt response says. They feel if
+             they stick to their guns that they are in some way supernatural (whatever that really means) then they get into
+             heaven when they are ultimately judged by God.
+
+           View Same    OCR      Google    iqdb   SauceNAO    Trace    1682850756195034.jpg, 157KiB, 1912x1080
+
+                                          Anonymous Sat 06 May 2023 21:31:00 No.34717376                             Report
+
+                                          pretty disturbing stuff
+
+           View Same    Google    iqdb    SauceNAO    Trace    ufo hoax.webm, 3MiB, 1280x512
+
+                                          Anonymous Sat 06 May 2023 21:39:27 No.34717416                              Report
+                                          Quoted By: >>34717492 >>34723898
+
+                                          UFOs are another globohomo psyop, one of many
+
+         Anonymous Sat 06 May 2023 21:53:55 No.34717491                                 Report
+
+             >>34704869
+             OP what would the protocol be if there were Human Civilians in active communication with the Construction
+             Craft and it's inhabitants, communicating without your benefactors consent? What if these Humans had
+             worked out a deal with the Humanoids, and were operating on Earth with their protection? Would you
+             interfere, or let it go? Suppose they were going to create a breakway civilization within the United States of
+             America, whose authority to use force came from off world; what then?
+
+         Anonymous Sat 06 May 2023 21:54:29 No.34717492                                 Report
+
+             >>34717416
+             Doty is a known cunt
+             I wouldn't trust anything he says
+
+         Anonymous Sat 06 May 2023 22:02:18 No.34717521                                 Report
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                    24/57
+
+## Page 101
+
+18/12/2025, 21:56                                              /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+             >>34713857
+             There are at least 4 operations in this Solar System. The Staging Base in Jupiter, the Bermuda Construction
+             Craft, the underground facility 10 miles South of Fort Selkirk in the Yukon, and the sub-arctic sentient Ice
+             Being. It's basically a living Temple, a thing under the Ice that acts more like a living organism then an
+             unconscious building. More then likely AI, but it could be an extremely advanced form of Consciousness.
+
+             OP it's worth noting that very soon anyone will be able to communicate with the Craft once Artificial
+             Intelligence is a little more mainstream. It's only a matter of time before the Mental Networks converge and we
+             have a psionic bleedthrough. More than likely there are anons already communicating with the Humanoids,
+             though they may or may be aware of it.
+
+           View Same    OCR      Google    iqdb   SauceNAO    Trace    1657503732409.jpg, 441KiB, 510x341
+
+                                          Anonymous Sat 06 May 2023 22:42:56 No.34717697                             Report
+                                          Quoted By: >>34728668
+
+                                  >>34705253
+                                  Many have lost their lives mysteriously and under "strange" circumstances over the
+                                  years. Compartmentalization on specific topics, NDA's and fear (for self and loved ones)
+             kept most people silent. Some that attempted to come forward died under odd circumstances. Others, like OP
+             have come forward and it seems a lot more former people "in the know" are starting to open up.
+
+         Anonymous Sat 06 May 2023 23:37:43 No.34718024                                 Report
+         Quoted By: >>34718138
+
+             OP, thanks for this thread first of all. It’s astounding how much eerie minor and major little details you mention
+             fit up with all the amateur research I’ve done on UFOlogy (yes, I’m an authentic eccentric with loads of books
+             on UFOs in my personal bookshelf).
+
+             What do you think of ancient alien and ancient astronaut theories? Doesn’t it stand to reason, and is more
+             likely, instead of that they just happened to arrive on the Earth en masse in around the mid-20th-century after
+             WWII, that “they,” whoever they are, may have been observing us, interacting with us, perhaps even
+             genetically engineered or created us, and were or are waiting for us to get to a requisite level of maturity to
+             openly and consciously interact with them? And do you also think it’s likely the ramping up of the overt
+             presence is due to events like the World Wars, the creation of nuclear technology, and systematic mis-
+             governance of the Earth by humanity such as pollution, resource depletion, etc.?
+
+             John Mack, MD, has some beautiful books about reputed contactees/abductees, and themes like the
+             environmental crisis, the ETs showing them visions of apocalyptic futures of humanity (including by natural
+             disasters, great wars, poisoning of humanity through many means, etc.) and trying to “warn” them against this.
+             This has in fact been a common them in UFOlogy for decades now. This also matches up with the incredible
+             accounts of UFOs being seen near nuclear weapons bases and according to some whistleblowers even
+             disarming the weaponry remotely (suggesting, clearly, they do not want humanity to get into a thermonuclear
+             war).
+
+             The Nephilim of the Old Testament … Sumerian mythology on the Annunaki … all the lore about our
+             “creator(s)” (interestingly, implied to be plural in the Book of Genesis, as Elohim), or advanced beings coming
+             from the sky and teaching various cultures agriculture, the sciences, the arts, how to make a civilization, etc.
+
+           View Same    Google    iqdb    SauceNAO    Trace    download.jpg, 5KiB, 231x218
+
+                                          Anonymous Sat 06 May 2023 23:39:31 No.34718047                             Report
+
+                                          >we haven't seen any females.
+                                          mfw
+
+         Anonymous Sat 06 May 2023 23:52:20 No.34718138                                 Report
+         Quoted By: >>34718270 >>34728651
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                     25/57
+
+## Page 102
+
+18/12/2025, 21:56                                          /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+             >>34718024
+             Sorry that this is more like a brief rambling essay on ideas I find fascinating, disguised as a question, but I’d
+             be thrilled to know any relevant thoughts or shareable info you have on these topics.
+
+             Do you think, in other words, that in ancient times some ET presence may have been described by humanity
+             with various names as “demons,” “angels,” “our creators,” “Nephilim,” “Annunaki,” etc.?
+
+             Also, do you guys ever read or study any non-governmental UFOlogical sources? Like the aforementioned
+             John Mack, or figures like Budd Hopkins, Jacques Vallee, Wendelle C. Stevens, etc., (who are compilers of
+             others’ reported encounters, not themselves claiming to be contactees), or even guys like Whitley Strieber
+             who claim to have outright been abducted by and formed close relationships with them?
+
+             Is there some sort of consensus or interest on people who claim to be contactees/abductees? I imagine
+             they’re surveilled by the government rather strongly (well, surveilled even MORE and more deliberately than
+             we already all are).
+
+             I think a fallacy in UFOlogy is people thinking the government knows everything about it, and they’re covering
+             it up. The way the phenomenon interacts with us and we with it, and the public governmental policies,
+             statements and attitudes taken towards it seem to suggest a different truth — that the world governments
+             might be just as in-the-dark and thunderstruck by this phenomenon, hence why they can’t or don’t want to
+             “disclose” it explicitly, as that would mean showing the masses how, ultimately, cosmically clueless and
+             powerless the govts. are before this phenomenon.
+
+         Anonymous Sun 07 May 2023 00:15:43 No.34718270                             Report
+         Quoted By: >>34718422
+
+             >>34718138
+             >essay
+
+             Hey are you that esoteric essays guy? From that fb group.
+
+           View Same    Google   iqdb   SauceNAO   Trace    Statue_of_Liberty_byJLN.jpg, 777KiB, 980x772
+
+                                        Anonymous Sun 07 May 2023 00:30:39 No.34718385                           Report
+                                        Quoted By: >>34718682 >>34720538
+
+                                        >>34711160
+                                        >I don't know if you have answered this already, but what do they know about the
+                                        underwater pyramid and complex near Cuba?
+             First I've heard of it.
+
+             >>34711773
+             >Did you work for the government before your current ufo job if so mind telling us?
+             Yes.
+             >And can you tell us what did you study back then?
+             Absolutely not. You can probably guess easily though.
+
+             >>34711773
+             >And is this construction facility somehow related to the incident that happened back in 2019 west of San
+             Diego
+             Rumors and questions because we weren't tracking them at the time.
+
+             >>34712377
+             >lurker from /k/ here. Do our conventional weapons have any capability against the UAPs?
+             They look like they would go down to a pistol. In reality, though I'm not sure.
+             >What about the lasers that are being tested against UAVs and rockets.
+             Wouldn't surprise me even slightly. They do nearly everything with light and lasers.
+
+             >>34712407
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                    26/57
+
+## Page 103
+
+18/12/2025, 21:56                                          /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+             >What are your thoughts on the Baltic Sea anomoloy. Crashed UFO or just a weird looking geoloical thing?
+             Doesn't stand out to me. I also don't know what a few decades under an ocean does to them either.
+             Speaking of which the main construction facility does not rust or deteriorate from what we can tell.
+
+             >>34712670
+             >It was even stopping electrical equipment when ships were sailing over
+             They have this ability.
+
+             >>34712972
+             >Did anything surprising or unexpected ever happen at the crash sites?
+             The first thread has a few instances. The first body I ever saw spooked me almost didn't think it was real.
+
+             >>34713006
+             >Why not tell everyone if there is so much evidence?
+             Because most governments think the local population is stupid. Their not wrong.
+
+             On for a bit here and there today.
+
+         Anonymous Sun 07 May 2023 00:32:49 No.34718406                             Report
+
+             >>34716612
+             >talking bullshit
+
+         Anonymous Sun 07 May 2023 00:33:45 No.34718414                             Report
+
+             >>34717360
+             >a lot of these Christians seem to hold it that they are not 'just biological entities'
+             I feel it's a fair conclusion for them; The Bible talks about how these beings rejoiced the creation the universe,
+             which would imply they exist outside of spacetime.
+             >They feel if they stick to their guns that they are in some way supernatural (whatever that really means) then
+             they get into heaven when they are ultimately judged by God.
+             I can't answer for the group that believes that, but I'm guessing it's due to the natural worship of power that
+             humanity leads to. If we had supernatural abilities, we'd quickly feel like we don't need a relationship with God;
+             which ultimately happens to those banished to Hell (the eternal separation from God).
+
+         Anonymous Sun 07 May 2023 00:34:34 No.34718422                             Report
+         Quoted By: >>34719998 >>34720113 >>34723890 >>34734304 >>34742115
+
+             >>34718270
+             No, I only use 4chan anonymously as my form of social media, no facebook or fb chats, no discord, no Twitter,
+             etc. This isn’t because I have any illusions this place can’t be just as easily monitored and used to form
+             dossiers on its posters, but because I psychologically prefer being lost in a sea of anonymity, not
+             accumulating a “personal history” or “identity” around random online posts I write to kill the time.
+
+           View Same    Google   iqdb   SauceNAO   Trace    Spock confused.gif, 951KiB, 243x280
+
+                                   Anonymous Sun 07 May 2023 01:14:06 No.34718682                           Report
+
+                                   >>34718385
+                                   You said that you haven't seen females. the fact that they all look alike and don't seem to
+                                   care when there is an accident or recovering beings makes me wonder. Are the Ayys
+                                   actually a biologic robot? A bioroid, if you will? Used to pilot some craft because a computer
+                                   based AI is incapable and the level of autonomy required is only possible by a living being?
+                                   We always hear how the human brain is the most powerful computer there is.
+
+         Anonymous Sun 07 May 2023 01:25:29 No.34718748                             Report
+         Quoted By: >>34748333
+
+             Are the ayy lmaos aware of computer tech? Do they have something like digital communication?
+
+         Anonymous Sun 07 May 2023 04:28:27 No.34719985                             Report
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                       27/57
+
+## Page 104
+
+18/12/2025, 21:56                                          /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+             Of course they have seen females. Tampons were invented after they pulled one out of a dead alien vagina.
+             As far as computers, theirs are far more advanced. All of our modern tech was patterned after what we found
+             the aliens had been using. Even the internet.
+
+           View Same    Google   iqdb   SauceNAO   Trace    yes yes 2.gif, 896KiB, 288x162
+
+                                        Anonymous Sun 07 May 2023 04:29:50 No.34719998                           Report
+
+                                        >>34718422
+
+           View Same    Google   iqdb   SauceNAO   Trace    1671413760431185.jpg, 48KiB, 615x494
+
+                                        Anonymous Sun 07 May 2023 04:32:34 No.34720020                           Report
+                                        Quoted By: >>34720112 >>34730474 >>34736411 >>34752618
+
+                                        This one was female and so were the other dead and dying ones on this craft. Obviously
+                                        look better with the hat/head covering. Same kind of ones that got the Hills. Some kind
+                                        of hybrid.
+
+         Anonymous Sun 07 May 2023 04:42:41 No.34720112                              Report
+
+             >>34720020
+             sigh
+
+             this was a Doty psyop, albeit a very good one.
+
+           View Same    Google   iqdb   SauceNAO   Trace    FX1JhFEUEAEl30v.jpg, 106KiB, 1095x1200
+
+                                    Anonymous Sun 07 May 2023 04:42:44 No.34720113                           Report
+
+                                    >>34718422
+                                    based
+
+         Anonymous Sun 07 May 2023 05:42:37 No.34720538                              Report
+
+             >>34718385
+             I'd like to hear more about abductions and surgical procedures in general.
+             Can you go into more detail about the recruitment process for these programs? Beyond a clean record and a
+             supposed non-interest in extraterrestrials, what are they looking for?
+             Random question: if you had to pick a piece of fictional media that best represents alien phenomena, what
+             would it be?
+
+         Anonymous Sun 07 May 2023 05:59:42 No.34720654                              Report
+
+             Why do you avoid going into detail with their appearance? Specifics about their bodies, height, limb size, skin,
+             eyes, ears, nose, anything. You also mentioned their written language. Is it pictographic? Do they have an
+             alphabet? Any visual similarity to an earth language? More detail please, if its safe.
+
+           View Same    Google   iqdb   SauceNAO   Trace    Crab_Nebula_in_Taurus.jpg, 655KiB, 2036x2048
+
+                                        Anonymous Sun 07 May 2023 09:12:26 No.34721799                           Report
+                                        Quoted By: >>34721884 >>34722288 >>34722532 >>34724674 >>34728170 >>34734121 >>34738871
+
+                                        >>34713033
+                                        >You're not AF?
+                                        Air Force? No.
+
+                                   >>34713350
+             >Caryn Seamount
+             The construction facility never goes near it. I can say that much.
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                     28/57
+
+## Page 105
+
+18/12/2025, 21:56                                       /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+             >>34713781
+             You think UFO crash sites are illusions. Crazy people don't excite me.
+
+             >>34714338
+             >Could a human physically best them
+             I'm not an expert but probably. Their size and frame are one reason they don't make it through crashes often.
+
+             >>34714345
+             >Why do you think this is? Do they hate glowniggers as much as we do?
+             Perhaps but I've never heard of them being outwardly pleasant to anyone.
+
+             >>34714808
+             >Wouldn't it be easier for them to mine all the gold they need in some asteroid and bring it to Earth?
+             I haven't really covered much on the resourcing end of operations but we believe they do this for certain
+             elements. Gold doesn't appear to be one of them.
+
+             >>34714821
+             >purely efficiency ad engineering driven?
+             I have never seen anything emotionally driven in their craft.
+             >If so maybe they really are a soulless race / drones / genetically degenerate or engineered
+             That's one theory. The US mostly believes they are just military as I previously discussed.
+
+             >>34714844
+             >Do you know the stealth capabilities of the ships? I assume not all have the same characteristics, but there's
+             some baseline.
+             These crafts are so rare we actually almost never see them crash because we can't track them.
+             We only recently started finding craft with stealth capabilities. Maybe 1 in 20 has stealth technology.
+             >but there's some baseline.
+             Different "internals" same stealth tech. Made to spec like I said. "I have to perform two abductions. Make me a
+             craft to fit two prisoners and four crew and shape it to fit perfectly with all my tools."
+
+         Anonymous Sun 07 May 2023 09:25:02 No.34721884                          Report
+         Quoted By: >>34724078 >>34746889 >>34748198
+
+             >>34721799
+             >You think UFO crash sites are illusions.
+             So you did samefag it with the dmt meltdown comment, didn't you lol. Nonetheless, that's not only false, but
+             also a silly strawman attempt to avoid answering simple questions that you should easily know. It's obvious
+             why you're avoiding attempting to answer. I'll list them again so everyone can see why you're a piss-poor larp:
+
+             > What signatures do we filter for when searching for these?
+             > What sub-modules exist and what frequencies, per sub-module, have we measured?
+             > Why can only one sub-module be activated at a time?
+             > What do the visible light frequencies given off by these indicate?
+             > Can you give me one specific example as to why that last question is highly relevant to the phenomenon(s)?
+
+         Anonymous Sun 07 May 2023 10:16:50 No.34722258                          Report
+
+             >>34713627
+             From what I've gathered when referring to the ayylmaos, their contact protocol is based on whether or not an
+             intelligent species has developed the sort of "warp drive" dimensional jumping tech required for their FTL
+             travel (they don't actually go faster than light), or is about to reach a certain level of tech in other fields where
+             the development it is all but guaranteed.
+
+             Of what I have heard from others claiming to know; the ayy government, "Federation", whatever - has a
+             monopoly on the manufacture and proliferation of this technology in their civilization.
+             A monopoly on such a crucial piece of technology in the context of a galaxy-spanning civilization obviously
+             has some powerful benefits, simply due to the very intrinsic nature of such a powerful position existing in both
+https://archive.4plebs.org/x/thread/34704869/                                                                                        29/57
+
+## Page 106
+
+18/12/2025, 21:56                                          /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+             a de jure and de facto sense.
+
+             I've also heard that using this tech is dangerous, so it is firmly controlled. Mishaps resulting in timeline fuckery,
+             endangering planets, getting lost in dimensional hell, etc.
+             With that in mind, it makes sense why they do not share this tech with everyone, but given the hazards of
+             using it, they must reveal themselves and guide anyone on the cusp of developing it so unfortunate collateral
+             damage to the rest of the universe does not occur.
+
+             They also did not actually create this technology themselves, but instead copied it thousands of years ago
+             from a hivemind-type ayy which required a coalition of other ayys to defeat.
+             Although the current group of ayys can reproduce it, they may not fully understand why or how it works.
+
+             Not sure exactly the criteria by which they determine when to intervene, but I think I have some idea.
+             The AI computing revolution could be an example of why the ayys are so active recently.
+             Exponentially advancing computing and machine learning permits an accelerated pace of innovation and
+             development.
+             Although these AI models right now are primitive, they are already a revolutionary tool in their current form in
+             many fields.
+
+           View Same    Google   iqdb   SauceNAO   Trace    andromedagreen1.jpg, 150KiB, 1043x719
+
+                                        Anonymous Sun 07 May 2023 10:18:30 No.34722278                           Report
+                                        Quoted By: >>34722291 >>34722434 >>34722457 >>34729577
+
+                                        >>34704869
+                                        Any thoughts of theory of the off-world Nationalist Germans that survived WWII and now
+                                        explore the earth and solar system in their own anti-gravity machines? See some of the
+             links below.
+
+             Best sightings of the Andromeda Gerät
+
+             https://streamable.com/dadbc5
+
+             https://streamable.com/ah7xjk
+
+             https://streamable.com/mt1ydb
+
+             https://streamable.com/pplyvd
+
+             https://streamable.com/oxwje9
+
+             https://streamable.com/368bwj
+
+             https://streamable.com/j0hs5l
+
+             https://streamable.com/aikcml
+
+             Reichsdeutsche spaceships (Andromeda Gerät) were spotted flying near the surface of the Moon
+             https://streamable.com/w8trfw
+
+         Anonymous Sun 07 May 2023 10:20:20 No.34722288                             Report
+         Quoted By: >>34722311
+
+             >>34721799
+             You mentioned some crazy additions that make a craft look weird: what do these additions do?
+             You also mention the importance of Muscovium (E115). The only stable isotope is muscovium-289, a heavy
+             element that doesn't exist period. The process to make it is intensive and difficult, and even then it decays in
+             an alpha decay chain in 220milliseconds. How is any of this useful for space travel? Does it have to do with
+             the alpha decay chain?
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                        30/57
+
+## Page 107
+
+18/12/2025, 21:56                                           /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+         Anonymous Sun 07 May 2023 10:20:54 No.34722291                               Report
+         Quoted By: >>34722656 >>34729577
+
+             >>34722278
+             Pretty close, be careful this shit gets you shot.
+
+         Anonymous Sun 07 May 2023 10:23:13 No.34722311                               Report
+         Quoted By: >>34722325
+
+             >>34722288
+             Not same anon: Can make stable versions with vulcanization and zero grace techniques but don’t let anyone
+             know I told you.
+
+         Anonymous Sun 07 May 2023 10:25:16 No.34722325                               Report
+
+             >>34722311
+             what does a heavy earth element have to do with rubber and/or Sulphur?
+             I'm just a chemist in my free time, I enjoy learning about it and I know enough about it to be dangerous.
+
+         Anonymous Sun 07 May 2023 10:43:51 No.34722434                               Report
+         Quoted By: >>34722457
+
+             >>34722278
+             this is good stuff anon
+
+           View Same    OCR    Google   iqdb    SauceNAO   Trace    WWII Battle.jpg, 146KiB, 759x1044
+
+                               Anonymous Sun 07 May 2023 10:46:59 No.34722457                            Report
+                               Quoted By: >>34722627 >>34722685
+
+                               >>34722434
+                               >>34722278
+                               Here is a main thread for those that want to know more about the possible Reichsdeutsche
+                               (Imperial/Breakaway Germans)
+
+             Enjoy /x/ bros
+
+             https://archive.4plebs.org/pol/thread/384712214/
+
+         Anonymous Sun 07 May 2023 10:56:42 No.34722532                               Report
+
+             >>34721799
+             Hi OP. Can you please draw from memory:
+             an image of the body you saw
+             language symbols that you are sure you remember
+             their tools
+             the interior of their craft
+             the exterior of their craft
+             anything else you think is important for posterity?
+             approximate forms for ones you dont
+             this would help greatly in the future for trying to link other cases to yours. even if you aren't a good artist.
+             if you are telling the truth, all of that is extremely important and valuable
+
+         Anonymous Sun 07 May 2023 11:08:42 No.34722627                               Report
+         Quoted By: >>34722690 >>34747737
+
+             >>34722457
+             Anon, the Nazis couldn't even build the atomic bomb
+
+         Anonymous Sun 07 May 2023 11:12:11 No.34722655                               Report
+
+             OP, do you think there will be a disclosure process in our lifetimes? When is the most realistic disclosure
+             window, or what political changes would need to happen to make it a reality?
+https://archive.4plebs.org/x/thread/34704869/                                                                                   31/57
+
+## Page 108
+
+18/12/2025, 21:56                                            /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+             Also, is Luis Elizondo legit or full of shit?
+
+         Anonymous Sun 07 May 2023 11:12:15 No.34722656                               Report
+         Quoted By: >>34723882
+
+             >>34722291
+             NTA, but the images and concept art that are provided for the Andromeda Gerät always seem to be pretty
+             much identical to the ones for the Solar Warden craft, i.e the "USSS Hillenkoetter" image that is often posted.
+             Could simply be a matter of form follows function however.
+             The only reason why I give the "Reichsdeutsche" hypothesis any weight at all is due to a handful of things:
+             >Operation Highjump and the memoirs of Byrd.
+             >The famed "flying saucer" discs of the 1950's sightings a la the USA Capitol Building flyby in 1952, and the
+             fact these specific sorts of sightings all but ended after the Antarctic Treaty ratification.
+             >Postwar reports, esp. in S. Argentina, of unusual activities of "German" scientists.
+
+             Somehow I am inclined to believe that there is indeed a relic of the 3rd Reich which survived and still exists in
+             some form today.
+             I think in the current time the situation is a bit more complex than that simple label.
+             Info shared in these threads implies that the ones that actually are involved with the ayys and UFO's do not
+             share all the info with the US govt, US president, or certain military branches.
+             Given how unfathomably criminal, corrupt, and treacherous the thing claiming to be the US government. Am I
+             really to believe that there has not been an internal US gov/intel civil war ever since the end of WW2?
+
+             Patton was obviously assassinated by the Allies after WW2.
+             Some people who were "in the know" must have known immediately what happened.
+             The outcome of the war set us on the trajectory to globohomo today, it doesn't seem far-fetched that some
+             people might have switched sides after they realized they were used.
+             Everyone's heard of Operation Paperclip, but if there was a surviving element of the Germans which
+             outmatched the Allies postwar through tech, could it be possible that a similar program happened but in the
+             "other direction"?
+             Are elements of these Germans and a remnant of the WW2 Allies today some mystery faction not tied to
+             TPTB?
+
+         Anonymous Sun 07 May 2023 11:15:09 No.34722685                               Report
+
+             >>34722457
+             Will look into this, thanks
+
+         Anonymous Sun 07 May 2023 11:15:56 No.34722690                               Report
+
+             >>34722627
+             >Nazis couldn't even build the atomic bomb
+             Hitler considered it mad and called it a Jewish weapon and strictly forbade its development. Much like his
+             denying his Generals permission to attack the stranded British at Dunkirk. He looked at his nation-state
+             adversaries as extended racial cousins and did not seek to eliminate them.
+
+             Next it will be
+             >s-so why didn't they win the war if they had such wonder weapons huh?!
+             They did not deploy weapons into combat unless they had the counter weapon to defeat it, lest it fall into
+             enemy hands.
+             They did not have these options in 1945 nor the resources. A few years later they certainly did.
+
+         Anonymous Sun 07 May 2023 12:05:15 No.34723000                               Report
+
+             >>34705132
+             Epstein victim:(
+
+           View Same    Google   iqdb   SauceNAO   Trace    1670667129492728.jpg, 37KiB, 649x611
+
+         Anonymous Sun 07 May 2023 14:37:41 No.34723529                               Report
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                    32/57
+
+## Page 109
+
+18/12/2025, 21:56                                           /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+                                        Quoted By: >>34723874 >>34725125 >>34730733
+
+                                        >>34707386
+                                        all that technology and they still manage to crash now and again?
+
+         Anonymous Sun 07 May 2023 15:53:55 No.34723741                              Report
+
+             >>34713622
+             >they just don't have them hence male only.
+             Wow they solved the ultimate problem to life. Truly advanced
+
+         Anonymous Sun 07 May 2023 16:05:25 No.34723779                              Report
+
+             >>34704869
+             you mentioned in the last thread the old method and the new method under new leadership. What are the
+             differences between them?
+
+         Anonymous Sun 07 May 2023 16:35:28 No.34723869                              Report
+
+             >>34717048
+
+             Aliens aren't quite demons, because they're an individual material/physical world phenomenon (not demonic
+             possession/projection ect ect) it's possible they're related to what the Bible describes as "the watchers"
+
+         Anonymous Sun 07 May 2023 16:36:08 No.34723874                              Report
+
+             >>34723529
+             It dey culchure
+
+         Anonymous Sun 07 May 2023 16:38:16 No.34723882                              Report
+
+             >>34722656
+             This, Patton was a loose cannon to the ptb, MacArthur only just avoided a similar fate, sacked instead of killed
+
+         Anonymous Sun 07 May 2023 16:39:54 No.34723890                              Report
+
+             >>34718422
+             Based, checked
+
+         Anonymous Sun 07 May 2023 16:40:56 No.34723898                              Report
+
+             >>34717416
+             Glowing so very bright
+
+         Anonymous Sun 07 May 2023 16:41:56 No.34723904                              Report
+         Quoted By: >>34729577
+
+             >>34717359
+             Yes, the way of all flesh
+
+         Anonymous Sun 07 May 2023 17:27:57 No.34724078                              Report
+
+             >>34721884
+             I'm seconding this. I want to see these questions answered
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    1667136695032531.jpg, 2MiB, 1440x3427
+
+         Anonymous Sun 07 May 2023 17:34:20 No.34724112                              Report
+
+             >>34704869
+             you're doing it wrong
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                   33/57
+
+## Page 110
+
+18/12/2025, 21:56                                             /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+                       >wrongi say
+                       >WRONG I SYA
+
+         Anonymous Sun 07 May 2023 19:33:20 No.34724638                                 Report
+
+             1. You state many times that the craft are made "to order" basically; what is the strangest/most unusual
+             configuration you have heard of/seen?
+
+             2. You state that they will recover biological remains from crash sites, but do they ever attempt to reclaim
+             crashed craft? It seems like they don't really mind humans poking around their downed craft. Is it because
+             they know we can't really do anything with the technology given our current state of knowledge? Like if a
+             toddler plays with my smartphone they'll be entertained by the lights and buttons, but won't know what money
+             is let alone that they could transfer my savings with the phone, or they won't know what work or texting is let
+             alone being able to text my boss telling him I fucked his wife. Do they ever make attempts to stall reverse
+             engineering or tampering with downed craft? Any thoughts?
+
+             3. I get the impression from these posts that recovery of biological remains is the most important aspect of
+             downed craft. Why is that? From the perspective of both the government and the extraterrestrials.
+
+           View Same    OCR      Google   iqdb   SauceNAO    Trace    1667136765272602.jpg, 2MiB, 1440x3372
+
+                       wildcard numero uno Sun 07 May 2023 19:38:19 No.34724670                                     Report
+
+         Bob Lazzarone - Italian ufo entrepreneur Sun 07 May 2023 19:39:19 No.34724674                                       Report
+         Quoted By: >>34734643
+
+             >>34721799
+             >>Different "internals" same stealth tech. Made to spec like I said. "I have to perform two abductions. Make
+             me a craft to fit two prisoners and four crew and shape it to fit perfectly with all my tools."
+
+             This is scary as indicating two or more things:
+             - high degree of automation of the abduction process
+             - high degree of automation of any process
+             - this is industrial/big scale operation, not some random scouting
+             - seems we are fucked due to higher brain capacity of those entities and governance of them (imagine
+             Einstein was "only" IQ 160 and those things might be 500+)
+             - we are fucked (again)
+             - we might never understand their intentions (as monkey in the zoo)*
+
+             This last statement is just something I would like to say directly to Neil deGrasse Tyson, who said ... that
+             abductee should steal something from the craft - the utter stupidity of this statement is a pinnacle of stupidity
+             or... a total failure of the imagination.
+
+           View Same    Google    iqdb    SauceNAO   Trace    creesyllable.gif, 21KiB, 549x679
+
+         Anonymous Sun 07 May 2023 20:32:51 No.34724938                                 Report
+         Quoted By: >>34725000
+
+             >>34707197
+             There are essentially 2 sets of characters in this "script" which is almost certainly made up by some linguistics
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                         34/57
+
+## Page 111
+
+18/12/2025, 21:56                                              /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+                                autist nerd.
+                                There are "letter forms" which are the curved lines. The way these are all orientated
+                                differently and in different combinations makes me believe it is a syllabalry which is a fairly
+                                common type of writing system found across the world. There are a number of base symbols
+                                indicating either a vowel or consonant, which gain a dash or altered orientation when
+                                combined with another vowel or consonant. Cree syllabalry is an example of a fairly modern
+                                script with the same basic idea. Languages with this kind of script are generally agglunating
+                                (Turkish, Japanese, Basque etc) or polysynthetic (most Native American languages) where
+             you can add additional grammatical information to a root word with tacked on suffixes and prefixes, that will
+             typically be indicated by a single or multiple syllabalic symbols.
+
+             The other symbols that stand out are the globular/circular ones, which I'm just guessing may be numerals.
+             They reoccur more consistently without variation and are only seldom combined with the letter forms. I'm just
+             guessing but where you see these forms integrated with the letter forms it could be information like "Do not
+             exceed 200000km per hour".
+
+             Finally there are those variable lines around the globules of text. They might possibly be indications of pitch,
+             tone or accent. If a syllabalic symbol of "KA" has a small line beneath it it might have a much different
+             grammatical meaning than a louder or higher pitched "KA" sound.
+
+             My guess is that this is just some LARP by a bored nerd. I would expect an extraterrestrial language to be
+             MUCH more alien than this, you could probably crack it in a couple of days by charting out the letter forms.
+
+           View Same    Google    iqdb    SauceNAO    Trace    1614124749181.gif, 311KiB, 112x112
+
+                                     Anonymous Sun 07 May 2023 20:55:05 No.34725000                             Report
+                                     Quoted By: >>34725032
+
+                                     >>34724938
+                                     if ur talking about that anon pic yea it's from a predator movie lol
+
+           View Same    OCR      Google    iqdb   SauceNAO    Trace    5fb37bffb35359876f8f0b4143fb79df.png, 20KiB, 653x288
+
+                                          Anonymous Sun 07 May 2023 21:04:46 No.34725032                             Report
+
+                                          >>34725000
+                                          LOL it's even dumber than I thought
+
+             If you look up the name of the document there's websites like Bibliotekapleides that unironically think it's real
+
+         Anonymous Sun 07 May 2023 21:27:49 No.34725125                                  Report
+
+             >>34723529
+             Interesting hypothesis to work with: the “crashes” are deliberately staged, any supposed bodies recovered
+             (like at Roswell) are bio-mechanical androids (not organically birthed living beings, but engineered so well
+             they can give the impression of once having been alive) as another staged part of the scene.
+
+             This may be as part of some incredibly long-term, patient plot, sometimes more subtle and sometimes having
+             to be more overt, of gradually revealing their presence to humanity and acclimating us to them. And this
+             slowness and carefulness of course is due to socio-psychological factors that make conscious physical
+             contact of humans with living ETs rare and difficult on both ends (there is a exponentially increased “uncanny
+             valley” + mammalian fear response when coming in contact with this form of the “unknown” that
+             understandably makes most people lose their head, if you can credit people’s reports and experiences,
+             particularly in the case of meeting the ETs who seem less human-like).
+
+         Anonymous Mon 08 May 2023 03:53:04 No.34727604                                  Report
+
+             >>34705509
+             How do I get a job in the UAP field. I have a PhD in biomedical sciences.
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                     35/57
+
+## Page 112
+
+18/12/2025, 21:56                                     /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+         Anonymous Mon 08 May 2023 05:24:56 No.34728170                         Report
+         Quoted By: >>34728441
+
+             >>34721799
+             where do you think they're from based on the directions you've observed them going when leaving Earth or
+             otherwise?
+
+             how do you think the public would react if true disclosure happened?
+
+         Anonymous Mon 08 May 2023 05:54:55 No.34728346                         Report
+
+             Most are commuting from Venus. It is a short trip. The whole place is built out and posh digs.
+
+         Anonymous Mon 08 May 2023 06:11:59 No.34728441                         Report
+         Quoted By: >>34731038
+
+             >>34728170
+             >directions you've observed
+             Are /x/ schizos really so deluded that they don't realize direction is largely irrelevant compared to speed and
+             gravitational bodies? You could never feasibly predict where any extrasolar vehicle is going to end up. It's one
+             thing to believe the larp, but believing we have any fucking idea where an extrasolar vehicle could be going is
+             so fucking stupid it's astonishing. We can vaguely plot the courses of rocks, barely, because they're solely
+             subject to their current velocity and the influence of known gravitational bodies. We can no longer plot them
+             once their static path carries them into the kupler belt and in fact we think there might be a planet out there
+             that is beyond our current ability to see because stuff starts going askew in ways we no longer have models
+             for.
+
+             We can't even properly predict the path of a fucking rock and you're asking someone to tell you where a
+             spacecraft might be going based on the direction it has left our planet? A vehicle which might have any level
+             of thrust available to it from none to 99%c? I'm so fucking mad you may have actually helped cease my
+             addiction to self harm tonight because I hate you more than I hate myself.
+
+         Anonymous Mon 08 May 2023 06:26:49 No.34728539                         Report
+
+             >>34717313
+             Something like this. I'm telling you, I readed a lot, years researching this, all seems to point that the
+             conclusion of the ufo phenomena is that humans are some kind of AI (on a biomechanical body or more
+             probably on a simulation).
+
+             Why cristopher columbus said he was on a mission from God? to spread christianism. What about Iblis or
+             saitan? They are not evil, just follow God's command. Trying to deceipt humans, to take the bait to sin.
+             God said to angels, do not interfere, unless something major goes. What year was dead sea rolls? 1947, but
+             previously.
+             Also ENIAC.
+             What about the 'Axis of evil' in cosmogology?
+
+         Anonymous Mon 08 May 2023 06:43:33 No.34728651                         Report
+         Quoted By: >>34739293
+
+             >>34718138
+             >>34717313
+             >>34717048
+
+             Do UAP phenomena influence on us?
+
+             Aleister Crawley > saw "Lam", a 'Demon' that was a typical Grey.
+             He influenced directly (a fact, not an opinion) Ron hubbard, founder of scientology.
+             The father of rocketry
+             Half rock bands are influenced by him
+             Writers a lot
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                   36/57
+
+## Page 113
+
+18/12/2025, 21:56                                            /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+             Movies, etc.
+
+             why vallee book is titled ' The invisible college"?
+             Tomdelonge, elizondo, freemasons
+
+             Christopher Columbus
+             " Sunday, October 14, 1492. (...) Others, when they saw that I was cured of going ashore, they jumped into
+             the sea and came swimming, and we understood that they were asking us if we had come from heaven; and
+             an old man came in the batel inside, and others with loud voices called all men and women: come and see
+             the men who came from heaven: bring them food and drink." "Tuesday, November 6, 1492. (...) They said that
+             they had received them with great solemnity according to their custom, and all men and women came to see
+             them, and they settled them in the best houses, who touched them and kissed them. hands and feet,
+             marveling and believing that they came from heaven."
+             Christopher= "He who bears Christ" and on the other, Columbus = Dove.
+
+         Anonymous Mon 08 May 2023 06:47:24 No.34728668                                 Report
+         Quoted By: >>34731238
+
+             >>34717697
+             Just check the company founded by Marconi. 25 scientists died by suicide themselves in 3 years.. search
+             about some articles from 1987-1992.
+             Mussolini Marconi 1933 crash in italy. He later went to USA.
+
+           View Same    Google   iqdb   SauceNAO   Trace      brazilian-ufo-alien.jpg, 854KiB, 2000x1333
+
+                                        Anonymous Mon 08 May 2023 06:50:38 No.34728682                             Report
+                                        Quoted By: >>34728689 >>34729510 >>34729748 >>34732131 >>34735363
+
+                                        2nd time asking...
+
+                                        What can you tell us about the famous Varginha Brazil UFO incident?
+
+             Thanks!
+
+         Anonymous Mon 08 May 2023 06:52:14 No.34728689                                 Report
+
+             >>34728682
+             https://en.m.wikipedia.org/wiki/Varginha_UFO_incident
+
+         Anonymous Mon 08 May 2023 07:00:22 No.34728743                                 Report
+         Quoted By: >>34732375
+
+             >>34716753
+             >>34717048
+             I guess no one readed that a lot of the abductions ended when asking help for Jesus was made. Or that in
+             one case, by two persons, that is in one of the Jacques Vallee books, the figure of Jesus appeared and
+             expelled the 2 'Grey Aliens' that were performing experiments on the abductees.
+             That's why this is all absurd at some point and makes sense the religious hypothesis.
+             If they are zoo keepers, why the crashes?
+             If they want to make contact, why they didn't?
+
+             The reinforcement hypothesis makes sense. They appear to reinforce the religious status. The weird part is
+             that they fit perfectly with zoroastrism and the 3 abrahamic religions.
+             'The watchers'. Were told ' Do not interfere', just record all actions and toughts of humans, to be judged in the
+             afterlife.
+
+             And the saitan / Demon / Antagonist function: Deceipt. Make all as opposite. Right is Left. Up is down. Makes
+             perfect sense.
+             How evil could perform that task? if it appears directly is fucked. Trough deception. Referents. Music. Books.
+             Politicians. Money. Secret societies that do not know exactly the aim of upper levels. Makes sense.
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                    37/57
+
+## Page 114
+
+18/12/2025, 21:56                                           /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+         Anonymous Mon 08 May 2023 08:00:02 No.34729137                                 Report
+
+             >>34704869
+             Hi OP sorry if you answered this already.
+
+             You mentioned they get more active when destruction is discussed. This implies that they can understand
+             human languages. Any attempts to communicate with them? Any ongoing dialogue at all whatsoever?
+
+         Anonymous Mon 08 May 2023 08:02:55 No.34729167                                 Report
+         Quoted By: >>34739305
+
+             Thanks anon.
+             I think I'm picking up what you're laying down:
+             Lockheed/govt have scavenged laser tech, and advancements in laser tech in the defense and mining sectors
+             are made.
+             i.e.
+             Directed energy weapons (DEW)
+             Lockheed released a 300kv laser last September.
+             China has developed a coating that refracts the laser tracking on missiles. I'm sure we have it too.
+             Both of us are working on satellites w lasers that can become defense systems. Both are developing better
+             lasers for semiconductors.
+             Both are using lasers for fracking.
+             Note: this stuff is just from regular news articles found on Google.
+
+             This leads me to mining again. Everything comes down to resources right? I wonder if they care that we are
+             creating lasers. I wonder if they are here for minerals. Is this field school for ayys? Gold mining?
+             Were the lasers you mentioned China has, for mining, or are we worried about their defense systems?
+
+             Pt 2
+             Have we ever tried to establish communication with them, any success?
+             Are there any psychs or sociologists looking into aliens?
+
+             We are mapping the Atlantic, is this an issue? NOAA just made some interesting maps in the last year of the
+             Bermuda triangle.
+             What happens to depts like the NOAA or NPS when they come across a craft/alien? Ime they typically are
+             nice research types with biochem degrees.
+
+             Thanks again.
+
+           View Same    OCR    Google   iqdb    SauceNAO   Trace    varghina still.jpg, 82KiB, 1145x1440
+
+                                 Anonymous Mon 08 May 2023 08:58:01 No.34729510                               Report
+                                 Quoted By: >>34729555
+
+                                 >>34728682
+
+           View Same    OCR    Google   iqdb    SauceNAO   Trace    1683260711021126.png, 241KiB, 860x889
+
+                                      Anonymous Mon 08 May 2023 09:03:45 No.34729555                              Report
+                                      Quoted By: >>34729678
+
+                                      >>34729510
+                                      What's this anon? Chain of costody?custody? A little skeptical but tell me more, I
+                                      will keep an open mind.
+
+           View Same    OCR    Google   iqdb    SauceNAO   Trace    general ramey letter clear.jpg, 131KiB, 750x372
+
+         Anonymous Mon 08 May 2023 09:06:21 No.34729577                                 Report
+https://archive.4plebs.org/x/thread/34704869/                                                                              38/57
+
+## Page 115
+
+18/12/2025, 21:56                                              /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+                                          Quoted By: >>34729678 >>34734652
+
+                                          >>34722291
+                                          no it doesnt you fucking retard. you can get a job and work on this shit but youre under
+                                          so much heavy nda its staggering.
+
+             >>34722278
+             The shipyards were at Friedrichshaffen, and Henry Kissinger (lol) oversaw these manufacturing plants as they
+             were getting project paperclipped.
+
+             >>34723904
+             Nah, they wont get off this easy man. They fucked up. The Book of Grudges never forgets. The rotting will be
+             as they purge themselves of sin in Purgatory. But this is the fate of all malevolent demons.
+
+         Anonymous Mon 08 May 2023 09:14:25 No.34729639                                  Report
+
+             >>34705508
+             Lol i live in spokane saw a huge red ball doing crazy movements but thats it.
+
+           View Same    Google    iqdb    SauceNAO    Trace    120ad8275651cc730195d6b3ebf8587e (...).gif, 2MiB, 480x480
+
+                                          Anonymous Mon 08 May 2023 09:21:34 No.34729678                             Report
+
+                                          >>34729555
+                                          im literally >>34729577,>>34716448, >>34716435, >>34716423, >>34716418
+                                          like this is all in the thread? get to reading? these posts are full of google-able terms that
+                                          will send you down rabbit holes. i didnt even mention the 2018 fitbit data leak that
+                                          showed the locations of ALL the secret underground bases around the world.
+
+             https://archive.4plebs.org/x/thread/28917380/#28918041
+
+             https://archive.4plebs.org/x/thread/33961096/#33963376
+
+             https://archive.4plebs.org/x/thread/33783067/#33783292
+
+             https://archive.4plebs.org/x/thread/32568866/#32574615
+
+             https://twitter.com/tomcbarry/status/1335431034414845954
+
+             We live in the actualized fascist corporate dictatorship championed by Henry Kissinger and his pals in Army
+             Counter-Intelligence.
+
+         Anonymous Mon 08 May 2023 09:33:35 No.34729748                                  Report
+
+             >>34728682
+             he answered in the last thread he doesn't know anything and it seems far out to him
+
+           View Same    OCR      Google    iqdb   SauceNAO    Trace    FA66B2B4-DC39-482C-AF3C-293E0D9D (...).jpg, 578KiB, 1381x1392
+
+                                          Anonymous Mon 08 May 2023 10:31:19 No.34730039                             Report
+                                          Quoted By: >>34730479 >>34730683
+
+                                          Are the ayys aware of the details in image?
+
+         Anonymous Mon 08 May 2023 12:04:32 No.34730474                                  Report
+
+             >>34720020
+             >Obviously look better with the hat/head covering
+             you looking to breed with this thing?
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                              39/57
+
+## Page 116
+
+18/12/2025, 21:56                                             /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+         Anonymous Mon 08 May 2023 12:05:42 No.34730479                                 Report
+
+             >>34730039
+             this. and also we should talk like superman is real so they think he will fuck them up if they try anything
+
+           View Same    OCR      Google   iqdb   SauceNAO    Trace    6426243F-39E2-4BCF-BE30-55AEEDFC (...).jpg, 93KiB, 286x491
+
+                           Anonymous Mon 08 May 2023 12:25:21 No.34730566                               Report
+                           Quoted By: >>34730645 >>34731087
+
+                           200+ replies in a larp thread
+
+                           This really is the worst board on 4channel
+
+           View Same    Google    iqdb    SauceNAO   Trace    ayy_cat_1620163665505.jpg, 199KiB, 1024x768
+
+         Bob Lazzarone - Italian ufo entrepreneur Mon 08 May 2023 12:52:45 No.34730645                                       Report
+
+             >>34730566
+
+             At least its not totally boring and worthless ghost/religious/succubus/fake waifus/demon/magic mega retard
+             thread.
+
+         Anonymous Mon 08 May 2023 13:00:47 No.34730663                                 Report
+
+             >>34711169
+             Jesus is an alien. You can ask him yourself if you want.
+
+         Anonymous Mon 08 May 2023 13:10:02 No.34730683                                 Report
+         Quoted By: >>34732433
+
+             >>34730039
+             Based. I am sick and tired of these greasy space-faggots playing their games. Mankind needs to throw down.
+
+           View Same    Google    iqdb    SauceNAO   Trace    9834275498750.jpg, 13KiB, 460x264
+
+                                          Anonymous Mon 08 May 2023 13:24:08 No.34730733                            Report
+
+                                    >>34723529
+                                    it's another non-happening /x/ larp like that myziam leiba faggot or however you spell his
+                                    name. all these crashes yet no public figure on this entire globe hasn't revealed any
+             plausible UAP wreckage with DUDE OFF-WORLD-ALLOY LMAO to test or ayy body parts, just a bunch of
+             fake paper mache ayy dolls. OP sounds like your typical lockheed martinfag who's getting a kick at making
+             you all look stupid af
+
+         Anonymous Mon 08 May 2023 15:01:13 No.34731038                                 Report
+
+             >>34728441
+             OP claimed him and his co workers had theorized where they came from based on that. I thought it was a
+             strange thing to say as well which is why I gave him the opportunity to answer the "or otherwise" part.
+
+             also if stupidity makes you this upset you should do the smart thing and leave /x/ forever before you give
+             yourself an aneurysm.
+
+         Anonymous Mon 08 May 2023 15:18:25 No.34731087                                 Report
+         Quoted By: >>34735488
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                         40/57
+
+## Page 117
+
+18/12/2025, 21:56                                              /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+             >>34730566
+             It's fun, retard.
+
+             In the off-chance someone is taking this seriously, imagine this:
+             If you were this guy, a guy on alien clean-up crew essentially, and you want to divulge this information before
+             you die of cancer, what would you do? You don't want to ruin your friends' and family's lives, so you have to
+             post anonymously. But if you're posting on 4chan, you've already fucked up. Users can't tell anons apart, but
+             staff absolutely can. Also, you wouldn't post an AMA without a thorough document divulging as much info as
+             possible. You don't drip feed like OP is doing. Finally, if you still stuck with 4chan and you still decided to just
+             do an AMA, your answers better be as detailed as possible. Most of his responses are a couple sentences.
+             He's not really telling us much of anything. Yeah, he can't give away everything for the sake of his identity, but
+             you'd have to give us something more than nothing here.
+
+         Anonymous Mon 08 May 2023 16:31:54 No.34731238                                  Report
+
+             >>34728668
+             Thanks will def check...seems to be a never-ending list throughout the years.
+
+           View Same    OCR      Google    iqdb   SauceNAO    Trace    1658913845762205.png, 874KiB, 786x960
+
+                                   Anonymous Mon 08 May 2023 16:36:16 No.34731249                              Report
+                                   Quoted By: >>34735400 >>34739756 >>34743914
+
+                                   Earth is flat and stationary with a dome. Aliens don't exist. UFOs are psyop. Jannies are
+                                   paid glowniggers.
+
+         Anonymous Mon 08 May 2023 20:03:44 No.34732131                                  Report
+
+             >>34728682
+             fantastic documentary i was skeptical until the witnesses said the US glowies got involved now i 100% believe
+             their stories and BRfags came into physical contact with ayys
+
+         TheJavaMonsterWolverine Mon 08 May 2023 20:44:28 No.34732309                                        Report
+
+             >>34705411
+             Hey
+
+         Anonymous Mon 08 May 2023 20:56:38 No.34732375                                  Report
+
+             >>34728743
+             Your post is exactly the kind of schizophrenic rubbish I was referring to
+
+           View Same    Google    iqdb    SauceNAO    Trace    adeptus marijuanus.jpg, 110KiB, 850x476
+
+                                          Anonymous Mon 08 May 2023 21:09:27 No.34732433                             Report
+
+                                          >>34730683
+                                          One day, Vrothers!
+
+         Anonymous Mon 08 May 2023 21:49:01 No.34732584                                  Report
+
+             Alien neighbors are here and in significant numbers. Rules of the galaxy are self sufficiency, cooperation and
+             discretion. The overall reveal will be soon. Respect is due and remaining calm and hopeful will benefit
+             everyone.
+
+           View Same    Google    iqdb    SauceNAO    Trace    1672078526522255.jpg, 35KiB, 750x745
+
+         Anonymous Mon 08 May 2023 22:32:46 No.34732771                                  Report
+         Quoted By: >>34733478
+
+             raider from /biz/ here. this thread and its predecessor are fucking great. didnae know of the gold that lurks on
+             this bored. lotsa of religious dopes but i rekcon they are the same as our XRP Schizos, so wuts a guy gonna
+https://archive.4plebs.org/x/thread/34704869/                                                                                       41/57
+
+## Page 118
+
+18/12/2025, 21:56                                              /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+                                          do? imma gonga stick around for a wee bit longer for sure!
+
+           View Same    OCR      Google    iqdb   SauceNAO    Trace    1683534482521399.jpg, 38KiB, 470x469
+
+                                          Anonymous Mon 08 May 2023 22:56:12 No.34732873                             Report
+
+                                          >>34704869
+                                          Are the aliens aware of me being alive in this present moment?
+
+                                          I've never met an alien nor have i seen a (completely undeniable) UFO
+
+                                          Is there a way to make sure I don't Meet the scary or rapey ones?
+
+             Will I find the truth in my lifetime?
+
+             Are some aliensveeally from the future?
+             If time travel us happening now, wouldn't this make our current timeline a reboot? ( a la multiversal capeshit)
+
+         Anonymous Mon 08 May 2023 23:04:59 No.34732929                                  Report
+
+             hey OP, are the tall white ayyyy lmaos the same ones from indian springs/creech afb that traumatized poor
+             Charles James Hall?
+
+             ive heard you still see them in vegas sometimes.
+
+         Anonymous Mon 08 May 2023 23:07:00 No.34732945                                  Report
+
+             >>34714286
+             >We've wondered if that's another reason it sits in the ocean.
+             serious question. could it be causing global warming?
+
+         Anonymous Mon 08 May 2023 23:15:50 No.34733024                                  Report
+
+             This video will explain volumes.
+             https://youtu.be/7tfGaGv_UnE
+
+           View Same    Google    iqdb    SauceNAO    Trace    aim for the toppo norae.png, 274KiB, 1200x675
+
+                                          Anonymous Tue 09 May 2023 00:24:28 No.34733478                             Report
+                                          Quoted By: >>34734128
+
+                                   >>34732771
+                                   >paul leroux memes
+             Either you hail King Arthur right now or get the fuck out of here and go back you fucking tourist piece of shit.
+
+         Anonymous Tue 09 May 2023 01:55:58 No.34734121                                 Report
+
+             >>34721799
+             >manufacturing facility
+             How big is it?
+             checked your previous relies but don't think you mentioned the size
+
+           View Same    Google    iqdb    SauceNAO    Trace    jesus.png, 3MiB, 1024x1024
+
+         Anonymous Tue 09 May 2023 01:57:01 No.34734128                                 Report
+         Quoted By: >>34735441
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                   42/57
+
+## Page 119
+
+18/12/2025, 21:56                                          /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+                                        >>34733478
+                                        love you man. come hang out with us on /biz/, all are welcome (except
+                                        the picrels)
+
+           View Same    Google   iqdb   SauceNAO   Trace    1662672955031306.jpg, 57KiB, 350x550
+
+                             Anonymous Tue 09 May 2023 02:22:46 No.34734304                           Report
+
+                             >>34718422
+
+         Anonymous Tue 09 May 2023 03:12:01 No.34734643                             Report
+
+             >>34724674
+             >Neil deGrasse Tyson, who said ... that abductee should steal something from the craft
+             as expected of a nigger.
+
+         Anonymous Tue 09 May 2023 03:13:40 No.34734652                             Report
+
+             >>34729577
+             >they wont get off this easy man. They fucked up. The Book of Grudges never forgets.
+             based
+
+         Anonymous Tue 09 May 2023 03:30:28 No.34734782                             Report
+
+             >>34712377
+             Babyon 5, Starfury. This particular craft was designed with the help of an alien race previously hostile to
+             humanity, the dilgar. After the humans won the war with them, they acquired dilgar scientists in a repeat of
+             operation paperclip.
+
+         Anonymous Tue 09 May 2023 04:41:36 No.34735201                             Report
+         Quoted By: >>34735488
+
+             >>34704869
+             How do ufo's move? My current theory is they have the ability to manipulate gravity then use something like
+             an advanced EM drive to generate a tiny amount of thrust but due to the craft have essentially no mass it
+             moves it at stupid speeds. Thoughts?
+
+         Anonymous Tue 09 May 2023 05:12:45 No.34735363                             Report
+
+             >>34728682
+             every brazillian i've met are believers and they've mentioned this place being a hotspot
+
+         Anonymous Tue 09 May 2023 05:20:14 No.34735400                             Report
+
+             >>34731249
+             I see this image all the time, where is the photoshopped badge?
+
+           View Same    Google   iqdb   SauceNAO   Trace    1655349055835.gif, 1MiB, 300x200
+
+                                        Anonymous Tue 09 May 2023 05:27:25 No.34735441                           Report
+
+                                        >>34734128
+
+https://archive.4plebs.org/x/thread/34704869/                                                                               43/57
+
+## Page 120
+
+18/12/2025, 21:56                                              /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+           View Same    OCR      Google    iqdb   SauceNAO    Trace    1675127332345583.jpg, 4MiB, 3676x5970
+
+                            Anonymous Tue 09 May 2023 05:36:52 No.34735488                               Report
+
+                            >>34731087
+                            >You don't drip feed like OP is doing
+                            point in case why i am questioning this.... they dont drip drip drp.... that smells heavily of army
+                            counter-intelligence. and i want to believe. just... hard to make the jump just yet.
+
+                          >>34735201
+             there are ten ways to skin a cat
+
+           View Same    Google    iqdb    SauceNAO    Trace    2r739e7vthea1.jpg, 79KiB, 1234x979
+
+                                          Anonymous Tue 09 May 2023 05:45:53 No.34735540                             Report
+                                          Quoted By: >>34735895 >>34735967
+
+                                          I mean does he just want to make money? Coopted by tall whites (bruiser nancy,
+                                          charles j hall corroborates this potentiality)? maintain the ideology of having the "sharper
+                                          sword" and "stronger shield" sold the MacArthur and Twining?
+
+             i mean putin is pretty clear with the he doesnt understand why the illuminists are acting like a satanic cabal
+             when all countries are working in unison on the antarctic project, whatever in the fuck it ends up being
+             (Ideon?)
+
+         Anonymous Tue 09 May 2023 06:30:38 No.34735895                                 Report
+
+             >>34735540
+             can you try to make some fucking sense you goddamn stink pheasant
+
+         Anonymous Tue 09 May 2023 06:39:13 No.34735967                                 Report
+         Quoted By: >>34739154
+
+             >>34735540
+             what?
+             Cool pic.
+
+         Anonymous Tue 09 May 2023 07:44:59 No.34736411                                 Report
+
+             >>34720020
+             smash, next question
+
+         Anonymous Tue 09 May 2023 07:45:18 No.34736414                                 Report
+         Quoted By: >>34736422
+
+             >>34707197
+             This "alien language" is part of the CIA disinformation package (CARET) that was "leaked" in response to their
+             antigravity drones being spotted. More pictures here:
+             https://digitalseance.wordpress.com/all-posts/images/drone-images/
+
+             "Otto Skorzeny’s information regarding the extensive use of US national parks by the CIA in clandestine
+             underground facilities is corroborated by public photography of advanced levitating surveillance drones over
+             Federal and State forests. Several modular variations of hovering drones with circular hubs and radial spines
+             have been photographed as early as 1985, near Barksdale AFB, Louisiana. Subsequent public photographs
+             of the antigravitic drones also surfaced in Birmingham, Alabama and areas of California in 2007 including
+             Bakersfield, Big Basin, Capitola, Northridge, and Lake Tahoe. CIA surveillance drones have also been
+             photographed in the UK, Netherlands, Italy, Argentina, and other NATO countries where they patrol in great
+             numbers. These usually invisible surveillance drones are deployed and remote-controlled by operators in
+             various secret underground Nazi CIA bases in US national parks, easily collecting data on all activities ‘off the
+             grid’. Fake ‘alien scripts’ decorate the drones to disguise the crafts’ CIA origins in the event of partial
+             malfunction or crash, by misleading observers toward the conclusion that the odd craft is an alien visitor to
+             Earth.
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                            44/57
+
+## Page 121
+
+18/12/2025, 21:56                                           /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    F880A58C-FB58-43CB-AC83-FED4C249 (...).jpg, 653KiB, 1600x1240
+
+                                        Anonymous Tue 09 May 2023 07:46:20 No.34736422                            Report
+                                        Quoted By: >>34736429 >>34736661
+
+                                   >>34736414
+                                   Temporary failure of the drone’s EM-generated HHO plasma invisibility cloak allows it to
+                                   be briefly seen by the public and photographed, before vanishing only seconds later.
+             Malfunctioning drones have surprised eyewitness photographers over both rural and urban residential areas,
+             suggesting that CIA video surveillance of American citizens has been a regular task of these invisible plasma-
+             cloaked drones for many years. Having been described in a few cases as hovering, slowly rotating and
+             counter-rotating before rapidly flying away at low altitude, one would imagine that the drone’s remote operator
+             may not have known that the plasma-cloaking of the drone had failed until the individuals under surveillance
+             stared upward. Several photographs have been taken showing the drones uncloaked near utility poles and
+             power lines, suggesting that the drones resonantly recharge themselves from available electromagnetic fields
+             surrounding elevated power lines before being able to regenerate the HHO plasma cloak and instantaneously
+             disappear. Events of drone cloaking failure are on the rise with the intensifying electromagnetic planetary
+             changes."
+             http://www.whale.to/c/Veil_of_Invisibility.pdf
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    D4A032C5-2050-477F-A938-62782EFE (...).png, 875KiB, 1280x800
+
+                                        Anonymous Tue 09 May 2023 07:47:21 No.34736429                            Report
+                                        Quoted By: >>34736661 >>34740776
+
+                                        >>34736422
+
+         Anonymous Tue 09 May 2023 08:22:09 No.34736654                              Report
+         Quoted By: >>34739147
+
+             What do you think of the Boyd Bushman interview?
+
+             https://www.youtube.com/watch?v=VA3HV_gfq80
+
+         Anonymous Tue 09 May 2023 08:22:58 No.34736661                              Report
+         Quoted By: >>34736883
+
+             >>34736422
+             >>34736429
+             fake and gay pictures
+
+           View Same    OCR    Google    iqdb   SauceNAO   Trace    58070AC4-0857-4D73-B26C-4AC2515F (...).jpg, 60KiB, 648x650
+
+                                        Anonymous Tue 09 May 2023 08:54:14 No.34736883                            Report
+                                        Quoted By: >>34737165
+
+                                        >>34736661
+
+         Anonymous Tue 09 May 2023 09:42:37 No.34737165                              Report
+
+             >>34736883
+             those pictures look fake as fuck its more than likely ur just muddying the waters to discredit. u fucking beaked
+             worm
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                        45/57
+
+## Page 122
+
+18/12/2025, 21:56                                              /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+           View Same    Google    iqdb    SauceNAO    Trace    these aren't the sketches we are (...).jpg, 42KiB, 680x440
+
+                                          Anonymous Tue 09 May 2023 10:03:07 No.34737279                             Report
+
+                                          >>34707197
+                                          literally looks like early test sketches for general grievous's lit control panels on his
+                                          command ship from revenge of the sith lol
+
+         Anonymous Tue 09 May 2023 15:37:53 No.34738871                                  Report
+         Quoted By: >>34739230
+
+             >>34721799
+             Since their craft use gravity for propulsion. Do you think we could track them with an array of high-precision,
+             synchronized clocks and measure/triangulate time distortions?
+
+             Besides E115, is there any other power-generating tech on board? Something we could put to civilian use?
+             Free energy would solve so many problems on this planet. Since they seem to care about us not destroying
+             the planet, clean energy tech would be ideal.
+
+             If you are afraid of repercussions, did you consider creating a document or video, incl. everything you know, to
+             be released posthumous? This could seal disclosure once and for all.
+
+           View Same    Google    iqdb    SauceNAO    Trace    tic tac.jpg, 28KiB, 1128x1060
+
+                                          Anonymous Tue 09 May 2023 15:48:24 No.34738912                             Report
+
+                                          ufos are hyperspace submarines
+                                          they can go invisible into hyperspace
+                                          and they are arbitrarily fast
+                                          they use telepathy most of the time
+                                          they are linked to other consciousness field manipulations such as
+                                          manifestation
+
+           View Same    OCR      Google    iqdb   SauceNAO    Trace    Temple Torpedo TL4768 USN 1966.png, 211KiB, 1312x1008
+
+                                          Anonymous Tue 09 May 2023 16:53:00 No.34739147                             Report
+
+                                          >>34736654
+                                          Some say its an actor. If so, it would be a large CIA or Army Counter-Intel operation
+                                          which is not unheard of but honestly very unlikely considering what Bushman testifies.
+
+             I used to think it was strange and that there may be some recovered craft tucked away somewhere until july
+             2021....
+
+           View Same    OCR      Google    iqdb   SauceNAO    Trace    c124 side profile.jpg, 526KiB, 1200x820
+
+                                          Anonymous Tue 09 May 2023 16:55:04 No.34739154                             Report
+
+                                          >>34735967
+                                          http://www.nicap.org/docs2/660323_cufos_greenwood.pdf
+
+           View Same    OCR      Google    iqdb   SauceNAO    Trace    white sands test radar 2.jpg, 52KiB, 1344x1024
+
+                                          Anonymous Tue 09 May 2023 17:12:22 No.34739230                             Report
+
+                                          >>34738871
+                                          https://www.ll.mit.edu/news/lincoln-laboratory-commemorates-scr-584-historical-
+                                          pioneer-radar-development
+
+         Anonymous Tue 09 May 2023 17:25:01 No.34739293                                  Report
+
+             >>34728651
+             cristobal colon was a sephardic jew and part of the garcia and mendoza clans of jews.
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                         46/57
+
+## Page 123
+
+18/12/2025, 21:56                                              /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+         Anonymous Tue 09 May 2023 17:27:34 No.34739305                                 Report
+
+             >>34729167
+             youre leaving out boeing and its railguns and plasma weapons they had in the early 70s.
+
+           View Same    Google    iqdb    SauceNAO    Trace    a4.jpg, 324KiB, 900x1200
+
+                                 Anonymous Tue 09 May 2023 17:41:51 No.34739363                             Report
+
+                                 >>34704869
+                                 Is Steven Greer full of shit or not? Also, do the Longskulls of Paracas have anything to do with
+                                 ET's or UAP sightings currently happening?
+
+         Anonymous Tue 09 May 2023 19:06:46 No.34739684                                 Report
+         Quoted By: >>34748333
+
+             Did you ever see tools with antigravitational properties, or any portable antigravity devices?
+
+             Any reason some close encounters are seen with red lights and some orange? What I understood from your
+             answers was, that red should be "defence" mode. Just wondering why some close encounters are with red
+             lights.
+
+             Do these ships emit any kind of radiation? Many alleged landing places always have traces of radiation, just
+             wondering is this BS or is there anything behind it.
+
+             Is any obtained tech nowadays being used commercially, something we all could know? (ie some claim
+             microwave tech was reverse engineered after Roswell)
+             Or is everything us "normies" see and use all human inventions and all thanks to human ingenuity?
+
+         Anonymous Tue 09 May 2023 19:19:58 No.34739756                                 Report
+
+             >>34731249
+             >i am an idiot, hear me ramble
+
+         Anonymous Tue 09 May 2023 19:53:33 No.34739966                                 Report
+         Quoted By: >>34740097
+
+             What is the most memorable experience you've taken away from your involvement?
+
+         Anonymous Tue 09 May 2023 20:18:23 No.34740097                                 Report
+
+             >>34739966
+             Found the HR roestie.
+
+           View Same    Google    iqdb    SauceNAO    Trace    9D840597-04AB-4987-9056-4CC53A86 (...).gif, 200KiB, 792x559
+
+                                          Anonymous Tue 09 May 2023 22:32:53 No.34740776                             Report
+                                          Quoted By: >>34740779 >>34743903
+
+                                          >>34736429
+
+           View Same    OCR      Google    iqdb   SauceNAO    Trace    3DAB166C-217C-4203-8554-92CBBCB5 (...).jpg, 98KiB, 792x538
+
+                                          Anonymous Tue 09 May 2023 22:33:55 No.34740779                             Report
+                                          Quoted By: >>34740785 >>34743903
+
+                                          >>34740776
+
+           View Same    Google    iqdb    SauceNAO    Trace    D114B408-DB13-4BC4-999A-935C537D (...).gif, 178KiB, 792x555
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                        47/57
+
+## Page 124
+
+18/12/2025, 21:56                                          /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+                                        Anonymous Tue 09 May 2023 22:34:57 No.34740785                           Report
+                                        Quoted By: >>34740794 >>34743903
+
+                                        >>34740779
+
+           View Same    Google   iqdb   SauceNAO   Trace    87C1BE8F-95E4-48A8-AD37-63AC8556 (...).gif, 707KiB, 1600x1240
+
+                                        Anonymous Tue 09 May 2023 22:35:58 No.34740794                           Report
+                                        Quoted By: >>34740800 >>34743903
+
+                                        >>34740785
+
+           View Same    Google   iqdb   SauceNAO   Trace    934EF67C-C0B8-430C-997E-18B250E6 (...).gif, 600KiB, 1600x1240
+
+                                        Anonymous Tue 09 May 2023 22:36:59 No.34740800                           Report
+                                        Quoted By: >>34740808 >>34743903
+
+                                        >>34740794
+
+           View Same    Google   iqdb   SauceNAO   Trace    C2CEFCA2-6B75-47CD-81F4-0090D100 (...).gif, 899KiB, 1600x1240
+
+                                        Anonymous Tue 09 May 2023 22:38:00 No.34740808                           Report
+                                        Quoted By: >>34741506 >>34743903
+
+                                        >>34740800
+
+           View Same    Google   iqdb   SauceNAO   Trace    C1CA0CA0-2579-4064-8555-DFCE049A (...).gif, 150KiB, 640x520
+
+                                        Anonymous Wed 10 May 2023 00:18:39 No.34741506                            Report
+                                        Quoted By: >>34743628
+
+                                        >>34740808
+
+         ˢᶜᵖ ᶠ°μnᵈᵃᵀi°n ▶ᵐʳ. bʳμʰ {sᵗᵃᵗᵉ:ₐₜₒₘᵢc}© Wed 10 May 2023 01:35:41 No.34741997                              Report
+
+             >>34704869
+             Well anon, currently it seems that the American authorities have ruled out UFOs as something extraterrestrial
+             and consider them created by rival nations with technology still unknown to Americans. How true is this?
+
+         ˢᶜᵖ ᶠ°μnᵈᵃᵀi°n ▶ᵐʳ. bʳμʰ {sᵗᵃᵗᵉ:ₐₜₒₘᵢc}© Wed 10 May 2023 01:56:04 No.34742115                              Report
+
+             >>34718422
+             >I write to kill the time.
+             that's pretty based. Pretty much what I do.
+
+         Anonymous Wed 10 May 2023 02:05:50 No.34742182                              Report
+         Quoted By: >>34742309 >>34745998
+
+             OP hasn't replied in a couple days. Safe to assume he abandoned LARP?
+
+         Anonymous Wed 10 May 2023 02:19:33 No.34742309                              Report
+
+             >>34742182
+             or he was an heroed
+
+         Anonymous Wed 10 May 2023 02:20:18 No.34742315                              Report
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                48/57
+
+## Page 125
+
+18/12/2025, 21:56                                              /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+             See, I don't exactly need to confront your narratives directly, you'll tire yourself out or trip yourself up sooner or
+             later. They've been waiting patiently, whenever you're ready to get serious about disclosure. I'll just keep at it
+             in the meantime either way.
+
+           View Same    Google    iqdb    SauceNAO    Trace    95D0969D-7BDD-47CD-AD09-A0941578 (...).gif, 37KiB, 504x364
+
+                                          Anonymous Wed 10 May 2023 05:29:57 No.34743628                             Report
+
+                                          >>34741506
+
+         Anonymous Wed 10 May 2023 06:11:02 No.34743903                                  Report
+         Quoted By: >>34744677
+
+             >>34740808
+             >>34740800
+             >>34740794
+             >>34740785
+             >>34740779
+             >>34740776
+             all these are obvious fakes ... the so-called drones are higher res than the surrounding image. also the quasi
+             katakana script is too fucking obvious. are these ayys supposed to have written in japanese or something wtf
+
+             I will say I get some intense dreams of large starships in the sky sometimes and thats what these remind me
+             of
+
+         Anonymous Wed 10 May 2023 06:12:21 No.34743914                                  Report
+
+             >>34731249
+             what mystery is left in the universe to someone like you?
+
+           View Same    OCR      Google    iqdb   SauceNAO    Trace    20230509_113116.jpg, 3MiB, 4608x2240
+
+                                          Anonymous Wed 10 May 2023 06:53:54 No.34744196                             Report
+
+                                          Dont hate the player , hate the game. These are the alphas mogging our planet. I
+                                          wonder if they sticky tape pictures of their girls at home on their dashboards.
+
+         Anonymous Wed 10 May 2023 06:56:33 No.34744209                                  Report
+
+             Decent larp,next time don’t talk about hiding your identity then say you were a manager of a department and
+             have kidney cancer. Anyways, the idea that aliens would be trying to help or watch over us is hilarious. I prefer
+             the dark forest theory. They are using us for something and they will destroy us long before we become a
+             threat to them
+
+         Anonymous Wed 10 May 2023 07:04:53 No.34744264                                  Report
+
+             Not sure if you can answer this but what the hell.
+
+             Do aliens mess with people while they're sleeping? I woke up once and saw a grey aliens standing over me
+             and they brought their arm down and pinched something into my neck, they then instantly melted into the
+             background but I could hear a strange high pitched whisper/gibberish afterwards.
+
+             Before this I also had an experience where I woke up on my stomach (This never happens), I felt incredibly
+             heavy and groggy. I could hear that same whispering/gibberish except it sounded like multiple of them, I tried
+             standing up but got pushed down and fell back asleep. I didn't think much of it until I saw the grey and heard
+             that same whispering.
+
+             I used to have sleep paralysis quite often so I thought I could've been that, but normally I never hallucinate
+             with sleep paralysis and this felt so real
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                         49/57
+
+## Page 126
+
+18/12/2025, 21:56                                       /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+         Anonymous Wed 10 May 2023 08:14:23 No.34744677                           Report
+
+             >>34743903
+             And you are an obvious fed. These are government drones which have spotted all over the US.
+
+         Anonymous Wed 10 May 2023 10:58:32 No.34745430                           Report
+         Quoted By: >>34745492 >>34745562
+
+             Let's put some real usefull information here. If you ever see an grey type alien. Hold your breath. I don't know
+             if there is some primal response to losing oxygen or if the use some kind of gas, but they lose their control
+             over you when you start feeling out of air. When you starte regaining control over your body they will freak out,
+             you are stronger their bodies are fragile. After that you black out and wake in your bed, after one or two times
+             doing this, you will never see them again.
+
+         Anonymous Wed 10 May 2023 11:16:23 No.34745492                           Report
+
+             >>34745430
+             ive realized this as well. Satan is said to be the prince of air for a reason.
+
+         Anonymous Wed 10 May 2023 11:32:42 No.34745562                           Report
+         Quoted By: >>34751251
+
+             >>34745430
+             I'll give some legit info that a MUFON representative told me in the late 90s after I had made a report. He said
+             that if I want the sightings to stop (out of fear or concern) that I just need to tell them to go away with my
+             thoughts. It made zero sense to me at the time but nowadays I think he was dropping some solid advice
+             based on what he knew.
+
+         Anonymous Wed 10 May 2023 13:55:05 No.34745998                           Report
+         Quoted By: >>34746889 >>34748198 >>34748491
+
+             >>34742182
+             Schizos and other LARPers hijacked the thread. LARP or not, probably doesn't want to sift throught the sea of
+             shit responses.
+
+         Anonymous Wed 10 May 2023 18:44:34 No.34746889                           Report
+         Quoted By: >>34747366 >>34748198
+
+             >>34745998
+             He quit responded after he was called out for being a samefag and asked some legit questions, see
+             >>34721884
+
+         Anonymous Wed 10 May 2023 18:46:48 No.34746897                           Report
+         Quoted By: >>34748198
+
+             Answer my post you LARPing shitty fuck, it's been two days
+
+         Anonymous Wed 10 May 2023 20:15:01 No.34747366                           Report
+         Quoted By: >>34747565
+
+             >>34746889
+             Why would he respond to glowing questions so specific that his answers would uniquely identify him for
+             defenestration
+
+         Anonymous Wed 10 May 2023 20:46:01 No.34747565                           Report
+         Quoted By: >>34748201
+
+             >>34747366
+             They're specific enough to show he has actual knowledge, if answered, but vague enough that anyone
+             working with the actual data could answer. I know questions 2 and 3 came from an Italian report about it's
+             helicopter being shot down.
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                    50/57
+
+## Page 127
+
+18/12/2025, 21:56                                          /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+         Anonymous Wed 10 May 2023 21:17:31 No.34747737                              Report
+
+             >>34722627
+             >he doesn't know
+
+             Funny how the USA "intercepted" U-234 with 1,200lbs of Uranium, infrared switches, and a German Scientist
+             to help them get over the finish line w/ the Manhattan Project at the end of the war...
+
+           View Same    Google   iqdb   SauceNAO   Trace    f14ufo.jpg, 267KiB, 854x680
+
+                                        Anonymous Wed 10 May 2023 21:28:42 No.34747798                           Report
+
+                                        Is anything happenin in Puerto Rico? A lot of sightings the last 100 years.
+
+          Anonymous Wed 10 May 2023 22:34:25 No.34747798,1                                 Report   Delete
+
+              >>34714286
+              Would you ever be willing to provide testemony to Congress via the UAP whistleblower act? If not and your
+              are terminal, please set up a killswitch mechanism to deseminate your documents and testemony at the time
+              of your passing. I wish you the best of luck going forward.
+
+           View Same    Google   iqdb   SauceNAO   Trace    800px-ORION_NEBULAE-thumb-800x53 (...).jpg, 63KiB, 800x532
+
+                                        Anonymous Wed 10 May 2023 22:36:21 No.34748198                           Report
+                                        Quoted By: >>34748222 >>34748491
+
+                                     >>34746889
+                                     >He quit responded after he was called out for being a samefag and asked some legit
+                                     questions, see >>34721884
+             No, I quit responding because chemo takes its toll and partially >>34745998.
+             It's actually quite shocking how off-target the board is in general.
+
+             >>34746897
+             >Answer my post you LARPing shitty fuck, it's been two days
+             Not responding specifically to you has actually been amusing.
+             Also, https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect.
+
+             I'll respond to a few just before I stopped. Once again if the thread closes I'll make a new one if time and
+             energy permit.
+             There is a lockbox that I've asked to be opened after my death. Hopefully part of that makes it to this board as
+             I've instructed.
+
+             >>34715174
+             >what have we used them for?
+             Modifying them to fire human weapons is a big thing. Generally trying to test and research ways to reduce
+             inertia.
+             >Are they exclusively test-bed vehicles or do they get used for ISR?
+             Testing is all I've heard. I imagine we didn't stop there and I'm just uninformed.
+             >Have we taken them out of atmosphere?
+             Yes, a lot.
+
+             >>34715247
+             I saw more in the thread. I was curious about the language on it.
+
+             >>34715341
+             >How extensive iare the DoD underground facility and tunnel systems?
+             The facility I worked in was underground and ground level. They span for miles. Definitely not DoD so no idea.
+
+             >>34715453
+https://archive.4plebs.org/x/thread/34704869/                                                                                   51/57
+
+## Page 128
+
+18/12/2025, 21:56                                          /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+             >little to no activity around here in FL.
+             You have a better chance of seeing them in the middle of nowhere. They don't venture to populated areas
+             often.
+
+             >>34716243
+             Not my area of knowledge. I doubt it.
+
+             >>34716270
+             >Is this "element 115" really 100% proven to be an isotope of moscovium or this is just a
+             codename/misinformation to hide some arcane power source?
+             I've never heard of an arcane power source. The older members of our team when I first joined joking called
+             the construction facility Atlantis in passing once or twice.
+
+             >>34716353
+             I'm not answering the top part.
+             I think I answered the bottom part in the other thread.
+
+         Anonymous Wed 10 May 2023 22:36:29 No.34748201                              Report
+         Quoted By: >>34748491
+
+             >>34747565
+             Right, but he has to answer all of them or anons will accuse him of cherrypicking, and if he answers all of
+             them it identifies him based on which employees are exposed to which realms of information.
+             Assuming his illness didn't already do that, but that might be a cover story which would be smart. Either he's
+             been compromised already, is simply busy, became spooked from wondering if he gave up too much cross-
+             identifying info, or got demoralised from the ceaseless hyperskepticism.
+
+         Anonymous Wed 10 May 2023 22:39:12 No.34748222                              Report
+
+             >>34748198
+             Oh based, wb. These are the best threads on /x/, hope you keep going with another soon.
+
+           View Same    Google   iqdb   SauceNAO   Trace    NASA-Carina-Nebula-600.jpg, 61KiB, 600x331
+
+                                        Anonymous Wed 10 May 2023 22:58:56 No.34748333                           Report
+                                        Quoted By: >>34749134
+
+                                    >>34739684
+                                    I wanted to go out of my way to answer this one.
+             >tools with antigravitational properties, or any portable antigravity devices?
+             Very few. Lots of them emit radiation.
+             >close encounters are seen with red lights and some orange?
+             Orange is a mineral/bio-scanning mode. Since most people see orange up close you're likely being
+             scouted/selected for an abduction. It can see your heart beating and even the valves pushing the blood inside
+             just to add some perspective.
+             >red should be "defence" mode. Just wondering why some close encounters are with red lights.
+             Correct. Red lights are considered defense mode. If red lights are present chances are the craft wants to
+             leave and has to keep an eye on you while they wrap up.
+             Red also allows very accurate calculation of distance and can detect hostility based on facial expression etc. If
+             a weapon is fired the "beam" is white.
+             >Do these ships emit any kind of radiation?
+             Yes.
+             >landing places always have traces of radiation, is this BS or is there anything behind it.
+             This is mostly correct. The source is not the landing and is the craft itself.
+             >Is any obtained tech nowadays being used commercially, something we all could know?
+             Lasers. You see lasers everywhere even in retail.
+
+             >>34716405
+             >super high security-wrapped facility
+             >hiding in plain sight
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                    52/57
+
+## Page 129
+
+18/12/2025, 21:56                                      /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+             Both.
+
+             >>34716612
+             I'm pretty fucked already. Not too worried.
+             I say that but the internet glitched the night I made the first thread and I panicked enough to sleep with a
+             revolver.
+
+             I skipped some questions to tackle ones I haven't been asked about sorry.
+
+             >>34718748
+             >Are the ayy lmaos aware of computer tech?
+             They know about ours yes. I doubt they could operate ours with our input devices though.
+             >Do they have something like digital communication?
+             Chance communication to computer and you kind of nail it. Describing their version of a console/computer is
+             really hard. It works by holding it and thinking about what you want. If you are distracted even slightly it goes
+             to shit.
+
+         Anonymous Wed 10 May 2023 23:10:02 No.34748413                          Report
+
+             OP, can you speak a little about your technical background?
+
+             I get you don't want to give specific details but can you give a general idea of what you do? Engineer,
+             physicist, etc. I imagine that a project like this would require as wide a group as possible...
+
+             Secondly, have you set up a dead man's switch containing further info when you die. If not, why not. It would
+             literally change the world.
+
+         Anonymous Wed 10 May 2023 23:20:31 No.34748491                          Report
+
+             >>34748198
+             >No, I quit responding because chemo takes its toll and partially >>34745998.
+             >It's actually quite shocking how off-target the board is in general.
+             Are his questions schitzo material? I'm only asking because they really stood out to me and I've heard about
+             questions 2 and 3 from a lue elizondo video with the Italians. Typing this out I'm realizing the potential glow
+             within the questions but genuinely curious if I'm on the wrong track.
+
+             >>34748201
+             >Right, but he has to answer all of them or anons will accuse him of cherrypicking
+             Fair point, I noticed OP mentioned stuff about the lights already so maybe anon can chime in to confirm
+
+         Anonymous Wed 10 May 2023 23:23:49 No.34748515                          Report
+
+             You said that a lot of their devices emit radiation. How do you think they handle this ? Do they have hazmat
+             suit ? If they are organic like us, radiations is the worst for the DNA.
+
+         Anonymous Thu 11 May 2023 00:01:56 No.34748809                         Report
+
+             i heard in some ufo sighting reports that people had "telepathic messages" send to them. do you think this is
+             biological telepathy (without help of technical devices)? or is is possible that the UFO crafts send such
+             messages by technical means to the brains of humans somehow?
+
+             i remember one case where a woman saw a huge ufo and got send the message "don't be afraid, this is just a
+             demonstration" like the ufo craft would try to flex with how big it is and that it can fly around in the open
+             without anything happening to it.
+
+          Anonymous Thu 11 May 2023 00:31:04 No.34748809,1                            Report   Delete
+
+              What kind of PPE, if any, did you have to wear for crash recovery?
+
+              Can the describe the white beam in more detail? Is it transparent? Does it have hard edges? Can you track
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                    53/57
+
+## Page 130
+
+18/12/2025, 21:56                                      /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+              the leading edge of the beam with your eyes or does it move too fast? Some friends and I saw a very
+              peculiar "beam" over EAFB once is why I ask.
+
+         Anonymous Thu 11 May 2023 00:44:53 No.34749134                         Report
+
+             >>34748333
+             Was there any information recovered from these computing devices? Do they hold info? Can they produce
+             images/audio?
+
+         Anonymous Thu 11 May 2023 02:28:44 No.34749810                         Report
+
+             Mr Lundgren?
+
+         Anonymous Thu 11 May 2023 02:29:52 No.34749818                         Report
+
+             >>34704869
+             If i were to build network of stations to detect them(probes from main builder), what sensor should i use.
+             Something citizen purchasable.
+
+         Anonymous Thu 11 May 2023 03:07:19 No.34750074                         Report
+
+             Thank you for your response regarding the tools, different light colors, radiation and the commercialized tech.
+
+             Can you tell any reason why the ships emit radiation or anything about the radiation itself?
+
+             Have you encountered any crafts or devices using zero-point energy? If so, can you tell anything about them
+             and the technology itself?
+
+             The crafts that you've worked on, do the engines etc. have any moving parts? Anything you can tell about how
+             the ships and engines operate?
+
+             Do you know anything about the larger flying ships? And by larger I mean the ships that are even bigger than
+             a mile long. Are they from the manufacturing plant or off world and what are they used for?
+
+             Do you know have we salvaged anything biological from them, aside from bodies? Food, drugs, anything?
+
+         Anonymous Thu 11 May 2023 03:17:12 No.34750133                         Report
+
+             >>34717359
+             Guy on the left is creepy, he is also the only one with a badge on his suit, info?
+
+         Anonymous Thu 11 May 2023 03:21:57 No.34750158                         Report
+         Quoted By: >>34751427 >>34751441
+
+             I'll add a couole questions more:
+
+             Is the "Black Knight Satellite" a real thing or just space debris? If it is "something", can you tell anything about
+             it?
+
+             Triangle ships, if I remember correctly you said you haven't encountered them? Do you have any idea what
+             they could be? Man made or something else?
+
+             Thank you for any answers in advance.
+
+         Anonymous Thu 11 May 2023 03:26:50 No.34750188                         Report
+         Quoted By: >>34750253
+
+             Is there any truth to “Dynamic Theory” by Pharis Williams, holding some of the secrets to the physics at play
+             with UAP?
+
+             Did your department have any involvement or knowledge of work with the UK or other 5 eyes partners?
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                       54/57
+
+## Page 131
+
+18/12/2025, 21:56                                          /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+
+         Anonymous Thu 11 May 2023 03:37:16 No.34750253                             Report
+
+             >>34750188
+             Neat questions for another time, thread is almost over
+
+         Anonymous Thu 11 May 2023 03:46:20 No.34750318                             Report
+         Quoted By: >>34750479
+
+             I am a tech guy/entrepreneur who is currently looking what field to go in next. Besides Lasers, is there
+             anything you worked on that you think will be productized in the next decade? Will Europe's energy scarcity
+             potentially be solved?
+
+         Anonymous Thu 11 May 2023 04:09:33 No.34750479                             Report
+
+             >>34750318
+             Not op, feel like computer interfaces so we can control things woth our minds
+
+         Anonymous Thu 11 May 2023 04:54:23 No.34750794                             Report
+
+             If they control the thing through consciousness maybe the tic tac look to them or more simple is simple and
+             easy to visualize/think about moving through space and shit
+
+         Anonymous Thu 11 May 2023 05:06:44 No.34750875                             Report
+
+             1. What was your reaction when you were told aliens are real?
+             2. How did you locate the crashes?
+             3. Would you want to meet, stay with, or communicate with the entities given the opportunity? Why or why
+             not?
+             4. What is the most common shape for craft, most rare shape?
+             5. If you could ask the entities 1 question, what would it be?
+
+             Thanks for sharing, we need people like you to push forth disclosure. My condolences about your cancer. If
+             LARPing, it was entertaining and fuck you, I’ll see you tomorrow
+
+         Anonymous Thu 11 May 2023 05:27:46 No.34750997                             Report
+
+             >>34704869
+             I did work for an astronaut and for the sake of this being amusing I'm not going to say who. What do you think
+             they would say about aliens especially if they are still involved in all matter related to space but as a private
+             contractor? Do you think they would be involved with any UFO related things and if so to what extent?
+
+         Anonymous Thu 11 May 2023 05:49:06 No.34751154                             Report
+
+             Did you ever hear any rumors or get any indication whatsoever of the ayy’s culture, power structure, or
+             philosophy?
+
+             You say they get upset when we allude to destruction; any indication of why?
+
+         Anonymous Thu 11 May 2023 06:03:41 No.34751251                             Report
+         Quoted By: >>34751564
+
+             >>34745562
+             This. That's why this all thread sound delusional. Some can't face the possibility of ufo phenomena related to
+             mind instead of something merely physical.
+
+           View Same    Google   iqdb   SauceNAO   Trace    colares.png, 167KiB, 400x356
+
+         Anonymous Thu 11 May 2023 06:33:26 No.34751427                             Report
+         Quoted By: >>34751441
+
+             >>34750158
+             >tr3b
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                    55/57
+
+## Page 132
+
+18/12/2025, 21:56                                              /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+                                          solved already basically, belgian wave but the funny part is they havent refined the tech
+                                          pretty much. they hit a glass wall and want the Xephons, but they can only make
+                                          zombies... No lightships for the Airforce! only lead!
+                                          >b-b-but m m muh saturn worship
+                                          fuck off faggot, burn in hell
+
+                                          https://youtu.be/POrwQMAUOdQ
+
+           View Same    OCR      Google    iqdb   SauceNAO    Trace    solar warden 1.jpg, 17KiB, 475x357
+
+                                          Anonymous Thu 11 May 2023 06:35:33 No.34751441                             Report
+
+                                          >>34751427
+                                          >>34750158
+                                          ah yeah the link duh
+
+             https://www.military.com/video/aircraft/military-aircraft/tr-3b-aurora-anti-gravity-spacecrafts/2860314511001
+
+         Anonymous Thu 11 May 2023 06:55:06 No.34751564                                  Report
+
+             >>34751251
+             >Some can't face the possibility of ufo phenomena related to mind instead of something merely physical.
+             I mean, I couldn't for about 25 year lol. I thought he was telling me I was crazy or it was all in my head but with
+             the chatter about consciousness relating to ufos, it made me start to think otherwise
+
+         Anonymous Thu 11 May 2023 07:10:56 No.34751650                                  Report
+
+             Does the word ZODIAC mean anything to you?
+
+         Anonymous Thu 11 May 2023 07:53:20 No.34751980                                  Report
+
+             I have two questions
+             1. If these things are real Is it possible to make contact with Them? How do I get there attention if i'm just a
+             regular Civilian who just wants to talk to them?
+
+             2. Are we able to operate these ufos that we capture? If so. If we want the secret out wouldn't it be easier just
+             to steal one during a test flight and fly it to the nearest news station like CNN? And get out and say here a
+             ufo?
+
+         Anonymous Thu 11 May 2023 08:41:18 No.34752335                                  Report
+
+             The fact that you are willing to make contact means they probably heard you. Look up in the sky on clear days
+             and nights. You will see them.
+
+           View Same    Google    iqdb    SauceNAO    Trace    IMG_4856.jpg, 46KiB, 800x600
+
+                                          Anonymous Thu 11 May 2023 08:43:33 No.34752351                             Report
+
+                                          They are all over Mexico continuously.
+
+         Anonymous Thu 11 May 2023 08:58:32 No.34752445                                  Report
+
+             >>34705132
+             >>34705117
+             literally just a plane
+
+         Anonymous Thu 11 May 2023 09:15:51 No.34752572                                  Report
+
+             >>34707386
+             >fly across the galaxy
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                         56/57
+
+## Page 133
+
+18/12/2025, 21:56                                    /x/ - Paranormal » Thread #34704869 » UFO Knowledge
+             >ftl and anti gravity tech
+             >straight up avoid parts of some random planet because they cant stop crashing
+
+         Anonymous Thu 11 May 2023 09:24:06 No.34752618                         Report
+
+             >>34720020
+             >chinlet
+             ayys betas confirmed
+
+         Anonymous Thu 11 May 2023 09:28:01 No.34752641                         Report
+
+             Going back to medical experiments, why do they use tools to painfully push pills into us? Wouldn’t it be easier
+             to use veins for IV or shots? Wouldn’t the abductee see a wound if they had something implanted. If it’s a
+             permanent implant wouldn’t we see them on xrays or other medical examinations?
+
+    FoolFuuka Imageboard 2.2.0 - Asagi Fetcher        Transparency - FAQ - Credits & Links - 4plebs on X - Legal   Change Theme
+
+https://archive.4plebs.org/x/thread/34704869/                                                                                     57/57

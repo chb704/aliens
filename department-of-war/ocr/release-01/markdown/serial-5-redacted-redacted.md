@@ -1,0 +1,85 @@
+---
+title: "serial-5-redacted-redacted"
+collection: "department-of-war"
+release: "release-01"
+source_pdf: "department-of-war/release-01/serial-5-redacted-redacted.pdf"
+ocr_pdf: "department-of-war/ocr/release-01/searchable-pdf/serial-5-redacted-redacted.pdf"
+source_sha256: "c38d267441b19350df557d9f3bfbd689fb5ba0619366373a7b9e6f8dce84bb8c"
+ocr_sha256: "34b4af626334f59aa0a8675fea24563070b534916f25d567c68f8143d954fe20"
+pages: 2
+ocr_engine: "ocrmypdf + tesseract"
+tool_versions: "ocrmypdf 17.5.0 / tesseract 5.5.2"
+ocr_options: "-l eng --mode skip --rotate-pages --deskew --optimize 1"
+text_extractor: "pdftotext -layout"
+needs_review: false
+---
+
+# serial-5-redacted-redacted
+
+## Page 1
+
+                                                                         -1   of    2-                                                              Orricia. Recorp
+FD-302 (Rev. 5-8-10)
+
+                                                        FEDERAL BUREAU OF INVESTIGATION
+
+                                                                                                                         Date ofentry        __10/J/2023
+
+        Me © sects:                                                2,                                            2:
+       TE MSs 200 F51 Special Agent J] BJ interviewed BD Eg
+
+       ee ee ee ee ee eee 2
+       Oe
+        in | at the time of the interview). After being advised of the
+        identity of the interviewing agents and the nature of the interview, J
+       provided the                following                 information:
+
+        V2 of                       f         Git                   Ff        Tr                     Fr                        EF
+                                        pd                                                             | fF
+       ee                               ee ee                                                         ee  ee
+
+        (gf On September || 2023 at around 9:00 am, |                                                               | was at || ||
+                    driving             east       to    a   test    site     to    acquire        data       for      LiDAR testing              with
+
+       EE GE == GN ME, 22= Giving on 150. BI vas
+       behind them,                driving a GMC AT4 with J) PBJ es his passenger.
+       HMMsvas: behind them driving a sprinter van.
+
+        (MPM othe vehicles drove through a couple of gates and JJ saw a bright
+        light       over       the       horizon.            The    light     was    stationary             in    the     air,      then      started
+
+       moving to the right and then disappeared. || could see the light through
+       the      top     right           of    the       vehicle’s windshield.                  The      light       was     bright        white        and
+
+       was      visible          for         ten    seconds         before     it    disappeared.                The    light       stayed        the      same
+
+        size throughout the incident. || thought the light was ten to twenty miles
+       away. || did not notice any interference with his vehicle.
+
+        (HE HM eo inted the light out to J) but JJ looked in the wrong
+       direction. JJ was also tall and had his seat leaned back so he was not in
+       a good position to see the light. JJ was                                                indifferent to the light until
+       they got to the                       first test site and J] eo¢ J said they saw
+        it    too.
+
+   Investigationon 09/J/2023 at i                                             United States (Other (Facetime Video)
+
+   ie                                                                                                                      Dae dated 10/9/2023
+  ty      i
+  ‘This document contains neither recommendations nor conclusions of the FBI It is the property of the FBI and is loaned
+                                                                                                                       to your agency; it and its contents are not
+  to be distributed outside your agency.
+
+## Page 2
+
+FD-302a (Rev. 5-8-10)
+
+                                                       /
+                 -      -
+                            (   /   September   2023       UAP
+Continuation of FD-302 of                                        , On   09/   /2023   , Page   2 of 2
+
+          ( /          thought the light might have been a meteor coming straight
+          toward them and burning up in the atmosphere.
+
+                                                       /

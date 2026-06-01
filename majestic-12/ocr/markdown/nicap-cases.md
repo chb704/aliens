@@ -1,0 +1,738 @@
+---
+title: "nicap-cases"
+collection: "majestic-12"
+release: null
+source_pdf: "majestic-12/nicap-cases.pdf"
+ocr_pdf: "majestic-12/ocr/searchable-pdf/nicap-cases.pdf"
+source_sha256: "6bd52d723a62307d0b6fd773e700047ff7e13d1ae3323e705b43a0c9bdbb6021"
+ocr_sha256: "e56251df98ae4f69807228440be999f37a0d63c05e4a43cced8d15e882146a9b"
+pages: 12
+ocr_engine: "ocrmypdf + tesseract"
+tool_versions: "ocrmypdf 17.5.0 / tesseract 5.5.2"
+ocr_options: "-l eng --mode skip --rotate-pages --deskew --optimize 1"
+text_extractor: "pdftotext -layout"
+needs_review: false
+---
+
+# nicap-cases
+
+## Page 1
+
+                                         LOCATION
+                                 Cedar Rapids, Iowa
+                                 Mt. Ranier, Wash.
+                               Nr Lake Mead, Nevada
+                                Maxwell AFB, Ala.
+                                ‘White Sands, N. M. #! 7«
+
+                               .._Nr., Boise, Idaho liste otto atae ei
+                                Portland, Oregon
+
+                ie Seattle, Wash. inek
+
+            Jul 47: Redmond,
+            Jal 47
+            Sul 47
+                    Pairfield-Suisun
+                              Oregon
+                                     eesty chome
+                                             ptalmagthee
+                                $.Central Wyoming
+            Jul 47 afc. Maroc AFB/Rogers Dry Lake ,calif.
+            dul 72                 7
+
+            Jai WT getaaaeTM    of                   _.        ”     o
+         >8 Jul iy Puokaorgao neal a                  w              ry
+
+                       New Mexic
+       1OJul 4747 S.Pittsbu
+. ae-* Summer
+      UID Jal 47
+                                 o
+                                Nr.Boise, Idako
+
+                            rg, Kenses
+         August Wf              Media, Pa.
+                     __.        Las Vegas,Nevada 00
+                                Fort Knox, “Kys
+                                White Sends, N.M. —
+
+                               Easton, Pa.
+                           _.._Labrador
+                                Nr. Montgomery,
+                         _..    Fargo, NeDe _                      enema   gee
+
+                               _seapan
+                                Goose Bay, Labrador ‘<n/7%
+                                  am sowet secens afc           7Afr aoe
+                                                              (no
+                                Nr. Washington,D. c.
+                                Pursten-Feldbruck ,Germeny
+                               _. Fairfield-Suisun, AFB Calif.
+                                Jackson, Miss. i
+                               “White Sands, N.M,         :
+                                Stephensvilie > Newfoundiand
+                               _Waite Sands, N.M. fees: coe            Veh
+
+                                Key atomic tase .
+                                Nr. Baja, Calif.
+                                Davis-Monthan AFB ,Arizona |
+                     >         Key Mest. Fla.
+
+## Page 2
+
+            ee I
+     Ee. CASES
+       CASE |... “DATE               LOCATION
+ wf 5L         16 Mar 50     Dalles, Texas
+ mse           17 Maz .50    Farmington, N.Mex.
+»N5            18 Mar 50 Wr. Bradford, I11.
+             ul 20 Mar 50    Ne.Little Rock, Ark.
+W55          * 86 Mar'50 Reno, Nevada
+ 56-26 Mar 50° Nr. Washington, D.C.
+      @ 9 Apr 50            - Shelby, N.c. cok y * tog
+               2h Apr 50     Balearic Islands § “
+            wO2T Apr 50.     White Sands, N. Mex. tres decteas
+               27 Apr.50   Goshen, Ind.                       .
+               Il May 50° McMinnville, Orégon
+               20 May 50     Plagstaff, Ariz.
+               29 May 50.    Nr.Washington, D.C. ,- Auga(2sta
+               29 May 50     White Sands, H.Mex.€ &re daay >)
+                   dun 50    California             so.
+               21 Jun 50     Hamilton AFB, Calif.
+               24 gun 50     California desert
+               30 Jun 50 Rr. Kingmen, KBNSaS con vO. Ff
+               duly 50      Cincinnati, Ohio
+               21 Jui 50    Osceola, Ark.
+        JeI-15Aug 50.       Great Fells, Mont. hither             FLERE
+    Em         3 Oct 50     Pomona, Calif.                        .
+vv T3          5 Oct 50     San Fernando, Calif.
+wT”            27 Nov 50 ~~ Huron,” SD.
+ Withee        27 Nov 50    Evansville, Wisc.
+ VTE          Dee 50" Nr. Cheyeme, Wyo.
+            sgt Dee 50 Bradford, Til.
+             i Fen 5L Nr. Artesia, N. Mex.
+            AleB0 Jan 51    Nr. Sioux City, Towa
+        “Te ¥eo 51 Alamogordo, W.Mex.
+Jeuns ‘feb SL” Kenya, Africa
+rsa           22 May 5      Nr. Dodge City, Kansas Bra
+ri 83         1 Jum 51      Dayton, Ohio           Sit Gfodl, Fink
+              14 Jul 51     Nr. White Sands, N. Mex.                  4
+              23 Jul Sl     March Field, Calir.
+              Summer 51.    Augusta, Ga.
+ ;            August 51     Central, N.Mex.
+8             3 Aug SL      Nr. Pinckney, Mich.
+        -     li Aug S51    Portiand, ore.
+      *) Fo wries fug 51 abbock, Texas
+              26 Aug 51     Washington State. Lace HFE, o~ 26 hy
+       + 10 Sep $1          Nr. Sandy Hook, W.J.          :
+     (> (@ 23 sep 51        Nr.March AFB, Calif.
+     COWee Fall 51          Korea   )€ ocr’)
+            WEG Oct 51      Terre Haute, Indiana
+              10-110ct 51 Nr. Minneapolis, Minn. ~
+              7 Nov 51      Lake Superior
+              _9 Nov 51°    N.Mex.       .
+               10 Nov 51 © Albuquerque, N.M.
+             _ 1952 _    . London, Ont., Canada
+
+ @ Har'50-. Sélma, Alabama         SECRET       +
+                   TEHTA TY¥E
+
+                   FORWARL ju, iy;
+                               u
+
+## Page 3
+
+                                     TENTAT Tye                SecRer
+  NICAP CASES                        FORWARG TeW8scom
+
+                    DATE             _..LOCATION
+                        .52~..Pairchild AFB, Wash.
+                         52         Mitchel AFB, N.Y.
+                        i 52        Worth Alaska
+                                              R
+                        “52     Wonsan,
+                                Greenfield, Mass.
+                               “Oakland, CGalir.
+                                Nr. Misawa, Japan
+                                    Butler, Missouri
+                                    Nr. Big Pines, Calif.’
+                                    Nellis AFB, Nevada
+                                    Watertown,         Mess.        —
+                                    Berra da Tijuca,Breazil
+                               : Atlantic Ocean off Jacksonvillexu
+                                    National City, Calif.
+         _ dune 52                  Tombsi ne, Ariz.
+     S          iL dun 52      tos Angeles, Calif. ~
+                13 dun 52           Le Bourget, France(airport) —~
+         A298      Fun 52 California
+         gk    Fun 52  Goose Bay, Labrador
+           (Summer 52 “MacDill AFB, Florida 23 suc» <2
+            L Jul 52            Boston, Mass. ;                                 .
+          EL Jul 52"            Port. Monmouth, N.J.                        |
+
+atlehSSekisO sul
+              dul52°52 Nr. Korea
+                “Jul 52         Tremonton, Utah                 =       -
+
+                       Chicego, Ili.
+2ap>13 Jul 52                   Nr. Washington, D.C. Supp £000 |
+                                Newport News, Virginia
+
+                          so ites" Mass. Set .
+                                Ri        ton, Va.        ,.
+
+                                Nr. Denver, Colo..
+         18        Jul S52 Patrick AFB, Florida
+     4    “19: Jul 52           Porto Maldo, Peru
+         mt 19/20 Jul 52 Weshington, DC...
+                    2   Braintree, Mass.
+                               rc      rex City, Calif.
+                                Nr. Carson Sink, Nevada
+                   Jal 52 California ~-Wifliee                                      cat * 20.
+                  /27 Jal 52 Washington, D.C. cgoc*
+                     i 52    Ann Arbor, Mich.
+                      1   __Manhattan Beach, Calif.
+                               ~ Wisconsin~Minnesota
+                    2           Miami, Florida
+            1 Aug 52            Nr. Yaak, Montana
+              Aug 52            Sharonville, Ohio
+              Aug 52            Albuquergue, N. Me:                                 —
+                  aug 52     Hamilton APB, Calif.
+                 “Aug 52° ~~ Haneda AFB, Japan
+           ‘5 Aug 52    Baltimore, Ma.
+            6/7 Aug 52 Kerkrade, Holland
+                                Tucson, Ariz.
+                                    ULV Ned      Few as
+
+                                    pur    See     .
+                                Poke      vobes.
+
+## Page 4
+
+                                              LOCATION
+                                         Dallas, Texes
+                                         Congaree AFB, S.C. BES EF
+                                         Elgin, Illinois
+                                         Nx. Hermanas, New Mexico
+                                       “Te Roy, We      Y¥
+                                         Atlanta, Ga.
+                                        Villacoublay, France
+                                        Portland, Oregon
+                                       _ Belle Glade, Florida
+                                         North Sea.     @4r.cooN 2oSeer,
+                                         Topeliffe, Yorkshire, England .
+                                       _FairfexCounty, Va.
+                                        Edwards AFB, Calif.
+                                        Newport News, V .
+                                        Palo Alto, calir. .
+                                        Oshima, Japan
+                                       ' Gaillac, Prance
+                                       _ Richmond 2. Vae
+                                        ‘Hempstead, L.t. N.Y.
+                                       __Na¥. to Puerto Rico.
+                                            Lendrum, S. C.         £ oaks .
+                                        Panama Canal Zone Pabate [INSuRe,
+                                       “Laredo, Texas                     ;
+                                        Nr. Galveston, Texas
+
+                                             Hanford, Washington Ocleaoe
+                                        Chicago. Til.
+
+   co.                tgDec       52               depen
+dee Wyss 1953                 co tana          “Venemela
+ _ ABO             1953                 Navy Carrier
+        :          9 Jaa 53            | Northern Japan       Mistrioc APB
+                  12 Jan 53             Santa Ana, Calif.           .
+      rAvet            gan 53 Santa Fe New Mex
+                       Jan 53. New Mexico radar site leone aceae
+                27, Jan $3 _ivermore, Calif.                  _
+            SCNUBS Tan
+
+              eee 53 Korean
+                   6 Feb 53°
+                             area     £) idea)
+                                   (3 border
+                               -N.c.
+                                        Rosalia, Wash.
+
+              z   53  Virginia
+                                        Tunis-Tripoli      *
+                                        Fort Worth, Texas. 4.un-Rigir ae]
+
+  :           :                  _ Elmendorf AFB, Alaska   e
+
+ - Ags —Sprine’ 53 laredo, Texas
+                  T                 “Yoma, Arizona _     :
+
+        "5 May 53. | Yuma, Ariz.
+ “ p/ig9”
+  *N 200 21 Mey 53. PrescOtt, Ariz.
+
+## Page 5
+
+                 23 Mas ‘53 Union of 3. “Africa
+                 9 Jui 53     Columbus, Ohio
+                 2h Jul 53.   Mt. Vernon, Ohio
+                 31 dul 53° Port Clinton, Ohio
+                            | Yaak, Montana
+                                    Toledo, Ohio
+                                    Moscow, Idaho
+                                    Rapid City, S--D.
+                                    Columbus, Ohio
+                                   Crestline, Ohio
+                                  _Maumee, Ohio    ;       .   a
+                                     olumbus, Ohio                         ee
+                         53 Port Moresby, New Guinea
+               ac Sep 53. Cleveland, Ohio
+                                   Vandalia, Ohio
+
+ “pJeis         30 Oct 53          Mt. Vernon, Ohio :              *
+ (220-3 Nov 53                     London; Engiand                 i
+A221 1H Nov 53.                    Ne. Toledo, Ohio
+ eee Nov 53...                    Kinross AFB, Michigan «2 GaSe
+ pf ae3         i3 Dee 53         “Gentral Ohio
+ W22k “16 Dec 53                   Toledo, Ohio
+              UAE LT Dec 53        Sweden
+                1954          '    Dayten, Ohio
+                                   Australia TaconicAtaesT bata.
+                                  _Quantico, Va.                       .
+                              _..Rouen,      France
+                                  _Baltimore, Ma.
+                                   Florida
+                                   Grand _ canyon » Ariz.
+                                   Newb      rt, Mass. .
+                              _|Northern Sweden
+                                  . “Washington, D. Ce
+                                  _ Nr. Dallas, Texas
+
+                                   Dayton, Ohio (ietmen?, In OANA),
+                                  | Vienna, Austria
+
+                                   Beinbridge, N. Y¥.
+                                   Nx. Boston, Mass.
+                                   Nr. Baltimore, Md.
+                                   Columbus-Vandalia, Ohio
+                                  _ idaho Falls, Idaho
+                                   Mobile, Alabama
+                                   Rr. Oslo, Norway.
+                                   Nr. Goose Bay, Labrador A...
+          :        ad.             Albuquerque, N- M-          :
+ WEBB Jul 54                       Lancashire, England
+“,/249          1 Sul 54°          “Hunterdon, Pa.
+A250            2B dal 54          North atlantic
+
+                     FORWARL. +
+
+## Page 6
+
+        PORWARL      tecCASES
+                 To nase
+         i STAT IVE EC
+
+    A             :              DATE       |             LOCATION
+a .               Wests 28 aug 54 Oklahoma City, Okla.
+:                We 2 Aug. orseps' New YorkFrance:
+                 Meigerh Sep 54 Origny, State Soups— BBs
+                                9'Sep 54        °
+                                                       a
+                                                     Nelson, N.z.                   an
+                 Wes 13 Sep 54 - Bihar, India Va.
+                                  Rome, Italy
+                     Lf Sep 54am- Danane,
+                     16 Sep 54. Nr, Roanoke,
+                 Se 19                           an
+                         Sep              French West Africa
+                 Ye 20 Sep 54° ~Cuyshoga Falls, Ohio
+                      4
+                      A260     “Oct 54               Cherry Valley, N.Y.-
+                  wee Oct 5k “North Weald, Essex, England
+                          a= 3 Oct 5h                Nr. Waben, France
+
+                      al BG aesh oct 5h Isles-str-Suippes, France
+                            AEE Oct 5h”
+                      ne oe _k Oct "Sh
+                 _ Ayer 28 Oct 54 Rome, Italy
+                                25 Oct 54“ Belgrade, Yugoslavia
+
+                      ‘W268 Feil 54°: Korea
+                 eS              5 Nov 54            Lookout Point, N.Z.
+                              @ 12 wov 5h            Lovisvilie, Ky-
+                                21 Nov Si            Rio de Janeiro, Brazil
+                                25 Nov 54            Cordoba, Argentina
+                                26 Nov'54 Miliville, N. J. Quire Bat
+                               26 Nov 54
+
+                                  Dec 54.
+                                                     Matasquan, N. J.
+
+                                                     Wilmington, N. C.
+                             are Dec Sh              Worth East, Pa._
+                             BKe7 Dec 5h             Upington, Cape Province ,So- Afric
+                               _15 Dee 54            Nr. Nowra, Australia.
+                                19 Dec 54            Vienna, Austria
+                                20 Dee 54            Pontiac, Mich.
+                               Se or 55_             Coos Bay, Oregon
+                                                     Virginia ,or.Washington,D.C.
+                                                      Nr. Ponta San Juan, Venezuela
+                       2                              Nr. Merida, Venezuela
+                      “ee                           _ Miami to New York
+                        286 —_s Apr 55.              fintinare, Australia
+                       (G8)     3-9apr 55           New Mexico, northern Calif. .
+                  __, ESE          May 55            Alexandre Park,London ,England
+                      We8o      16 Jun 55 Eastern U.s.
+                               “L7 Fan 55            Nr. Adelaide, Australia.
+                              ~'o9"Sul 55           Senta Catalina Channel ,Calif.
+                                17 Jul 55            Centon, Ohio
+                                                     Lashan, Hants > England
+                                                     Washington, D. C.
+                                                     Cincimnati, Ohio
+                                                     Cincinnati, Ohio     .
+                                                    , Chalmette, La. .    >
+                                                    “Akronand Alliance,
+
+## Page 7
+
+                                   LOCATION
+                      ) ” Galloway, England
+                               Nr. Auckland, N. Z.                 :
+                               Mojave Desert, Calif. sable
+  OD6 9= Nov
+          NOV |55
+                               Williston, Fla.-                            —
+                               Cleveland,: Ohio
+               55              Philadeiphia, Pa..
+      To 1h Nov.55        .    San Bernardino     Mts.       Calif.
+         20 Now 55            Oak Ridge, Tenn.
+                                                              2,
+
+ge. Ui Dee 55
+ESS      B38 Nov 55           Spirit     Lake, Towa
+        __§ Dee 55            Ashfield     & Greenfield, Mase.
+                              Rr. Jacksonvilie, ‘Fle.
+A312     29 Dec 55            New Britain, Conn.         ~
+% 33     1956         ‘       North Atlantic
+        | AT gan 5
+#sR
+                              Orangevilie, Canada
+          22 Jan 56           Gulf of    Mex,nr. New Orleans
+  316    17 Feb 56        “Paris, France fiass /£FER o€by AFG
+  1      5 Mar 56             Honoluiu, Hawaii
+         8 Apr 56             Nr. Schenectady, N. Y.v“enras
+   9     27 Jun   356         Trieste, Italy,
+M320     19 Jul 56            Hutchinson, Kansas
+         19° Jul 56           Wide area, mapped by Wichita ‘Bag!
+                          _ Phoenix,  Ariz.
+                            Pasadena, Calif.
+                              uider City, Nevada
+                                rtford ,Connecticut
+                              We st Redding, Conn.
+         Ui aug 56      % Hartford, Conn.
+         19 Aig 56 “Newington, Conn.
+        “BO Aug 56 Citrus Heights, Calif.
+         21 sug 56 Wyoming-Montana
+         ko Sep 56   Copenhagen, Denmark
+         6 Sep 56.   Pasadena, Calif.
+         ii Sep 56 Baltic Sea
+         Barly Nov 56 Malibu, Calif.
+
+ 333. TiNov  “567 Nr. Mobile, Alabama.
+                              Miami, Florida
+
+  3m 19 Nov - 56° Frankfurt » Germany
+       “Bh/25 Nov 56 Ne.       Pierre’, South “dakota:
+                               Bast Gisten. } role Tg tr
+                          los “Angeies, Calif.
+                           APO Army base               ~
+                              Indians
+                                rbank,     California
+                              Nr. “Houston, Texas
+
+                          _Nr.- San Juan, Puerto Rico
+                      “Leng Beach, California                          :
+                     * Off Bast Coast, Florida
+                      _ Wigtownshire, Scotland
+                              Moab, Utah
+                          Lancashire, England
+
+## Page 8
+
+ FORdniie }a midbat aici
+            n
+
+                                 CASE.   DATE                 LOCATION
+      fo                (4/352         4B8.gun 57         Jackson, Mississippi
+       a                ne 18 Jun 57                     Pacific Ocean, 150 mi. off SanFm
+                                 53    30 Jun 57         Belo Horizonte, Brazil
+                                                          Azusa, Calif.
+                                         Jal 57     -    Avon, Mass.
+                        r356           4 sul 57          Ne. Campos, Brazil
+                        M357           9 Jul 57          Hamilton, Ont., Canada -
+                        A358 9-31 Jul 57                 Calistoga, California
+                        359°. Aug 57                     Toronto, Ontario, Canada
+                                      1h Aug57___Nre         Joinville, Brazil
+                                                        “Woodland Hillis, California
+                                                         Pujisawa City, Japan
+                                                         Ft. Devens, Mass.
+                                                         Paris, France -
+                        17365 | T Oct 57 Cape Canaveral, Fla.
+            ; WBE 28 Oct 57                              Bua Province, Fiji Islands
+  :                 .        N36T <8      Oct 5ST        Nr. Bostm, Mass.
+om          . M368                     15 Oct 57         Fountain County, Indiana
+ee                      2/369 oer Oct 57                 é4ustralia —
+                        7 B30 © 2% Oct(or@9)57 Nr. London, England
+                                 am 22 Oct 57            Pittsburgh, Pa.
+                                                         Kent, England
+                                                         Levelland, Texas           f
+                                                         White     Sands, N.M.   Wew Yunus
+                                                         Alamogordo 2Ne MM,
+                                                         Elmwood Park, Illinois
+                                                         Gulf of Mexico, off New Orleans
+                                                         Keesler AFB, Miss.
+                                                         East St. Louis, Tllinois
+                                                         Haverbill, Mass.
+                                                         tdéng Beach, California vA Aah
+                                                         “Nr.Danville, Tl. .         oa
+                                                         Ne. Atlanta, Ga.”
+                                                        “Montville, Ohio
+                                                         Take Charles, Louisiana
+                    “ee “10 Rov 57                       Hammond, Indiana
+                             387 7 220 Nov 57            Ne. tos Angeles, California
+      “\        9 388 11 Nov 57 San Fernando Valley, Calif.
+      (on               pf 389. 415 Nov 5ST              Carthage, Tenn.
+
+       oO                  390 27722Nov 57               ‘Camitillo, Texas
+            'V39L                      12 Dec 57 _ Chatham, Windsor area ,Canada
+        23 <~                    392 % Dec 57   comet aie
+                                                         Pacific Ocean
+                .                      L Dee 57     Los Angeles, Calif.:
+                                      12 pee 57          Tokyo, Japan
+                            95 16 Dec 57                 014 Saybrook, Comms...
+                        AZ 320  3 Jan 56                 Hawaii.
+            . a3                         Jan 58          Marion > Tllinois
+                        ef        Se 6 Jen              °Grindade Isle, Brazil
+                    .        3        30 Jan 58 “Lima, Peru
+                                                         N.S.W., Australia
+
+## Page 9
+
+       pot
+       CASE        DATE          :       LOCATION
+ Zuo.         9 Fed. 58              Troy, Michigen
+wy,‘hOl— 3 Mar 58                                   —
+                                 _Nr. Marshall, Texas
+ 1403.        8 Mar 58           “Korea
+                                     Henrietta, Missouri _
+             . & Apr 58”             Columbus, Ohio
+        6?    4k Apr =._.. Santa Monica, Calif.
+ ALOT         Tv Apr                 ‘Newport Beach, California
+ tne = 9 Apr 53                      Cleveland, Ohio.
+   ‘          UL Apr.  58 Johannesburg, S.Africa _
+              Lh. Apr 58 Albuquerque, N. Mex.      ;
+              5 May  58   San Carlos, Urugusy aes
+              17    May        58 Ft. Teuderdaie,        Florida
+                                __Kirehberg, Hansru      ck
+                                                   , Germany
+                                 Bahia State Coast, Brazil|
+                                 Saresote, Florida
+                                     Nr. Englend    AFB,Louisiana
+              LT Jul 58 Chitose  AFB, Japan
+       438    26 Jul 58 Durango, Colorado
+  be         “ Summer 58 ‘Air Force Base.Sw U.S.                             v
+ae            1L aug 58° “Chautauqua Lake, N.Y.                    .        YY
+ MBL          17 aug 58 Kansas City, Kansas
+             Bh pug 58 Westwood, N. J.
+                         58
+                    Dp                   tt AFB, Omaha ,Nebraska
+              21 Sep          58° Sheffield Lake, Ohio
+ A B26        2 Oct 58               Rr. Blairstown, New Jersey
+ NueTé. 3 Oct 58                Nr. Rossville, Ind._
+ M428         7 Oct 58°              Nantucket, Mass.
+ A4SQ         12 Oct 58              Aurora, Illinois
+a     )       26 Oct 58              “Baltimore, Maryland
+    31:       26 Oct 58              ‘Tafayette, Indiana
+ 432"         Nov                    Dewline radar             ra vol ms
+              5 Nov 58               Conway,  N. H.                earem
+              20 Dec 58              “Danelien, New Jersey     .
+                                _Newport Beach, Calif.
+                                _Nre Walworth, —
+                                                                       Pa
+
+                                       1f of Mexico
+                                " Imperial Beach, California
+                                 Pennsylvania Rcive. » Fa,
+                                 Londen, England
+                                 Qcoee, Florida
+                                "Montreal, Canada B¢Atoe eG S25
+                                     Des Moines, Towa
+                                 Nr.- Bloomington, Indiana
+                                     Henderson, Nevada
+                                     New Guinea 5m. 6<pie)
+                                 Columbus, Indiana
+                                 Near Columbus, Indiana
+
+## Page 10
+
+                      an       > 300M
+                               LOCATION
+                        Pacific Ocean 900mi.NE or Hawait.
+                           Nr. Ridgeerest, California
+         13 Jal 59         Blenheim, N. 2%.                    4
+         ik Jul 59         Pampuihe, Belo Horizonte ,Mines id
+                                rg _
+         Bh Aug 59. Nr.Emmitsbu,Md.                  Gerais Sts
+                      | Wallingford, Ky.
+                        Redmond, Oregon       vows
+                        Ne.Forrest City, Arkansas
+                        Key West, Florida
+                        Valparaiso, Chile
+                        Cincinnati, Ohiec
+                        Intervaie, New Haven
+                      ‘ Hollywood, California
+
+                      . bagune Beach, California
+                        Dubuque, Iowa
+                        Plymouth, N. H.
+                       _Sarasota, Florida
+                        Wellington, N. Z.
+                        Majorea Isle, Mediterranean Sea
+                       Ocumare del Tuy, Venezuela
+NWAT2    8 Jun 60       New York City
+                       _Nr Leefe, Wyoming
+                       Nx ‘Maiquetia » Venezuela
+                        Portville, New York
+                        Red Bluff, California
+                        Qak Forest, Illinois
+                       FR on tard. ke tiiaRste Caygeheorsver
+                       Mesa, Arizona
+                       Lexington, Kentucky
+                       Sonoma County, California
+                        Carrizales, Venezuela.
+                       Arlington, Texas
+                       TA      are   ir»
+
+                       Tongpoint, Tllinois
+                       Lexington, Kentucky
+JOUBT    BlNov
+             60        Ohio
+
+                       Benjamin, Seas
+WEES“:   Jan 61        Missile Base,
+             Jan 61
+         2   an 6L     Eglin AFB, Florida»
+             Feb 61    Maine
+h92 " T Feb 61         Kennebunkport, Maine
+W493 BB Feb 61         Nr Lakeville, Mass
+Whok = 16 Mar 61       Antarctica
+G95.     9 aor 61      Kingsville, Texas
+         May 61        Union Mills, Indiana
+NEST     19 May 61     Long Beach, California
+         20 May 61     Tyndall AFB, Florida vecgr.) 4%
+
+we 25 May 62
+         25 May 61     Shepperton, Middlesex, England
+                      ‘Newark, Ohio                      a
+
+         Fo, HARD |To MA CRE?
+                        IC OM
+
+## Page 11
+
+                 NICAP CASES
+CN    De         “CASE,     DATE .         ~    ‘LOCATION
+      uw   P5OL@ ee Tun 61                 Blue Ridge Summit, Pa
+               ‘A502 ~- 219 Jan
+                              61           Exeter, England     .
+           CB)            rer Akron, Ohio Catt fe
+           .      Q       5 Jal 61— “Akron, Ohio
+
+                                           Crawfordsville, Indiana nf
+                        “ Ba Jal 61 . Tlha Grande, Brazil
+                 BOG 17 Aug 61 Stillwater, Minn
+           _ SOP 713 Sep 61
+           : oe19-26 Sep ‘61Nr N Woodstock, N H ned                 ewepiy
+                                          _Pacific Ocean, nr Wake Islande’
+                                           Salt Lake City, Utah Su. dry,
+                                           Indianapolis, Indiana      e
+                                           Nr Datil, NMexico
+                           30 Oct 61   ‘Ligonier, Pa
+                           22 Nov 61 _ Nr Grafton, N Dakota
+                           29 Jen 68 ‘Eastern Holland
+                         _ 9 Feb 62     Ashton Clinton, Beds, England
+                        -. LT Pep 62    Parque del Este, Caracas, veneuxs
+                           2-25 Apr 62 Philadelphia, Pa
+                          30 Apr 62
+                          Hey 62          Argentina (.4v- Tow }
+                          18 May 62       Pompano Beach, Florida-
+                             May 62       Defiance, Ohio
+                             May 62       England
+                             May 62       Westfield, Mass
+                                          Palner, Alaska
+                                          Richmond, Va
+
+               *(Bo boneat       K-15 Flight (244°e Gr} ohne
+                                          New Iberia, Louisiana
+
+                (525-/230 Jul 62          Ocean Springs, Miss
+                C530»     2 Aug 62        Tiberal, Kansas 1, VF Hu RN
+     i         N53.       8 Sep 62        Floresta,. Argentine
+     M&S        S25" wis-2isep 62 Northeast New Jersey
+               Co3D        5 Sep 62.      Northeast Ohio
+                         3 Oct 62         Chicago, Til
+                        BS Oct. 62        Delta, Colorado
+                                          ‘Tampa, Florida |i 7as v)
+                        - Ke Dec 62
+                             Nov     62
+                                          Amagasaki City, Jeépan
+                                          “fngel Falis, Venezuela
+                                          Buenos Aires, Argentina
+                                          “Lexington,
+                                          Nr Washington, DC S74anm
+                                          SE of Melbourne, Australia
+                                          Oahu, Hawaii, cass te
+                                          El Sobrante, California
+                                          Paine, Chile
+                                          Ne Mt Gambier, Australia
+                                          Sunnyvale, California      .
+                                          Palmerston, North City, NZ -
+                                          Niagara Falls, New York
+                                          Burlington, Mass
+
+## Page 12
+
+    Te:
+
+FO pNICAP casks
+‘                      pate =<          ' LOCATION                _
+    pe 21 Jun 63 Chicago, Illinois                            = ~
+     A552            26 Jun 63     Pine cr        cali      con
+
+                                  “Garston, Herts., England.
+                                   Wayne County, ILlinois
+                                   Nr Fairfield, Illinois >
+                   —         __    Mount Vernon, Tilinois.
+                    6 Aug 63       Sanford, Florida_
+                     13 Aug 63 Honolulu, Hawaii
+              62     13 Aug 63,                      —
+                                   Nr Ellsworth, Maine
+                            g                     ne
+                              63 Fe Kent,illeM, aiCa
+                      iB
+                   __14
+                         An
+                      ay"Sep 63_ Susanv              lif              ee
+          5          20 Sep 63     Huntsville, Arkansas
+    W566 26 Sep 63 Sumyvale, Calif
+    7 S67 he Oct 63 East Hartland,
+      G68p 23 Oct 63               Meridian, Ideh
+    ASCO 31 Oct 63                 “Daylston, Victoria, Australia~
+    PORTO           3 Nov 63       Corona, New York
+     _<575 12 Nov 63               Port Huron, |‘Michigan
+      (S73 ih Nov 63               “Carson City, Nevada
+    Le ot3  20 Nov 63             Neche, ND
+    P75T%            2 Dec 63     ‘Grand Rapids, Michigan
+    PCTS             5 Dec 63      Wr Carrasco, Uruguay
+
+    TER TAT I ye
+    FORWARE TQ MAICrhe
+                    OM

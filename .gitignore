@@ -15,3 +15,24 @@ Icon?
 # Re-add via Git LFS if these need to be version controlled.
 department-of-war/release-01/38-143685-box7-incident-summaries-173-233.pdf
 department-of-war/release-01/65-hs1-834228961-62-hq-83894-section-8.pdf
+
+# Local secrets / config (OpenAI API key for inbox routing).
+.env.local
+.env
+
+# Python virtualenv (created via `python3 -m venv .venv`; see requirements.txt).
+.venv/
+__pycache__/
+*.pyc
+
+# OCR scratch space (workspace-local TMPDIR for ocrmypdf/tesseract child processes).
+.ocr-tmp/
+
+# Inbox intake holds source PDFs (immutable originals, not version-controlled,
+# same policy as the collection source PDFs). Processed Markdown is committed.
+inbox/*.pdf
+
+# Generated OCR artifacts. Track the research + audit layers (markdown, text,
+# manifests, QC reports); do not track the generated searchable PDFs or per-file logs.
+**/ocr/**/searchable-pdf/
+**/ocr/**/logs/
