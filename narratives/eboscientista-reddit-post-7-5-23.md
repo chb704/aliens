@@ -2,8 +2,8 @@
 title: "Reddit post about alleged EBO research at Fort Detrick"
 collection: "narratives"
 release: null
-source_pdf: "inbox/EBOscientistA Reddit Post 7-5-23.pdf"
-ocr_pdf: "narratives/ocr/searchable-pdf/eboscientista-reddit-post-7-5-23.pdf"
+source_pdf: "processing/narratives/originals/EBOscientistA Reddit Post 7-5-23.pdf"
+ocr_pdf: "processing/narratives/searchable-pdf/eboscientista-reddit-post-7-5-23.pdf"
 source_sha256: "9100897d28651e81ce6749ebcca0c958d66154e17c7e8e92c5a450f58e7cadea"
 ocr_sha256: "5aea8e2155342e326d8a10b8ae40764b3574561fff29a8d8163986d000e5891e"
 pages: 10

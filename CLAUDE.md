@@ -17,14 +17,28 @@ When transcribing, summarizing, or writing about this material:
 
 ## Repository structure
 
+The clean per-collection folders hold **only Markdown** (the research layer);
+everything else — source PDFs, searchable OCR PDFs, extracted text, logs, manifests,
+and QC reports — lives under `processing/`.
+
 ```
-department-of-war/      Primary corpus — official UAP document releases
-  release-01/           116 PDFs (~4,149 pages)
-  release-02/           6 PDFs (~128 pages)
-majestic-12/            MJ-12 document collection (~76 PDFs) + photos/
+department-of-war/      Primary corpus — Markdown only
+  release-01/           116 documents (~4,149 pages)
+  release-02/           6 documents (~128 pages)
+majestic-12/            MJ-12 collection — Markdown only (~76 documents)
 narratives/             Authored / narrative accounts (not government documents)
+processing/             Audit layer + immutable source PDFs
+  <collection>/<release>/
+    originals/          source PDFs            (untracked)
+    searchable-pdf/     OCR PDFs               (untracked)
+    logs/               per-file OCR logs      (untracked)
+    text/  qc/  manifest.csv                   (tracked)
+  majestic-12/photos/   18 reference images    (tracked)
+  routing-log.csv       inbox routing decisions (tracked)
+inbox/                  intake dropbox for new PDFs (gitignored)
 docs/
-  planning/             Project plans (see ufo-document-ocr-plan.md)
+  planning/             Project plans (ufo-document-ocr-plan.md,
+                        repository-reorganization-plan.md)
 ```
 
 **Naming convention:** all files and folders are **kebab-case** (lowercase, hyphen-separated). Exceptions: `README.md` and `CLAUDE.md` keep their conventional names. Keep new additions kebab-case.
@@ -34,15 +48,14 @@ docs/
 The conversion plan lives in **`docs/planning/ufo-document-ocr-plan.md`**. Key principles:
 
 - **Two layers:** an *audit layer* (searchable OCR PDFs + raw extracted text) and a *research layer* (Markdown). Markdown is the usable corpus; the text/PDF artifacts make reruns and manual QC possible.
-- **Originals are immutable.** Never modify or overwrite source PDFs. Generated output goes in dedicated `OCR/` subfolders, kept out of the source release folders.
+- **Originals are immutable.** Never modify or overwrite source PDFs. The clean `department-of-war/`, `majestic-12/`, and `narratives/` folders hold **only Markdown**; all generated artifacts and the source PDFs live under `processing/` (see `docs/planning/repository-reorganization-plan.md`).
 - Toolchain: `tesseract`, Poppler (`pdfinfo`/`pdftotext`), and `ocrmypdf` (`brew install ocrmypdf`).
 
 ## Git policy
 
-- **Track:** Markdown, manifests, and QC reports — the research layer.
-- **Do not track:** source PDFs, generated OCR PDFs, and other large binaries. The two files exceeding GitHub's 100 MB hard limit are listed explicitly in `.gitignore`; iCloud / local disk is the store of record for the heavy PDFs.
+- **Track:** Markdown (in the clean doc folders), plus the audit layer under `processing/` — `text/`, `manifest.csv`, `qc/report.md`, `majestic-12/photos/`, and `routing-log.csv`.
+- **Do not track:** source PDFs (`processing/**/originals/`), generated OCR PDFs (`processing/**/searchable-pdf/`), per-file `logs/`, and `inbox/*.pdf`. iCloud / local disk is the store of record for the heavy PDFs; the two files over GitHub's 100 MB hard limit are also called out explicitly in `.gitignore`.
 - `.DS_Store` and macOS junk are gitignored.
-- Several source PDFs are 50–69 MB — above GitHub's 50 MB *recommendation* but under the 100 MB hard limit, so they push fine (with an advisory warning only).
 
 ## Notes
 

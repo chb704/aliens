@@ -12,9 +12,10 @@ Icon?
 .VolumeIcon.icns
 
 # Files exceeding GitHub's 100 MB hard limit (kept on disk, excluded from git).
-# Re-add via Git LFS if these need to be version controlled.
-department-of-war/originals/release-01/38-143685-box7-incident-summaries-173-233.pdf
-department-of-war/originals/release-01/65-hs1-834228961-62-hq-83894-section-8.pdf
+# Re-add via Git LFS if these need to be version controlled. (Also covered by the
+# processing/**/originals/ rule below, but kept explicit as a hard-limit reminder.)
+processing/department-of-war/release-01/originals/38-143685-box7-incident-summaries-173-233.pdf
+processing/department-of-war/release-01/originals/65-hs1-834228961-62-hq-83894-section-8.pdf
 
 # Local secrets / config (OpenAI API key for inbox routing).
 .env.local
@@ -32,8 +33,9 @@ __pycache__/
 # same policy as the collection source PDFs). Processed Markdown is committed.
 inbox/*.pdf
 
-# Generated OCR artifacts. Track the research + audit layers (markdown, text,
-# manifests, QC reports); never the regenerable binaries (searchable PDFs, per-file
-# logs), at any layout depth.
-**/searchable-pdf/
-**/logs/
+# Processing tree. Track the research + audit layers (markdown now lives in the clean
+# doc folders; text/, manifest.csv, qc/, photos/, routing-log.csv stay tracked here);
+# never the immutable source PDFs or the regenerable binaries.
+processing/**/originals/
+processing/**/searchable-pdf/
+processing/**/logs/

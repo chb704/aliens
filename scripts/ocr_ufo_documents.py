@@ -8,7 +8,8 @@ Two layers are produced:
   * research layer - one Markdown file per source PDF (markdown/), with front matter
                      and explicit page boundaries.
 
-Originals are never modified. All generated output lives under dedicated ocr/ trees.
+Originals are never modified. Audit-layer artifacts live under the processing/ tree;
+the research layer (Markdown) lands in the clean per-collection doc folders.
 
 Idempotency: a file is reprocessed only when its source SHA-256, the resolved tool
 versions, or the OCR options change (or --force is given). Those three values are
@@ -101,7 +102,8 @@ REPLACEMENT_CHAR = "�"
 # computed by the script, never by the model.
 INBOX_DIR = REPO_ROOT / "inbox"
 ENV_FILE = REPO_ROOT / ".env.local"
-ROUTING_LOG = INBOX_DIR / "routing-log.csv"
+# Routing decisions live with the rest of the audit layer under processing/.
+ROUTING_LOG = REPO_ROOT / "processing" / "routing-log.csv"
 
 # Collections a document can be routed to.
 ROUTING_COLLECTIONS = ["narratives", "department-of-war", "majestic-12"]
@@ -169,21 +171,27 @@ notable named entities. "tags" are a few short topical keywords. \
 Set "needs_review" to true if classification or content is ambiguous. \
 "routing_rationale" briefly explains the collection choice."""
 
-# Job definitions: (collection, release, source_dir, out_base, recursive)
-# release is None for majestic-12. majestic-12/photos is intentionally excluded
-# (image reference assets, not part of the baseline PDF OCR pass).
+# Job definitions per (collection, release):
+#   source_dir   - immutable source PDFs, under processing/<...>/originals/
+#   out_base     - audit-layer artifacts (searchable-pdf/, text/, logs/, manifest, qc)
+#   markdown_dir - research layer; the clean doc folder that holds ONLY Markdown
+# release is None for majestic-12. The originals dirs may also hold reference images
+# (e.g. NASA/FBI photos); list_pdfs() globs *.pdf only, so those are ignored here.
 JOBS = {
     ("department-of-war", "release-01"): dict(
-        source_dir=REPO_ROOT / "department-of-war" / "release-01",
-        out_base=REPO_ROOT / "department-of-war" / "ocr" / "release-01",
+        source_dir=REPO_ROOT / "processing" / "department-of-war" / "release-01" / "originals",
+        out_base=REPO_ROOT / "processing" / "department-of-war" / "release-01",
+        markdown_dir=REPO_ROOT / "department-of-war" / "release-01",
     ),
     ("department-of-war", "release-02"): dict(
-        source_dir=REPO_ROOT / "department-of-war" / "release-02",
-        out_base=REPO_ROOT / "department-of-war" / "ocr" / "release-02",
+        source_dir=REPO_ROOT / "processing" / "department-of-war" / "release-02" / "originals",
+        out_base=REPO_ROOT / "processing" / "department-of-war" / "release-02",
+        markdown_dir=REPO_ROOT / "department-of-war" / "release-02",
     ),
     ("majestic-12", None): dict(
-        source_dir=REPO_ROOT / "majestic-12",
-        out_base=REPO_ROOT / "majestic-12" / "ocr",
+        source_dir=REPO_ROOT / "processing" / "majestic-12" / "originals",
+        out_base=REPO_ROOT / "processing" / "majestic-12",
+        markdown_dir=REPO_ROOT / "majestic-12",
     ),
 }
 
@@ -457,6 +465,7 @@ def process_pdf(
     collection: str,
     release: str | None,
     out_base: Path,
+    markdown_dir: Path,
     ocr_options: list[str],
     tool_versions: str,
     log_lines: list[str],
@@ -485,7 +494,7 @@ def process_pdf(
 
     searchable_dir = out_base / "searchable-pdf"
     text_dir = out_base / "text"
-    md_dir = out_base / "markdown"
+    md_dir = markdown_dir
     ocr_pdf = searchable_dir / f"{stem}.pdf"
     text_file = text_dir / f"{stem}.txt"
     md_file = md_dir / f"{stem}.md"
@@ -703,7 +712,8 @@ def write_qc_report(path: Path, results: list[Result], total_seconds: float,
 
 
 def list_pdfs(source_dir: Path) -> list[Path]:
-    # Non-recursive: root-level PDFs only (excludes majestic-12/photos and ocr/).
+    # Non-recursive: PDFs directly in the originals dir (reference images and any
+    # nested dirs are ignored by the *.pdf glob).
     return sorted(p for p in source_dir.glob("*.pdf") if p.is_file())
 
 
@@ -712,6 +722,7 @@ def run_job(collection: str, release: str | None, *, limit: int | None,
     cfg = JOBS[(collection, release)]
     source_dir: Path = cfg["source_dir"]
     out_base: Path = cfg["out_base"]
+    markdown_dir: Path = cfg["markdown_dir"]
     options_str = " ".join(ocr_options)
 
     label = collection if release is None else f"{collection}/{release}"
@@ -719,8 +730,9 @@ def run_job(collection: str, release: str | None, *, limit: int | None,
         print(f"[{label}] source dir missing: {source_dir}", file=sys.stderr)
         return []
 
-    for sub in ("searchable-pdf", "text", "markdown", "logs", "qc"):
+    for sub in ("searchable-pdf", "text", "logs", "qc"):
         (out_base / sub).mkdir(parents=True, exist_ok=True)
+    markdown_dir.mkdir(parents=True, exist_ok=True)
 
     pdfs = list_pdfs(source_dir)
     if limit is not None:
@@ -768,7 +780,8 @@ def run_job(collection: str, release: str | None, *, limit: int | None,
         log_lines: list[str] = [f"=== {src_rel} ==="]
         r = process_pdf(
             src, collection=collection, release=release, out_base=out_base,
-            ocr_options=ocr_options, tool_versions=tool_versions, log_lines=log_lines,
+            markdown_dir=markdown_dir, ocr_options=ocr_options,
+            tool_versions=tool_versions, log_lines=log_lines,
         )
         (out_base / "logs" / f"{src.stem}.log").write_text(
             "\n".join(s for s in log_lines if s is not None), encoding="utf-8"
@@ -856,29 +869,34 @@ def classify_document(client, model: str, filename: str, sample_text: str) -> di
 
 
 def inbox_dest(collection: str, slug: str) -> dict:
-    """Output paths for a routed document. narratives gets flat Markdown at its
-    root (matching the existing authored narratives); other collections receive an
-    `ocr/inbox/` bucket so intake stays separate from the bulk-release manifests."""
+    """Output paths for a routed document. Markdown always lands in the clean
+    per-collection doc folder (research layer); audit artifacts live under
+    processing/. narratives has no bulk job, so it shares the single
+    processing/narratives manifest; the bulk collections keep intake in a separate
+    processing/<collection>/inbox bucket so it never collides with their release
+    manifests. department-of-war uses release subfolders, so its inbox Markdown lands
+    in department-of-war/inbox/; majestic-12 Markdown is flat at the collection root."""
     if collection == "narratives":
-        base = REPO_ROOT / "narratives"
-        ocr = base / "ocr"
+        proc = REPO_ROOT / "processing" / "narratives"
         return {
-            "markdown": base / f"{slug}.md",
-            "searchable_pdf": ocr / "searchable-pdf" / f"{slug}.pdf",
-            "text": ocr / "text" / f"{slug}.txt",
-            "log": ocr / "logs" / f"{slug}.log",
-            "manifest": ocr / "manifest.csv",
-            "qc": ocr / "qc" / "report.md",
+            "markdown": REPO_ROOT / "narratives" / f"{slug}.md",
+            "searchable_pdf": proc / "searchable-pdf" / f"{slug}.pdf",
+            "text": proc / "text" / f"{slug}.txt",
+            "log": proc / "logs" / f"{slug}.log",
+            "manifest": proc / "manifest.csv",
+            "qc": proc / "qc" / "report.md",
             "release": None,
         }
-    base = REPO_ROOT / collection / "ocr" / "inbox"
+    proc = REPO_ROOT / "processing" / collection / "inbox"
+    md_dir = (REPO_ROOT / "department-of-war" / "inbox"
+              if collection == "department-of-war" else REPO_ROOT / collection)
     return {
-        "markdown": base / "markdown" / f"{slug}.md",
-        "searchable_pdf": base / "searchable-pdf" / f"{slug}.pdf",
-        "text": base / "text" / f"{slug}.txt",
-        "log": base / "logs" / f"{slug}.log",
-        "manifest": base / "manifest.csv",
-        "qc": base / "qc" / "report.md",
+        "markdown": md_dir / f"{slug}.md",
+        "searchable_pdf": proc / "searchable-pdf" / f"{slug}.pdf",
+        "text": proc / "text" / f"{slug}.txt",
+        "log": proc / "logs" / f"{slug}.log",
+        "manifest": proc / "manifest.csv",
+        "qc": proc / "qc" / "report.md",
         "release": "inbox",
     }
 

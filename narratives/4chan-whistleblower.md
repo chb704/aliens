@@ -2,8 +2,8 @@
 title: "4chan UFO Knowledge Whistleblower Thread"
 collection: "narratives"
 release: null
-source_pdf: "inbox/4chan Whistleblower.pdf"
-ocr_pdf: "narratives/ocr/searchable-pdf/4chan-whistleblower.pdf"
+source_pdf: "processing/narratives/originals/4chan Whistleblower.pdf"
+ocr_pdf: "processing/narratives/searchable-pdf/4chan-whistleblower.pdf"
 source_sha256: "714e3ed07cf58a519fa399c75ba299977206a289aecd715b28045496b023f221"
 ocr_sha256: "bbd981d87f153ed5c7f17bdce9928fbe0732bc14bf172bdac722a5f039fc196c"
 pages: 133

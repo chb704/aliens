@@ -1,5 +1,11 @@
 # Repository Reorganization Plan
 
+> **Status: executed (2026-06-01).** Doc folders now hold only Markdown; all
+> artifacts and originals live under `processing/`. Originals were untracked
+> (`git rm --cached`) per the tracking policy below. Script, `.gitignore`, and all
+> Markdown/manifest front-matter paths were updated; the full corpus re-runs as an
+> all-skip no-op.
+
 ## Goal
 
 Keep the **main document folders clean** — `department-of-war/`, `majestic-12/`, and
