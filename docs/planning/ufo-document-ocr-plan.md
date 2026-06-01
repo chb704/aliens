@@ -1,18 +1,19 @@
-# Department of War Bulk OCR to Markdown Plan
+# UFO Document Bulk OCR to Markdown Plan
 
 ## Goal
 
-Convert the Department of War UFO release PDFs into searchable, auditable Markdown while preserving the original PDFs untouched.
+Convert the Department of War and Majestic-12 UFO document PDFs into searchable, auditable Markdown while preserving the original PDFs untouched.
 
 Interpretation note: "ORC" is treated as "OCR" here, based on the prior request.
 
 ## Current Corpus
 
-- Source folder: `Department of War`
-- Releases: `Release_01`, `Release_02`
-- Release 01: 116 PDFs, 4,149 pages
-- Release 02: 6 PDFs, 128 pages
-- Total: 122 PDFs, 4,277 pages
+- Source folders: `Department of War`, `Majestic-12`
+- Department of War `Release_01`: 116 PDFs, 4,149 pages
+- Department of War `Release_02`: 6 PDFs, 128 pages
+- Majestic-12 PDFs: 76 PDFs, 304 pages
+- Majestic-12 photos: 18 image files, kept as reference assets and excluded from the baseline PDF OCR pass
+- Total PDF OCR target: 198 PDFs, 4,581 pages
 
 Local prerequisite check:
 
@@ -52,6 +53,15 @@ Department of War/
       logs/
       qc/
       manifest.csv
+
+Majestic-12/
+  OCR/
+    searchable_pdf/
+    text/
+    markdown/
+    logs/
+    qc/
+    manifest.csv
 ```
 
 Recommended Git policy:
@@ -97,6 +107,7 @@ Each source PDF should produce one Markdown file with front matter and explicit 
 ```markdown
 ---
 title: "Original PDF stem"
+collection: "Department of War"
 release: "Release_01"
 source_pdf: "Department of War/Release_01/example.pdf"
 ocr_pdf: "Department of War/OCR/Release_01/searchable_pdf/example.pdf"
@@ -119,12 +130,15 @@ OCR text...
 OCR text...
 ```
 
+For Majestic-12 documents, use `collection: "Majestic-12"` and `release: null`.
+
 Use form-feed page separators from `pdftotext` to split pages. Keep page numbers stable even when a page is blank.
 
 ## Metadata Manifest
 
-Generate one `manifest.csv` per release with:
+Generate one `manifest.csv` per release or collection with:
 
+- `collection`
 - `release`
 - `source_pdf`
 - `source_sha256`
@@ -160,6 +174,7 @@ Produce:
 ```text
 Department of War/OCR/Release_01/qc/report.md
 Department of War/OCR/Release_02/qc/report.md
+Majestic-12/OCR/qc/report.md
 ```
 
 Each report should list:
@@ -174,13 +189,15 @@ Each report should list:
 
 ## Pilot Run
 
-Before processing all 4,277 pages, run a 10 to 15 document pilot:
+Before processing all 4,581 pages, run a 15 to 20 document pilot across both collections:
 
 - A few short modern mission reports from `DOW-UAP-*`
 - A few long FBI files, especially `65_HS1-*`
 - One or two NASA transcript files
 - One image-heavy or sketch/photo PDF
 - The longest Release 02 file: `DOW-UAP-D017_General_Correspondence_Of_Sandia.pdf`
+- A few short Majestic-12 PDFs with clean type, for example `truman_forrestal.pdf` or `fdr.pdf`
+- A few noisy or image-heavy Majestic-12 PDFs, for example `burnedmemo-s1-pgs1-2.pdf`, `som101_part1.pdf`, or `twining_whitehotreport.pdf`
 
 Review:
 
@@ -194,9 +211,9 @@ If `--clean` damages visible content, rerun without it. Do not use `--clean-fina
 
 ## Implementation Plan
 
-1. Add `scripts/ocr_department_of_war.py`.
+1. Add `scripts/ocr_ufo_documents.py`.
 2. Add a small config section at the top of the script for source and output directories.
-3. Walk `Department of War/Release_01` and `Department of War/Release_02`.
+3. Walk `Department of War/Release_01`, `Department of War/Release_02`, and root-level PDFs in `Majestic-12`.
 4. Compute source SHA256 and page counts.
 5. Skip completed files when manifest data still matches.
 6. Run OCRmyPDF into `searchable_pdf`.
@@ -208,11 +225,13 @@ If `--clean` damages visible content, rerun without it. Do not use `--clean-fina
 The script should support:
 
 ```bash
-python3 scripts/ocr_department_of_war.py --release Release_01 --limit 10
-python3 scripts/ocr_department_of_war.py --release Release_01
-python3 scripts/ocr_department_of_war.py --release Release_02
-python3 scripts/ocr_department_of_war.py --all
-python3 scripts/ocr_department_of_war.py --all --force
+python3 scripts/ocr_ufo_documents.py --collection department-of-war --release Release_01 --limit 10
+python3 scripts/ocr_ufo_documents.py --collection department-of-war --release Release_01
+python3 scripts/ocr_ufo_documents.py --collection department-of-war --release Release_02
+python3 scripts/ocr_ufo_documents.py --collection majestic-12 --limit 10
+python3 scripts/ocr_ufo_documents.py --collection majestic-12
+python3 scripts/ocr_ufo_documents.py --all
+python3 scripts/ocr_ufo_documents.py --all --force
 ```
 
 ## Cleanup Rules
@@ -239,7 +258,7 @@ The baseline pipeline is more deterministic and easier to audit. Docling can pro
 
 ## Done Criteria
 
-- All 122 PDFs have manifest entries.
+- All 198 PDFs have manifest entries.
 - All readable PDFs have Markdown outputs.
 - Failed PDFs are listed with errors.
 - Review-needed PDFs are listed with concrete reasons.
