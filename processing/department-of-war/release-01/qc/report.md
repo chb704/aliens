@@ -4,7 +4,7 @@
 - Completed this run: **0**
 - Skipped (already current): **116**
 - Failed: **0**
-- Needs review: **28**
+- Needs review: **26**
 - Total pages processed: **4149**
 - Total runtime: **0.6s**
 
@@ -15,8 +15,6 @@ _None._
 ## Review-needed files
 
 - `processing/department-of-war/release-01/originals/2024-04-30-composite-sketch.pdf` — see manifest
-- `processing/department-of-war/release-01/originals/341-110677-numerical-file-5-2500.pdf` — see manifest
-- `processing/department-of-war/release-01/originals/65-hs1-834228961-62-hq-83894-serial-153.pdf` — see manifest
 - `processing/department-of-war/release-01/originals/dow-uap-d6-mission-report-arabian-gulf-2020.pdf` — see manifest
 - `processing/department-of-war/release-01/originals/dow-uap-d8-mission-report-djibouti-2025.pdf` — see manifest
 - `processing/department-of-war/release-01/originals/fbi-photo-b1.pdf` — see manifest
