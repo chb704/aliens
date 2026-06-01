@@ -1,0 +1,27 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "workbench.panel.defaultLocation": "right",
+    "workbench.panel.opensMaximized": "never",
+    "explorer.autoReveal": true,
+    "explorer.expandSingleFolderWorkspaces": true,
+    "terminal.integrated.profiles.osx": {
+      "zsh": {
+        "path": "/bin/zsh",
+        "args": ["-l"]
+      }
+    },
+    "workbench.panel.lastNonMaximizedWidth": 400,
+    "workbench.sideBar.location": "left",
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+    "git.ignoreLimitWarning": true
+  },
+  "extensions": {
+    "recommendations": []
+  }
+}

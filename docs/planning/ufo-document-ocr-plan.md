@@ -6,13 +6,17 @@ Convert the Department of War and Majestic-12 UFO document PDFs into searchable,
 
 Interpretation note: "ORC" is treated as "OCR" here, based on the prior request.
 
+## Naming Convention
+
+All files and folders in this repo use **kebab-case** (lowercase, hyphen-separated). The paths below reflect that. Note that data-schema identifiers — YAML front-matter keys, manifest CSV column names, and shell variables (`source_pdf`, `ocr_pdf`, `text_file`, …) — intentionally stay snake_case, since those are field/variable names, not file paths.
+
 ## Current Corpus
 
-- Source folders: `Department of War`, `Majestic-12`
-- Department of War `Release_01`: 116 PDFs, 4,149 pages
-- Department of War `Release_02`: 6 PDFs, 128 pages
-- Majestic-12 PDFs: 76 PDFs, 304 pages
-- Majestic-12 photos: 18 image files, kept as reference assets and excluded from the baseline PDF OCR pass
+- Source folders: `department-of-war`, `majestic-12`
+- `department-of-war/release-01`: 116 PDFs, 4,149 pages
+- `department-of-war/release-02`: 6 PDFs, 128 pages
+- `majestic-12` PDFs: 76 PDFs, 304 pages
+- `majestic-12/photos`: 18 image files, kept as reference assets and excluded from the baseline PDF OCR pass
 - Total PDF OCR target: 198 PDFs, 4,581 pages
 
 Local prerequisite check:
@@ -35,28 +39,28 @@ Do not OCR directly into Markdown as the only output. Markdown is the usable res
 Keep generated content out of the source release folders:
 
 ```text
-Department of War/
-  Release_01/
-  Release_02/
-  OCR/
-    Release_01/
-      searchable_pdf/
+department-of-war/
+  release-01/
+  release-02/
+  ocr/
+    release-01/
+      searchable-pdf/
       text/
       markdown/
       logs/
       qc/
       manifest.csv
-    Release_02/
-      searchable_pdf/
+    release-02/
+      searchable-pdf/
       text/
       markdown/
       logs/
       qc/
       manifest.csv
 
-Majestic-12/
-  OCR/
-    searchable_pdf/
+majestic-12/
+  ocr/
+    searchable-pdf/
     text/
     markdown/
     logs/
@@ -107,10 +111,10 @@ Each source PDF should produce one Markdown file with front matter and explicit 
 ```markdown
 ---
 title: "Original PDF stem"
-collection: "Department of War"
-release: "Release_01"
-source_pdf: "Department of War/Release_01/example.pdf"
-ocr_pdf: "Department of War/OCR/Release_01/searchable_pdf/example.pdf"
+collection: "department-of-war"
+release: "release-01"
+source_pdf: "department-of-war/release-01/example.pdf"
+ocr_pdf: "department-of-war/ocr/release-01/searchable-pdf/example.pdf"
 source_sha256: "..."
 ocr_sha256: "..."
 pages: 12
@@ -130,7 +134,7 @@ OCR text...
 OCR text...
 ```
 
-For Majestic-12 documents, use `collection: "Majestic-12"` and `release: null`.
+For `majestic-12` documents, use `collection: "majestic-12"` and `release: null`.
 
 Use form-feed page separators from `pdftotext` to split pages. Keep page numbers stable even when a page is blank.
 
@@ -172,9 +176,9 @@ Flag files for review when:
 Produce:
 
 ```text
-Department of War/OCR/Release_01/qc/report.md
-Department of War/OCR/Release_02/qc/report.md
-Majestic-12/OCR/qc/report.md
+department-of-war/ocr/release-01/qc/report.md
+department-of-war/ocr/release-02/qc/report.md
+majestic-12/ocr/qc/report.md
 ```
 
 Each report should list:
@@ -191,13 +195,13 @@ Each report should list:
 
 Before processing all 4,581 pages, run a 15 to 20 document pilot across both collections:
 
-- A few short modern mission reports from `DOW-UAP-*`
-- A few long FBI files, especially `65_HS1-*`
+- A few short modern mission reports from `dow-uap-*`
+- A few long FBI files, especially `65-hs1-*`
 - One or two NASA transcript files
 - One image-heavy or sketch/photo PDF
-- The longest Release 02 file: `DOW-UAP-D017_General_Correspondence_Of_Sandia.pdf`
-- A few short Majestic-12 PDFs with clean type, for example `truman_forrestal.pdf` or `fdr.pdf`
-- A few noisy or image-heavy Majestic-12 PDFs, for example `burnedmemo-s1-pgs1-2.pdf`, `som101_part1.pdf`, or `twining_whitehotreport.pdf`
+- The longest release-02 file: `dow-uap-d017-general-correspondence-of-sandia.pdf`
+- A few short `majestic-12` PDFs with clean type, for example `truman-forrestal.pdf` or `fdr.pdf`
+- A few noisy or image-heavy `majestic-12` PDFs, for example `burnedmemo-s1-pgs1-2.pdf`, `som101-part1.pdf`, or `twining-whitehotreport.pdf`
 
 Review:
 
@@ -213,10 +217,10 @@ If `--clean` damages visible content, rerun without it. Do not use `--clean-fina
 
 1. Add `scripts/ocr_ufo_documents.py`.
 2. Add a small config section at the top of the script for source and output directories.
-3. Walk `Department of War/Release_01`, `Department of War/Release_02`, and root-level PDFs in `Majestic-12`.
+3. Walk `department-of-war/release-01`, `department-of-war/release-02`, and root-level PDFs in `majestic-12`.
 4. Compute source SHA256 and page counts.
 5. Skip completed files when manifest data still matches.
-6. Run OCRmyPDF into `searchable_pdf`.
+6. Run OCRmyPDF into `searchable-pdf`.
 7. Extract complete text with `pdftotext -layout`.
 8. Convert text to Markdown with page boundaries and front matter.
 9. Write per-file logs.
@@ -225,9 +229,9 @@ If `--clean` damages visible content, rerun without it. Do not use `--clean-fina
 The script should support:
 
 ```bash
-python3 scripts/ocr_ufo_documents.py --collection department-of-war --release Release_01 --limit 10
-python3 scripts/ocr_ufo_documents.py --collection department-of-war --release Release_01
-python3 scripts/ocr_ufo_documents.py --collection department-of-war --release Release_02
+python3 scripts/ocr_ufo_documents.py --collection department-of-war --release release-01 --limit 10
+python3 scripts/ocr_ufo_documents.py --collection department-of-war --release release-01
+python3 scripts/ocr_ufo_documents.py --collection department-of-war --release release-02
 python3 scripts/ocr_ufo_documents.py --collection majestic-12 --limit 10
 python3 scripts/ocr_ufo_documents.py --collection majestic-12
 python3 scripts/ocr_ufo_documents.py --all
